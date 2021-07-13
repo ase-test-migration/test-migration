@@ -1,0 +1,23 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "bbc-bookmark",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "Vaccine",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "bbc.mobile.news.ww:id/articleItemList",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Navigate up",
+                "event": "click"
+            }
+        ]
+    }
+}

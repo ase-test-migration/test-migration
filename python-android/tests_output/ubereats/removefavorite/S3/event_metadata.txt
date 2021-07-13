@@ -1,0 +1,4 @@
+pathToElementImageCrop: removefavorite/S3/pngs/948_96_1056_204.png;
+coords: {'x1': 948, 'y1': 96, 'x2': 1056, 'y2': 204};
+text_identifier: { "content-desc" : "Remove from favorites" , "resource-id" : "com.ubercab.eats:id/ub__storefront_favorite_restaurant" };
+event: click;

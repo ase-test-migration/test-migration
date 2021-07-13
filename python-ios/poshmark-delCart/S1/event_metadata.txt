@@ -1,0 +1,6 @@
+pathToElementImageCrop: ;
+coords: ;
+text_identifier: Bundle empty. Add items and save!;
+event: oracle;
+oracle-type: text_exists;
+input: Bundle empty. Add items and save!;

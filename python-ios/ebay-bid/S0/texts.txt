@@ -1,0 +1,35 @@
+{"name" : "eBay", "label" : "eBay", "screenshotPath" : "ebay-bid/S0/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "Tab Bar", "label" : "Tab Bar", "screenshotPath" : "ebay-bid/S0/pngs/0.0_1236.0_750.0_1334.0.png"}
+{"value" : "1", "name" : "tab_home", "label" : "Home", "screenshotPath" : "ebay-bid/S0/pngs/4.0_1238.0_146.0_1334.0.png"}
+{"name" : "tab_my_ebay", "label" : "My eBay", "screenshotPath" : "ebay-bid/S0/pngs/154.0_1238.0_296.0_1334.0.png"}
+{"name" : "tab_search", "label" : "Search", "screenshotPath" : "ebay-bid/S0/pngs/304.0_1238.0_446.0_1334.0.png"}
+{"name" : "tab_notifications", "label" : "Notifications", "screenshotPath" : "ebay-bid/S0/pngs/453.99999999999994_1238.0_596.0_1334.0.png"}
+{"name" : "tab_selling", "label" : "Selling", "screenshotPath" : "ebay-bid/S0/pngs/604.0_1238.0_746.0_1334.0.png"}
+{"name" : "Home", "screenshotPath" : "ebay-bid/S0/pngs/0.0_40.0_750.0_128.0.png"}
+{"name" : "button_navigation_icon", "label" : "Back", "screenshotPath" : "ebay-bid/S0/pngs/0.0_40.0_88.0_128.0.png"}
+{"name" : "imageview_ebay_logo", "label" : "eBay", "screenshotPath" : "ebay-bid/S0/pngs/306.0_56.0_444.0_112.0.png"}
+{"name" : "button_Cart", "label" : "Cart, 1 Item", "screenshotPath" : "ebay-bid/S0/pngs/640.0_40.0_750.0_128.0.png"}
+{"value" : "1", "name" : "textview_cart_items_count", "label" : "1", "screenshotPath" : "ebay-bid/S0/pngs/712.0_50.0_724.0_80.0.png"}
+{"value" : "0%", "name" : "Vertical scroll bar, 9 pages", "label" : "Vertical scroll bar, 9 pages", "screenshotPath" : "ebay-bid/S0/pngs/684.0_260.0_744.0_1236.0.png"}
+{"value" : "0%", "name" : "Horizontal scroll bar, 1 page", "label" : "Horizontal scroll bar, 1 page", "screenshotPath" : "ebay-bid/S0/pngs/0.0_1170.0_750.0_1230.0.png"}
+{"name" : "button_box_search", "label" : "Search for anything", "screenshotPath" : "ebay-bid/S0/pngs/32.0_156.0_718.0_228.0.png"}
+{"name" : "button_camera", "label" : "Camera", "screenshotPath" : "ebay-bid/S0/pngs/630.0_156.0_718.0_228.0.png"}
+{"value" : "Search for anything", "name" : "Search for anything", "label" : "Search for anything", "screenshotPath" : "ebay-bid/S0/pngs/92.0_172.00000000000003_402.0_212.00000000000003.png"}
+{"name" : "Your Recently Viewed Items - Carousel", "label" : "Your Recently Viewed Items - Carousel", "screenshotPath" : "ebay-bid/S0/pngs/32.0_748.0_718.0_788.0.png"}
+{"name" : "textview_promotion_headline", "label" : "Take the eBay Motors app for a spinQuickly list or find your dream car.Learn more", "screenshotPath" : "ebay-bid/S0/pngs/64.0_431.99999999999994_648.0_527.9999999999999.png"}
+{"value" : "Quickly list or find your dream car.", "name" : "textview_promotion_subHeadline", "label" : "Quickly list or find your dream car.", "screenshotPath" : "ebay-bid/S0/pngs/64.0_528.0_506.00000000000006_562.0.png"}
+{"name" : "container_items", "screenshotPath" : "ebay-bid/S0/pngs/0.0_818.0_750.0_1326.0.png"}
+{"name" : "button_saved", "label" : "Saved", "screenshotPath" : "ebay-bid/S0/pngs/32.0_280.0_247.99999999999997_352.0.png"}
+{"name" : "button_categories", "label" : "Categories", "screenshotPath" : "ebay-bid/S0/pngs/264.0_280.0_536.0_352.0.png"}
+{"name" : "button_deals", "label" : "Deals", "screenshotPath" : "ebay-bid/S0/pngs/552.0_280.0_748.0_352.0.png"}
+{"value" : "0%", "name" : "Vertical scroll bar, 2 pages", "label" : "Vertical scroll bar, 2 pages", "screenshotPath" : "ebay-bid/S0/pngs/684.0_260.0_744.0_400.0.png"}
+{"value" : "Take the eBay Motors app for a spin", "name" : "Take the eBay Motors app for a spin", "label" : "Take the eBay Motors app for a spin", "screenshotPath" : "ebay-bid/S0/pngs/64.0_431.99999999999994_648.0_527.9999999999999.png"}
+{"value" : "Saved", "name" : "Saved", "label" : "Saved", "screenshotPath" : "ebay-bid/S0/pngs/130.0_298.0_214.0_334.0.png"}
+{"value" : "Categories", "name" : "Categories", "label" : "Categories", "screenshotPath" : "ebay-bid/S0/pngs/354.0_298.0_502.0_334.0.png"}
+{"value" : "Deals", "name" : "Deals", "label" : "Deals", "screenshotPath" : "ebay-bid/S0/pngs/638.0_298.0_714.0_334.0.png"}
+{"name" : "cell_item", "label" : "Original Xiaomi Mijia Thermometer Temperature Humidity Sensor with LCD Screen , $24.99", "screenshotPath" : "ebay-bid/S0/pngs/24.0_818.0_338.0_1310.0.png"}
+{"name" : "cell_item", "label" : "NUDATA EIA Interface Tester Model 9212, $22.00", "screenshotPath" : "ebay-bid/S0/pngs/338.0_818.0_652.0_1276.0.png"}
+{"name" : "cell_item", "label" : "ELEMENTS | EUROPA EL-272 C1 Eyeglasses Frame 52-15-140 Pink Crystal/Silver  NT76, $39.20", "screenshotPath" : "ebay-bid/S0/pngs/652.0_818.0_966.0_1310.0.png"}
+{"name" : "Original Xiaomi Mijia Thermometer Temperature Humidity Sensor with LCD Screen , $24.99", "label" : "Original Xiaomi Mijia Thermometer Temperature Humidity Sensor with LCD Screen , $24.99", "screenshotPath" : "ebay-bid/S0/pngs/24.0_818.0_338.0_1310.0.png"}
+{"name" : "NUDATA EIA Interface Tester Model 9212, $22.00", "label" : "NUDATA EIA Interface Tester Model 9212, $22.00", "screenshotPath" : "ebay-bid/S0/pngs/338.0_818.0_652.0_1276.0.png"}
+{"name" : "ELEMENTS | EUROPA EL-272 C1 Eyeglasses Frame 52-15-140 Pink Crystal/Silver  NT76, $39.20", "label" : "ELEMENTS | EUROPA EL-272 C1 Eyeglasses Frame 52-15-140 Pink Crystal/Silver  NT76, $39.20", "screenshotPath" : "ebay-bid/S0/pngs/652.0_818.0_966.0_1310.0.png"}

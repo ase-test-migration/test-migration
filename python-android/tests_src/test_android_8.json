@@ -1,0 +1,18 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "R3CN30038ME"
+    },
+    "tests" : [
+        {
+            "name" : "testTV",
+            "events": [
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "Watch TV",
+                    "event" : "click" 
+                }
+            ]
+        }
+    ]
+}

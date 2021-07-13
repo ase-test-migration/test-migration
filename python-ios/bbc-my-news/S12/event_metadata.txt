@@ -1,0 +1,5 @@
+pathToElementImageCrop: bbc-my-news/S12/pngs/204.0_794.9999999999999_1059.0_929.9999999999999.png;
+coords: {'x1': 204.0, 'y1': 794.9999999999999, 'x2': 1059.0, 'y2': 929.9999999999999};
+text_identifier: { "label" : "Sarah Everard case" };
+event: oracle;
+oracle-type: element_invisible;

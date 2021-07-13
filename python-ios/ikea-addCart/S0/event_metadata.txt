@@ -1,0 +1,4 @@
+pathToElementImageCrop: ikea-addCart/S0/pngs/630.0_40.0_718.0_128.0.png;
+coords: {'x1': 630.0, 'y1': 40.0, 'x2': 718.0, 'y2': 128.0};
+text_identifier: { "label" : "Search" };
+event: click;

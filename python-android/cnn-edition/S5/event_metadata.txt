@@ -1,0 +1,4 @@
+pathToElementImageCrop: cnn-edition/S5/pngs/0_72_180_234.png;
+coords: {'x1': 0, 'y1': 72, 'x2': 180, 'y2': 234};
+text_identifier: { "content-desc" : "Back Button" , "resource-id" : "com.cnn.mobile.android.phone:id/toolbar_back_button_container" };
+event: click;

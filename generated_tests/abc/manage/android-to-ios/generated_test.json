@@ -1,0 +1,33 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "abc-manage",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Interests",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Manage",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Coronavirus",
+                "event": "click"
+            },
+            {
+                    "type": "name",
+                    "tag": "Interest",
+                    "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Coronavirus",
+                "event": "click"
+            }
+        ]
+    }
+}

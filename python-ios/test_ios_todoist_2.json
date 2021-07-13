@@ -1,0 +1,67 @@
+{
+    "tests": [
+        {
+            "name": "todoist-changedate",
+            "events": [
+                {
+                    "tag": "item-cell-My Task",
+                    "type": "accessibilityId", 
+                    "event": "click"
+                },
+                {
+                    "tag": "Today",
+                    "type": "accessibilityId",
+                    "event": "oracle",
+                    "oracle-type": "assert_equal",
+                    "attribute": "label",
+                    "value": "Today"
+                },
+                {
+                    "tag": "Today", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "This Weekend",
+                    "type": "accessibilityId", 
+                    "event": "click"
+                },
+                {
+                    "tag": "Saturday",
+                    "type": "accessibilityId",
+                    "event": "oracle",
+                    "oracle-type": "assert_equal",
+                    "attribute": "label",
+                    "value": "Saturday"
+                },
+                {
+                    "tag": "Saturday",
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Next Week",
+                    "type": "accessibilityId", 
+                    "event": "click"
+                },
+                {
+                    "tag": "Monday",
+                    "type": "accessibilityId",
+                    "event": "oracle",
+                    "oracle-type": "assert_equal",
+                    "attribute": "label",
+                    "value": "Monday"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "14.3", 
+        "platformName": "iOS"
+    }
+}

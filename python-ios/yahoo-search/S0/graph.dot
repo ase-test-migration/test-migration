@@ -1,0 +1,172 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Yahoo Mail\l|label = Yahoo Mail\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 615\l|width = 375\l|height = 52\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_1230.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 615\l|width = 375\l|height = 52\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_1230.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeNavigationBar\l|name = Inbox\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 96\l|index = 0\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_40.0_750.0_231.99999999999997.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 615\l|width = 375\l|height = 52\l|index = 2\l|numberOfChildren = 5\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_1230.0_750.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|name = account_picker\l|label = Accounts\l|enabled = true\l|visible = true\l|x = 16\l|y = 27\l|width = 30\l|height = 30\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/32.0_53.99999999999999_92.0_114.0.png\l}"]
+	14	[label="{type = XCUIElementTypeButton\l|name = medical_globalInformation_button\l|label = Medical information button in navigation bar\l|enabled = true\l|visible = true\l|x = 218\l|y = 20\l|width = 46\l|height = 44\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/436.0_40.0_528.0_128.0.png\l}"]
+	15	[label="{type = XCUIElementTypeButton\l|name = compose_button\l|label = Compose new message\l|enabled = true\l|visible = true\l|x = 272\l|y = 20\l|width = 44\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/544.0_40.0_632.0_128.0.png\l}"]
+	16	[label="{type = XCUIElementTypeButton\l|name = search_button\l|label = Search\l|enabled = true\l|visible = true\l|x = 324\l|y = 20\l|width = 43\l|height = 44\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = true \l|screenshotPath = yahoo-search/S0/pngs/648.0_40.0_734.0_128.0.png\l}"]
+	17	[label="{type = XCUIElementTypeStaticText\l|value = Inbox\l|name = Inbox\l|label = Inbox\l|enabled = true\l|visible = true\l|x = 16\l|y = 76\l|width = 65\l|height = 36\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/32.0_152.0_162.0_224.0.png\l}"]
+	18	[label="{type = XCUIElementTypeStaticText\l|value = email@example.com\l|name = email@example.com\l|label = email@example.com\l|enabled = true\l|visible = true\l|x = 17\l|y = 97\l|width = 122\l|height = 15\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/34.0_194.0_278.0_224.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	20	[label="{type = XCUIElementTypeCell\l|name = PrimaryTabBarItem_home\l|label = Inbox\l|enabled = true\l|visible = true\l|x = 8\l|y = 615\l|width = 72\l|height = 52\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/16.0_1230.0_160.0_1334.0.png\l}"]
+	21	[label="{type = XCUIElementTypeCell\l|name = PrimaryTabBarItem_videos\l|label = Videos\l|enabled = true\l|visible = true\l|x = 79\l|y = 615\l|width = 72\l|height = 52\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/158.0_1230.0_302.0_1334.0.png\l}"]
+	22	[label="{type = XCUIElementTypeCell\l|name = PrimaryTabBarItem_attachments\l|label = Attachments\l|enabled = true\l|visible = true\l|x = 151\l|y = 615\l|width = 72\l|height = 52\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/302.0_1230.0_446.0_1334.0.png\l}"]
+	23	[label="{type = XCUIElementTypeCell\l|name = PrimaryTabBarItem_discovery\l|label = Today\l|enabled = true\l|visible = true\l|x = 222\l|y = 615\l|width = 72\l|height = 52\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/444.0_1230.0_588.0_1334.0.png\l}"]
+	24	[label="{type = XCUIElementTypeCell\l|name = PrimaryTabBarItem_more\l|label = More\l|enabled = true\l|visible = true\l|x = 294\l|y = 615\l|width = 72\l|height = 52\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/588.0_1230.0_732.0_1334.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 615\l|width = 72\l|height = 52\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/16.0_1230.0_160.0_1334.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 79\l|y = 615\l|width = 72\l|height = 52\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/158.0_1230.0_302.0_1334.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 151\l|y = 615\l|width = 72\l|height = 52\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/302.0_1230.0_446.0_1334.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 222\l|y = 615\l|width = 72\l|height = 52\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/444.0_1230.0_588.0_1334.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 294\l|y = 615\l|width = 72\l|height = 52\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/588.0_1230.0_732.0_1334.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 31\l|y = 623\l|width = 26\l|height = 40\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/62.0_1246.0_114.0_1326.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 99\l|y = 623\l|width = 32\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/198.0_1246.0_262.0_1326.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 156\l|y = 623\l|width = 61\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/312.0_1246.0_434.0_1326.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 244\l|y = 623\l|width = 29\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/487.99999999999994_1246.0_546.0_1326.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 317\l|y = 623\l|width = 25\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/634.0_1246.0_684.0_1326.0.png\l}"]
+	37	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 31\l|y = 623\l|width = 26\l|height = 40\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/62.0_1246.0_114.0_1326.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 99\l|y = 623\l|width = 32\l|height = 40\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/198.0_1246.0_262.0_1326.0.png\l}"]
+	40	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 156\l|y = 623\l|width = 61\l|height = 40\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/312.0_1246.0_434.0_1326.0.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 244\l|y = 623\l|width = 29\l|height = 40\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/487.99999999999994_1246.0_546.0_1326.0.png\l}"]
+	42	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 317\l|y = 623\l|width = 25\l|height = 40\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/634.0_1246.0_684.0_1326.0.png\l}"]
+	43	[label="{type = XCUIElementTypeOther\l|name = TODAY\l|enabled = true\l|visible = true\l|x = 0\l|y = 116\l|width = 375\l|height = 40\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_232.0_750.0_312.0.png\l}"]
+	44	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 156\l|width = 375\l|height = 1\l|index = 2\l|numberOfChildren = 3\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_312.0_750.0_314.0.png\l}"]
+	45	[label="{type = XCUIElementTypeCell\l|name = Me,date, now,Unread,Subject,Testing 1 search term,2 messages in this conversation,Snippet,Sent from Yahoo Mail for iPhone\l|label = Me,date, now,Unread,Subject,Testing 1 search term,2 messages in this conversation,Snippet,Sent from Yahoo Mail for iPhone\l|enabled = true\l|visible = true\l|x = 0\l|y = 156\l|width = 375\l|height = 86\l|index = 3\l|numberOfChildren = 8\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_312.0_750.0_484.0.png\l}"]
+	46	[label="{type = XCUIElementTypeCell\l|name = Me,4 Hours ago,Unread,Subject,Something else ,Snippet,(No Content)\l|label = Me,4 Hours ago,Unread,Subject,Something else ,Snippet,(No Content)\l|enabled = true\l|visible = true\l|x = 0\l|y = 241\l|width = 375\l|height = 86\l|index = 4\l|numberOfChildren = 7\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_482.0_750.0_654.0.png\l}"]
+	47	[label="{type = XCUIElementTypeCell\l|name = Google Community Team,5 Hours ago,Subject,User, finish setting up your new Google Account,Snippet,Hi User, Welcome to Google. Your new account comes wit\l|label = Google Community Team,5 Hours ago,Subject,User, finish setting up your new Google Account,Snippet,Hi User, Welcome to Google. Your new account comes wit\l|enabled = true\l|visible = true\l|x = 0\l|y = 326\l|width = 375\l|height = 86\l|index = 5\l|numberOfChildren = 7\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_652.0_750.0_824.0.png\l}"]
+	48	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 32\l|y = 623\l|width = 24\l|height = 24\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/64.0_1246.0_112.0_1294.0.png\l}"]
+	49	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 103\l|y = 623\l|width = 25\l|height = 24\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/206.0_1246.0_256.0_1294.0.png\l}"]
+	50	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 175\l|y = 623\l|width = 24\l|height = 24\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/350.0_1246.0_398.0_1294.0.png\l}"]
+	51	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 246\l|y = 623\l|width = 25\l|height = 24\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/492.0_1246.0_542.0_1294.0.png\l}"]
+	52	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 318\l|y = 623\l|width = 24\l|height = 24\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/636.0_1246.0_684.0_1294.0.png\l}"]
+	53	[label="{type = XCUIElementTypeOther\l|name = TODAY,un-selected\l|label = TODAY,un-selected\l|enabled = true\l|visible = true\l|x = 0\l|y = 116\l|width = 375\l|height = 40\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_232.0_750.0_312.0.png\l}"]
+	54	[label="{type = XCUIElementTypeStaticText\l|value = Me\l|name = From\l|label = From\l|enabled = true\l|visible = true\l|x = 76\l|y = 168\l|width = 25\l|height = 22\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/152.0_336.0_202.0_380.0.png\l}"]
+	55	[label="{type = XCUIElementTypeStaticText\l|value = Testing 1 search term\l|name = Subject\l|label = Subject\l|enabled = true\l|visible = true\l|x = 76\l|y = 192\l|width = 249\l|height = 18\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/152.0_383.99999999999994_650.0_419.99999999999994.png\l}"]
+	56	[label="{type = XCUIElementTypeStaticText\l|value = Sent from Yahoo Mail for iPhone\l|name = Snippet\l|label = Snippet\l|enabled = true\l|visible = true\l|x = 76\l|y = 212\l|width = 249\l|height = 18\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/152.0_424.0_650.0_460.0.png\l}"]
+	57	[label="{type = XCUIElementTypeStaticText\l|value = 2\l|name = 2\l|label = 2\l|enabled = true\l|visible = true\l|x = 106\l|y = 172\l|width = 16\l|height = 13\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/212.0_344.00000000000006_244.0_370.00000000000006.png\l}"]
+	58	[label="{type = XCUIElementTypeStaticText\l|value = now\l|name = now\l|label = now\l|enabled = true\l|visible = true\l|x = 332\l|y = 171\l|width = 23\l|height = 16\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/664.0_342.0_710.0_374.0.png\l}"]
+	59	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 156\l|width = 375\l|height = 85\l|index = 5\l|numberOfChildren = 2\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_312.0_750.0_482.0.png\l}"]
+	60	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 240\l|width = 375\l|height = 2\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_480.00000000000006_750.0_484.00000000000006.png\l}"]
+	61	[label="{type = XCUIElementTypeButton\l|name = Star button off\l|label = Star button off\l|enabled = true\l|visible = true\l|x = 325\l|y = 192\l|width = 50\l|height = 51\l|index = 7\l|numberOfChildren = 0\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/650.0_383.99999999999994_750.0_485.99999999999994.png\l}"]
+	62	[label="{type = XCUIElementTypeStaticText\l|value = Me\l|name = From\l|label = From\l|enabled = true\l|visible = true\l|x = 76\l|y = 253\l|width = 25\l|height = 22\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/152.0_506.0_202.0_550.0.png\l}"]
+	63	[label="{type = XCUIElementTypeStaticText\l|value = Something else \l|name = Subject\l|label = Subject\l|enabled = true\l|visible = true\l|x = 76\l|y = 277\l|width = 249\l|height = 18\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/152.0_554.0_650.0_590.0.png\l}"]
+	64	[label="{type = XCUIElementTypeStaticText\l|value = (No Content)\l|name = Snippet\l|label = Snippet\l|enabled = true\l|visible = true\l|x = 76\l|y = 297\l|width = 249\l|height = 18\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/152.0_594.0_650.0_630.0.png\l}"]
+	65	[label="{type = XCUIElementTypeStaticText\l|value = 4h\l|name = 4h\l|label = 4h\l|enabled = true\l|visible = true\l|x = 341\l|y = 256\l|width = 14\l|height = 16\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/682.0_512.0_710.0_544.0.png\l}"]
+	66	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 241\l|width = 375\l|height = 85\l|index = 4\l|numberOfChildren = 2\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_482.0_750.0_652.0.png\l}"]
+	67	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 325\l|width = 375\l|height = 2\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_650.0_750.0_654.0.png\l}"]
+	68	[label="{type = XCUIElementTypeButton\l|name = Star button off\l|label = Star button off\l|enabled = true\l|visible = true\l|x = 325\l|y = 277\l|width = 50\l|height = 51\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/650.0_554.0_750.0_656.0.png\l}"]
+	69	[label="{type = XCUIElementTypeStaticText\l|value = Google Community Team\l|name = From\l|label = From\l|enabled = true\l|visible = true\l|x = 76\l|y = 338\l|width = 194\l|height = 22\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/152.0_676.0_540.0_720.0.png\l}"]
+	70	[label="{type = XCUIElementTypeStaticText\l|value = User, finish setting up your new Google Account\l|name = Subject\l|label = Subject\l|enabled = true\l|visible = true\l|x = 76\l|y = 362\l|width = 249\l|height = 18\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/152.0_724.0_650.0_760.0.png\l}"]
+	71	[label="{type = XCUIElementTypeStaticText\l|value = Hi User, Welcome to Google. Your new account comes with access to Google products, apps, and services. Here are a few tips to get you started. Confirm your options are right for youReview and change your privacy and security options to make Google work better for you. Confirm Stay in the know with the Google appFind quick answers, explore your interests, and stay up to date. Try it More from GoogleDiscover the latest apps from Google. For Android For iOS Want to stay in the loop?Sign up to receive per\l|name = Snippet\l|label = Snippet\l|enabled = true\l|visible = true\l|x = 76\l|y = 382\l|width = 249\l|height = 18\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/152.0_764.0_650.0_800.0.png\l}"]
+	72	[label="{type = XCUIElementTypeStaticText\l|value = 5h\l|name = 5h\l|label = 5h\l|enabled = true\l|visible = true\l|x = 341\l|y = 341\l|width = 14\l|height = 16\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/682.0_682.0_710.0_714.0.png\l}"]
+	73	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 326\l|width = 375\l|height = 85\l|index = 4\l|numberOfChildren = 2\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_652.0_750.0_822.0.png\l}"]
+	74	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 410\l|width = 375\l|height = 2\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_820.0_750.0_824.0.png\l}"]
+	75	[label="{type = XCUIElementTypeButton\l|name = Star button off\l|label = Star button off\l|enabled = true\l|visible = true\l|x = 325\l|y = 362\l|width = 50\l|height = 51\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/650.0_724.0_750.0_826.0.png\l}"]
+	76	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 156\l|width = 375\l|height = 86\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_312.0_750.0_484.0.png\l}"]
+	77	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 240\l|width = 375\l|height = 2\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_480.00000000000006_750.0_484.00000000000006.png\l}"]
+	78	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 241\l|width = 375\l|height = 86\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_482.0_750.0_654.0.png\l}"]
+	79	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 325\l|width = 375\l|height = 2\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_650.0_750.0_654.0.png\l}"]
+	80	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 326\l|width = 375\l|height = 86\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_652.0_750.0_824.0.png\l}"]
+	81	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 410\l|width = 375\l|height = 2\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = yahoo-search/S0/pngs/0.0_820.0_750.0_824.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	5 -> 7
+	6 -> 8
+	7 -> 9
+	8 -> 10
+	8 -> 11
+	9 -> 12
+	10 -> 13
+	10 -> 14
+	10 -> 15
+	10 -> 16
+	10 -> 17
+	10 -> 18
+	11 -> 19
+	12 -> 20
+	12 -> 21
+	12 -> 22
+	12 -> 23
+	12 -> 24
+	19 -> 25
+	20 -> 26
+	21 -> 27
+	22 -> 28
+	23 -> 29
+	24 -> 30
+	25 -> 31
+	26 -> 32
+	27 -> 33
+	28 -> 34
+	29 -> 35
+	30 -> 36
+	31 -> 37
+	32 -> 38
+	33 -> 39
+	34 -> 40
+	35 -> 41
+	36 -> 42
+	37 -> 43
+	37 -> 44
+	37 -> 45
+	37 -> 46
+	37 -> 47
+	38 -> 48
+	39 -> 49
+	40 -> 50
+	41 -> 51
+	42 -> 52
+	43 -> 53
+	45 -> 54
+	45 -> 55
+	45 -> 56
+	45 -> 57
+	45 -> 58
+	45 -> 59
+	45 -> 60
+	45 -> 61
+	46 -> 62
+	46 -> 63
+	46 -> 64
+	46 -> 65
+	46 -> 66
+	46 -> 67
+	46 -> 68
+	47 -> 69
+	47 -> 70
+	47 -> 71
+	47 -> 72
+	47 -> 73
+	47 -> 74
+	47 -> 75
+	59 -> 76
+	59 -> 77
+	66 -> 78
+	66 -> 79
+	73 -> 80
+	73 -> 81
+
+
+}

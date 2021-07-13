@@ -1,0 +1,4 @@
+pathToElementImageCrop: duckduckgo-bookmark/S4/pngs/506.0_1240.0_564.0_1330.0.png;
+coords: {'x1': 506.0, 'y1': 1240.0, 'x2': 564.0, 'y2': 1330.0};
+text_identifier: { "label" : "Bookmarks" };
+event: click;

@@ -1,0 +1,4 @@
+pathToElementImageCrop: chrome-search/S2/pngs/247_179_789_317.png;
+coords: {'x1': 247, 'y1': 179, 'x2': 789, 'y2': 317};
+text_identifier: { "resource-id" : "com.android.chrome:id/url_bar" };
+event: click;

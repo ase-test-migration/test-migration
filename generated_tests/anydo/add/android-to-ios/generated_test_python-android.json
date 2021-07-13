@@ -1,0 +1,29 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "python-android",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Tab Bar",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Tap to sync your calendars with Any.do",
+                "event": "send_keys",
+                "input": "testing"
+            },
+            {
+                "type": "name",
+                "tag": "Tasks",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "testing"
+            }
+        ]
+    }
+}

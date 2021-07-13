@@ -1,0 +1,34 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "R3CN30038ME"
+    },
+    "tests" : [
+        {
+            "name" : "testLiveAudio",
+        
+            "events": [
+                {
+                    "type" : "xPath", 
+                    "tag" : "//android.widget.FrameLayout[@content-desc=\"Audio\"]/android.widget.ImageView",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "Audio",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "xPath", 
+                    "tag" : "//android.view.ViewGroup[@content-desc=\"Tap to listen to CNN CNN Tonight\"]",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "Pause",
+                    "event" : "click" 
+                }
+            ]
+        }
+    ]
+}

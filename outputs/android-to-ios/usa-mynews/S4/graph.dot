@@ -1,0 +1,294 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = USA TODAY\l|label = USA TODAY\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeNavigationBar\l|name = Suggested Topics\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 44\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_132.0_1242.0_264.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeStaticText\l|value = Suggested Topics\l|name = Suggested Topics\l|label = Suggested Topics\l|enabled = true\l|visible = true\l|x = 138\l|y = 55\l|width = 138\l|height = 21\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/414.0_165.0_828.0_228.0.png\l}"]
+	7	[label="{type = XCUIElementTypeButton\l|name = Done\l|label = Done\l|enabled = true\l|visible = true\l|x = 353\l|y = 44\l|width = 49\l|height = 44\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/1059.0_132.0_1206.0_264.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	10	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 20\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	11	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 42\l|width = 414\l|height = 50\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_126.0_1242.0_276.0.png\l}"]
+	12	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 93\l|width = 414\l|height = 50\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_279.0_1242.0_429.0.png\l}"]
+	13	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 144\l|width = 414\l|height = 50\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_432.00000000000006_1242.0_582.0.png\l}"]
+	14	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 195\l|width = 414\l|height = 50\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_585.0_1242.0_735.0.png\l}"]
+	15	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 246\l|width = 414\l|height = 50\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_738.0000000000001_1242.0_888.0000000000001.png\l}"]
+	16	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 297\l|width = 414\l|height = 50\l|numberOfChildren = 1\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_891.0_1242.0_1041.0.png\l}"]
+	17	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 348\l|width = 414\l|height = 50\l|numberOfChildren = 1\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_1044.0_1242.0_1194.0.png\l}"]
+	18	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 399\l|width = 414\l|height = 50\l|numberOfChildren = 1\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_1197.0_1242.0_1347.0.png\l}"]
+	19	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 450\l|width = 414\l|height = 50\l|numberOfChildren = 1\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_1350.0000000000002_1242.0_1500.0000000000002.png\l}"]
+	20	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 501\l|width = 414\l|height = 50\l|numberOfChildren = 1\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_1503.0_1242.0_1653.0.png\l}"]
+	21	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 552\l|width = 414\l|height = 50\l|numberOfChildren = 1\l|numInParentLayout = 11\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_1656.0_1242.0_1806.0.png\l}"]
+	22	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 603\l|width = 414\l|height = 50\l|numberOfChildren = 1\l|numInParentLayout = 12\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_1809.0_1242.0_1959.0.png\l}"]
+	23	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 654\l|width = 414\l|height = 50\l|numberOfChildren = 1\l|numInParentLayout = 13\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_1962.0_1242.0_2112.0.png\l}"]
+	24	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 705\l|width = 414\l|height = 50\l|numberOfChildren = 1\l|numInParentLayout = 14\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_2115.0_1242.0_2265.0.png\l}"]
+	25	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 756\l|width = 414\l|height = 50\l|numberOfChildren = 1\l|numInParentLayout = 15\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_2268.0_1242.0_2418.0.png\l}"]
+	26	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 807\l|width = 414\l|height = 50\l|numberOfChildren = 1\l|numInParentLayout = 16\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_2421.0_1242.0_2571.0.png\l}"]
+	27	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 858\l|width = 414\l|height = 50\l|numberOfChildren = 1\l|numInParentLayout = 17\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_2574.0_1242.0_2724.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|value = 75%\l|name = Vertical scroll bar, 2 pages\l|label = Vertical scroll bar, 2 pages\l|enabled = true\l|visible = true\l|x = 381\l|y = 88\l|width = 30\l|height = 777\l|numberOfChildren = 0\l|numInParentLayout = 18\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/1143.0_264.0_1233.0_2595.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 31\l|y = 863\l|width = 352\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 19\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/93.0_2589.0_1149.0_2679.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 42\l|width = 414\l|height = 50\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_126.0_1242.0_276.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 93\l|width = 414\l|height = 50\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_279.0_1242.0_429.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 144\l|width = 414\l|height = 50\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_432.00000000000006_1242.0_582.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 195\l|width = 414\l|height = 50\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_585.0_1242.0_735.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 246\l|width = 414\l|height = 50\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_738.0000000000001_1242.0_888.0000000000001.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 297\l|width = 414\l|height = 50\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_891.0_1242.0_1041.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 348\l|width = 414\l|height = 50\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_1044.0_1242.0_1194.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 399\l|width = 414\l|height = 50\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_1197.0_1242.0_1347.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 450\l|width = 414\l|height = 50\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_1350.0000000000002_1242.0_1500.0000000000002.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 501\l|width = 414\l|height = 50\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_1503.0_1242.0_1653.0.png\l}"]
+	40	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 552\l|width = 414\l|height = 50\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_1656.0_1242.0_1806.0.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 603\l|width = 414\l|height = 50\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_1809.0_1242.0_1959.0.png\l}"]
+	42	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 654\l|width = 414\l|height = 50\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_1962.0_1242.0_2112.0.png\l}"]
+	43	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 705\l|width = 414\l|height = 50\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_2115.0_1242.0_2265.0.png\l}"]
+	44	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 756\l|width = 414\l|height = 50\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_2268.0_1242.0_2418.0.png\l}"]
+	45	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 807\l|width = 414\l|height = 50\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_2421.0_1242.0_2571.0.png\l}"]
+	46	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 858\l|width = 414\l|height = 50\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/0.0_2574.0_1242.0_2724.0.png\l}"]
+	47	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 99\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_297.0_891.0_405.0.png\l}"]
+	48	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 106\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_318.0_1182.0_390.0.png\l}"]
+	49	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 150\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_449.99999999999994_891.0_558.0.png\l}"]
+	50	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 157\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_470.99999999999994_1182.0_543.0.png\l}"]
+	51	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 201\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_603.0_891.0_711.0.png\l}"]
+	52	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 208\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_624.0_1182.0_696.0.png\l}"]
+	53	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 252\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_756.0_891.0_864.0.png\l}"]
+	54	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 259\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_777.0_1182.0_849.0.png\l}"]
+	55	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 303\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_909.0_891.0_1017.0.png\l}"]
+	56	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 310\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_930.0_1182.0_1002.0.png\l}"]
+	57	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 354\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_1062.0_891.0_1170.0.png\l}"]
+	58	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 361\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_1083.0_1182.0_1155.0.png\l}"]
+	59	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 405\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_1215.0_891.0_1323.0.png\l}"]
+	60	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 412\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_1236.0_1182.0_1308.0.png\l}"]
+	61	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 456\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_1368.0_891.0_1476.0.png\l}"]
+	62	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 463\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_1389.0_1182.0_1461.0.png\l}"]
+	63	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 507\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_1521.0_891.0_1629.0.png\l}"]
+	64	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 514\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_1542.0_1182.0_1614.0.png\l}"]
+	65	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 558\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_1673.9999999999998_891.0_1781.9999999999998.png\l}"]
+	66	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 565\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_1694.9999999999998_1182.0_1766.9999999999998.png\l}"]
+	67	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 609\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_1827.0_891.0_1935.0.png\l}"]
+	68	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 616\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_1848.0_1182.0_1920.0.png\l}"]
+	69	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 660\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_1980.0000000000002_891.0_2088.0000000000005.png\l}"]
+	70	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 667\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_2001.0000000000002_1182.0_2073.0.png\l}"]
+	71	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 711\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_2133.0_891.0_2241.0.png\l}"]
+	72	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 718\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_2154.0_1182.0_2226.0.png\l}"]
+	73	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 762\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_2286.0_891.0_2394.0.png\l}"]
+	74	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 769\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_2307.0_1182.0_2379.0.png\l}"]
+	75	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 813\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_2439.0_891.0_2547.0.png\l}"]
+	76	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 820\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_2460.0_1182.0_2532.0.png\l}"]
+	77	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 864\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_2592.0_891.0_2700.0.png\l}"]
+	78	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 871\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_2613.0_1182.0_2685.0.png\l}"]
+	79	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 99\l|width = 277\l|height = 36\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_297.0_891.0_405.0.png\l}"]
+	80	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 106\l|width = 89\l|height = 24\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_318.0_1182.0_390.0.png\l}"]
+	81	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 150\l|width = 277\l|height = 36\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_449.99999999999994_891.0_558.0.png\l}"]
+	82	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 157\l|width = 89\l|height = 24\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_470.99999999999994_1182.0_543.0.png\l}"]
+	83	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 201\l|width = 277\l|height = 36\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_603.0_891.0_711.0.png\l}"]
+	84	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 208\l|width = 89\l|height = 24\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_624.0_1182.0_696.0.png\l}"]
+	85	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 252\l|width = 277\l|height = 36\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_756.0_891.0_864.0.png\l}"]
+	86	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 259\l|width = 89\l|height = 24\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_777.0_1182.0_849.0.png\l}"]
+	87	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 303\l|width = 277\l|height = 36\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_909.0_891.0_1017.0.png\l}"]
+	88	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 310\l|width = 89\l|height = 24\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_930.0_1182.0_1002.0.png\l}"]
+	89	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 354\l|width = 277\l|height = 36\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_1062.0_891.0_1170.0.png\l}"]
+	90	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 361\l|width = 89\l|height = 24\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_1083.0_1182.0_1155.0.png\l}"]
+	91	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 405\l|width = 277\l|height = 36\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_1215.0_891.0_1323.0.png\l}"]
+	92	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 412\l|width = 89\l|height = 24\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_1236.0_1182.0_1308.0.png\l}"]
+	93	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 456\l|width = 277\l|height = 36\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_1368.0_891.0_1476.0.png\l}"]
+	94	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 463\l|width = 89\l|height = 24\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_1389.0_1182.0_1461.0.png\l}"]
+	95	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 507\l|width = 277\l|height = 36\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_1521.0_891.0_1629.0.png\l}"]
+	96	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 514\l|width = 89\l|height = 24\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_1542.0_1182.0_1614.0.png\l}"]
+	97	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 558\l|width = 277\l|height = 36\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_1673.9999999999998_891.0_1781.9999999999998.png\l}"]
+	98	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 565\l|width = 89\l|height = 24\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_1694.9999999999998_1182.0_1766.9999999999998.png\l}"]
+	99	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 609\l|width = 277\l|height = 36\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_1827.0_891.0_1935.0.png\l}"]
+	100	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 616\l|width = 89\l|height = 24\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_1848.0_1182.0_1920.0.png\l}"]
+	101	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 660\l|width = 277\l|height = 36\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_1980.0000000000002_891.0_2088.0000000000005.png\l}"]
+	102	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 667\l|width = 89\l|height = 24\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_2001.0000000000002_1182.0_2073.0.png\l}"]
+	103	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 711\l|width = 277\l|height = 36\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_2133.0_891.0_2241.0.png\l}"]
+	104	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 718\l|width = 89\l|height = 24\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_2154.0_1182.0_2226.0.png\l}"]
+	105	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 762\l|width = 277\l|height = 36\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_2286.0_891.0_2394.0.png\l}"]
+	106	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 769\l|width = 89\l|height = 24\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_2307.0_1182.0_2379.0.png\l}"]
+	107	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 813\l|width = 277\l|height = 36\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_2439.0_891.0_2547.0.png\l}"]
+	108	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 820\l|width = 89\l|height = 24\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_2460.0_1182.0_2532.0.png\l}"]
+	109	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 864\l|width = 277\l|height = 36\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_2592.0_891.0_2700.0.png\l}"]
+	110	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 871\l|width = 89\l|height = 24\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_2613.0_1182.0_2685.0.png\l}"]
+	111	[label="{type = XCUIElementTypeButton\l|name = Go to articles about Retirement Planning\l|label = Go to articles about Retirement Planning\l|enabled = true\l|visible = true\l|x = 20\l|y = 99\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_297.0_891.0_405.0.png\l}"]
+	112	[label="{type = XCUIElementTypeButton\l|name = Follow\l|label = Add Topic\l|enabled = true\l|visible = true\l|x = 305\l|y = 106\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_318.0_1182.0_390.0.png\l}"]
+	113	[label="{type = XCUIElementTypeButton\l|name = Go to articles about Travel and Tourism\l|label = Go to articles about Travel and Tourism\l|enabled = true\l|visible = true\l|x = 20\l|y = 150\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_449.99999999999994_891.0_558.0.png\l}"]
+	114	[label="{type = XCUIElementTypeButton\l|name = Follow\l|label = Add Topic\l|enabled = true\l|visible = true\l|x = 305\l|y = 157\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_470.99999999999994_1182.0_543.0.png\l}"]
+	115	[label="{type = XCUIElementTypeButton\l|name = Go to articles about George Floyd\l|label = Go to articles about George Floyd\l|enabled = true\l|visible = true\l|x = 20\l|y = 201\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_603.0_891.0_711.0.png\l}"]
+	116	[label="{type = XCUIElementTypeButton\l|name = Follow\l|label = Add Topic\l|enabled = true\l|visible = true\l|x = 305\l|y = 208\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_624.0_1182.0_696.0.png\l}"]
+	117	[label="{type = XCUIElementTypeButton\l|name = Go to articles about Derek Chauvin\l|label = Go to articles about Derek Chauvin\l|enabled = true\l|visible = true\l|x = 20\l|y = 252\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_756.0_891.0_864.0.png\l}"]
+	118	[label="{type = XCUIElementTypeButton\l|name = Follow\l|label = Add Topic\l|enabled = true\l|visible = true\l|x = 305\l|y = 259\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_777.0_1182.0_849.0.png\l}"]
+	119	[label="{type = XCUIElementTypeButton\l|name = Go to articles about Mental Health\l|label = Go to articles about Mental Health\l|enabled = true\l|visible = true\l|x = 20\l|y = 303\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_909.0_891.0_1017.0.png\l}"]
+	120	[label="{type = XCUIElementTypeButton\l|name = Follow\l|label = Add Topic\l|enabled = true\l|visible = true\l|x = 305\l|y = 310\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_930.0_1182.0_1002.0.png\l}"]
+	121	[label="{type = XCUIElementTypeButton\l|name = Go to articles about Cultural Diversity\l|label = Go to articles about Cultural Diversity\l|enabled = true\l|visible = true\l|x = 20\l|y = 354\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_1062.0_891.0_1170.0.png\l}"]
+	122	[label="{type = XCUIElementTypeButton\l|name = Follow\l|label = Add Topic\l|enabled = true\l|visible = true\l|x = 305\l|y = 361\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_1083.0_1182.0_1155.0.png\l}"]
+	123	[label="{type = XCUIElementTypeButton\l|name = Go to articles about Racism\l|label = Go to articles about Racism\l|enabled = true\l|visible = true\l|x = 20\l|y = 405\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_1215.0_891.0_1323.0.png\l}"]
+	124	[label="{type = XCUIElementTypeButton\l|name = Follow\l|label = Add Topic\l|enabled = true\l|visible = true\l|x = 305\l|y = 412\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_1236.0_1182.0_1308.0.png\l}"]
+	125	[label="{type = XCUIElementTypeButton\l|name = Go to articles about Movie Reviews\l|label = Go to articles about Movie Reviews\l|enabled = true\l|visible = true\l|x = 20\l|y = 456\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_1368.0_891.0_1476.0.png\l}"]
+	126	[label="{type = XCUIElementTypeButton\l|name = Follow\l|label = Add Topic\l|enabled = true\l|visible = true\l|x = 305\l|y = 463\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_1389.0_1182.0_1461.0.png\l}"]
+	127	[label="{type = XCUIElementTypeButton\l|name = Go to articles about LGBTQ Issues\l|label = Go to articles about LGBTQ Issues\l|enabled = true\l|visible = true\l|x = 20\l|y = 507\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_1521.0_891.0_1629.0.png\l}"]
+	128	[label="{type = XCUIElementTypeButton\l|name = Follow\l|label = My Topic\l|enabled = true\l|visible = true\l|x = 305\l|y = 514\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_1542.0_1182.0_1614.0.png\l}"]
+	129	[label="{type = XCUIElementTypeButton\l|name = Go to articles about Editorials and Debates\l|label = Go to articles about Editorials and Debates\l|enabled = true\l|visible = true\l|x = 20\l|y = 558\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_1673.9999999999998_891.0_1781.9999999999998.png\l}"]
+	130	[label="{type = XCUIElementTypeButton\l|name = Follow\l|label = My Topic\l|enabled = true\l|visible = true\l|x = 305\l|y = 565\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_1694.9999999999998_1182.0_1766.9999999999998.png\l}"]
+	131	[label="{type = XCUIElementTypeButton\l|name = Go to articles about College Football\l|label = Go to articles about College Football\l|enabled = true\l|visible = true\l|x = 20\l|y = 609\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_1827.0_891.0_1935.0.png\l}"]
+	132	[label="{type = XCUIElementTypeButton\l|name = Follow\l|label = My Topic\l|enabled = true\l|visible = true\l|x = 305\l|y = 616\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_1848.0_1182.0_1920.0.png\l}"]
+	133	[label="{type = XCUIElementTypeButton\l|name = Go to articles about Immigration\l|label = Go to articles about Immigration\l|enabled = true\l|visible = true\l|x = 20\l|y = 660\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_1980.0000000000002_891.0_2088.0000000000005.png\l}"]
+	134	[label="{type = XCUIElementTypeButton\l|name = Follow\l|label = My Topic\l|enabled = true\l|visible = true\l|x = 305\l|y = 667\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_2001.0000000000002_1182.0_2073.0.png\l}"]
+	135	[label="{type = XCUIElementTypeButton\l|name = Go to articles about NFL\l|label = Go to articles about NFL\l|enabled = true\l|visible = true\l|x = 20\l|y = 711\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_2133.0_891.0_2241.0.png\l}"]
+	136	[label="{type = XCUIElementTypeButton\l|name = Follow\l|label = My Topic\l|enabled = true\l|visible = true\l|x = 305\l|y = 718\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_2154.0_1182.0_2226.0.png\l}"]
+	137	[label="{type = XCUIElementTypeButton\l|name = Go to articles about Social Security\l|label = Go to articles about Social Security\l|enabled = true\l|visible = true\l|x = 20\l|y = 762\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_2286.0_891.0_2394.0.png\l}"]
+	138	[label="{type = XCUIElementTypeButton\l|name = Follow\l|label = My Topic\l|enabled = true\l|visible = true\l|x = 305\l|y = 769\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_2307.0_1182.0_2379.0.png\l}"]
+	139	[label="{type = XCUIElementTypeButton\l|name = Go to articles about Video Games\l|label = Go to articles about Video Games\l|enabled = true\l|visible = true\l|x = 20\l|y = 813\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_2439.0_891.0_2547.0.png\l}"]
+	140	[label="{type = XCUIElementTypeButton\l|name = Follow\l|label = My Topic\l|enabled = true\l|visible = true\l|x = 305\l|y = 820\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_2460.0_1182.0_2532.0.png\l}"]
+	141	[label="{type = XCUIElementTypeButton\l|name = Go to articles about Cartoons\l|label = Go to articles about Cartoons\l|enabled = true\l|visible = true\l|x = 20\l|y = 864\l|width = 277\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/60.0_2592.0_891.0_2700.0.png\l}"]
+	142	[label="{type = XCUIElementTypeButton\l|name = Follow\l|label = My Topic\l|enabled = true\l|visible = true\l|x = 305\l|y = 871\l|width = 89\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-mynews/S4/pngs/915.0000000000001_2613.0_1182.0_2685.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	3 -> 5
+	4 -> 6
+	4 -> 7
+	5 -> 8
+	8 -> 9
+	9 -> 10
+	10 -> 11
+	10 -> 12
+	10 -> 13
+	10 -> 14
+	10 -> 15
+	10 -> 16
+	10 -> 17
+	10 -> 18
+	10 -> 19
+	10 -> 20
+	10 -> 21
+	10 -> 22
+	10 -> 23
+	10 -> 24
+	10 -> 25
+	10 -> 26
+	10 -> 27
+	10 -> 28
+	10 -> 29
+	11 -> 30
+	12 -> 31
+	13 -> 32
+	14 -> 33
+	15 -> 34
+	16 -> 35
+	17 -> 36
+	18 -> 37
+	19 -> 38
+	20 -> 39
+	21 -> 40
+	22 -> 41
+	23 -> 42
+	24 -> 43
+	25 -> 44
+	26 -> 45
+	27 -> 46
+	31 -> 47
+	31 -> 48
+	32 -> 49
+	32 -> 50
+	33 -> 51
+	33 -> 52
+	34 -> 53
+	34 -> 54
+	35 -> 55
+	35 -> 56
+	36 -> 57
+	36 -> 58
+	37 -> 59
+	37 -> 60
+	38 -> 61
+	38 -> 62
+	39 -> 63
+	39 -> 64
+	40 -> 65
+	40 -> 66
+	41 -> 67
+	41 -> 68
+	42 -> 69
+	42 -> 70
+	43 -> 71
+	43 -> 72
+	44 -> 73
+	44 -> 74
+	45 -> 75
+	45 -> 76
+	46 -> 77
+	46 -> 78
+	47 -> 79
+	48 -> 80
+	49 -> 81
+	50 -> 82
+	51 -> 83
+	52 -> 84
+	53 -> 85
+	54 -> 86
+	55 -> 87
+	56 -> 88
+	57 -> 89
+	58 -> 90
+	59 -> 91
+	60 -> 92
+	61 -> 93
+	62 -> 94
+	63 -> 95
+	64 -> 96
+	65 -> 97
+	66 -> 98
+	67 -> 99
+	68 -> 100
+	69 -> 101
+	70 -> 102
+	71 -> 103
+	72 -> 104
+	73 -> 105
+	74 -> 106
+	75 -> 107
+	76 -> 108
+	77 -> 109
+	78 -> 110
+	79 -> 111
+	80 -> 112
+	81 -> 113
+	82 -> 114
+	83 -> 115
+	84 -> 116
+	85 -> 117
+	86 -> 118
+	87 -> 119
+	88 -> 120
+	89 -> 121
+	90 -> 122
+	91 -> 123
+	92 -> 124
+	93 -> 125
+	94 -> 126
+	95 -> 127
+	96 -> 128
+	97 -> 129
+	98 -> 130
+	99 -> 131
+	100 -> 132
+	101 -> 133
+	102 -> 134
+	103 -> 135
+	104 -> 136
+	105 -> 137
+	106 -> 138
+	107 -> 139
+	108 -> 140
+	109 -> 141
+	110 -> 142
+
+
+}

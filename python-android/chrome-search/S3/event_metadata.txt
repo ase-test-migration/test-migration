@@ -1,0 +1,5 @@
+pathToElementImageCrop: chrome-search/S3/pngs/49_179_927_317.png;
+coords: {'x1': 49, 'y1': 179, 'x2': 927, 'y2': 317};
+text_identifier: { "resource-id" : "com.android.chrome:id/url_bar" };
+event: send_keys_enter;
+input: chess.com;

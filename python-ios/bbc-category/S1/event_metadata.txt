@@ -1,0 +1,4 @@
+pathToElementImageCrop: bbc-category/S1/pngs/64.0_436.0_388.0_474.0.png;
+coords: {'x1': 64.0, 'y1': 436.0, 'x2': 388.0, 'y2': 474.0};
+text_identifier: { "label" : "Coronavirus pandemic" };
+event: click;

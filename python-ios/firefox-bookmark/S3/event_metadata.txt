@@ -1,0 +1,4 @@
+pathToElementImageCrop: firefox-bookmark/S3/pngs/124.0_652.0_436.0_694.0.png;
+coords: {'x1': 124.0, 'y1': 652.0, 'x2': 436.0, 'y2': 694.0};
+text_identifier: { "label" : "Bookmark This Page" };
+event: click;

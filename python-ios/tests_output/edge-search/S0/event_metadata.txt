@@ -1,0 +1,4 @@
+pathToElementImageCrop: edge-search/S0/pngs/82.0_270.0_502.00000000000006_370.0.png;
+coords: {'x1': 82.0, 'y1': 270.0, 'x2': 502.00000000000006, 'y2': 370.0};
+text_identifier: { "label" : "Search or enter web address" };
+event: click;

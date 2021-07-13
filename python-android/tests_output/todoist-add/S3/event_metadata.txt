@@ -1,0 +1,4 @@
+pathToElementImageCrop: todoist-add/S3/pngs/0_171_1080_1463.png;
+coords: {'x1': 0, 'y1': 171, 'x2': 1080, 'y2': 1463};
+text_identifier: { "resource-id" : "com.todoist:id/content_fragment_container" , "resource-id" : "com.todoist:id/frame" , "resource-id" : "com.todoist:id/content_toolbar_container" , "resource-id" : "com.todoist:id/content_swipe_refresh_layout" , "resource-id" : "com.todoist:id/quick_add_item_container" , "resource-id" : "android:id/list" };
+event: click;

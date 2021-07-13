@@ -1,0 +1,5 @@
+pathToElementImageCrop: guardian-category/S2/pngs/44_768_926_988.png;
+coords: {'x1': 44, 'y1': 768, 'x2': 926, 'y2': 988};
+text_identifier: { "resource-id" : "com.guardian:id/tvTrail" };
+event: oracle;
+oracle-type: widget_exists;

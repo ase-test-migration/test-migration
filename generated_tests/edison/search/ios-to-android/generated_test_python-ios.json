@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "python-ios",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "Search",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.easilydo.mail:id/email_search_toolbar_edittext",
+                "event": "send_keys",
+                "input": "Testing 1"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "Testing 1 search term"
+            }
+        ]
+    }
+}

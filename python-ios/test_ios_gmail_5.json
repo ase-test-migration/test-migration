@@ -1,0 +1,49 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "gmail-reply",
+            "events": [
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//XCUIElementTypeCell[@name=\"Testing\"]/XCUIElementTypeOther"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeButton[@name=\"Reply\"])[2]"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "send_keys",
+                    "tag": "Email subject",
+                    "input": "Testing 2"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Send button"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Back"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Testing 2"
+                }
+            ]
+        }
+    ]
+}

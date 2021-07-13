@@ -1,0 +1,5 @@
+pathToElementImageCrop: guardian-category/S2/pngs/32.0_485.99999999999994_574.0_614.0.png;
+coords: {'x1': 32.0, 'y1': 485.99999999999994, 'x2': 574.0, 'y2': 614.0};
+text_identifier: {  };
+event: oracle;
+oracle-type: widget_exists;

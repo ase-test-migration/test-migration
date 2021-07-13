@@ -1,0 +1,4 @@
+pathToElementImageCrop: usa-mynews/S2/pngs/915.0000000000001_344.99999999999994_1182.0_419.99999999999994.png;
+coords: {'x1': 915.0000000000001, 'y1': 344.99999999999994, 'x2': 1182.0, 'y2': 419.99999999999994};
+text_identifier: { "label" : "Add Topic" };
+event: click;

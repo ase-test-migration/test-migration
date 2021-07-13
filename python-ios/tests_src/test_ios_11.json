@@ -1,0 +1,47 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer"
+    },
+    "tests" : [
+        {
+            "name" : "testNYTsettings",
+            "events": [
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "2ndTabBarButton",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "SettingsBarButton",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "notificationSettings",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "xPath", 
+                    "tag" : "(//XCUIElementTypeSwitch[@name=\"StatusSwitch\"])[1]",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "xPath", 
+                    "tag" : "(//XCUIElementTypeSwitch[@name=\"StatusSwitch\"])[2]",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "xPath", 
+                    "tag" : "(//XCUIElementTypeSwitch[@name=\"StatusSwitch\"])[3]",
+                    "event" : "click" 
+                }
+            ]
+        }
+    ]
+}

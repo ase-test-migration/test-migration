@@ -1,0 +1,4 @@
+pathToElementImageCrop: gTask-delList/S0/pngs/638.0_1218.0_750.0_1330.0.png;
+coords: {'x1': 638.0, 'y1': 1218.0, 'x2': 750.0, 'y2': 1330.0};
+text_identifier: { "name" : "List options" };
+event: click;

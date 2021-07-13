@@ -1,0 +1,54 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "firefox-bookmark",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "url"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "send_keys_enter",
+                    "tag": "address",
+                    "input": "google.com"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "TabLocationView.pageOptionsButton"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Bookmark This Page"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "TabToolbar.menuButton"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Your Library"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Google"
+                }
+            ]
+        }
+    ]
+}

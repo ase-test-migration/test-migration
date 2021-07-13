@@ -1,0 +1,31 @@
+{
+    "desiredCapabilities": {
+          "platformName": "iOS",
+          "platformVersion": "13.3.1",
+          "deviceName": "Someone's iPhone",
+          "udid": "auto",
+          "xcodeOrgId": "X9EN5J4J22",
+          "xcodeSigningId": "iPhone Developer"
+    },
+    "tests" : [
+        {
+            "name" : "testAOLVideo",
+            "events": [
+                {
+                    "event": "click",
+                    "tag": "//XCUIElementTypeApplication[@name=\"AOL\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]",
+                    "type": "xPath"
+                },
+                {
+                    "event": "click",
+                    "tag": "AccId_MenuIcon_Videos",
+                    "type": "accessibilityId"
+                }
+            ]
+
+
+
+
+    }
+    ]
+}

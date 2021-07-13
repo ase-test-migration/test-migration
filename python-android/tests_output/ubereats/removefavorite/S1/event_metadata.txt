@@ -1,0 +1,4 @@
+pathToElementImageCrop: removefavorite/S1/pngs/0_609_1080_777.png;
+coords: {'x1': 0, 'y1': 609, 'x2': 1080, 'y2': 777};
+text_identifier: { "content-desc" : "Your Favorites" };
+event: click;

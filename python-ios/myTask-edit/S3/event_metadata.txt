@@ -1,0 +1,5 @@
+pathToElementImageCrop: myTask-edit/S3/pngs/150.0_360.0_1065.0_480.0.png;
+coords: {'x1': 150.0, 'y1': 360.0, 'x2': 1065.0, 'y2': 480.0};
+text_identifier: { "value" : "My Task" };
+event: send_keys_enter;
+input: Edited Task;

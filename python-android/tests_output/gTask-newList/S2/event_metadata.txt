@@ -1,0 +1,5 @@
+pathToElementImageCrop: gTask-newList/S2/pngs/0_224_1080_365.png;
+coords: {'x1': 0, 'y1': 224, 'x2': 1080, 'y2': 365};
+text_identifier: { "resource-id" : "com.google.android.apps.tasks:id/edit_list_title" };
+event: send_keys;
+input: Sample List;

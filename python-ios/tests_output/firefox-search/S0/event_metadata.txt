@@ -1,0 +1,4 @@
+pathToElementImageCrop: firefox-search/S0/pngs/34.0_92.0_736.0_138.0.png;
+coords: {'x1': 34.0, 'y1': 92.0, 'x2': 736.0, 'y2': 138.0};
+text_identifier: { "label" : "Address Bar" };
+event: click;

@@ -1,0 +1,108 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = To Do\l|label = To Do\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 113\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/0.0_40.0_750.0_266.0.png\l}"]
+	10	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 133\l|width = 375\l|height = 486\l|index = 1\l|numberOfChildren = 7\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/0.0_266.0_750.0_1238.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 619\l|width = 375\l|height = 48\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/0.0_1238.0_750.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|name = Dismiss detail view\l|label = Dismiss detail view\l|enabled = true\l|visible = true\l|x = 10\l|y = 22\l|width = 309\l|height = 45\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/20.0_44.0_638.0_134.0.png\l}"]
+	13	[label="{type = XCUIElementTypeTextView\l|value = Test01\l|name = Task title\l|label = Task title\l|enabled = true\l|visible = true\l|x = 59\l|y = 91\l|width = 261\l|height = 26\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/118.0_181.99999999999997_640.0_233.99999999999997.png\l}"]
+	14	[label="{type = XCUIElementTypeButton\l|value = 0\l|name = screenreader_task_check_button\l|label = Un-selected Test01\l|enabled = true\l|visible = true\l|x = 10\l|y = 82\l|width = 44\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/20.0_164.0_108.0_252.0.png\l}"]
+	15	[label="{type = XCUIElementTypeButton\l|name = Important task\l|label = Important task\l|enabled = true\l|visible = true\l|x = 336\l|y = 91\l|width = 24\l|height = 24\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/672.0_181.99999999999997_720.0_229.99999999999997.png\l}"]
+	16	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 133\l|width = 375\l|height = 61\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/0.0_266.0_750.0_388.0.png\l}"]
+	17	[label="{type = XCUIElementTypeCell\l|name = Added to My Day\l|label = Added to My Day\l|enabled = true\l|visible = true\l|x = 0\l|y = 194\l|width = 375\l|height = 58\l|index = 1\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/0.0_388.0_750.0_504.0.png\l}"]
+	18	[label="{type = XCUIElementTypeCell\l|name = Remind me\l|label = Remind me\l|enabled = true\l|visible = true\l|x = 0\l|y = 252\l|width = 375\l|height = 58\l|index = 2\l|numberOfChildren = 3\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/0.0_504.0_750.0_620.0.png\l}"]
+	19	[label="{type = XCUIElementTypeCell\l|name = Add due date\l|label = Add due date\l|enabled = true\l|visible = true\l|x = 0\l|y = 310\l|width = 375\l|height = 58\l|index = 3\l|numberOfChildren = 3\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/0.0_620.0_750.0_736.0.png\l}"]
+	20	[label="{type = XCUIElementTypeCell\l|name = Repeat\l|label = Repeat\l|enabled = true\l|visible = true\l|x = 0\l|y = 368\l|width = 375\l|height = 58\l|index = 4\l|numberOfChildren = 4\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/0.0_736.0_750.0_852.0.png\l}"]
+	21	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 426\l|width = 375\l|height = 56\l|index = 5\l|numberOfChildren = 2\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/0.0_852.0000000000001_750.0_964.0000000000001.png\l}"]
+	22	[label="{type = XCUIElementTypeCell\l|name = Add a note\l|label = Add a note\l|enabled = true\l|visible = true\l|x = 0\l|y = 482\l|width = 375\l|height = 135\l|index = 6\l|numberOfChildren = 3\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/0.0_964.0_750.0_1234.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 619\l|width = 375\l|height = 48\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/0.0_1238.0_750.0_1334.0.png\l}"]
+	24	[label="{type = XCUIElementTypeTextView\l|name = Test01\l|label = Test01\l|enabled = true\l|visible = true\l|x = 64\l|y = 91\l|width = 64\l|height = 26\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/128.0_181.99999999999997_256.0_233.99999999999997.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 133\l|width = 375\l|height = 61\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/0.0_266.0_750.0_388.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 192\l|width = 360\l|height = 1\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/30.0_383.99999999999994_750.0_385.99999999999994.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 193\l|width = 343\l|height = 1\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/32.0_386.0_718.0_388.0.png\l}"]
+	28	[label="{type = XCUIElementTypeTextField\l|value = Add Step\l|label = \l|enabled = true\l|visible = true\l|x = 64\l|y = 149\l|width = 287\l|height = 21\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/128.0_298.0_702.0_340.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 250\l|width = 360\l|height = 1\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/30.0_499.99999999999994_750.0_501.99999999999994.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 251\l|width = 343\l|height = 1\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/32.0_502.0_718.0_504.0.png\l}"]
+	31	[label="{type = XCUIElementTypeButton\l|name = S\l|label = S\l|enabled = true\l|visible = true\l|x = 321\l|y = 194\l|width = 49\l|height = 58\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/642.0_388.0_740.0_504.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 64\l|y = 203\l|width = 257\l|height = 40\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/128.0_406.0_642.0_486.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 308\l|width = 360\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/30.0_616.0_750.0_618.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 64\l|y = 261\l|width = 257\l|height = 40\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/128.0_522.0_642.0_602.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 366\l|width = 360\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/30.0_732.0_750.0_734.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 64\l|y = 319\l|width = 257\l|height = 40\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/128.0_638.0_642.0_718.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 424\l|width = 360\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/30.0_848.0_750.0_850.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 425\l|width = 343\l|height = 1\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/32.0_849.9999999999999_718.0_851.9999999999999.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 64\l|y = 377\l|width = 257\l|height = 40\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/128.0_753.9999999999999_642.0_833.9999999999999.png\l}"]
+	40	[label="{type = XCUIElementTypeStaticText\l|value = Add File\l|name = Add File\l|label = Add File\l|enabled = true\l|visible = true\l|x = 64\l|y = 444\l|width = 311\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/128.0_888.0_750.0_928.0.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 481\l|width = 343\l|height = 1\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/32.0_962.0_718.0_964.0.png\l}"]
+	42	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 482\l|width = 375\l|height = 135\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/0.0_964.0_750.0_1234.0.png\l}"]
+	43	[label="{type = XCUIElementTypeStaticText\l|value = Add Note\l|name = Add Note\l|label = Add Note\l|enabled = true\l|visible = true\l|x = 16\l|y = 498\l|width = 69\l|height = 24\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/32.0_996.0_170.0_1044.0.png\l}"]
+	44	[label="{type = XCUIElementTypeStaticText\l|value = Created a minute ago\l|name = Created a minute ago\l|label = Created a minute ago\l|enabled = true\l|visible = true\l|x = 60\l|y = 627\l|width = 255\l|height = 32\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/120.0_1254.0_630.0_1318.0.png\l}"]
+	45	[label="{type = XCUIElementTypeButton\l|name = Delete Test01\l|label = Delete Test01\l|enabled = true\l|visible = true\l|x = 315\l|y = 621\l|width = 44\l|height = 44\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/630.0_1242.0_718.0_1330.0.png\l}"]
+	46	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 133\l|width = 375\l|height = 61\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/0.0_266.0_750.0_388.0.png\l}"]
+	47	[label="{type = XCUIElementTypeStaticText\l|value = S\l|name = S\l|label = S\l|enabled = true\l|visible = true\l|x = 337\l|y = 214\l|width = 17\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/674.0_428.0_708.0_464.0.png\l}"]
+	48	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 616\l|width = 343\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/32.0_1232.0_718.0_1234.0.png\l}"]
+	49	[label="{type = XCUIElementTypeStaticText\l|value = s\l|name = s\l|label = s\l|enabled = true\l|visible = true\l|x = 325\l|y = 630\l|width = 24\l|height = 26\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-delTask/S2/pngs/650.0_1260.0_698.0_1312.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	8 -> 9
+	8 -> 10
+	8 -> 11
+	9 -> 12
+	9 -> 13
+	9 -> 14
+	9 -> 15
+	10 -> 16
+	10 -> 17
+	10 -> 18
+	10 -> 19
+	10 -> 20
+	10 -> 21
+	10 -> 22
+	11 -> 23
+	13 -> 24
+	16 -> 25
+	16 -> 26
+	16 -> 27
+	16 -> 28
+	17 -> 29
+	17 -> 30
+	17 -> 31
+	17 -> 32
+	18 -> 33
+	18 -> 34
+	19 -> 35
+	19 -> 36
+	20 -> 37
+	20 -> 38
+	20 -> 39
+	21 -> 40
+	21 -> 41
+	22 -> 42
+	22 -> 43
+	23 -> 44
+	23 -> 45
+	25 -> 46
+	31 -> 47
+	42 -> 48
+	45 -> 49
+
+
+}

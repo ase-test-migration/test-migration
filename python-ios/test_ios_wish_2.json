@@ -1,0 +1,34 @@
+{
+    "tests": [
+        {
+            "name": "wish-addCart", 
+            "events": [
+                {
+                    "tag": "productCell_5eaa3c1d30aec61fe69644a9", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "actionButton", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                },
+                {
+                    "tag": "checkoutButton", 
+                    "type": "accessibilityId",
+                    "event": "oracle",
+                    "oracle-type": "widget_exists"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "Someone's iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "13.4.1", 
+        "platformName": "iOS"
+    }
+}

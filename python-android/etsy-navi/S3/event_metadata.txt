@@ -1,0 +1,4 @@
+pathToElementImageCrop: etsy-navi/S3/pngs/21_401_530_1132.png;
+coords: {'x1': 21, 'y1': 401, 'x2': 530, 'y2': 1132};
+text_identifier: { "resource-id" : "com.etsy.android:id/listing_matte" };
+event: click;

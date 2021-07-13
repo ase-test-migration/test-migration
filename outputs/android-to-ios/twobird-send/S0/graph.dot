@@ -1,0 +1,116 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Twobird\l|label = Twobird\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|name = Inbox Last Week Thread Testing 1 search term Thread Testing 1 search term Thread Something else Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|label = Inbox Last Week Thread Testing 1 search term Thread Testing 1 search term Thread Something else Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|name = Inbox Last Week Thread Testing 1 search term Thread Testing 1 search term Thread Something else Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|label = Inbox Last Week Thread Testing 1 search term Thread Testing 1 search term Thread Something else Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|name = Inbox Last Week Thread Testing 1 search term Thread Testing 1 search term Thread Something else Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|label = Inbox Last Week Thread Testing 1 search term Thread Testing 1 search term Thread Something else Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|name = Inbox Last Week Thread Testing 1 search term Thread Testing 1 search term Thread Something else Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|label = Inbox Last Week Thread Testing 1 search term Thread Testing 1 search term Thread Something else Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|name = Inbox Last Week Thread Testing 1 search term Thread Testing 1 search term Thread Something else Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|label = Inbox Last Week Thread Testing 1 search term Thread Testing 1 search term Thread Something else Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|name = Inbox Last Week Thread Testing 1 search term Thread Testing 1 search term Thread Something else Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|label = Inbox Last Week Thread Testing 1 search term Thread Testing 1 search term Thread Something else Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|name = Inbox Last Week Thread Testing 1 search term Thread Testing 1 search term Thread Something else Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|label = Inbox Last Week Thread Testing 1 search term Thread Testing 1 search term Thread Something else Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 244\l|y = 606\l|width = 119\l|height = 49\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/487.99999999999994_1212.0_726.0_1310.0.png\l}"]
+	20	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 244\l|y = 606\l|width = 119\l|height = 49\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/487.99999999999994_1212.0_726.0_1310.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|name = Inbox Last Week Thread Testing 1 search term Thread Testing 1 search term Thread Something else\l|label = Inbox Last Week Thread Testing 1 search term Thread Testing 1 search term Thread Something else\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 349\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_40.0_750.0_738.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 1 page\l|label = Vertical scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 342\l|y = 20\l|width = 30\l|height = 647\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/684.0_40.0_744.0_1334.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 634\l|width = 375\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_1268.0_750.0_1328.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 244\l|y = 606\l|width = 59\l|height = 49\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/487.99999999999994_1212.0_606.0_1310.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 304\l|y = 606\l|width = 59\l|height = 49\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/608.0_1212.0_726.0_1310.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|name = Inbox\l|label = Inbox\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 97\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_40.0_750.0_234.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|name = Last Week\l|label = Last Week\l|enabled = true\l|visible = true\l|x = 0\l|y = 117\l|width = 375\l|height = 24\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_234.0_750.0_282.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|name = Thread Testing 1 search term\l|label = Thread Testing 1 search term\l|enabled = true\l|visible = true\l|x = 0\l|y = 141\l|width = 375\l|height = 96\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_282.0_750.0_474.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|name = Thread Testing 1 search term\l|label = Thread Testing 1 search term\l|enabled = true\l|visible = true\l|x = 0\l|y = 237\l|width = 375\l|height = 76\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_474.0_750.0_626.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|name = Thread Something else\l|label = Thread Something else\l|enabled = true\l|visible = true\l|x = 0\l|y = 313\l|width = 375\l|height = 56\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_626.0_750.0_738.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|name = Inbox\l|label = Inbox\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 97\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_40.0_750.0_234.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|name = Last Week\l|label = Last Week\l|enabled = true\l|visible = true\l|x = 0\l|y = 117\l|width = 375\l|height = 24\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_234.0_750.0_282.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|name = Thread Testing 1 search term\l|label = Thread Testing 1 search term\l|enabled = true\l|visible = true\l|x = 0\l|y = 141\l|width = 375\l|height = 96\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_282.0_750.0_474.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|name = Thread Testing 1 search term\l|label = Thread Testing 1 search term\l|enabled = true\l|visible = true\l|x = 0\l|y = 237\l|width = 375\l|height = 76\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_474.0_750.0_626.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|name = Thread Something else\l|label = Thread Something else\l|enabled = true\l|visible = true\l|x = 0\l|y = 313\l|width = 375\l|height = 56\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_626.0_750.0_738.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 48\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_40.0_750.0_136.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|name = Inbox\l|label = Inbox\l|enabled = true\l|visible = true\l|x = 0\l|y = 68\l|width = 375\l|height = 48\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_136.0_750.0_232.0.png\l}"]
+	39	[label="{type = XCUIElementTypeStaticText\l|value = Last Week\l|name = Last Week\l|label = Last Week\l|enabled = true\l|visible = true\l|x = 0\l|y = 118\l|width = 375\l|height = 23\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_236.0_750.0_282.0.png\l}"]
+	40	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 141\l|width = 375\l|height = 96\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_282.0_750.0_474.0.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 237\l|width = 375\l|height = 76\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_474.0_750.0_626.0.png\l}"]
+	42	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 313\l|width = 375\l|height = 56\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_626.0_750.0_738.0.png\l}"]
+	43	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 26\l|width = 28\l|height = 36\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/32.0_52.0_88.0_124.0.png\l}"]
+	44	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 323\l|y = 26\l|width = 36\l|height = 36\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/646.0_52.0_718.0_124.0.png\l}"]
+	45	[label="{type = XCUIElementTypeStaticText\l|value = Inbox\l|name = Inbox\l|label = Inbox\l|enabled = true\l|visible = true\l|x = 16\l|y = 73\l|width = 343\l|height = 38\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/32.0_146.0_718.0_222.0.png\l}"]
+	46	[label="{type = XCUIElementTypeOther\l|name = Thread Testing 1 search term\l|label = Thread Testing 1 search term\l|enabled = true\l|visible = true\l|x = 0\l|y = 141\l|width = 375\l|height = 96\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_282.0_750.0_474.0.png\l}"]
+	47	[label="{type = XCUIElementTypeOther\l|name = Thread Testing 1 search term\l|label = Thread Testing 1 search term\l|enabled = true\l|visible = true\l|x = 0\l|y = 237\l|width = 375\l|height = 76\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_474.0_750.0_626.0.png\l}"]
+	48	[label="{type = XCUIElementTypeOther\l|name = Thread Something else\l|label = Thread Something else\l|enabled = true\l|visible = true\l|x = 0\l|y = 313\l|width = 375\l|height = 56\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_626.0_750.0_738.0.png\l}"]
+	49	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 26\l|width = 36\l|height = 36\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/16.0_52.0_88.0_124.0.png\l}"]
+	50	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 323\l|y = 26\l|width = 36\l|height = 36\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/646.0_52.0_718.0_124.0.png\l}"]
+	51	[label="{type = XCUIElementTypeOther\l|name = Thread Testing 1 search term\l|label = Thread Testing 1 search term\l|enabled = true\l|visible = true\l|x = 0\l|y = 141\l|width = 375\l|height = 96\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_282.0_750.0_474.0.png\l}"]
+	52	[label="{type = XCUIElementTypeOther\l|name = Thread Testing 1 search term\l|label = Thread Testing 1 search term\l|enabled = true\l|visible = true\l|x = 0\l|y = 237\l|width = 375\l|height = 76\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_474.0_750.0_626.0.png\l}"]
+	53	[label="{type = XCUIElementTypeOther\l|name = Thread Something else\l|label = Thread Something else\l|enabled = true\l|visible = true\l|x = 0\l|y = 313\l|width = 375\l|height = 56\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/twobird-send/S0/pngs/0.0_626.0_750.0_738.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	8 -> 9
+	9 -> 10
+	10 -> 11
+	11 -> 12
+	12 -> 13
+	13 -> 14
+	14 -> 15
+	15 -> 16
+	16 -> 17
+	17 -> 18
+	17 -> 19
+	18 -> 20
+	19 -> 21
+	20 -> 22
+	20 -> 23
+	20 -> 24
+	21 -> 25
+	21 -> 26
+	22 -> 27
+	22 -> 28
+	22 -> 29
+	22 -> 30
+	22 -> 31
+	27 -> 32
+	28 -> 33
+	29 -> 34
+	30 -> 35
+	31 -> 36
+	32 -> 37
+	32 -> 38
+	33 -> 39
+	34 -> 40
+	35 -> 41
+	36 -> 42
+	37 -> 43
+	37 -> 44
+	38 -> 45
+	40 -> 46
+	41 -> 47
+	42 -> 48
+	43 -> 49
+	44 -> 50
+	46 -> 51
+	47 -> 52
+	48 -> 53
+
+
+}

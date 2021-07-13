@@ -1,0 +1,4 @@
+pathToElementImageCrop: gmail-send/S0/pngs/678.0_1116.0_804.0_1152.0.png;
+coords: {'x1': 678.0, 'y1': 1116.0, 'x2': 804.0, 'y2': 1152.0};
+text_identifier: { "label" : "Compose" };
+event: click;

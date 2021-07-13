@@ -1,0 +1,4 @@
+pathToElementImageCrop: abc-category/S1/pngs/20.0_740.0_730.0_840.0.png;
+coords: {'x1': 20.0, 'y1': 740.0, 'x2': 730.0, 'y2': 840.0};
+text_identifier: { "label" : "Reorder TECHNOLOGY" };
+event: click;

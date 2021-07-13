@@ -1,0 +1,4 @@
+pathToElementImageCrop: usa-mynews/S0/pngs/648_1608_864_1776.png;
+coords: {'x1': 648, 'y1': 1608, 'x2': 864, 'y2': 1848};
+text_identifier: { "text" : "" , "content-desc" : "My Topics" , "resource-id" : "com.usatoday.android.news:id/alerts_tab" };
+event: click;

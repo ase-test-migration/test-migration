@@ -1,0 +1,5 @@
+pathToElementImageCrop: usa-category/S2/pngs/40.0_800.0_710.0_1064.0.png;
+coords: {'x1': 40.0, 'y1': 800.0, 'x2': 710.0, 'y2': 1064.0};
+text_identifier: { "label" : "For most vulnerable, these clinics are trusted, accessible and vital to vaccine rollout" };
+event: oracle;
+oracle-type: widget_exists;

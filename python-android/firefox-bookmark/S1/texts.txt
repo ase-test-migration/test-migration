@@ -1,0 +1,5 @@
+{ "resource-id" : "org.mozilla.firefox:id/qr_scan_button" , "screenshotPath" : "firefox-bookmark/S1/pngs/0_1199_241_1309.png"}
+{ "resource-id" : "org.mozilla.firefox:id/search_engines_shortcut_button" , "screenshotPath" : "firefox-bookmark/S1/pngs/241_1199_645_1309.png"}
+{ "content-desc" : "Google, Search or enter address" , "resource-id" : "org.mozilla.firefox:id/toolbar" , "screenshotPath" : "firefox-bookmark/S1/pngs/0_1309_1080_1463.png"}
+{ "resource-id" : "org.mozilla.firefox:id/mozac_browser_toolbar_edit_url_view" , "screenshotPath" : "firefox-bookmark/S1/pngs/132_1331_948_1441.png"}
+{ "content-desc" : "Voice search" , "screenshotPath" : "firefox-bookmark/S1/pngs/948_1331_1058_1441.png"}

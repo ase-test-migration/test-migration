@@ -1,0 +1,4 @@
+pathToElementImageCrop: ikea-delCart/S1/pngs/630.0_422.0_726.0_520.0.png;
+coords: {'x1': 630.0, 'y1': 422.0, 'x2': 726.0, 'y2': 520.0};
+text_identifier: { "label" : "More actions" };
+event: click;

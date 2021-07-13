@@ -1,0 +1,172 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = CNN\l|label = CNN\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	9	[label="{type = XCUIElementTypeTabBar\l|enabled = true\l|visible = true\l|x = 0\l|y = 813\l|width = 414\l|height = 83\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_2439.0_1242.0_2688.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|name = Home\l|label = Home\l|enabled = true\l|visible = true\l|x = 2\l|y = 814\l|width = 80\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/6.0_2442.0_246.0_2586.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|name = Audio\l|label = Audio\l|enabled = true\l|visible = true\l|x = 85\l|y = 814\l|width = 80\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/255.0_2442.0_495.0_2586.0.png\l}"]
+	13	[label="{type = XCUIElementTypeButton\l|name = Search\l|label = Search\l|enabled = true\l|visible = true\l|x = 168\l|y = 814\l|width = 78\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/504.00000000000006_2442.0_738.0_2586.0.png\l}"]
+	14	[label="{type = XCUIElementTypeButton\l|name = Saved Stories\l|label = Saved Stories\l|enabled = true\l|visible = true\l|x = 249\l|y = 814\l|width = 80\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/747.0_2442.0_987.0_2586.0.png\l}"]
+	15	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = Settings\l|label = Settings\l|enabled = true\l|visible = true\l|x = 332\l|y = 814\l|width = 80\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/996.0_2442.0_1236.0_2586.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	17	[label="{type = XCUIElementTypeNavigationBar\l|name = Settings\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 44\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_132.0_1242.0_264.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	19	[label="{type = XCUIElementTypeStaticText\l|value = Settings\l|name = Settings\l|label = Settings\l|enabled = true\l|visible = true\l|x = 171\l|y = 54\l|width = 73\l|height = 25\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/513.0_162.0_732.0_237.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 725\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_264.0_1242.0_2439.0.png\l}"]
+	22	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 725\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_264.0_1242.0_2439.0.png\l}"]
+	23	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 118\l|width = 414\l|height = 87\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_354.0_1242.0_615.0.png\l}"]
+	24	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 235\l|width = 414\l|height = 120\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_705.0_1242.0_1065.0.png\l}"]
+	25	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 385\l|width = 414\l|height = 308\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_1155.0_1242.0_2079.0.png\l}"]
+	26	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 693\l|width = 414\l|height = 65\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_2079.0_1242.0_2274.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 1 page\l|label = Vertical scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 381\l|y = 88\l|width = 30\l|height = 725\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/1143.0_264.0_1233.0_2439.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 780\l|width = 414\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_2340.0_1242.0_2430.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 118\l|width = 414\l|height = 87\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_354.0_1242.0_615.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 235\l|width = 414\l|height = 120\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_705.0_1242.0_1065.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 385\l|width = 414\l|height = 308\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_1155.0_1242.0_2079.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 693\l|width = 414\l|height = 65\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_2079.0_1242.0_2274.0.png\l}"]
+	33	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 118\l|width = 414\l|height = 87\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_354.0_1242.0_615.0.png\l}"]
+	34	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 235\l|width = 414\l|height = 120\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_705.0_1242.0_1065.0.png\l}"]
+	35	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 385\l|width = 414\l|height = 308\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_1155.0_1242.0_2079.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 693\l|width = 414\l|height = 65\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_2079.0_1242.0_2274.0.png\l}"]
+	37	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 119\l|width = 414\l|height = 85\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_357.0_1242.0_612.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 204\l|width = 399\l|height = 2\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/45.0_612.0_1242.0_618.0.png\l}"]
+	39	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 236\l|width = 414\l|height = 118\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_708.0_1242.0_1062.0.png\l}"]
+	40	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 354\l|width = 399\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/45.0_1062.0_1242.0_1065.0.png\l}"]
+	41	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 386\l|width = 414\l|height = 306\l|numberOfChildren = 8\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_1158.0_1242.0_2076.0.png\l}"]
+	42	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 692\l|width = 399\l|height = 2\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/45.0_2076.0_1242.0_2082.0.png\l}"]
+	43	[label="{type = XCUIElementTypeButton\l|name = Version 6.11.1 / Build 8082\l|label = Version 6.11.1 / Build 8082\l|enabled = true\l|visible = true\l|x = 16\l|y = 693\l|width = 398\l|height = 65\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/48.0_2079.0_1242.0_2274.0.png\l}"]
+	44	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 119\l|width = 414\l|height = 44\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_357.0_1242.0_489.0.png\l}"]
+	45	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 163\l|width = 414\l|height = 44\l|numberOfChildren = 6\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_489.0_1242.0_621.0.png\l}"]
+	46	[label="{type = XCUIElementTypeCell\l|enabled = false\l|visible = true\l|x = 0\l|y = 236\l|width = 414\l|height = 60\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_708.0_1242.0_888.0.png\l}"]
+	47	[label="{type = XCUIElementTypeCell\l|enabled = false\l|visible = true\l|x = 0\l|y = 296\l|width = 414\l|height = 60\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_888.0_1242.0_1068.0.png\l}"]
+	48	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 386\l|width = 414\l|height = 44\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_1158.0_1242.0_1290.0.png\l}"]
+	49	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 430\l|width = 414\l|height = 44\l|numberOfChildren = 6\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_1290.0_1242.0_1422.0.png\l}"]
+	50	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 474\l|width = 414\l|height = 44\l|numberOfChildren = 6\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_1421.9999999999998_1242.0_1553.9999999999998.png\l}"]
+	51	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 518\l|width = 414\l|height = 44\l|numberOfChildren = 6\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_1554.0_1242.0_1686.0.png\l}"]
+	52	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 562\l|width = 414\l|height = 44\l|numberOfChildren = 6\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_1686.0000000000002_1242.0_1818.0000000000002.png\l}"]
+	53	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 606\l|width = 414\l|height = 44\l|numberOfChildren = 6\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_1818.0_1242.0_1950.0.png\l}"]
+	54	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 650\l|width = 414\l|height = 44\l|numberOfChildren = 6\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/0.0_1950.0_1242.0_2082.0.png\l}"]
+	55	[label="{type = XCUIElementTypeStaticText\l|value = Version 6.11.1 / Build 8082\l|name = Version 6.11.1 / Build 8082\l|label = Version 6.11.1 / Build 8082\l|enabled = true\l|visible = true\l|x = 16\l|y = 701\l|width = 163\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/48.0_2103.0_537.0_2160.0.png\l}"]
+	56	[label="{type = XCUIElementTypeStaticText\l|value = Edition\l|name = Edition\l|label = Edition\l|enabled = true\l|visible = true\l|x = 16\l|y = 129\l|width = 55\l|height = 23\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/48.0_386.99999999999994_213.0_455.99999999999994.png\l}"]
+	57	[label="{type = XCUIElementTypeStaticText\l|value = U.S.\l|name = U.S.\l|label = U.S.\l|enabled = true\l|visible = true\l|x = 351\l|y = 129\l|width = 30\l|height = 23\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/1053.0_386.99999999999994_1143.0_455.99999999999994.png\l}"]
+	58	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 162\l|width = 394\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/60.0_486.0_1242.0_489.0.png\l}"]
+	59	[label="{type = XCUIElementTypeStaticText\l|value = Alerts\l|name = Alerts\l|label = Alerts\l|enabled = true\l|visible = true\l|x = 16\l|y = 173\l|width = 46\l|height = 23\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/48.0_519.0_186.0_588.0.png\l}"]
+	60	[label="{type = XCUIElementTypeStaticText\l|value = Reader Mode\l|name = Reader Mode\l|label = Reader Mode\l|enabled = false\l|visible = true\l|x = 16\l|y = 248\l|width = 105\l|height = 14\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/48.0_744.0_363.0_786.0.png\l}"]
+	61	[label="{type = XCUIElementTypeStaticText\l|value = A text-only view of the newsfeed\l|name = A text-only view of the newsfeed\l|label = A text-only view of the newsfeed\l|enabled = false\l|visible = true\l|x = 16\l|y = 269\l|width = 191\l|height = 15\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/48.0_807.0_621.0_852.0.png\l}"]
+	62	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 295\l|width = 383\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/45.0_885.0000000000001_1194.0_888.0000000000001.png\l}"]
+	63	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 295\l|width = 394\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/60.0_885.0000000000001_1242.0_888.0000000000001.png\l}"]
+	64	[label="{type = XCUIElementTypeSwitch\l|value = 0\l|name = Reader Mode, A text-only view of the newsfeed\l|label = Reader Mode, A text-only view of the newsfeed\l|enabled = true\l|visible = true\l|x = 345\l|y = 250\l|width = 51\l|height = 32\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/1035.0_750.0_1188.0_846.0.png\l}"]
+	65	[label="{type = XCUIElementTypeStaticText\l|value = Enable 'This is CNN'\l|name = Enable 'This is CNN'\l|label = Enable 'This is CNN'\l|enabled = false\l|visible = true\l|x = 16\l|y = 308\l|width = 156\l|height = 14\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/48.0_924.0_516.0_966.0.png\l}"]
+	66	[label="{type = XCUIElementTypeStaticText\l|value = A sound effect when you open the app\l|name = A sound effect when you open the app\l|label = A sound effect when you open the app\l|enabled = false\l|visible = true\l|x = 16\l|y = 329\l|width = 228\l|height = 15\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/48.0_987.0_732.0_1032.0.png\l}"]
+	67	[label="{type = XCUIElementTypeSwitch\l|value = 0\l|name = Enable 'This is CNN', A sound effect when you open the app\l|label = Enable 'This is CNN', A sound effect when you open the app\l|enabled = true\l|visible = true\l|x = 345\l|y = 310\l|width = 51\l|height = 32\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/1035.0_930.0_1188.0_1026.0.png\l}"]
+	68	[label="{type = XCUIElementTypeStaticText\l|value = TV Login\l|name = TV Login\l|label = TV Login\l|enabled = true\l|visible = true\l|x = 16\l|y = 396\l|width = 67\l|height = 24\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/48.0_1188.0_249.0_1260.0.png\l}"]
+	69	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 429\l|width = 305\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/45.0_1287.0_960.0000000000001_1290.0.png\l}"]
+	70	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 429\l|width = 394\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/60.0_1287.0_1242.0_1290.0.png\l}"]
+	71	[label="{type = XCUIElementTypeStaticText\l|value = Feedback\l|name = Feedback\l|label = Feedback\l|enabled = true\l|visible = true\l|x = 16\l|y = 440\l|width = 77\l|height = 23\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/48.0_1320.0_279.0_1389.0.png\l}"]
+	72	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 473\l|width = 394\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/60.0_1419.0_1242.0_1422.0.png\l}"]
+	73	[label="{type = XCUIElementTypeStaticText\l|value = Contact Us\l|name = Contact Us\l|label = Contact Us\l|enabled = true\l|visible = true\l|x = 16\l|y = 484\l|width = 87\l|height = 23\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/48.0_1452.0_309.0_1521.0.png\l}"]
+	74	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 517\l|width = 394\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/60.0_1551.0_1242.0_1554.0.png\l}"]
+	75	[label="{type = XCUIElementTypeStaticText\l|value = Help For Closed Captioning\l|name = Help For Closed Captioning\l|label = Help For Closed Captioning\l|enabled = true\l|visible = true\l|x = 16\l|y = 528\l|width = 214\l|height = 23\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/48.0_1584.0_690.0_1653.0.png\l}"]
+	76	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 561\l|width = 394\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/60.0_1683.0_1242.0_1686.0.png\l}"]
+	77	[label="{type = XCUIElementTypeStaticText\l|value = Privacy Settings\l|name = Privacy Settings\l|label = Privacy Settings\l|enabled = true\l|visible = true\l|x = 16\l|y = 572\l|width = 125\l|height = 23\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/48.0_1715.9999999999998_423.0_1784.9999999999998.png\l}"]
+	78	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 605\l|width = 394\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/60.0_1815.0_1242.0_1818.0.png\l}"]
+	79	[label="{type = XCUIElementTypeStaticText\l|value = Privacy Policy\l|name = Privacy Policy\l|label = Privacy Policy\l|enabled = true\l|visible = true\l|x = 16\l|y = 616\l|width = 106\l|height = 23\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/48.0_1848.0_366.00000000000006_1917.0.png\l}"]
+	80	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 649\l|width = 394\l|height = 2\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/60.0_1946.9999999999998_1242.0_1952.9999999999998.png\l}"]
+	81	[label="{type = XCUIElementTypeStaticText\l|value = Terms of Service\l|name = Terms of Service\l|label = Terms of Service\l|enabled = true\l|visible = true\l|x = 16\l|y = 660\l|width = 130\l|height = 23\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S1/pngs/48.0_1980.0000000000002_438.0_2049.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	7 -> 9
+	8 -> 10
+	9 -> 11
+	9 -> 12
+	9 -> 13
+	9 -> 14
+	9 -> 15
+	10 -> 16
+	16 -> 17
+	16 -> 18
+	17 -> 19
+	18 -> 20
+	20 -> 21
+	21 -> 22
+	22 -> 23
+	22 -> 24
+	22 -> 25
+	22 -> 26
+	22 -> 27
+	22 -> 28
+	23 -> 29
+	24 -> 30
+	25 -> 31
+	26 -> 32
+	29 -> 33
+	30 -> 34
+	31 -> 35
+	32 -> 36
+	33 -> 37
+	33 -> 38
+	34 -> 39
+	34 -> 40
+	35 -> 41
+	35 -> 42
+	36 -> 43
+	37 -> 44
+	37 -> 45
+	39 -> 46
+	39 -> 47
+	41 -> 48
+	41 -> 49
+	41 -> 50
+	41 -> 51
+	41 -> 52
+	41 -> 53
+	41 -> 54
+	43 -> 55
+	44 -> 56
+	44 -> 57
+	44 -> 58
+	45 -> 59
+	46 -> 60
+	46 -> 61
+	46 -> 62
+	46 -> 63
+	46 -> 64
+	47 -> 65
+	47 -> 66
+	47 -> 67
+	48 -> 68
+	48 -> 69
+	48 -> 70
+	49 -> 71
+	49 -> 72
+	50 -> 73
+	50 -> 74
+	51 -> 75
+	51 -> 76
+	52 -> 77
+	52 -> 78
+	53 -> 79
+	53 -> 80
+	54 -> 81
+
+
+}

@@ -1,0 +1,5 @@
+pathToElementImageCrop: McD-search/S3/pngs/63_243_770_291.png;
+coords: {'x1': 63, 'y1': 243, 'x2': 770, 'y2': 291};
+text_identifier: { "resource-id" : "com.mcdonalds.app:id/search_text" };
+event: send_keys_enter;
+input: 90007;

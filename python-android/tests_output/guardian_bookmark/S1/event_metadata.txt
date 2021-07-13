@@ -1,0 +1,4 @@
+pathToElementImageCrop: guardian_bookmark/S1/pngs/959_91_1069_201.png;
+coords: {'x1': 959, 'y1': 91, 'x2': 1069, 'y2': 201};
+text_identifier: { "content-desc" : "Save for later" , "resource-id" : "com.guardian:id/bSavePage" };
+event: click;

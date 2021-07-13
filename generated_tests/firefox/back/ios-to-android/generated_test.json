@@ -1,0 +1,19 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "firefox-back",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "Search or enter address",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "org.mozilla.firefox:id/mozac_browser_toolbar_edit_url_view",
+                "event": "send_keys_enter",
+                "input": "google.com"
+            }
+        ]
+    }
+}

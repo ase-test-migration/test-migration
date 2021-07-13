@@ -1,0 +1,4 @@
+pathToElementImageCrop: etsy-navi/S1/pngs/84_303_1006_350.png;
+coords: {'x1': 84, 'y1': 303, 'x2': 1006, 'y2': 350};
+text_identifier: { "resource-id" : "com.etsy.android:id/clg_line_item_text" };
+event: click;

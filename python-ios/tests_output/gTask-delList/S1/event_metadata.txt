@@ -1,0 +1,4 @@
+pathToElementImageCrop: gTask-delList/S1/pngs/32.0_1106.0_718.0_1142.0.png;
+coords: {'x1': 32.0, 'y1': 1106.0, 'x2': 718.0, 'y2': 1142.0};
+text_identifier: { "name" : "Delete list" };
+event: click;

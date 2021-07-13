@@ -1,0 +1,4 @@
+pathToElementImageCrop: mytasks-mytasks-remove/S2/pngs/376.0_704.0_646.0_792.0.png;
+coords: {'x1': 376.0, 'y1': 704.0, 'x2': 646.0, 'y2': 792.0};
+text_identifier: { "label" : "Delete" };
+event: click;

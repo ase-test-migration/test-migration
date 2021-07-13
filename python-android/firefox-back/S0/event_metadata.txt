@@ -1,0 +1,4 @@
+pathToElementImageCrop: firefox-back/S0/pngs/143_2043_576_2099.png;
+coords: {'x1': 143, 'y1': 2043, 'x2': 576, 'y2': 2099};
+text_identifier: { "resource-id" : "org.mozilla.firefox:id/toolbar" };
+event: click;

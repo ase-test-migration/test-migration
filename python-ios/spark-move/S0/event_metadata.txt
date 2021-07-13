@@ -1,0 +1,4 @@
+pathToElementImageCrop: spark-move/S0/pngs/0.0_352.0_750.0_528.0.png;
+coords: {'x1': 0.0, 'y1': 352.0, 'x2': 750.0, 'y2': 528.0};
+text_identifier: { "name" : "Testing" };
+event: click;

@@ -1,0 +1,6 @@
+pathToElementImageCrop: ;
+coords: ;
+text_identifier: { A grand tour of Britain: 10 cultural highlights, chosen by readers };
+event: oracle;
+oracle-type: text_exists;
+input: A grand tour of Britain: 10 cultural highlights, chosen by readers;

@@ -1,0 +1,4 @@
+pathToElementImageCrop: edison-move/S3/pngs/0_171_154_314.png;
+coords: {'x1': 0, 'y1': 171, 'x2': 154, 'y2': 314};
+text_identifier: { "content-desc" : "Open navigation drawer" };
+event: click;

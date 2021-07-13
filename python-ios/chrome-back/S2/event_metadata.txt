@@ -1,0 +1,4 @@
+pathToElementImageCrop: chrome-back/S2/pngs/20.0_47.99999999999999_730.0_120.0.png;
+coords: {'x1': 20.0, 'y1': 47.99999999999999, 'x2': 730.0, 'y2': 120.0};
+text_identifier: { "label" : "Address and search bar" };
+event: click;

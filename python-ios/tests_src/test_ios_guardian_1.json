@@ -1,0 +1,28 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "guardian_bookmark",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "US House: Republicans take no action against Cheney or extremist Greene after vote"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Save for later"
+                }
+            ]
+        }
+    ]
+}

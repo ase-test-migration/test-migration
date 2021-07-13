@@ -1,0 +1,33 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "testGtransSaved",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "StarButton"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//XCUIElementTypeCell[@name=\"Saved\"]/XCUIElementTypeButton[1]"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//XCUIElementTypeCell[@name=\"SavedContent:en:es:Hello\"]/XCUIElementTypeOther[3]"
+                }
+            ]
+        }
+    ]
+}

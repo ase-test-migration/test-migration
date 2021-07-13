@@ -1,0 +1,17 @@
+{ "resource-id" : "com.etsy.android:id/app_bar_toolbar" , "screenshotPath" : "etsy-add-to-cart/S0/pngs/0_72_1080_240.png"}
+{ "content-desc" : "Home tab, 1 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_home" , "screenshotPath" : "etsy-add-to-cart/S0/pngs/0_1608_216_1776.png"}
+{ "content-desc" : "Favorites tab, 2 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_favorites" , "screenshotPath" : "etsy-add-to-cart/S0/pngs/216_1608_432_1776.png"}
+{ "content-desc" : "Updates tab, 3 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_updates" , "screenshotPath" : "etsy-add-to-cart/S0/pngs/432_1608_648_1776.png"}
+{ "content-desc" : "You tab, 4 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_you" , "screenshotPath" : "etsy-add-to-cart/S0/pngs/648_1608_864_1776.png"}
+{ "content-desc" : "Cart tab, 5 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_cart" , "screenshotPath" : "etsy-add-to-cart/S0/pngs/864_1608_1080_1776.png"}
+{ "content-desc" : "Search for anything on Etsy" , "screenshotPath" : "etsy-add-to-cart/S0/pngs/0_72_168_240.png"}
+{ "resource-id" : "com.etsy.android:id/view_pager" , "screenshotPath" : "etsy-add-to-cart/S0/pngs/0_240_1080_1608.png"}
+{ "resource-id" : "com.etsy.android:id/recycler_view" , "screenshotPath" : "etsy-add-to-cart/S0/pngs/0_240_1080_1608.png"}
+{ "resource-id" : "com.etsy.android:id/horizontal_recycler_view" , "screenshotPath" : "etsy-add-to-cart/S0/pngs/0_263_1080_731.png"}
+{ "resource-id" : "com.etsy.android:id/horizontal_recycler_view" , "screenshotPath" : "etsy-add-to-cart/S0/pngs/0_856_1080_1324.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-add-to-cart/S0/pngs/48_1473_516_1608.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-add-to-cart/S0/pngs/564_1473_1032_1608.png"}
+{ "resource-id" : "com.etsy.android:id/search_src_text" , "screenshotPath" : "etsy-add-to-cart/S0/pngs/168_102_1080_210.png"}
+{ "content-desc" : "See more Similar to items you viewed" , "resource-id" : "com.etsy.android:id/headerViewAllLink" , "screenshotPath" : "etsy-add-to-cart/S0/pngs/805_1341_1056_1449.png"}
+{ "content-desc" : "Add Turkish Rug, 6.1x9.4 feet, Large Rug, Oriental Rug, Salon Rug, Living Room Rug, Vintage Rug, Antique Rug, Oushak Rug, Organic Rug, H-7315 to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-add-to-cart/S0/pngs/384_1497_492_1605.png"}
+{ "content-desc" : "Add Living Room Rug, Turkish Rug, 5.6x9 feet, Large Rug, Salon Rug, Vintage Rug, Handmade Rug, Oushak Rug, Organic Rug, Oriental Rug, SN-6561 to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-add-to-cart/S0/pngs/900_1497_1008_1605.png"}

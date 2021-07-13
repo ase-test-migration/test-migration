@@ -1,0 +1,4 @@
+pathToElementImageCrop: cnn-unbookmark/S0/pngs/380.00000000000006_1238.0_558.0_1334.0.png;
+coords: {'x1': 380.00000000000006, 'y1': 1238.0, 'x2': 558.0, 'y2': 1334.0};
+text_identifier: { "label" : "Saved Stories" };
+event: click;

@@ -1,0 +1,5 @@
+{ "content-desc" : "Compose" , "resource-id" : "com.google.android.gm:id/compose_button" , "screenshotPath" : "gmail-moveFolder/S4/pngs/891_2172_1038_2287.png"}
+{ "resource-id" : "com.google.android.gm:id/open_search" , "screenshotPath" : "gmail-moveFolder/S4/pngs/42_95_1038_226.png"}
+{ "resource-id" : "com.google.android.gm:id/conversation_list_parent_frame" , "screenshotPath" : "gmail-moveFolder/S4/pngs/0_74_1080_2287.png"}
+{ "content-desc" : "Open navigation drawer" , "screenshotPath" : "gmail-moveFolder/S4/pngs/42_95_189_226.png"}
+{ "content-desc" : "Signed in as TestUser Test email@example.com. Open account menu" , "resource-id" : "com.google.android.gm:id/selected_account_disc_gmail" , "screenshotPath" : "gmail-moveFolder/S4/pngs/904_97_1038_223.png"}

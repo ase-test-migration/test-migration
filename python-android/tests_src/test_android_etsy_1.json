@@ -1,0 +1,41 @@
+{
+    "tests": [
+        {
+            "name": "etsy-login", 
+            "events": [
+                {
+                    "tag": "You tab, 3 of 4", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "com.etsy.android:id/you_menu_sign_in_button", 
+                    "type": "id", 
+                    "event": "click"
+                }, 
+                {
+                    "input": "email@example.com", 
+                    "tag": "com.etsy.android:id/edit_username", 
+                    "type": "id", 
+                    "event": "send_keys"
+                }, 
+                {
+                    "input": "testtest123", 
+                    "tag": "com.etsy.android:id/edit_password", 
+                    "type": "id", 
+                    "event": "send_keys"
+                }, 
+                {
+                    "tag": "com.etsy.android:id/button_signin", 
+                    "type": "id", 
+                    "event": "click"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "emulator-5554", 
+        "platformName": "Android", 
+        "newCommandTimeout": 0
+    }
+}

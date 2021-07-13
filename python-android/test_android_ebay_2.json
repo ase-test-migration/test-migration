@@ -1,0 +1,39 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "ebay-filter",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Search Keyword Search for anything"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Keyword search xiaomi thermometer:"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Filter"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.ebay.mobile:id/call_to_action_button"
+                },
+                {
+                    "event": "oracle",
+                    "oracle-type": "text_exists",
+                    "input": "Xiaomi"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+pathToElementImageCrop: bbc-search/S2/pngs/60.0_267.0_1182.0_375.0.png;
+coords: {'x1': 60.0, 'y1': 267.0, 'x2': 1182.0, 'y2': 375.0};
+text_identifier: { "label" : "Search topics" };
+event: send_keys;
+input: travel;

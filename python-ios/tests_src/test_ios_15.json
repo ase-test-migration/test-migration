@@ -1,0 +1,42 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer"
+    },
+    "tests" : [
+        {
+            "name" : "testNYTautoPlay",
+            "events": [
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "2ndTabBarButton",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "SettingsBarButton",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "autoplayVideo",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "Never Autoplay Videos",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "xPath", 
+                    "tag" : "//XCUIElementTypeButton[@name=\"Settings\"]",
+                    "event" : "click" 
+                }
+            ]
+        }
+    ]
+}

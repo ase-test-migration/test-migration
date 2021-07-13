@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-filter/S2/pngs/839_231_1059_357.png;
+coords: {'x1': 839, 'y1': 231, 'x2': 1059, 'y2': 357};
+text_identifier: { "text" : "Filter" , "content-desc" : "Filter" , "resource-id" : "com.ebay.mobile:id/button_filter" };
+event: click;

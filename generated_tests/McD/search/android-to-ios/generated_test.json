@@ -1,0 +1,29 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "McD-search",
+        "events": [
+            {
+                "type": "name",
+                "tag": "ORDER",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "changeAddressOrLocation",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "toolbar_search",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "search",
+                "event": "send_keys_enter",
+                "input": "90007"
+            }
+        ]
+    }
+}

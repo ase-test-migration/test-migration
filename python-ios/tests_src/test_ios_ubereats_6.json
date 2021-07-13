@@ -1,0 +1,32 @@
+{
+    "tests": [
+        {
+            "name": "rateOrder", 
+            "events": [
+                {
+                    "tag": "Orders", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Rate food", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "3 stars", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+          "platformName": "iOS",
+          "platformVersion": "13.3.1",
+          "deviceName": "Someone's iPhone",
+          "udid": "auto",
+          "xcodeOrgId": "X9EN5J4J22",
+          "xcodeSigningId": "iPhone Developer"
+    }
+}

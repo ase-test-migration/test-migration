@@ -1,0 +1,8 @@
+{"name" : "Wish", "label" : "Wish", "screenshotPath" : "wish-delCart/S3/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "messageDialog", "screenshotPath" : "wish-delCart/S3/pngs/64.0_412.00000000000006_686.0_924.0.png"}
+{"name" : "closeDialogButton", "label" : "close", "screenshotPath" : "wish-delCart/S3/pngs/622.0_428.0_670.0_476.0.png"}
+{"value" : "Remove this item from cart?", "name" : "messageDialogHeaderLabel", "label" : "Remove this item from cart?", "screenshotPath" : "wish-delCart/S3/pngs/112.00000000000001_652.0_638.0_700.0.png"}
+{"name" : "messageDialogRemoveItem", "label" : "Remove item", "screenshotPath" : "wish-delCart/S3/pngs/112.00000000000001_730.0_638.0_812.0.png"}
+{"name" : "Save for later", "label" : "Save for later", "screenshotPath" : "wish-delCart/S3/pngs/112.00000000000001_842.0_638.0_876.0.png"}
+{"value" : "Remove item", "name" : "Remove item", "label" : "Remove item", "screenshotPath" : "wish-delCart/S3/pngs/286.0_752.0_464.0_790.0.png"}
+{"value" : "Save for later", "name" : "Save for later", "label" : "Save for later", "screenshotPath" : "wish-delCart/S3/pngs/286.0_840.0_464.0_878.0.png"}

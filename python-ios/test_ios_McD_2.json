@@ -1,0 +1,38 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "McD-removeFav",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "ORDER"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "changeAddressOrLocation"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Favorites"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeButton[@name=\"fav_icon\"])[1]"
+                }
+            ]
+        }
+    ]
+}

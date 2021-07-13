@@ -1,0 +1,132 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Grubhub\l|label = Grubhub\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeTabBar\l|name = bottom_bar_navigation\l|enabled = true\l|visible = true\l|x = 0\l|y = 813\l|width = 414\l|height = 83\l|numberOfChildren = 7\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_2439.0_1242.0_2688.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|name = cart_badge - (null)\l|enabled = true\l|visible = true\l|x = -2\l|y = 811\l|width = 28\l|height = 53\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/-6.0_2433.0_78.0_2592.0.png\l}"]
+	9	[label="{type = XCUIElementTypeButton\l|value = Restaurants\l|name = Search\l|label = Tab bar\l|enabled = true\l|visible = true\l|x = 2\l|y = 814\l|width = 100\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/6.0_2442.0_306.0_2586.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|value = My Grubhub\l|name = My Grubhub\l|label = Tab bar\l|enabled = true\l|visible = true\l|x = 106\l|y = 814\l|width = 99\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/318.00000000000006_2442.0_615.0_2586.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|value = Perks\l|name = Perks\l|label = Tab bar\l|enabled = true\l|visible = true\l|x = 209\l|y = 814\l|width = 100\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/627.0_2442.0_927.0_2586.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|value = Bag\l|name = Bag\l|label = Tab bar\l|enabled = true\l|visible = true\l|x = 313\l|y = 814\l|width = 99\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/939.0_2442.0_1236.0_2586.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	14	[label="{type = XCUIElementTypeNavigationBar\l|name = Restaurants\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 44\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_132.0_1242.0_264.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	16	[label="{type = XCUIElementTypeStaticText\l|value = Restaurants\l|name = Restaurants\l|label = Restaurants\l|enabled = true\l|visible = true\l|x = 156\l|y = 49\l|width = 102\l|height = 29\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/468.0_147.0_774.0_234.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 725\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_264.0_1242.0_2439.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|name = addressSearchBarContainerView\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 50\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_264.0_1242.0_414.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 725\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_264.0_1242.0_2439.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 138\l|width = 414\l|height = 50\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_414.0_1242.0_564.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|name = addressSearchBarView\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 50\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_264.0_1242.0_414.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 725\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_264.0_1242.0_2439.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|name = restaurantSearchBarView\l|enabled = true\l|visible = true\l|x = 0\l|y = 138\l|width = 414\l|height = 50\l|numberOfChildren = 8\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_414.0_1242.0_564.0.png\l}"]
+	25	[label="{type = XCUIElementTypeSearchField\l|name = Enter Address\l|label = Enter Address\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 50\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_264.0_1242.0_414.0.png\l}"]
+	26	[label="{type = XCUIElementTypeCollectionView\l|name = restaurantSearch.restaurantsCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 725\l|numberOfChildren = 7\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_264.0_1242.0_2439.0.png\l}"]
+	27	[label="{type = XCUIElementTypeSearchField\l|name = Find Restaurants\l|label = Autocomplete Search Bar Field\l|enabled = true\l|visible = true\l|x = 4\l|y = 141\l|width = 287\l|height = 44\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = true \l|screenshotPath = grubhub-search/S0/pngs/12.0_423.0_873.0_555.0.png\l}"]
+	28	[label="{type = XCUIElementTypeButton\l|name = CuisineButton\l|label = Filter by cuisines\l|enabled = true\l|visible = true\l|x = 294\l|y = 138\l|width = 60\l|height = 50\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/882.0_414.0_1062.0_564.0.png\l}"]
+	29	[label="{type = XCUIElementTypeButton\l|name = RefineButton\l|label = Refine search results\l|enabled = true\l|visible = true\l|x = 354\l|y = 138\l|width = 60\l|height = 50\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/1062.0_414.0_1242.0_564.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 354\l|y = 153\l|width = 1\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/1062.0_459.0_1065.0_519.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 187\l|width = 414\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_561.0_1242.0_564.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 50\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_264.0_1242.0_414.0.png\l}"]
+	33	[label="{type = XCUIElementTypeCell\l|name = cell.index:0\l|enabled = true\l|visible = true\l|x = 16\l|y = 200\l|width = 382\l|height = 101\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/48.0_600.0_1194.0_903.0.png\l}"]
+	34	[label="{type = XCUIElementTypeCell\l|name = cell.index:1\l|enabled = true\l|visible = true\l|x = 16\l|y = 313\l|width = 382\l|height = 101\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/48.0_939.0_1194.0_1242.0.png\l}"]
+	35	[label="{type = XCUIElementTypeCell\l|name = cell.index:2\l|enabled = true\l|visible = true\l|x = 16\l|y = 426\l|width = 382\l|height = 101\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/48.0_1278.0_1194.0_1581.0.png\l}"]
+	36	[label="{type = XCUIElementTypeCell\l|name = cell.index:3\l|enabled = true\l|visible = true\l|x = 16\l|y = 539\l|width = 382\l|height = 101\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/48.0_1617.0_1194.0_1920.0.png\l}"]
+	37	[label="{type = XCUIElementTypeCell\l|name = Restaurant Targeted Promotions Cell in Search\l|enabled = true\l|visible = true\l|x = 0\l|y = 652\l|width = 414\l|height = 297\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_1956.0_1242.0_2847.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 6 pages\l|label = Vertical scroll bar, 6 pages\l|enabled = true\l|visible = true\l|x = 381\l|y = 188\l|width = 30\l|height = 625\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/1143.0_564.0_1233.0_2439.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 780\l|width = 414\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_2340.0_1242.0_2430.0.png\l}"]
+	40	[label="{type = XCUIElementTypeSearchField\l|value = Delivery - 12510 Mitchell Ave, Los Angeles, CA, 90066\l|name = RestaurantSearch::Type Your Full Address Here\l|label = Type your full address here\l|enabled = true\l|visible = true\l|x = 8\l|y = 96\l|width = 398\l|height = 33\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/24.0_288.0_1218.0_387.0.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 200\l|width = 382\l|height = 101\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/48.0_600.0_1194.0_903.0.png\l}"]
+	42	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 313\l|width = 382\l|height = 101\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/48.0_939.0_1194.0_1242.0.png\l}"]
+	43	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 426\l|width = 382\l|height = 101\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/48.0_1278.0_1194.0_1581.0.png\l}"]
+	44	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 539\l|width = 382\l|height = 101\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/48.0_1617.0_1194.0_1920.0.png\l}"]
+	45	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 652\l|width = 414\l|height = 297\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_1956.0_1242.0_2847.0.png\l}"]
+	46	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 200\l|width = 382\l|height = 100\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/48.0_600.0_1194.0_900.0.png\l}"]
+	47	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 313\l|width = 382\l|height = 100\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/48.0_939.0_1194.0_1239.0.png\l}"]
+	48	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 426\l|width = 382\l|height = 100\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/48.0_1278.0_1194.0_1578.0.png\l}"]
+	49	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 539\l|width = 382\l|height = 100\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/48.0_1617.0_1194.0_1917.0.png\l}"]
+	50	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 652\l|width = 414\l|height = 28\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_1956.0_1242.0_2040.0.png\l}"]
+	51	[label="{type = XCUIElementTypeCollectionView\l|name = Restaurant Targeted Promotions Section in Search\l|enabled = true\l|visible = true\l|x = 0\l|y = 680\l|width = 414\l|height = 269\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_2040.0_1242.0_2847.0.png\l}"]
+	52	[label="{type = XCUIElementTypeButton\l|name = Ad: Lemonade. has cuisines: American, Healthy.  Delivery time of 30 to 40 minutes. Rating of 4.5 out of five stars. With 85 ratings placed. \l|label = Ad: Lemonade. has cuisines: American, Healthy.  Delivery time of 30 to 40 minutes. Rating of 4.5 out of five stars. With 85 ratings placed. \l|enabled = true\l|visible = true\l|x = 16\l|y = 200\l|width = 382\l|height = 100\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/48.0_600.0_1194.0_900.0.png\l}"]
+	53	[label="{type = XCUIElementTypeButton\l|name = Irori Sushi. has cuisines: Alcohol, Japanese.  Delivery time of 35 to 45 minutes. Rating of 4.5 out of five stars. With 591 ratings placed. \l|label = Irori Sushi. has cuisines: Alcohol, Japanese.  Delivery time of 35 to 45 minutes. Rating of 4.5 out of five stars. With 591 ratings placed. \l|enabled = true\l|visible = true\l|x = 16\l|y = 313\l|width = 382\l|height = 100\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/48.0_939.0_1194.0_1239.0.png\l}"]
+	54	[label="{type = XCUIElementTypeButton\l|name = BKK101 Thai Cuisine. has cuisines: Asian, Lunch Specials.  Delivery time of 30 to 40 minutes. Rating of 5 out of five stars. With 1,239 ratings placed. \l|label = BKK101 Thai Cuisine. has cuisines: Asian, Lunch Specials.  Delivery time of 30 to 40 minutes. Rating of 5 out of five stars. With 1,239 ratings placed. \l|enabled = true\l|visible = true\l|x = 16\l|y = 426\l|width = 382\l|height = 100\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/48.0_1278.0_1194.0_1578.0.png\l}"]
+	55	[label="{type = XCUIElementTypeButton\l|name = Celadon Thai Kitchen. has cuisines: Asian, Lunch Specials.  Delivery time of 35 to 45 minutes. Rating of 4.5 out of five stars. With 1,107 ratings placed. \l|label = Celadon Thai Kitchen. has cuisines: Asian, Lunch Specials.  Delivery time of 35 to 45 minutes. Rating of 4.5 out of five stars. With 1,107 ratings placed. \l|enabled = true\l|visible = true\l|x = 16\l|y = 539\l|width = 382\l|height = 100\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/48.0_1617.0_1194.0_1917.0.png\l}"]
+	56	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 652\l|width = 414\l|height = 28\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/0.0_1956.0_1242.0_2040.0.png\l}"]
+	57	[label="{type = XCUIElementTypeCell\l|value = Big Buffalo's, $5 off, Pasta, Pizza, 20–30 mins, No minimum., 3.5 out of five stars., 9 Ratings, Offer valid on first order only.\l|enabled = true\l|visible = true\l|x = 16\l|y = 688\l|width = 352\l|height = 249\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/48.0_2064.0_1104.0_2811.0.png\l}"]
+	58	[label="{type = XCUIElementTypeCell\l|value = New India's Oven, $4 off, Chicken, Curry, 20–30 mins, 30 dollar minimum, 4.5 out of five stars., 397 Ratings, Offer valid on first order only.\l|enabled = true\l|visible = true\l|x = 384\l|y = 688\l|width = 352\l|height = 249\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/1152.0_2064.0_2208.0_2811.0.png\l}"]
+	59	[label="{type = XCUIElementTypeStaticText\l|value = Trending offers near you\l|name = Trending offers near you\l|label = Trending offers near you\l|enabled = true\l|visible = true\l|x = 16\l|y = 656\l|width = 306\l|height = 23\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/48.0_1967.9999999999998_965.9999999999999_2036.9999999999998.png\l}"]
+	60	[label="{type = XCUIElementTypeButton\l|name = See more\l|label = See more\l|enabled = true\l|visible = true\l|x = 322\l|y = 649\l|width = 76\l|height = 37\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/966.0_1946.9999999999998_1194.0_2058.0.png\l}"]
+	61	[label="{type = XCUIElementTypeStaticText\l|value = See more\l|name = See more\l|label = See more\l|enabled = true\l|visible = true\l|x = 338\l|y = 660\l|width = 60\l|height = 15\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = grubhub-search/S0/pngs/1014.0_1980.0000000000002_1194.0_2025.0000000000002.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	5 -> 7
+	6 -> 8
+	6 -> 9
+	6 -> 10
+	6 -> 11
+	6 -> 12
+	7 -> 13
+	13 -> 14
+	13 -> 15
+	14 -> 16
+	15 -> 17
+	17 -> 18
+	18 -> 19
+	18 -> 20
+	18 -> 21
+	19 -> 22
+	20 -> 23
+	21 -> 24
+	22 -> 25
+	23 -> 26
+	24 -> 27
+	24 -> 28
+	24 -> 29
+	24 -> 30
+	24 -> 31
+	25 -> 32
+	26 -> 33
+	26 -> 34
+	26 -> 35
+	26 -> 36
+	26 -> 37
+	26 -> 38
+	26 -> 39
+	32 -> 40
+	33 -> 41
+	34 -> 42
+	35 -> 43
+	36 -> 44
+	37 -> 45
+	41 -> 46
+	42 -> 47
+	43 -> 48
+	44 -> 49
+	45 -> 50
+	45 -> 51
+	46 -> 52
+	47 -> 53
+	48 -> 54
+	49 -> 55
+	50 -> 56
+	51 -> 57
+	51 -> 58
+	56 -> 59
+	56 -> 60
+	60 -> 61
+
+
+}

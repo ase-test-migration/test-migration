@@ -1,0 +1,23 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "gmail-delete",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "Signed in as Some User email@example.com. Open account menu",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.google.android.gm:id/my_account",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_invisible",
+                "input": "Testing"
+            }
+        ]
+    }
+}

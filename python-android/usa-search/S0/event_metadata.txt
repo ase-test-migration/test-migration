@@ -1,0 +1,4 @@
+pathToElementImageCrop: usa-search/S0/pngs/936_84_1080_228.png;
+coords: {'x1': 936, 'y1': 84, 'x2': 1080, 'y2': 228};
+text_identifier: { "content-desc" : "Search for news and sections" , "resource-id" : "com.usatoday.android.news:id/search_the_app" };
+event: click;

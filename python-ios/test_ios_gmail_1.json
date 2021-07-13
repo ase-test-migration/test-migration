@@ -1,0 +1,45 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "gmail-send",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Compose"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "send_keys_enter",
+                    "tag": "To",
+                    "input": "email@example.com"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "send_keys",
+                    "tag": "Email subject",
+                    "input": "Testing 2"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Send button"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Testing 2"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "bbc-bookmark",
+            "events": [
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeButton[@name=\"bn-cell-view\"])[1]"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeOther[@name=\"bn-cell-view\"])[3]"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "bn-bar-button"
+                }
+            ]
+        }
+    ]
+}

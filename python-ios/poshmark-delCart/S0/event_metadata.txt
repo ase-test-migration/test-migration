@@ -1,0 +1,4 @@
+pathToElementImageCrop: poshmark-delCart/S0/pngs/280.0_426.00000000000006_374.0_468.00000000000006.png;
+coords: {'x1': 280.0, 'y1': 426.00000000000006, 'x2': 374.0, 'y2': 468.00000000000006};
+text_identifier: { "label" : "Remove" };
+event: click;

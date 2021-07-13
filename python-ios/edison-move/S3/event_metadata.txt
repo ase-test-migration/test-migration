@@ -1,0 +1,4 @@
+pathToElementImageCrop: edison-move/S3/pngs/16.0_40.0_118.00000000000001_128.0.png;
+coords: {'x1': 16.0, 'y1': 40.0, 'x2': 118.00000000000001, 'y2': 128.0};
+text_identifier: { "name" : "Inbox" };
+event: click;

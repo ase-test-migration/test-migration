@@ -1,0 +1,184 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Newton\l|label = Newton\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 451\l|width = 375\l|height = 216\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/0.0_902.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeNavigationBar\l|name = CMComposeMailView\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 451\l|width = 375\l|height = 216\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/0.0_902.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 8\l|y = 20\l|width = 32\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/16.0_40.0_80.0_128.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 87\l|y = 20\l|width = 201\l|height = 44\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/174.0_40.0_576.0_128.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeKeyboard\l|enabled = true\l|visible = true\l|x = 0\l|y = 451\l|width = 375\l|height = 216\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/0.0_902.0_750.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeButton\l|enabled = false\l|visible = true\l|x = 87\l|y = 20\l|width = 201\l|height = 44\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/174.0_40.0_576.0_128.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 451\l|width = 375\l|height = 216\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/0.0_902.0_750.0_1334.0.png\l}"]
+	17	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 340\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/0.0_128.0_750.0_808.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 404\l|width = 375\l|height = 47\l|index = 1\l|numberOfChildren = 7\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/0.0_808.0_750.0_902.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 451\l|width = 375\l|height = 216\l|index = 0\l|numberOfChildren = 33\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/0.0_902.0_750.0_1334.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 108\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/0.0_128.0_750.0_344.0.png\l}"]
+	21	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 15\l|y = 172\l|width = 345\l|height = 181\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/30.0_344.00000000000006_720.0_706.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 371\l|width = 375\l|height = 30\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/0.0_742.0000000000001_750.0_802.0000000000001.png\l}"]
+	23	[label="{type = XCUIElementTypeButton\l|name = Compose Actionbar Key Down\l|label = Compose Actionbar Key Down\l|enabled = true\l|visible = true\l|x = 11\l|y = 404\l|width = 44\l|height = 47\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/22.0_808.0_110.0_902.0.png\l}"]
+	24	[label="{type = XCUIElementTypeButton\l|name = Compose Actionbar Attachment\l|label = Compose Actionbar Attachment\l|enabled = true\l|visible = true\l|x = 55\l|y = 404\l|width = 44\l|height = 47\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/110.0_808.0_198.0_902.0.png\l}"]
+	25	[label="{type = XCUIElementTypeButton\l|name = Compose Actionbar Snooze\l|label = Compose Actionbar Snooze\l|enabled = true\l|visible = true\l|x = 99\l|y = 404\l|width = 44\l|height = 47\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/198.0_808.0_286.0_902.0.png\l}"]
+	26	[label="{type = XCUIElementTypeButton\l|name = Compose Actionbar template\l|label = Compose Actionbar template\l|enabled = true\l|visible = true\l|x = 143\l|y = 404\l|width = 44\l|height = 47\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/286.0_808.0_374.0_902.0.png\l}"]
+	27	[label="{type = XCUIElementTypeButton\l|name = composeNavbar\l|label = composeNavbar\l|enabled = true\l|visible = true\l|x = 187\l|y = 404\l|width = 44\l|height = 46\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/374.0_808.0_462.0_900.0.png\l}"]
+	28	[label="{type = XCUIElementTypeButton\l|name = SEND\l|label = SEND\l|enabled = true\l|visible = true\l|x = 297\l|y = 404\l|width = 78\l|height = 37\l|index = 6\l|numberOfChildren = 1\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/594.0_808.0_750.0_882.0.png\l}"]
+	29	[label="{type = XCUIElementTypeKey\l|name = Q\l|label = Q\l|enabled = true\l|visible = true\l|x = 0\l|y = 458\l|width = 38\l|height = 46\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/0.0_916.0_76.0_1008.0.png\l}"]
+	30	[label="{type = XCUIElementTypeKey\l|name = W\l|label = W\l|enabled = true\l|visible = true\l|x = 37\l|y = 458\l|width = 38\l|height = 46\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/74.0_916.0_150.0_1008.0.png\l}"]
+	31	[label="{type = XCUIElementTypeKey\l|name = E\l|label = E\l|enabled = true\l|visible = true\l|x = 75\l|y = 458\l|width = 38\l|height = 46\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/150.0_916.0_226.0_1008.0.png\l}"]
+	32	[label="{type = XCUIElementTypeKey\l|name = R\l|label = R\l|enabled = true\l|visible = true\l|x = 112\l|y = 458\l|width = 38\l|height = 46\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/224.00000000000003_916.0_300.0_1008.0.png\l}"]
+	33	[label="{type = XCUIElementTypeKey\l|name = T\l|label = T\l|enabled = true\l|visible = true\l|x = 150\l|y = 458\l|width = 38\l|height = 46\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/300.0_916.0_376.0_1008.0.png\l}"]
+	34	[label="{type = XCUIElementTypeKey\l|name = Y\l|label = Y\l|enabled = true\l|visible = true\l|x = 187\l|y = 458\l|width = 38\l|height = 46\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/374.0_916.0_450.0_1008.0.png\l}"]
+	35	[label="{type = XCUIElementTypeKey\l|name = U\l|label = U\l|enabled = true\l|visible = true\l|x = 225\l|y = 458\l|width = 38\l|height = 46\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/450.0_916.0_526.0_1008.0.png\l}"]
+	36	[label="{type = XCUIElementTypeKey\l|name = I\l|label = I\l|enabled = true\l|visible = true\l|x = 262\l|y = 458\l|width = 38\l|height = 46\l|index = 7\l|numberOfChildren = 0\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/524.0_916.0_600.0_1008.0.png\l}"]
+	37	[label="{type = XCUIElementTypeKey\l|name = O\l|label = O\l|enabled = true\l|visible = true\l|x = 300\l|y = 458\l|width = 38\l|height = 46\l|index = 8\l|numberOfChildren = 0\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/600.0_916.0_676.0_1008.0.png\l}"]
+	38	[label="{type = XCUIElementTypeKey\l|name = P\l|label = P\l|enabled = true\l|visible = true\l|x = 337\l|y = 458\l|width = 38\l|height = 46\l|index = 9\l|numberOfChildren = 0\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/674.0_916.0_750.0_1008.0.png\l}"]
+	39	[label="{type = XCUIElementTypeKey\l|name = A\l|label = A\l|enabled = true\l|visible = true\l|x = 18\l|y = 512\l|width = 38\l|height = 46\l|index = 10\l|numberOfChildren = 0\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/36.0_1024.0_112.0_1116.0.png\l}"]
+	40	[label="{type = XCUIElementTypeKey\l|name = S\l|label = S\l|enabled = true\l|visible = true\l|x = 56\l|y = 512\l|width = 38\l|height = 46\l|index = 11\l|numberOfChildren = 0\l|numInParentLayout = 11\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/112.00000000000001_1024.0_188.0_1116.0.png\l}"]
+	41	[label="{type = XCUIElementTypeKey\l|name = D\l|label = D\l|enabled = true\l|visible = true\l|x = 93\l|y = 512\l|width = 38\l|height = 46\l|index = 12\l|numberOfChildren = 0\l|numInParentLayout = 12\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/186.0_1024.0_262.0_1116.0.png\l}"]
+	42	[label="{type = XCUIElementTypeKey\l|name = F\l|label = F\l|enabled = true\l|visible = true\l|x = 131\l|y = 512\l|width = 38\l|height = 46\l|index = 13\l|numberOfChildren = 0\l|numInParentLayout = 13\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/262.0_1024.0_338.0_1116.0.png\l}"]
+	43	[label="{type = XCUIElementTypeKey\l|name = G\l|label = G\l|enabled = true\l|visible = true\l|x = 169\l|y = 512\l|width = 38\l|height = 46\l|index = 14\l|numberOfChildren = 0\l|numInParentLayout = 14\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/338.0_1024.0_414.0_1116.0.png\l}"]
+	44	[label="{type = XCUIElementTypeKey\l|name = H\l|label = H\l|enabled = true\l|visible = true\l|x = 206\l|y = 512\l|width = 38\l|height = 46\l|index = 15\l|numberOfChildren = 0\l|numInParentLayout = 15\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/412.0_1024.0_488.0_1116.0.png\l}"]
+	45	[label="{type = XCUIElementTypeKey\l|name = J\l|label = J\l|enabled = true\l|visible = true\l|x = 244\l|y = 512\l|width = 38\l|height = 46\l|index = 16\l|numberOfChildren = 0\l|numInParentLayout = 16\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/487.99999999999994_1024.0_564.0_1116.0.png\l}"]
+	46	[label="{type = XCUIElementTypeKey\l|name = K\l|label = K\l|enabled = true\l|visible = true\l|x = 281\l|y = 512\l|width = 38\l|height = 46\l|index = 17\l|numberOfChildren = 0\l|numInParentLayout = 17\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/562.0_1024.0_638.0_1116.0.png\l}"]
+	47	[label="{type = XCUIElementTypeKey\l|name = L\l|label = L\l|enabled = true\l|visible = true\l|x = 319\l|y = 512\l|width = 38\l|height = 46\l|index = 18\l|numberOfChildren = 0\l|numInParentLayout = 18\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/638.0_1024.0_714.0_1116.0.png\l}"]
+	48	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = shift\l|label = shift\l|enabled = true\l|visible = true\l|x = 0\l|y = 566\l|width = 48\l|height = 46\l|index = 19\l|numberOfChildren = 0\l|numInParentLayout = 19\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/0.0_1132.0_96.0_1224.0.png\l}"]
+	49	[label="{type = XCUIElementTypeKey\l|name = Z\l|label = Z\l|enabled = true\l|visible = true\l|x = 56\l|y = 566\l|width = 38\l|height = 46\l|index = 20\l|numberOfChildren = 0\l|numInParentLayout = 20\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/112.00000000000001_1132.0_188.0_1224.0.png\l}"]
+	50	[label="{type = XCUIElementTypeKey\l|name = X\l|label = X\l|enabled = true\l|visible = true\l|x = 93\l|y = 566\l|width = 38\l|height = 46\l|index = 21\l|numberOfChildren = 0\l|numInParentLayout = 21\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/186.0_1132.0_262.0_1224.0.png\l}"]
+	51	[label="{type = XCUIElementTypeKey\l|name = C\l|label = C\l|enabled = true\l|visible = true\l|x = 131\l|y = 566\l|width = 38\l|height = 46\l|index = 22\l|numberOfChildren = 0\l|numInParentLayout = 22\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/262.0_1132.0_338.0_1224.0.png\l}"]
+	52	[label="{type = XCUIElementTypeKey\l|name = V\l|label = V\l|enabled = true\l|visible = true\l|x = 169\l|y = 566\l|width = 38\l|height = 46\l|index = 23\l|numberOfChildren = 0\l|numInParentLayout = 23\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/338.0_1132.0_414.0_1224.0.png\l}"]
+	53	[label="{type = XCUIElementTypeKey\l|name = B\l|label = B\l|enabled = true\l|visible = true\l|x = 206\l|y = 566\l|width = 38\l|height = 46\l|index = 24\l|numberOfChildren = 0\l|numInParentLayout = 24\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/412.0_1132.0_488.0_1224.0.png\l}"]
+	54	[label="{type = XCUIElementTypeKey\l|name = N\l|label = N\l|enabled = true\l|visible = true\l|x = 244\l|y = 566\l|width = 38\l|height = 46\l|index = 25\l|numberOfChildren = 0\l|numInParentLayout = 25\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/487.99999999999994_1132.0_564.0_1224.0.png\l}"]
+	55	[label="{type = XCUIElementTypeKey\l|name = M\l|label = M\l|enabled = true\l|visible = true\l|x = 281\l|y = 566\l|width = 38\l|height = 46\l|index = 26\l|numberOfChildren = 0\l|numInParentLayout = 26\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/562.0_1132.0_638.0_1224.0.png\l}"]
+	56	[label="{type = XCUIElementTypeKey\l|name = delete\l|label = delete\l|enabled = true\l|visible = true\l|x = 327\l|y = 566\l|width = 48\l|height = 46\l|index = 27\l|numberOfChildren = 0\l|numInParentLayout = 27\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/654.0_1132.0_750.0_1224.0.png\l}"]
+	57	[label="{type = XCUIElementTypeKey\l|name = more\l|label = numbers\l|enabled = true\l|visible = true\l|x = 0\l|y = 620\l|width = 47\l|height = 46\l|index = 28\l|numberOfChildren = 0\l|numInParentLayout = 28\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/0.0_1240.0_94.0_1332.0.png\l}"]
+	58	[label="{type = XCUIElementTypeButton\l|name = Emoji\l|label = Emoji\l|enabled = true\l|visible = true\l|x = 46\l|y = 620\l|width = 48\l|height = 46\l|index = 29\l|numberOfChildren = 0\l|numInParentLayout = 29\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/92.0_1240.0_188.0_1332.0.png\l}"]
+	59	[label="{type = XCUIElementTypeButton\l|name = dictation\l|label = Dictate\l|enabled = true\l|visible = true\l|x = 93\l|y = 620\l|width = 38\l|height = 46\l|index = 30\l|numberOfChildren = 0\l|numInParentLayout = 30\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/186.0_1240.0_262.0_1332.0.png\l}"]
+	60	[label="{type = XCUIElementTypeKey\l|name = space\l|label = space\l|enabled = true\l|visible = true\l|x = 131\l|y = 620\l|width = 151\l|height = 46\l|index = 31\l|numberOfChildren = 0\l|numInParentLayout = 31\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/262.0_1240.0_564.0_1332.0.png\l}"]
+	61	[label="{type = XCUIElementTypeButton\l|name = Return\l|label = return\l|enabled = true\l|visible = true\l|x = 281\l|y = 620\l|width = 94\l|height = 46\l|index = 32\l|numberOfChildren = 0\l|numInParentLayout = 32\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/562.0_1240.0_750.0_1332.0.png\l}"]
+	62	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 71\l|width = 375\l|height = 50\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/0.0_142.0_750.0_242.0.png\l}"]
+	63	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 121\l|width = 375\l|height = 51\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/0.0_242.0_750.0_344.0.png\l}"]
+	64	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 15\l|y = 172\l|width = 345\l|height = 181\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/30.0_344.00000000000006_720.0_706.0.png\l}"]
+	65	[label="{type = XCUIElementTypeStaticText\l|value = SEND\l|name = SEND\l|label = SEND\l|enabled = true\l|visible = true\l|x = 317\l|y = 419\l|width = 38\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/634.0_838.0000000000001_710.0_874.0000000000001.png\l}"]
+	66	[label="{type = XCUIElementTypeStaticText\l|value = To\l|name = To\l|label = To\l|enabled = true\l|visible = true\l|x = 15\l|y = 78\l|width = 18\l|height = 30\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/30.0_156.0_66.0_216.0.png\l}"]
+	67	[label="{type = XCUIElementTypeStaticText\l|value = email@example.com\l|name = email@example.com\l|label = email@example.com\l|enabled = true\l|visible = true\l|x = 37\l|y = 78\l|width = 308\l|height = 30\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/74.0_156.0_690.0_216.0.png\l}"]
+	68	[label="{type = XCUIElementTypeButton\l|name = cm overflow menu\l|label = cm overflow menu\l|enabled = true\l|visible = true\l|x = 325\l|y = 71\l|width = 50\l|height = 50\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/650.0_142.0_750.0_242.0.png\l}"]
+	69	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 120\l|width = 363\l|height = 1\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/24.0_240.00000000000003_750.0_242.00000000000003.png\l}"]
+	70	[label="{type = XCUIElementTypeTextField\l|value = Re: Testing\l|label = \l|enabled = true\l|visible = true\l|x = 15\l|y = 121\l|width = 355\l|height = 50\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/30.0_242.0_740.0_342.0.png\l}"]
+	71	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 171\l|width = 363\l|height = 1\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/24.0_342.0_750.0_344.0.png\l}"]
+	72	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 15\l|y = 172\l|width = 345\l|height = 181\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/30.0_344.00000000000006_720.0_706.0.png\l}"]
+	73	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 15\l|y = 320\l|width = 345\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/30.0_640.0_720.0_700.0.png\l}"]
+	74	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	75	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	76	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 172\l|width = 345\l|height = 181\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/30.0_344.00000000000006_720.0_706.0.png\l}"]
+	77	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 172\l|width = 345\l|height = 181\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/30.0_344.00000000000006_720.0_706.0.png\l}"]
+	78	[label="{type = XCUIElementTypeTextView\l|value =   via Newton Mail  ￼\l|enabled = true\l|visible = true\l|x = 15\l|y = 184\l|width = 345\l|height = 141\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/30.0_368.0_720.0_650.0.png\l}"]
+	79	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 238\l|width = 345\l|height = 27\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/30.0_476.0_720.0_530.0.png\l}"]
+	80	[label="{type = XCUIElementTypeStaticText\l|value = via \l|name = via\l|label = via\l|enabled = true\l|visible = true\l|x = 15\l|y = 241\l|width = 25\l|height = 20\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = true \l|screenshotPath = newton-reply/S2/pngs/30.0_482.0_80.0_522.0.png\l}"]
+	81	[label="{type = XCUIElementTypeLink\l|name = Newton Mail\l|label = Newton Mail\l|enabled = true\l|visible = true\l|x = 39\l|y = 241\l|width = 91\l|height = 20\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/78.0_482.0_260.0_522.0.png\l}"]
+	82	[label="{type = XCUIElementTypeStaticText\l|value = on Mail\l|name = Newton Mail\l|label = Newton Mail\l|enabled = true\l|visible = true\l|x = 39\l|y = 241\l|width = 91\l|height = 20\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/78.0_482.0_260.0_522.0.png\l}"]
+	83	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 15\l|y = 292\l|width = 37\l|height = 33\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/30.0_584.0_104.0_650.0.png\l}"]
+	84	[label="{type = XCUIElementTypeStaticText\l|value = via \l|name = via\l|label = via\l|enabled = true\l|visible = true\l|x = 15\l|y = 241\l|width = 25\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = newton-reply/S2/pngs/30.0_482.0_80.0_522.0.png\l}"]
+	85	[label="{type = XCUIElementTypeLink\l|name = Newton Mail\l|label = Newton Mail\l|enabled = true\l|visible = true\l|x = 39\l|y = 241\l|width = 91\l|height = 20\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/78.0_482.0_260.0_522.0.png\l}"]
+	86	[label="{type = XCUIElementTypeStaticText\l|value = on Mail\l|name = Newton Mail\l|label = Newton Mail\l|enabled = true\l|visible = true\l|x = 39\l|y = 241\l|width = 91\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/78.0_482.0_260.0_522.0.png\l}"]
+	87	[label="{type = XCUIElementTypeStaticText\l|value = on Mail\l|name = Newton Mail\l|label = Newton Mail\l|enabled = true\l|visible = true\l|x = 39\l|y = 241\l|width = 91\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-reply/S2/pngs/78.0_482.0_260.0_522.0.png\l}"]
+
+
+	0 -> 1
+	0 -> 2
+	1 -> 3
+	2 -> 4
+	3 -> 5
+	4 -> 6
+	5 -> 7
+	5 -> 8
+	6 -> 9
+	7 -> 10
+	7 -> 11
+	8 -> 12
+	9 -> 13
+	11 -> 14
+	12 -> 15
+	13 -> 16
+	15 -> 17
+	15 -> 18
+	16 -> 19
+	17 -> 20
+	17 -> 21
+	17 -> 22
+	18 -> 23
+	18 -> 24
+	18 -> 25
+	18 -> 26
+	18 -> 27
+	18 -> 28
+	19 -> 29
+	19 -> 30
+	19 -> 31
+	19 -> 32
+	19 -> 33
+	19 -> 34
+	19 -> 35
+	19 -> 36
+	19 -> 37
+	19 -> 38
+	19 -> 39
+	19 -> 40
+	19 -> 41
+	19 -> 42
+	19 -> 43
+	19 -> 44
+	19 -> 45
+	19 -> 46
+	19 -> 47
+	19 -> 48
+	19 -> 49
+	19 -> 50
+	19 -> 51
+	19 -> 52
+	19 -> 53
+	19 -> 54
+	19 -> 55
+	19 -> 56
+	19 -> 57
+	19 -> 58
+	19 -> 59
+	19 -> 60
+	19 -> 61
+	20 -> 62
+	20 -> 63
+	21 -> 64
+	28 -> 65
+	62 -> 66
+	62 -> 67
+	62 -> 68
+	62 -> 69
+	63 -> 70
+	63 -> 71
+	64 -> 72
+	64 -> 73
+	72 -> 74
+	74 -> 75
+	75 -> 76
+	76 -> 77
+	77 -> 78
+	78 -> 79
+	78 -> 80
+	78 -> 81
+	78 -> 82
+	78 -> 83
+	79 -> 84
+	79 -> 85
+	81 -> 86
+	85 -> 87
+
+
+}

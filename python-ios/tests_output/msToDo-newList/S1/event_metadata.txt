@@ -1,0 +1,4 @@
+pathToElementImageCrop: msToDo-newList/S1/pngs/112.00000000000001_1264.0_248.0_1308.0.png;
+coords: {'x1': 112.00000000000001, 'y1': 1264.0, 'x2': 248.0, 'y2': 1308.0};
+text_identifier: { "name" : "New List" };
+event: click;

@@ -1,0 +1,21 @@
+{ "resource-id" : "com.easilydo.mail:id/design_navigation_view" , "screenshotPath" : "edison-move/S4/pngs/0_171_880_1977.png"}
+{ "resource-id" : "com.easilydo.mail:id/nav_list" , "screenshotPath" : "edison-move/S4/pngs/0_171_880_1977.png"}
+{ "content-desc" : "compose email" , "resource-id" : "com.easilydo.mail:id/fab" , "screenshotPath" : "edison-move/S4/pngs/882_1950_1036_1977.png"}
+{ "resource-id" : "com.easilydo.mail:id/layout_nav_group" , "screenshotPath" : "edison-move/S4/pngs/44_391_880_523.png"}
+{ "resource-id" : "com.easilydo.mail:id/layout_nav_group" , "screenshotPath" : "edison-move/S4/pngs/44_523_880_655.png"}
+{ "resource-id" : "com.easilydo.mail:id/layout_nav_group" , "screenshotPath" : "edison-move/S4/pngs/44_655_880_805.png"}
+{ "resource-id" : "com.easilydo.mail:id/layout_nav_group" , "screenshotPath" : "edison-move/S4/pngs/44_805_880_955.png"}
+{ "resource-id" : "com.easilydo.mail:id/layout_nav_group" , "screenshotPath" : "edison-move/S4/pngs/44_955_880_1087.png"}
+{ "resource-id" : "com.easilydo.mail:id/layout_nav_group" , "screenshotPath" : "edison-move/S4/pngs/44_1087_880_1219.png"}
+{ "resource-id" : "com.easilydo.mail:id/layout_nav_group" , "screenshotPath" : "edison-move/S4/pngs/44_1219_880_1351.png"}
+{ "resource-id" : "com.easilydo.mail:id/layout_nav_group" , "screenshotPath" : "edison-move/S4/pngs/44_1623_880_1755.png"}
+{ "resource-id" : "com.easilydo.mail:id/layout_nav_group" , "screenshotPath" : "edison-move/S4/pngs/44_2027_880_2148.png"}
+{ "content-desc" : "Settings" , "resource-id" : "com.easilydo.mail:id/btn_setting" , "screenshotPath" : "edison-move/S4/pngs/670_264_736_330.png"}
+{ "content-desc" : "Add Account" , "resource-id" : "com.easilydo.mail:id/btn_add_account" , "screenshotPath" : "edison-move/S4/pngs/775_264_841_330.png"}
+{ "content-desc" : "expand group item" , "resource-id" : "com.easilydo.mail:id/drawer_accordion" , "screenshotPath" : "edison-move/S4/pngs/795_437_836_478.png"}
+{ "content-desc" : "Close navigation drawer" , "screenshotPath" : "edison-move/S4/pngs/0_171_154_314.png"}
+{ "resource-id" : "com.easilydo.mail:id/email_list_recycler_view" , "screenshotPath" : "edison-move/S4/pngs/0_314_1080_1977.png"}
+{ "resource-id" : "com.easilydo.mail:id/empty_subcontent" , "screenshotPath" : "edison-move/S4/pngs/330_1457_750_1599.png"}
+{ "resource-id" : "com.easilydo.mail:id/tv_title" , "screenshotPath" : "edison-move/S4/pngs/198_198_326_259.png"}
+{ "content-desc" : "Search" , "resource-id" : "com.easilydo.mail:id/action_open_search" , "screenshotPath" : "edison-move/S4/pngs/780_176_912_308.png"}
+{ "content-desc" : "ASSISTANT" , "resource-id" : "com.easilydo.mail:id/action_open_smart_assistant" , "screenshotPath" : "edison-move/S4/pngs/912_176_1066_308.png"}

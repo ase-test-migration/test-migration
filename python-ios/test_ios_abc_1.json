@@ -1,0 +1,28 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "abc-bookmark",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "'They were terrorists': Capitol Police officer recounts Jan. 6 attack"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//XCUIElementTypeNavigationBar[@name=\"ABCArticlesPageView\"]/XCUIElementTypeButton[2]"
+                }
+            ]
+        }
+    ]
+}

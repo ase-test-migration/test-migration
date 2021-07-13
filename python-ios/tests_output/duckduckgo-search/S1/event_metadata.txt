@@ -1,0 +1,5 @@
+pathToElementImageCrop: duckduckgo-search/S1/pngs/88.0_52.0_554.0_132.0.png;
+coords: {'x1': 88.0, 'y1': 52.0, 'x2': 554.0, 'y2': 132.0};
+text_identifier: { "name" : "searchEntry" };
+event: send_keys;
+input: chess.com;

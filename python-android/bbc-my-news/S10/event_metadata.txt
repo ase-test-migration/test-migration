@@ -1,0 +1,5 @@
+pathToElementImageCrop: bbc-my-news/S10/pngs/180_567_1080_632.png;
+coords: {'x1': 180, 'y1': 567, 'x2': 1080, 'y2': 632};
+text_identifier: { "resource-id" : "bbc.mobile.news.uk:id/text" };
+event: oracle;
+oracle-type: element_invisible;

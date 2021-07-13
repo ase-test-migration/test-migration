@@ -1,0 +1,31 @@
+{
+    "tests": [
+        {
+            "name": "testEbaySearch", 
+            "events": [
+                {
+                    "tag": "com.ebay.mobile:id/search_box", 
+                    "type": "id", 
+                    "event": "click"
+                }, 
+                {
+                    "input": "hat", 
+                    "tag": "com.ebay.mobile:id/search_src_text", 
+                    "type": "id", 
+                    "event": "send_keys"
+                }, 
+                {
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout[2]/android.widget.ListView/android.widget.RelativeLayout[3]/android.widget.TextView", 
+                    "type": "xPath", 
+                    "event": "click"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+      "platformName": "Android",
+      "platformVersion": "9",
+      "deviceName": "Nexus_5_API_28",
+      "newCommandTimeout": 1000
+    }
+}

@@ -1,0 +1,5 @@
+pathToElementImageCrop: usa-mynews/S5/pngs/165.0_498.0_1011.0_600.0.png;
+coords: {'x1': 165.0, 'y1': 498.0, 'x2': 1011.0, 'y2': 600.0};
+text_identifier: { "label" : "Coronavirus COVID-19" };
+event: oracle;
+oracle-type: widget_exists;

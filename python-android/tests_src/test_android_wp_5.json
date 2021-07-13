@@ -1,0 +1,34 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "test_WP_SideSettings",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Navigate up"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.washingtonpost.android:id/iv_drawer_settings_button"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[11]/android.widget.RelativeLayout"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.ListView/android.widget.RelativeLayout[3]"
+                }
+            ]
+        }
+    ]
+}

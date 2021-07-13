@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-add-to-cart/S3/pngs/1038.0_2328.0_1170.0_2463.0.png;
+coords: {'x1': 1038.0, 'y1': 2328.0, 'x2': 1170.0, 'y2': 2463.0};
+text_identifier: { "name" : "stepper_button_increment" };
+event: click;

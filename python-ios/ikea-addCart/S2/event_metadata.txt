@@ -1,0 +1,4 @@
+pathToElementImageCrop: ikea-addCart/S2/pngs/0.0_490.0_376.0_1412.0.png;
+coords: {'x1': 0.0, 'y1': 490.0, 'x2': 376.0, 'y2': 1412.0};
+text_identifier: { "label" : "Horizontal scroll bar, 1 page" };
+event: click;

@@ -1,0 +1,45 @@
+{
+    "tests": [
+        {
+            "name": "ebay-add-to-cart", 
+            "events": [
+                {
+                    "tag": "Color,No selection", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ListView/android.widget.FrameLayout[4]/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.TextView", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Quantity,1,5 available", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ListView/android.widget.CheckedTextView[2]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Add to cart", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "com.ebay.mobile:id/call_to_action_button", 
+                    "type": "id",
+                    "event": "oracle",
+                    "oracle-type": "widget_exists"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "emulator-5554", 
+        "platformName": "Android", 
+        "newCommandTimeout": 0
+    }
+}

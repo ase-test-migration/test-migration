@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-filter/S3/pngs/121.99999999999999_1218.0_718.0_1314.0.png;
+coords: {'x1': 121.99999999999999, 'y1': 1218.0, 'x2': 718.0, 'y2': 1314.0};
+text_identifier: { "label" : "Show 140 results" };
+event: click;

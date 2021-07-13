@@ -1,0 +1,4 @@
+pathToElementImageCrop: newton-delete/S1/pngs/20.0_1234.0_162.0_1334.0.png;
+coords: {'x1': 20.0, 'y1': 1234.0, 'x2': 162.0, 'y2': 1334.0};
+text_identifier: { "label" : "2:24pm" };
+event: click;

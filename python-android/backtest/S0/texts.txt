@@ -1,0 +1,17 @@
+{ "content-desc" : "Main navigation, open" , "resource-id" : "com.ebay.mobile:id/home" , "screenshotPath" : "backtest/S0/pngs/0_72_168_240.png"}
+{ "content-desc" : "Cart button" , "resource-id" : "com.ebay.mobile:id/menu_cart" , "screenshotPath" : "backtest/S0/pngs/936_84_1080_228.png"}
+{ "content-desc" : "Search Keyword Search for anything" , "resource-id" : "com.ebay.mobile:id/search_box" , "screenshotPath" : "backtest/S0/pngs/48_240_744_384.png"}
+{ "content-desc" : "Voice search" , "resource-id" : "com.ebay.mobile:id/search_voice_btn" , "screenshotPath" : "backtest/S0/pngs/744_240_888_384.png"}
+{ "content-desc" : "Image search options" , "resource-id" : "com.ebay.mobile:id/search_image_btn" , "screenshotPath" : "backtest/S0/pngs/888_240_1032_384.png"}
+{ "resource-id" : "com.ebay.mobile:id/recycler_view_main" , "screenshotPath" : "backtest/S0/pngs/0_408_1080_1776.png"}
+{ "resource-id" : "com.ebay.mobile:id/home_personalized_event_container" , "screenshotPath" : "backtest/S0/pngs/0_1109_1080_1776.png"}
+{ "resource-id" : "com.ebay.mobile:id/recyclerview_items" , "screenshotPath" : "backtest/S0/pngs/0_444_1080_660.png"}
+{ "resource-id" : "com.ebay.mobile:id/button_register" , "screenshotPath" : "backtest/S0/pngs/48_857_528_1037.png"}
+{ "resource-id" : "com.ebay.mobile:id/button_sign_in" , "screenshotPath" : "backtest/S0/pngs/552_857_1032_1037.png"}
+{ "resource-id" : "com.ebay.mobile:id/home_pill" , "screenshotPath" : "backtest/S0/pngs/48_492_383_612.png"}
+{ "resource-id" : "com.ebay.mobile:id/home_pill" , "screenshotPath" : "backtest/S0/pngs/407_492_717_612.png"}
+{ "resource-id" : "com.ebay.mobile:id/home_pill" , "screenshotPath" : "backtest/S0/pngs/741_492_1080_612.png"}
+{ "resource-id" : "com.ebay.mobile:id/recyclerview_items" , "screenshotPath" : "backtest/S0/pngs/0_1429_1080_1776.png"}
+{ "resource-id" : "com.ebay.mobile:id/item_card_container" , "screenshotPath" : "backtest/S0/pngs/48_1441_516_1776.png"}
+{ "resource-id" : "com.ebay.mobile:id/item_card_container" , "screenshotPath" : "backtest/S0/pngs/540_1441_1008_1776.png"}
+{ "resource-id" : "com.ebay.mobile:id/item_card_container" , "screenshotPath" : "backtest/S0/pngs/1032_1441_1080_1776.png"}

@@ -1,0 +1,19 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "cnn-category",
+        "events": [
+            {
+                "type": "name",
+                "tag": "World",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "oracle-type": "widget_exists",
+                "type": "name",
+                "tag": "save"
+            }
+        ]
+    }
+}

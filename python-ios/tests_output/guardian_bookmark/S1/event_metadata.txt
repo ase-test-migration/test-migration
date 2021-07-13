@@ -1,0 +1,4 @@
+pathToElementImageCrop: guardian_bookmark/S1/pngs/493.99999999999994_52.0_558.0_116.0.png;
+coords: {'x1': 493.99999999999994, 'y1': 52.0, 'x2': 558.0, 'y2': 116.0};
+text_identifier: { "name" : "Save for later" };
+event: click;

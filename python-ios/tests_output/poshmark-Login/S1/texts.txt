@@ -1,0 +1,10 @@
+{"name" : "Poshmark", "label" : "Poshmark", "screenshotPath" : "poshmark-Login/S1/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "pageTitle", "label" : "Login", "screenshotPath" : "poshmark-Login/S1/pngs/0.0_40.0_750.0_128.0.png"}
+{"name" : "leftNavButton", "screenshotPath" : "poshmark-Login/S1/pngs/16.0_40.0_102.0_128.0.png"}
+{"value" : "Login", "name" : "Login", "label" : "Login", "screenshotPath" : "poshmark-Login/S1/pngs/326.0_58.0_426.0_108.0.png"}
+{"name" : "rightNavButton1", "label" : "Login", "screenshotPath" : "poshmark-Login/S1/pngs/634.0_40.0_734.0_128.0.png"}
+{"value" : "Username or email", "name" : "Username or email", "label" : "Username or email", "screenshotPath" : "poshmark-Login/S1/pngs/0.0_198.0_180.0_284.0.png"}
+{"name" : "usernameTextEdit", "label" : "", "screenshotPath" : "poshmark-Login/S1/pngs/220.0_198.0_750.0_284.0.png"}
+{"value" : "Password", "name" : "Password", "label" : "Password", "screenshotPath" : "poshmark-Login/S1/pngs/0.0_286.0_180.0_372.0.png"}
+{"name" : "passwordTextEdit", "label" : "", "screenshotPath" : "poshmark-Login/S1/pngs/220.0_286.0_750.0_372.0.png"}
+{"value" : "Forgot Password?", "name" : "Forgot Password?", "label" : "Forgot Password?", "screenshotPath" : "poshmark-Login/S1/pngs/0.0_374.0_750.0_464.0.png"}

@@ -1,0 +1,15 @@
+{"name" : "Brave", "label" : "Brave", "screenshotPath" : "brave-tab/S0/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "contentView", "label" : "Web content", "screenshotPath" : "brave-tab/S0/pngs/0.0_128.0_750.0_1246.0.png"}
+{"name" : "Navigation Toolbar", "label" : "Navigation Toolbar", "screenshotPath" : "brave-tab/S0/pngs/0.0_1246.0_750.0_1334.0.png"}
+{"value" : "0%", "name" : "Vertical scroll bar, 3 pages", "label" : "Vertical scroll bar, 3 pages", "screenshotPath" : "brave-tab/S0/pngs/684.0_128.0_744.0_1246.0.png"}
+{"value" : "0%", "name" : "Horizontal scroll bar, 1 page", "label" : "Horizontal scroll bar, 1 page", "screenshotPath" : "brave-tab/S0/pngs/0.0_1180.0_750.0_1240.0.png"}
+{"name" : "TabToolbar.backButton", "label" : "Back", "screenshotPath" : "brave-tab/S0/pngs/0.0_1246.0_150.0_1334.0.png"}
+{"name" : "TabToolbar.forwardButton", "label" : "Forward", "screenshotPath" : "brave-tab/S0/pngs/150.0_1246.0_300.0_1334.0.png"}
+{"name" : "TabToolbar.addTabButton", "label" : "Add Tab", "screenshotPath" : "brave-tab/S0/pngs/300.0_1246.0_450.0_1334.0.png"}
+{"value" : "1", "name" : "TabToolbar.tabsButton", "label" : "Show Tabs", "screenshotPath" : "brave-tab/S0/pngs/450.0_1246.0_600.0_1334.0.png"}
+{"name" : "Menu", "label" : "Menu", "screenshotPath" : "brave-tab/S0/pngs/600.0_1246.0_750.0_1334.0.png"}
+{"value" : "1", "name" : "1", "label" : "1", "screenshotPath" : "brave-tab/S0/pngs/506.0_1270.0_544.0_1310.0.png"}
+{"name" : "Secure connection", "label" : "Secure connection", "screenshotPath" : "brave-tab/S0/pngs/36.0_70.0_60.0_98.0.png"}
+{"value" : "wikipedia.org", "name" : "url", "label" : "", "screenshotPath" : "brave-tab/S0/pngs/80.0_62.0_505.99999999999994_106.0.png"}
+{"name" : "TabToolbar.stopReloadButton", "label" : "Reload", "screenshotPath" : "brave-tab/S0/pngs/516.0_50.0_572.0_118.0.png"}
+{"name" : "urlBar-shieldsButton", "label" : "Brave Panel", "screenshotPath" : "brave-tab/S0/pngs/582.0_50.0_650.0_118.0.png"}

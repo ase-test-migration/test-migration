@@ -1,0 +1,106 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = The Guardian\l|label = The Guardian\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeButton\l|name = Menu\l|label = Menu\l|enabled = true\l|visible = true\l|x = 350\l|y = 798\l|width = 52\l|height = 52\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = true \l|screenshotPath = guardian-category/S0/pngs/1050.0_2394.0_1206.0_2550.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	8	[label="{type = XCUIElementTypeTabBar\l|enabled = true\l|visible = true\l|x = 0\l|y = 813\l|width = 414\l|height = 83\l|numberOfChildren = 4\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/0.0_2439.0_1242.0_2688.0.png\l}"]
+	9	[label="{type = XCUIElementTypeStaticText\l|value = \l|name = \l|label = \l|enabled = true\l|visible = true\l|x = 363\l|y = 805\l|width = 26\l|height = 33\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/1089.0_2415.0_1167.0_2514.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|name = Home – tab 1 of 3\l|label = Home – tab 1 of 3\l|enabled = true\l|visible = true\l|x = 0\l|y = 814\l|width = 104\l|height = 82\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/0.0_2442.0_312.0_2688.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|name = Discover – tab 2 of 3\l|label = Discover – tab 2 of 3\l|enabled = true\l|visible = true\l|x = 103\l|y = 814\l|width = 104\l|height = 82\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/309.0_2442.0_621.0_2688.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|name = Live – tab 3 of 3\l|label = Live – tab 3 of 3\l|enabled = true\l|visible = true\l|x = 207\l|y = 814\l|width = 104\l|height = 82\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/621.0_2442.0_933.0_2688.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|name =  - tab - 4 of 4\l|label =  - tab - 4 of 4\l|enabled = true\l|visible = true\l|x = 310\l|y = 814\l|width = 104\l|height = 82\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/930.0_2442.0_1242.0_2688.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 310\l|y = 814\l|width = 104\l|height = 82\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/930.0_2442.0_1242.0_2688.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 309\l|y = 814\l|width = 106\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/927.0_2442.0_1245.0_2445.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 310\l|y = 862\l|width = 106\l|height = 34\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/930.0_2586.0_1248.0_2688.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 309\l|y = 862\l|width = 107\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/927.0_2586.0_1248.0_2589.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 83\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/0.0_132.0_1242.0_381.0.png\l}"]
+	24	[label="{type = XCUIElementTypeCollectionView\l|name = cardListView\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 9\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	25	[label="{type = XCUIElementTypeImage\l|value = image\l|name = The Guardian\l|label = The Guardian\l|enabled = true\l|visible = true\l|x = 191\l|y = 50\l|width = 215\l|height = 67\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/573.0_150.0_1218.0_351.0.png\l}"]
+	26	[label="{type = XCUIElementTypeButton\l|name = Upgrade to Premium\l|label = Upgrade to Premium\l|enabled = true\l|visible = true\l|x = 8\l|y = 58\l|width = 96\l|height = 59\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/24.0_174.00000000000003_312.0_351.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 127\l|width = 414\l|height = 12\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/0.0_381.0_1242.0_417.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 139\l|width = 414\l|height = 1300\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/0.0_417.0_1242.0_4317.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 139\l|width = 398\l|height = 43\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/24.0_417.0_1218.0_546.0.png\l}"]
+	30	[label="{type = XCUIElementTypeLink\l|name = 'Our community is bleeding': Asian American lawmakers say violence has reached 'crisis point'\l|label = 'Our community is bleeding': Asian American lawmakers say violence has reached 'crisis point'\l|enabled = true\l|visible = true\l|x = 8\l|y = 190\l|width = 398\l|height = 445\l|numberOfChildren = 2\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/24.0_570.0_1218.0_1905.0.png\l}"]
+	31	[label="{type = XCUIElementTypeLink\l|name = Immigration: House passes bill that would give Dreamers path to citizenship\l|label = Immigration: House passes bill that would give Dreamers path to citizenship\l|enabled = true\l|visible = true\l|x = 8\l|y = 643\l|width = 195\l|height = 216\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/24.0_1929.0_609.0_2577.0.png\l}"]
+	32	[label="{type = XCUIElementTypeLink\l|name = Paul Andre Michels: 'Very good-hearted' handyman killed in Atlanta shootings\l|label = Paul Andre Michels: 'Very good-hearted' handyman killed in Atlanta shootings\l|enabled = true\l|visible = true\l|x = 211\l|y = 643\l|width = 195\l|height = 216\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/633.0_1929.0_1218.0_2577.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 22 pages\l|label = Vertical scroll bar, 22 pages\l|enabled = true\l|visible = true\l|x = 381\l|y = 139\l|width = 30\l|height = 674\l|numberOfChildren = 0\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/1143.0_417.0_1233.0_2439.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 780\l|width = 414\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/0.0_2340.0_1242.0_2430.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 129\l|width = 414\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/0.0_386.99999999999994_1242.0_389.99999999999994.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 132\l|width = 414\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/0.0_396.0_1242.0_399.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 135\l|width = 414\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/0.0_405.0_1242.0_408.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 138\l|width = 414\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/0.0_414.0_1242.0_417.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 142\l|width = 398\l|height = 32\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/24.0_426.0_1218.0_522.0.png\l}"]
+	40	[label="{type = XCUIElementTypeOther\l|name = 'Our community is bleeding': Asian American lawmakers say violence has reached 'crisis point'\l|label = 'Our community is bleeding': Asian American lawmakers say violence has reached 'crisis point'\l|enabled = true\l|visible = true\l|x = 8\l|y = 190\l|width = 398\l|height = 389\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/24.0_570.0_1218.0_1737.0.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 579\l|width = 398\l|height = 56\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/24.0_1736.9999999999998_1218.0_1904.9999999999998.png\l}"]
+	42	[label="{type = XCUIElementTypeLink\l|name = Headlines\l|label = Headlines\l|enabled = true\l|visible = true\l|x = 8\l|y = 142\l|width = 146\l|height = 32\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/24.0_426.0_462.0_522.0.png\l}"]
+	43	[label="{type = XCUIElementTypeStaticText\l|value = Updated 2 hours ago\l|name = Updated 2 hours ago\l|label = Updated 2 hours ago\l|enabled = true\l|visible = true\l|x = 349\l|y = 151\l|width = 57\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/1047.0_453.00000000000006_1218.0_510.00000000000006.png\l}"]
+	44	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 579\l|width = 398\l|height = 56\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/24.0_1736.9999999999998_1218.0_1904.9999999999998.png\l}"]
+	45	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 8\l|y = 579\l|width = 398\l|height = 56\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/24.0_1736.9999999999998_1218.0_1904.9999999999998.png\l}"]
+	46	[label="{type = XCUIElementTypeLink\l|name = 'A specific kind of racism': Fears over anti-sex work ideology\l|label = 'A specific kind of racism': Fears over anti-sex work ideology\l|enabled = true\l|visible = true\l|x = 8\l|y = 579\l|width = 326\l|height = 56\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/24.0_1736.9999999999998_1002.0000000000001_1904.9999999999998.png\l}"]
+	47	[label="{type = XCUIElementTypeLink\l|name = FBI: Agency under pressure to tackle anti-Asian hate crime\l|label = FBI: Agency under pressure to tackle anti-Asian hate crime\l|enabled = true\l|visible = true\l|x = 334\l|y = 579\l|width = 326\l|height = 56\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/1002.0_1736.9999999999998_1980.0_1904.9999999999998.png\l}"]
+	48	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 4 pages\l|label = Vertical scroll bar, 4 pages\l|enabled = true\l|visible = true\l|x = 373\l|y = 579\l|width = 30\l|height = 56\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-category/S0/pngs/1119.0_1736.9999999999998_1209.0_1904.9999999999998.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	5 -> 7
+	5 -> 8
+	6 -> 9
+	7 -> 10
+	8 -> 11
+	8 -> 12
+	8 -> 13
+	8 -> 14
+	10 -> 15
+	14 -> 16
+	15 -> 17
+	16 -> 18
+	16 -> 19
+	17 -> 20
+	19 -> 21
+	20 -> 22
+	22 -> 23
+	22 -> 24
+	23 -> 25
+	23 -> 26
+	24 -> 27
+	24 -> 28
+	24 -> 29
+	24 -> 30
+	24 -> 31
+	24 -> 32
+	24 -> 33
+	24 -> 34
+	27 -> 35
+	27 -> 36
+	27 -> 37
+	27 -> 38
+	29 -> 39
+	30 -> 40
+	30 -> 41
+	39 -> 42
+	39 -> 43
+	41 -> 44
+	44 -> 45
+	45 -> 46
+	45 -> 47
+	45 -> 48
+
+
+}

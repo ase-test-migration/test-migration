@@ -1,0 +1,4 @@
+pathToElementImageCrop: abc-manage/S1/pngs/895_131_1050_181.png;
+coords: {'x1': 895, 'y1': 131, 'x2': 1050, 'y2': 181};
+text_identifier: { "resource-id" : "com.abc.abcnews:id/button_text_view" };
+event: click;

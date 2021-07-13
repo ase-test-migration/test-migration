@@ -1,0 +1,140 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Wish\l|label = Wish\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 451\l|width = 375\l|height = 216\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/0.0_902.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 451\l|width = 375\l|height = 216\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/0.0_902.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeKeyboard\l|enabled = true\l|visible = true\l|x = 0\l|y = 451\l|width = 375\l|height = 216\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/0.0_902.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|name = messageDialog\l|enabled = true\l|visible = true\l|x = 32\l|y = 37\l|width = 311\l|height = 377\l|index = 0\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/64.0_74.0_686.0_827.9999999999999.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 451\l|width = 375\l|height = 216\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/0.0_902.0_750.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeButton\l|name = closeDialogButton\l|label = close\l|enabled = true\l|visible = true\l|x = 311\l|y = 45\l|width = 24\l|height = 25\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/622.0_90.0_670.0_140.0.png\l}"]
+	14	[label="{type = XCUIElementTypeStaticText\l|value = Create New Wishlist\l|name = wishlistDialogHeader\l|label = Create New Wishlist\l|enabled = true\l|visible = true\l|x = 100\l|y = 69\l|width = 175\l|height = 24\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/200.0_138.0_550.0_186.0.png\l}"]
+	15	[label="{type = XCUIElementTypeTextField\l|value = Favorites\l|name = wishlistTextField\l|label = \l|enabled = true\l|visible = true\l|x = 56\l|y = 117\l|width = 263\l|height = 40\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/112.00000000000001_234.0_638.0_314.0.png\l}"]
+	16	[label="{type = XCUIElementTypeStaticText\l|value = Suggestions:\l|name = wishlistSuggestionLabel\l|label = Suggestions:\l|enabled = true\l|visible = true\l|x = 56\l|y = 181\l|width = 263\l|height = 19\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/112.00000000000001_362.0_638.0_400.0.png\l}"]
+	17	[label="{type = XCUIElementTypeCollectionView\l|name = wishlistSuggestionList\l|enabled = true\l|visible = true\l|x = 56\l|y = 215\l|width = 263\l|height = 111\l|index = 4\l|numberOfChildren = 8\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/112.00000000000001_430.0_638.0_652.0.png\l}"]
+	18	[label="{type = XCUIElementTypeButton\l|name = createWishlistButton\l|label = Create New Wishlist\l|enabled = true\l|visible = true\l|x = 56\l|y = 349\l|width = 263\l|height = 41\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = true \l|screenshotPath = wish-wishlist/S3/pngs/112.00000000000001_698.0_638.0_780.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 451\l|width = 375\l|height = 216\l|index = 0\l|numberOfChildren = 33\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/0.0_902.0_750.0_1334.0.png\l}"]
+	20	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 56\l|y = 215\l|width = 79\l|height = 31\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/112.00000000000001_430.0_270.0_492.0.png\l}"]
+	21	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 144\l|y = 215\l|width = 73\l|height = 31\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/288.0_430.0_434.0_492.0.png\l}"]
+	22	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 226\l|y = 215\l|width = 69\l|height = 31\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/452.0_430.0_590.0_492.0.png\l}"]
+	23	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 56\l|y = 255\l|width = 102\l|height = 31\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/112.00000000000001_510.0_316.00000000000006_572.0.png\l}"]
+	24	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 167\l|y = 255\l|width = 65\l|height = 31\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/334.0_510.0_464.0_572.0.png\l}"]
+	25	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 56\l|y = 295\l|width = 89\l|height = 31\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/112.00000000000001_590.0_290.0_652.0.png\l}"]
+	26	[label="{type = XCUIElementTypeStaticText\l|value = Create New Wishlist\l|name = Create New Wishlist\l|label = Create New Wishlist\l|enabled = true\l|visible = true\l|x = 118\l|y = 360\l|width = 139\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/236.0_720.0_514.0_758.0.png\l}"]
+	27	[label="{type = XCUIElementTypeKey\l|name = Q\l|label = Q\l|enabled = true\l|visible = true\l|x = 0\l|y = 458\l|width = 38\l|height = 46\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/0.0_916.0_76.0_1008.0.png\l}"]
+	28	[label="{type = XCUIElementTypeKey\l|name = W\l|label = W\l|enabled = true\l|visible = true\l|x = 37\l|y = 458\l|width = 38\l|height = 46\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/74.0_916.0_150.0_1008.0.png\l}"]
+	29	[label="{type = XCUIElementTypeKey\l|name = E\l|label = E\l|enabled = true\l|visible = true\l|x = 75\l|y = 458\l|width = 38\l|height = 46\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/150.0_916.0_226.0_1008.0.png\l}"]
+	30	[label="{type = XCUIElementTypeKey\l|name = R\l|label = R\l|enabled = true\l|visible = true\l|x = 112\l|y = 458\l|width = 38\l|height = 46\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/224.00000000000003_916.0_300.0_1008.0.png\l}"]
+	31	[label="{type = XCUIElementTypeKey\l|name = T\l|label = T\l|enabled = true\l|visible = true\l|x = 150\l|y = 458\l|width = 38\l|height = 46\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/300.0_916.0_376.0_1008.0.png\l}"]
+	32	[label="{type = XCUIElementTypeKey\l|name = Y\l|label = Y\l|enabled = true\l|visible = true\l|x = 187\l|y = 458\l|width = 38\l|height = 46\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/374.0_916.0_450.0_1008.0.png\l}"]
+	33	[label="{type = XCUIElementTypeKey\l|name = U\l|label = U\l|enabled = true\l|visible = true\l|x = 225\l|y = 458\l|width = 38\l|height = 46\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/450.0_916.0_526.0_1008.0.png\l}"]
+	34	[label="{type = XCUIElementTypeKey\l|name = I\l|label = I\l|enabled = true\l|visible = true\l|x = 262\l|y = 458\l|width = 38\l|height = 46\l|index = 7\l|numberOfChildren = 0\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/524.0_916.0_600.0_1008.0.png\l}"]
+	35	[label="{type = XCUIElementTypeKey\l|name = O\l|label = O\l|enabled = true\l|visible = true\l|x = 300\l|y = 458\l|width = 38\l|height = 46\l|index = 8\l|numberOfChildren = 0\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/600.0_916.0_676.0_1008.0.png\l}"]
+	36	[label="{type = XCUIElementTypeKey\l|name = P\l|label = P\l|enabled = true\l|visible = true\l|x = 337\l|y = 458\l|width = 38\l|height = 46\l|index = 9\l|numberOfChildren = 0\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/674.0_916.0_750.0_1008.0.png\l}"]
+	37	[label="{type = XCUIElementTypeKey\l|name = A\l|label = A\l|enabled = true\l|visible = true\l|x = 18\l|y = 512\l|width = 38\l|height = 46\l|index = 10\l|numberOfChildren = 0\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/36.0_1024.0_112.0_1116.0.png\l}"]
+	38	[label="{type = XCUIElementTypeKey\l|name = S\l|label = S\l|enabled = true\l|visible = true\l|x = 56\l|y = 512\l|width = 38\l|height = 46\l|index = 11\l|numberOfChildren = 0\l|numInParentLayout = 11\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/112.00000000000001_1024.0_188.0_1116.0.png\l}"]
+	39	[label="{type = XCUIElementTypeKey\l|name = D\l|label = D\l|enabled = true\l|visible = true\l|x = 93\l|y = 512\l|width = 38\l|height = 46\l|index = 12\l|numberOfChildren = 0\l|numInParentLayout = 12\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/186.0_1024.0_262.0_1116.0.png\l}"]
+	40	[label="{type = XCUIElementTypeKey\l|name = F\l|label = F\l|enabled = true\l|visible = true\l|x = 131\l|y = 512\l|width = 38\l|height = 46\l|index = 13\l|numberOfChildren = 0\l|numInParentLayout = 13\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/262.0_1024.0_338.0_1116.0.png\l}"]
+	41	[label="{type = XCUIElementTypeKey\l|name = G\l|label = G\l|enabled = true\l|visible = true\l|x = 169\l|y = 512\l|width = 38\l|height = 46\l|index = 14\l|numberOfChildren = 0\l|numInParentLayout = 14\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/338.0_1024.0_414.0_1116.0.png\l}"]
+	42	[label="{type = XCUIElementTypeKey\l|name = H\l|label = H\l|enabled = true\l|visible = true\l|x = 206\l|y = 512\l|width = 38\l|height = 46\l|index = 15\l|numberOfChildren = 0\l|numInParentLayout = 15\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/412.0_1024.0_488.0_1116.0.png\l}"]
+	43	[label="{type = XCUIElementTypeKey\l|name = J\l|label = J\l|enabled = true\l|visible = true\l|x = 244\l|y = 512\l|width = 38\l|height = 46\l|index = 16\l|numberOfChildren = 0\l|numInParentLayout = 16\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/487.99999999999994_1024.0_564.0_1116.0.png\l}"]
+	44	[label="{type = XCUIElementTypeKey\l|name = K\l|label = K\l|enabled = true\l|visible = true\l|x = 281\l|y = 512\l|width = 38\l|height = 46\l|index = 17\l|numberOfChildren = 0\l|numInParentLayout = 17\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/562.0_1024.0_638.0_1116.0.png\l}"]
+	45	[label="{type = XCUIElementTypeKey\l|name = L\l|label = L\l|enabled = true\l|visible = true\l|x = 319\l|y = 512\l|width = 38\l|height = 46\l|index = 18\l|numberOfChildren = 0\l|numInParentLayout = 18\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/638.0_1024.0_714.0_1116.0.png\l}"]
+	46	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = shift\l|label = shift\l|enabled = true\l|visible = true\l|x = 0\l|y = 566\l|width = 48\l|height = 46\l|index = 19\l|numberOfChildren = 0\l|numInParentLayout = 19\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/0.0_1132.0_96.0_1224.0.png\l}"]
+	47	[label="{type = XCUIElementTypeKey\l|name = Z\l|label = Z\l|enabled = true\l|visible = true\l|x = 56\l|y = 566\l|width = 38\l|height = 46\l|index = 20\l|numberOfChildren = 0\l|numInParentLayout = 20\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/112.00000000000001_1132.0_188.0_1224.0.png\l}"]
+	48	[label="{type = XCUIElementTypeKey\l|name = X\l|label = X\l|enabled = true\l|visible = true\l|x = 93\l|y = 566\l|width = 38\l|height = 46\l|index = 21\l|numberOfChildren = 0\l|numInParentLayout = 21\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/186.0_1132.0_262.0_1224.0.png\l}"]
+	49	[label="{type = XCUIElementTypeKey\l|name = C\l|label = C\l|enabled = true\l|visible = true\l|x = 131\l|y = 566\l|width = 38\l|height = 46\l|index = 22\l|numberOfChildren = 0\l|numInParentLayout = 22\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/262.0_1132.0_338.0_1224.0.png\l}"]
+	50	[label="{type = XCUIElementTypeKey\l|name = V\l|label = V\l|enabled = true\l|visible = true\l|x = 169\l|y = 566\l|width = 38\l|height = 46\l|index = 23\l|numberOfChildren = 0\l|numInParentLayout = 23\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/338.0_1132.0_414.0_1224.0.png\l}"]
+	51	[label="{type = XCUIElementTypeKey\l|name = B\l|label = B\l|enabled = true\l|visible = true\l|x = 206\l|y = 566\l|width = 38\l|height = 46\l|index = 24\l|numberOfChildren = 0\l|numInParentLayout = 24\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/412.0_1132.0_488.0_1224.0.png\l}"]
+	52	[label="{type = XCUIElementTypeKey\l|name = N\l|label = N\l|enabled = true\l|visible = true\l|x = 244\l|y = 566\l|width = 38\l|height = 46\l|index = 25\l|numberOfChildren = 0\l|numInParentLayout = 25\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/487.99999999999994_1132.0_564.0_1224.0.png\l}"]
+	53	[label="{type = XCUIElementTypeKey\l|name = M\l|label = M\l|enabled = true\l|visible = true\l|x = 281\l|y = 566\l|width = 38\l|height = 46\l|index = 26\l|numberOfChildren = 0\l|numInParentLayout = 26\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/562.0_1132.0_638.0_1224.0.png\l}"]
+	54	[label="{type = XCUIElementTypeKey\l|name = delete\l|label = delete\l|enabled = true\l|visible = true\l|x = 327\l|y = 566\l|width = 48\l|height = 46\l|index = 27\l|numberOfChildren = 0\l|numInParentLayout = 27\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/654.0_1132.0_750.0_1224.0.png\l}"]
+	55	[label="{type = XCUIElementTypeKey\l|name = more\l|label = numbers\l|enabled = true\l|visible = true\l|x = 0\l|y = 620\l|width = 47\l|height = 46\l|index = 28\l|numberOfChildren = 0\l|numInParentLayout = 28\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/0.0_1240.0_94.0_1332.0.png\l}"]
+	56	[label="{type = XCUIElementTypeButton\l|name = Emoji\l|label = Emoji\l|enabled = true\l|visible = true\l|x = 46\l|y = 620\l|width = 48\l|height = 46\l|index = 29\l|numberOfChildren = 0\l|numInParentLayout = 29\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/92.0_1240.0_188.0_1332.0.png\l}"]
+	57	[label="{type = XCUIElementTypeButton\l|name = dictation\l|label = Dictate\l|enabled = false\l|visible = true\l|x = 93\l|y = 620\l|width = 38\l|height = 46\l|index = 30\l|numberOfChildren = 0\l|numInParentLayout = 30\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/186.0_1240.0_262.0_1332.0.png\l}"]
+	58	[label="{type = XCUIElementTypeKey\l|name = space\l|label = space\l|enabled = true\l|visible = true\l|x = 131\l|y = 620\l|width = 151\l|height = 46\l|index = 31\l|numberOfChildren = 0\l|numInParentLayout = 31\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/262.0_1240.0_564.0_1332.0.png\l}"]
+	59	[label="{type = XCUIElementTypeButton\l|name = Return\l|label = return\l|enabled = true\l|visible = true\l|x = 281\l|y = 620\l|width = 94\l|height = 46\l|index = 32\l|numberOfChildren = 0\l|numInParentLayout = 32\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/562.0_1240.0_750.0_1332.0.png\l}"]
+	60	[label="{type = XCUIElementTypeStaticText\l|value = Wishlist #1\l|name = Wishlist #1\l|label = Wishlist #1\l|enabled = true\l|visible = true\l|x = 56\l|y = 215\l|width = 79\l|height = 31\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/112.00000000000001_430.0_270.0_492.0.png\l}"]
+	61	[label="{type = XCUIElementTypeStaticText\l|value = Favorites\l|name = Favorites\l|label = Favorites\l|enabled = true\l|visible = true\l|x = 144\l|y = 215\l|width = 73\l|height = 31\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/288.0_430.0_434.0_492.0.png\l}"]
+	62	[label="{type = XCUIElementTypeStaticText\l|value = Birthday\l|name = Birthday\l|label = Birthday\l|enabled = true\l|visible = true\l|x = 226\l|y = 215\l|width = 68\l|height = 31\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/452.0_430.0_588.0_492.0.png\l}"]
+	63	[label="{type = XCUIElementTypeStaticText\l|value = Miscellaneous\l|name = Miscellaneous\l|label = Miscellaneous\l|enabled = true\l|visible = true\l|x = 56\l|y = 255\l|width = 101\l|height = 31\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/112.00000000000001_510.0_314.0_572.0.png\l}"]
+	64	[label="{type = XCUIElementTypeStaticText\l|value = Fashion\l|name = Fashion\l|label = Fashion\l|enabled = true\l|visible = true\l|x = 167\l|y = 255\l|width = 65\l|height = 31\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/334.0_510.0_464.0_572.0.png\l}"]
+	65	[label="{type = XCUIElementTypeStaticText\l|value = Accessories\l|name = Accessories\l|label = Accessories\l|enabled = true\l|visible = true\l|x = 56\l|y = 295\l|width = 89\l|height = 31\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S3/pngs/112.00000000000001_590.0_290.0_652.0.png\l}"]
+
+
+	0 -> 1
+	0 -> 2
+	1 -> 3
+	2 -> 4
+	3 -> 5
+	4 -> 6
+	5 -> 7
+	6 -> 8
+	7 -> 9
+	8 -> 10
+	9 -> 11
+	10 -> 12
+	11 -> 13
+	11 -> 14
+	11 -> 15
+	11 -> 16
+	11 -> 17
+	11 -> 18
+	12 -> 19
+	17 -> 20
+	17 -> 21
+	17 -> 22
+	17 -> 23
+	17 -> 24
+	17 -> 25
+	18 -> 26
+	19 -> 27
+	19 -> 28
+	19 -> 29
+	19 -> 30
+	19 -> 31
+	19 -> 32
+	19 -> 33
+	19 -> 34
+	19 -> 35
+	19 -> 36
+	19 -> 37
+	19 -> 38
+	19 -> 39
+	19 -> 40
+	19 -> 41
+	19 -> 42
+	19 -> 43
+	19 -> 44
+	19 -> 45
+	19 -> 46
+	19 -> 47
+	19 -> 48
+	19 -> 49
+	19 -> 50
+	19 -> 51
+	19 -> 52
+	19 -> 53
+	19 -> 54
+	19 -> 55
+	19 -> 56
+	19 -> 57
+	19 -> 58
+	19 -> 59
+	20 -> 60
+	21 -> 61
+	22 -> 62
+	23 -> 63
+	24 -> 64
+	25 -> 65
+
+
+}

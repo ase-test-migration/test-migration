@@ -1,0 +1,4 @@
+pathToElementImageCrop: gTask-newList/S0/pngs/0_2214_147_2287.png;
+coords: {'x1': 0, 'y1': 2214, 'x2': 147, 'y2': 2361};
+text_identifier: { "content-desc" : "Switch task lists or account" };
+event: click;

@@ -1,0 +1,33 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "msToDo-delTask",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Test01"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Delete Test01"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Delete task"
+                }
+            ]
+        }
+    ]
+}

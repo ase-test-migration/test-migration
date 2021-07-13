@@ -1,0 +1,4 @@
+pathToElementImageCrop: abc-mynews/S2/pngs/756_852_1020_921.png;
+coords: {'x1': 756, 'y1': 852, 'x2': 1020, 'y2': 921};
+text_identifier: { "resource-id" : "com.abc.abcnews:id/btnFollow" };
+event: click;

@@ -1,0 +1,44 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "etsy-navi",
+            "events": [
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//android.widget.FrameLayout[@content-desc=\"You tab, 4 of 5\"]/android.widget.ImageView"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.view.ViewGroup/androidx.cardview.widget.CardView[1]/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[1]/android.widget.TextView"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/androidx.cardview.widget.CardView"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/androidx.cardview.widget.CardView[1]/android.view.ViewGroup"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.etsy.android:id/shop_header_name"
+                },
+                {
+                    "event": "oracle",
+                    "oracle-type": "text_exists",
+                    "input": "Shop"
+                }
+            ]
+        }
+    ]
+}

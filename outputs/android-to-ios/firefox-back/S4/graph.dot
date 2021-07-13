@@ -1,0 +1,80 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Firefox\l|label = Firefox\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 75\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/0.0_40.0_750.0_190.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 95\l|width = 375\l|height = 526\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/0.0_190.0_750.0_1242.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 621\l|width = 375\l|height = 46\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/0.0_1242.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 75\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/0.0_40.0_750.0_190.0.png\l}"]
+	12	[label="{type = XCUIElementTypeWebView\l|name = contentView\l|label = Web content\l|enabled = true\l|visible = true\l|x = 0\l|y = 95\l|width = 375\l|height = 526\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/0.0_190.0_750.0_1242.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|name = Navigation Toolbar\l|label = Navigation Toolbar\l|enabled = true\l|visible = true\l|x = 0\l|y = 621\l|width = 375\l|height = 46\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/0.0_1242.0_750.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 7\l|y = 20\l|width = 361\l|height = 34\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/14.000000000000002_40.0_736.0_108.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 7\l|y = 35\l|width = 361\l|height = 45\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/14.000000000000002_70.0_736.0_160.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 94\l|width = 375\l|height = 1\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/0.0_188.0_750.0_190.0.png\l}"]
+	17	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 95\l|width = 375\l|height = 526\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/0.0_190.0_750.0_1242.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 621\l|width = 375\l|height = 46\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/0.0_1242.0_750.0_1334.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 7\l|y = 35\l|width = 361\l|height = 45\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/14.000000000000002_70.0_736.0_160.0.png\l}"]
+	20	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 95\l|width = 375\l|height = 526\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/0.0_190.0_750.0_1242.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 7 pages\l|label = Vertical scroll bar, 7 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 95\l|width = 30\l|height = 526\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/684.0_190.0_744.0_1242.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 588\l|width = 375\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/0.0_1176.0_750.0_1236.0.png\l}"]
+	23	[label="{type = XCUIElementTypeButton\l|name = TabToolbar.backButton\l|label = Back\l|enabled = true\l|visible = true\l|x = 0\l|y = 621\l|width = 75\l|height = 46\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/0.0_1242.0_150.0_1334.0.png\l}"]
+	24	[label="{type = XCUIElementTypeButton\l|name = TabToolbar.forwardButton\l|label = Forward\l|enabled = false\l|visible = true\l|x = 75\l|y = 621\l|width = 75\l|height = 46\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/150.0_1242.0_300.0_1334.0.png\l}"]
+	25	[label="{type = XCUIElementTypeButton\l|name = TabToolbar.multiStateButton\l|label = Reload\l|enabled = true\l|visible = true\l|x = 150\l|y = 621\l|width = 75\l|height = 46\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/300.0_1242.0_450.0_1334.0.png\l}"]
+	26	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = TabToolbar.tabsButton\l|label = Show Tabs\l|enabled = true\l|visible = true\l|x = 225\l|y = 621\l|width = 75\l|height = 46\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/450.0_1242.0_600.0_1334.0.png\l}"]
+	27	[label="{type = XCUIElementTypeButton\l|name = TabToolbar.menuButton\l|label = Menu\l|enabled = true\l|visible = true\l|x = 300\l|y = 621\l|width = 75\l|height = 46\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/600.0_1242.0_750.0_1334.0.png\l}"]
+	28	[label="{type = XCUIElementTypeTextField\l|value = www.google.com/search?source=hp&ei=LnQuYLHYOeWijLsP6MWN4Ac&q=wikipedia.org&oq=wikipedia.org&gs_lcp=ChFtb2JpbGUtZ3dzLXdpei1ocBADMgIIKVChpwNY9KgDYISpA2gAcAB4AIABAIgBAJIBAJgBAKABAbABAQ&sclient=mobile-gws-wiz-hp\l|name = url\l|label = Address Bar\l|enabled = true\l|visible = true\l|x = 80\l|y = 46\l|width = 209\l|height = 23\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/160.0_92.0_578.0_138.0.png\l}"]
+	29	[label="{type = XCUIElementTypeButton\l|name = TabLocationView.readerModeButton\l|label = Reader View\l|enabled = true\l|visible = true\l|x = 289\l|y = 35\l|width = 34\l|height = 45\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/578.0_70.0_646.0_160.0.png\l}"]
+	30	[label="{type = XCUIElementTypeButton\l|name = TabLocationView.pageOptionsButton\l|label = Page Options Menu\l|enabled = true\l|visible = true\l|x = 324\l|y = 35\l|width = 44\l|height = 45\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/648.0_70.0_736.0_160.0.png\l}"]
+	31	[label="{type = XCUIElementTypeButton\l|name = TabLocationView.trackingProtectionButton\l|label = tracking protection\l|enabled = true\l|visible = true\l|x = 7\l|y = 35\l|width = 44\l|height = 45\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/14.000000000000002_70.0_102.0_160.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	33	[label="{type = XCUIElementTypeStaticText\l|value = 1\l|name = 1\l|label = 1\l|enabled = true\l|visible = true\l|x = 250\l|y = 632\l|width = 25\l|height = 24\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/500.0_1264.0_550.0_1312.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 94\l|width = 375\l|height = 526\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-back/S4/pngs/0.0_188.0_750.0_1240.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	7 -> 9
+	7 -> 10
+	8 -> 11
+	9 -> 12
+	10 -> 13
+	11 -> 14
+	11 -> 15
+	11 -> 16
+	12 -> 17
+	13 -> 18
+	15 -> 19
+	17 -> 20
+	17 -> 21
+	17 -> 22
+	18 -> 23
+	18 -> 24
+	18 -> 25
+	18 -> 26
+	18 -> 27
+	19 -> 28
+	19 -> 29
+	19 -> 30
+	19 -> 31
+	20 -> 32
+	26 -> 33
+	32 -> 34
+	34 -> 35
+
+
+}

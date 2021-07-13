@@ -1,0 +1,6 @@
+pathToElementImageCrop: ;
+coords: ;
+text_identifier: Popular;
+event: oracle;
+oracle-type: text_exists;
+input: Popular;

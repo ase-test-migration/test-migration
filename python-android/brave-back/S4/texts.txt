@@ -1,0 +1,5 @@
+{ "resource-id" : "com.brave.browser:id/compositor_view_holder" , "screenshotPath" : "brave-back/S4/pngs/0_171_1080_1977.png"}
+{ "content-desc" : "Web View" , "screenshotPath" : "brave-back/S4/pngs/0_171_1080_1977.png"}
+{ "resource-id" : "com.brave.browser:id/url_bar" , "screenshotPath" : "brave-back/S4/pngs/121_179_1036_317.png"}
+{ "content-desc" : "Connection is secure. Site information" , "resource-id" : "com.brave.browser:id/location_bar_status_icon" , "screenshotPath" : "brave-back/S4/pngs/44_171_110_325.png"}
+{ "content-desc" : "Enable/Disable Brave Shields" , "resource-id" : "com.brave.browser:id/brave_shields_button" , "screenshotPath" : "brave-back/S4/pngs/926_193_1056_303.png"}

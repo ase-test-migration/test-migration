@@ -1,0 +1,20 @@
+{"name" : "McDonald's", "label" : "McDonald's", "screenshotPath" : "McD-removeFav/S2/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "Select Location", "screenshotPath" : "McD-removeFav/S2/pngs/0.0_40.0_750.0_128.0.png"}
+{"name" : "slide_close", "label" : "Close", "screenshotPath" : "McD-removeFav/S2/pngs/16.0_40.0_90.0_128.0.png"}
+{"value" : "Store Selection Screen", "name" : "Store Selection Screen", "label" : "Store Selection Screen", "screenshotPath" : "McD-removeFav/S2/pngs/258.0_40.0_494.0_128.0.png"}
+{"name" : "toolbar_search", "label" : "search", "screenshotPath" : "McD-removeFav/S2/pngs/560.0_40.0_642.0_128.0.png"}
+{"name" : "toolbar_right_icon", "label" : "List view", "screenshotPath" : "McD-removeFav/S2/pngs/658.0_40.0_734.0_128.0.png"}
+{"name" : "current_location", "label" : "FindMeIcon", "screenshotPath" : "McD-removeFav/S2/pngs/640.0_821.9999999999999_704.0_887.9999999999999.png"}
+{"name" : "location_map", "label" : "Map view", "screenshotPath" : "McD-removeFav/S2/pngs/0.0_128.0_750.0_928.0.png"}
+{"name" : "drag_chevron_layout", "label" : "View expanded store list.Double tap to select", "screenshotPath" : "McD-removeFav/S2/pngs/350.0_942.0_400.0_952.0.png"}
+{"value" : "Nearby", "name" : "Nearby", "label" : "Nearby", "screenshotPath" : "McD-removeFav/S2/pngs/10.0_962.0_358.0_1024.0.png"}
+{"value" : "Favorites", "name" : "Favorites", "label" : "Favorites", "screenshotPath" : "McD-removeFav/S2/pngs/391.99999999999994_962.0_740.0_1024.0.png"}
+{"value" : "Hours: 05:30am-12:59am", "name" : "store_time", "label" : "Hours: 05:30am-12:59am", "screenshotPath" : "McD-removeFav/S2/pngs/110.0_1198.0_702.0_1240.0.png"}
+{"name" : "fav_icon", "label" : "1071 Martin Luther King Jr Blvd, favorited store", "screenshotPath" : "McD-removeFav/S2/pngs/36.0_1070.0_96.0_1130.0.png"}
+{"value" : "1071 Martin Luther King Jr Blvd", "name" : "store_address", "label" : "1071 Martin Luther King Jr Blvd", "screenshotPath" : "McD-removeFav/S2/pngs/110.0_1082.0_478.0_1114.0.png"}
+{"value" : "Los Angeles", "name" : "store_city", "label" : "Los Angeles", "screenshotPath" : "McD-removeFav/S2/pngs/110.0_1116.0_478.0_1148.0.png"}
+{"value" : "1.0 miles away", "name" : "store_distance", "label" : "1.0 miles away", "screenshotPath" : "McD-removeFav/S2/pngs/110.0_1150.0_478.0_1182.0.png"}
+{"name" : "store_view_details", "label" : "View details,1071 Martin Luther King Jr Blvd", "screenshotPath" : "McD-removeFav/S2/pngs/110.0_1254.0_404.0_1288.0.png"}
+{"name" : "store_order_here", "label" : "Order Here,1071 Martin Luther King Jr Blvd", "screenshotPath" : "McD-removeFav/S2/pngs/526.0_1074.0_702.0_1154.0.png"}
+{"value" : "View details", "name" : "View details", "label" : "View details", "screenshotPath" : "McD-removeFav/S2/pngs/110.0_1252.0_260.0_1290.0.png"}
+{"value" : "   Order Here   ", "name" : "   Order Here   ", "label" : "   Order Here   ", "screenshotPath" : "McD-removeFav/S2/pngs/528.0_1096.0_700.0_1132.0.png"}

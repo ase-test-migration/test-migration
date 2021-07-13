@@ -1,0 +1,61 @@
+pair_ID	sentence_A	sentence_B	relatedness_score	entailment_judgment
+1	Go to setting and change the edition to france	Click on menubar settings. Click on settings editions. Click on France is not selected.	3.6	CONTRADICTION
+2	On the setting menu, click on edition and then choose france.	Click on menubar settings. Click on settings editions. Click on France is not selected.	3.6	CONTRADICTION
+3	Choose corona virus tab	Click on menubar settings. Click on settings editions. Click on France is not selected.	3.6	CONTRADICTION
+4	navigate to corona virus tab	Click on menubar settings. Click on settings editions. Click on France is not selected.	3.6	CONTRADICTION
+5	play the video on entertainment tab	Click on menubar settings. Click on settings editions. Click on France is not selected.	3.6	CONTRADICTION
+6	click on entertainment tab Play the video	Click on menubar settings. Click on settings editions. Click on France is not selected.	3.6	CONTRADICTION
+7	Play the video on videos tab	Click on menubar settings. Click on settings editions. Click on France is not selected.	3.6	CONTRADICTION
+8	Search for news on the search menu	Click on menubar settings. Click on settings editions. Click on France is not selected.	3.6	CONTRADICTION
+9	Save the article to read for later on the sports tab	Click on menubar settings. Click on settings editions. Click on France is not selected.	3.6	CONTRADICTION
+10	Go to sport tab. Save the article to read later	Click on menubar settings. Click on settings editions. Click on France is not selected.	3.6	CONTRADICTION
+11	Go to setting and change the edition to france	Click on AOL Videos. Click on video play.	3.6	CONTRADICTION
+12	On the setting menu, click on edition and then choose france.	Click on AOL Videos. Click on video play.	3.6	CONTRADICTION
+13	Choose corona virus tab	Click on menubar settings. Click on AOL Videos. Click on video play.	3.6	CONTRADICTION
+14	navigate to corona virus tab	Click on AOL Videos. Click on video play.	3.6	CONTRADICTION
+15	play the video on entertainment tab	Click on AOL Videos. Click on video play.	3.6	CONTRADICTION
+16	click on entertainment tab Play the video	Click on AOL Videos. Click on video play.	3.6	CONTRADICTION
+17	Play the video on videos tab	Click on AOL Videos. Click on video play.	3.6	CONTRADICTION
+18	Search for news on the search menu	Click on AOL Videos. Click on video play.	3.6	CONTRADICTION
+19	Save the article to read for later on the sports tab	Click on AOL Videos. Click on video play.	3.6	CONTRADICTION
+20	Go to sport tab. Save the article to read later	Click on AOL Videos. Click on video play.	3.6	CONTRADICTION
+21	Go to setting and change the edition to france	Click on Entertainment. Click on player view.	3.6	CONTRADICTION
+22	On the setting menu, click on edition and then choose france.	Click on Entertainment. Click on player view.	3.6	CONTRADICTION
+23	Choose corona virus tab	Click on Entertainment. Click on player view.	3.6	CONTRADICTION
+24	navigate to corona virus tab	Click on Entertainment. Click on player view.	3.6	CONTRADICTION
+25	play the video on entertainment tab	Click on Entertainment. Click on player view.	3.6	CONTRADICTION
+26	click on entertainment tab Play the video	Click on Entertainment. Click on player view.	3.6	CONTRADICTION
+27	Play the video on videos tab	Click on Entertainment. Click on player view.	3.6	CONTRADICTION
+28	Search for news on the search menu	Click on Entertainment. Click on player view.	3.6	CONTRADICTION
+29	Save the article to read for later on the sports tab	Click on Entertainment. Click on player view.	3.6	CONTRADICTION
+30	Go to sport tab. Save the article to read later	Click on Entertainment. Click on player view.	3.6	CONTRADICTION
+31	Go to setting and change the edition to france	Click on Coronavirus.	3.6	CONTRADICTION
+32	On the setting menu, click on edition and then choose france.	Click on Coronavirus.	3.6	CONTRADICTION
+33	Choose corona virus tab	Click on Coronavirus.	3.6	CONTRADICTION
+34	navigate to corona virus tab	Click on Coronavirus.	3.6	CONTRADICTION
+35	play the video on entertainment tab	Click on Coronavirus.	3.6	CONTRADICTION
+36	click on entertainment tab Play the video	Click on Coronavirus.	3.6	CONTRADICTION
+37	Play the video on videos tab	Click on Coronavirus.	3.6	CONTRADICTION
+38	Search for news on the search menu	Click on Coronavirus.	3.6	CONTRADICTION
+39	Save the article to read for later on the sports tab	Click on Coronavirus.	3.6	CONTRADICTION
+40	Go to sport tab. Save the article to read later	Click on Sports. Click on Add artice to saved for later list.	3.6	CONTRADICTION
+41	Go to setting and change the edition to france	Click on Sports. Click on Add artice to saved for later list.	3.6	CONTRADICTION
+42	On the setting menu, click on edition and then choose france.	Click on Sports. Click on Add artice to saved for later list.	3.6	CONTRADICTION
+43	Choose corona virus tab	Click on Sports. Click on Add artice to saved for later list.	3.6	CONTRADICTION
+44	navigate to corona virus tab	Click on Sports. Click on Add artice to saved for later list.	3.6	CONTRADICTION
+45	play the video on entertainment tab	Click on Sports. Click on Add artice to saved for later list.	3.6	CONTRADICTION
+46	click on entertainment tab Play the video	Click on Sports. Click on Add artice to saved for later list.	3.6	CONTRADICTION
+47	Play the video on videos tab	Click on Sports. Click on Add artice to saved for later list.	3.6	CONTRADICTION
+48	Search for news on the search menu	Click on Sports. Click on Add artice to saved for later list.	3.6	CONTRADICTION
+49	Save the article to read for later on the sports tab	Click on Sports. Click on Add artice to saved for later list.	3.6	CONTRADICTION
+50	Go to sport tab. Save the article to read later	Click on Sports. Click on Add artice to saved for later list.	3.6	CONTRADICTION
+51	Go to setting and change the edition to france	Click on AOL Search. Type news on search edit text.	3.6	CONTRADICTION
+52	On the setting menu, click on edition and then choose france.	Click on AOL Search. Type news on search edit text.	3.6	CONTRADICTION
+53	Choose corona virus tab	Click on AOL Search. Type news on search edit text.	3.6	CONTRADICTION
+54	navigate to corona virus tab	Click on AOL Search. Type news on search edit text.	3.6	CONTRADICTION
+55	play the video on entertainment tab	Click on AOL Search. Type news on search edit text.	3.6	CONTRADICTION
+56	click on entertainment tab Play the video	Click on AOL Search. Type news on search edit text.	3.6	CONTRADICTION
+57	Play the video on videos tab	Click on AOL Search. Type news on search edit text.	3.6	CONTRADICTION
+58	Search for news on the search menu	Click on AOL Search. Type news on search edit text.	3.6	CONTRADICTION
+59	Save the article to read for later on the sports tab	Click on AOL Search. Type news on search edit text.	3.6	CONTRADICTION
+60	Go to sport tab. Save the article to read later	Click on AOL Search. Type news on search edit text.	3.6	CONTRADICTION

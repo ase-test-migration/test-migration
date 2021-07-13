@@ -1,0 +1,4 @@
+pathToElementImageCrop: wish-add-to-cart/S0/pngs/636.0000000000001_449.99999999999994_1242.0_1278.0.png;
+coords: {'x1': 636.0000000000001, 'y1': 449.99999999999994, 'x2': 1242.0, 'y2': 1278.0};
+text_identifier: { "name" : "express category" };
+event: click;

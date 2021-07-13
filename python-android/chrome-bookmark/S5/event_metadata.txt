@@ -1,0 +1,4 @@
+pathToElementImageCrop: chrome-bookmark/S5/pngs/398_752_1020_884.png;
+coords: {'x1': 398, 'y1': 752, 'x2': 1020, 'y2': 884};
+text_identifier: { "content-desc" : "Bookmarks" , "resource-id" : "com.android.chrome:id/menu_item_text" };
+event: click;

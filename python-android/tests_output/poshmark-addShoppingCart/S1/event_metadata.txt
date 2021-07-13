@@ -1,0 +1,4 @@
+pathToElementImageCrop: poshmark-addShoppingCart/S1/pngs/187_1465_353_1570.png;
+coords: {'x1': 187, 'y1': 1465, 'x2': 353, 'y2': 1570};
+text_identifier: { "content-desc" : "Add to Bundle" , "resource-id" : "com.poshmark.app:id/addToBundleButton" };
+event: click;

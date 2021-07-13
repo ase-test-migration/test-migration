@@ -1,0 +1,4 @@
+pathToElementImageCrop: etsy-add-to-cart/S0/pngs/152_432_1044_484.png;
+coords: {'x1': 152, 'y1': 432, 'x2': 1044, 'y2': 484};
+text_identifier: { "resource-id" : "com.etsy.android:id/query" };
+event: click;

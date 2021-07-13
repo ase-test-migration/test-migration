@@ -1,0 +1,168 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = The Guardian\l|label = The Guardian\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 297\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_0.0_891.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeButton\l|name = Close Menu\l|label = Close Menu\l|enabled = true\l|visible = true\l|x = 350\l|y = 798\l|width = 52\l|height = 52\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/1050.0_2394.0_1206.0_2550.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 297\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_0.0_891.0_2688.0.png\l}"]
+	8	[label="{type = XCUIElementTypeStaticText\l|value = \l|name = \l|label = \l|enabled = true\l|visible = true\l|x = 363\l|y = 805\l|width = 26\l|height = 33\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/1089.0_2415.0_1167.0_2514.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 297\l|height = 812\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_0.0_891.0_2436.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 812\l|width = 297\l|height = 84\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_2436.0_891.0_2688.0.png\l}"]
+	11	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 297\l|height = 812\l|numberOfChildren = 23\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_0.0_891.0_2436.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 812\l|width = 297\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_2436.0_891.0_2439.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 820\l|width = 281\l|height = 34\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/24.0_2460.0_867.0_2562.0.png\l}"]
+	14	[label="{type = XCUIElementTypeButton\l|name = Home\l|label = Home\l|enabled = true\l|visible = true\l|x = 5\l|y = 51\l|width = 35\l|height = 34\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/15.0_153.0_120.0_255.0.png\l}"]
+	15	[label="{type = XCUIElementTypeButton\l|name = Upgrade To Premium\l|label = Upgrade To Premium\l|enabled = true\l|visible = true\l|x = 0\l|y = 90\l|width = 297\l|height = 44\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_270.0_891.0_402.0.png\l}"]
+	16	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 134\l|width = 297\l|height = 49\l|numberOfChildren = 3\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_402.0_891.0_549.0.png\l}"]
+	17	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 183\l|width = 297\l|height = 49\l|numberOfChildren = 3\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_549.0_891.0_696.0.png\l}"]
+	18	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 232\l|width = 297\l|height = 49\l|numberOfChildren = 3\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_696.0000000000001_891.0_843.0000000000001.png\l}"]
+	19	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 281\l|width = 297\l|height = 49\l|numberOfChildren = 3\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_843.0000000000001_891.0_990.0000000000001.png\l}"]
+	20	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 330\l|width = 297\l|height = 49\l|numberOfChildren = 3\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_990.0000000000001_891.0_1137.0.png\l}"]
+	21	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 379\l|width = 297\l|height = 49\l|numberOfChildren = 3\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_1137.0_891.0_1284.0.png\l}"]
+	22	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 428\l|width = 297\l|height = 49\l|numberOfChildren = 3\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_1284.0_891.0_1431.0.png\l}"]
+	23	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 477\l|width = 297\l|height = 49\l|numberOfChildren = 3\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_1431.0_891.0_1578.0.png\l}"]
+	24	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 526\l|width = 297\l|height = 49\l|numberOfChildren = 3\l|numInParentLayout = 11\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_1578.0_891.0_1725.0.png\l}"]
+	25	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 575\l|width = 297\l|height = 49\l|numberOfChildren = 3\l|numInParentLayout = 12\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_1725.0_891.0_1872.0.png\l}"]
+	26	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 624\l|width = 297\l|height = 49\l|numberOfChildren = 3\l|numInParentLayout = 13\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_1872.0_891.0_2019.0.png\l}"]
+	27	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 673\l|width = 297\l|height = 49\l|numberOfChildren = 3\l|numInParentLayout = 14\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_2019.0_891.0_2166.0.png\l}"]
+	28	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 722\l|width = 297\l|height = 49\l|numberOfChildren = 3\l|numInParentLayout = 15\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_2166.0_891.0_2313.0.png\l}"]
+	29	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 771\l|width = 297\l|height = 49\l|numberOfChildren = 3\l|numInParentLayout = 16\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_2313.0_891.0_2460.0.png\l}"]
+	30	[label="{type = XCUIElementTypeButton\l|name = Settings\l|label = Settings\l|enabled = true\l|visible = true\l|x = 8\l|y = 820\l|width = 34\l|height = 34\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/24.0_2460.0_126.0_2562.0.png\l}"]
+	31	[label="{type = XCUIElementTypeButton\l|name = Profile\l|label = Profile\l|enabled = true\l|visible = true\l|x = 49\l|y = 820\l|width = 35\l|height = 34\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/147.0_2460.0_252.0_2562.0.png\l}"]
+	32	[label="{type = XCUIElementTypeButton\l|name = Saved for later\l|label = Saved for later\l|enabled = true\l|visible = true\l|x = 91\l|y = 820\l|width = 35\l|height = 34\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/273.0_2460.0_378.0_2562.0.png\l}"]
+	33	[label="{type = XCUIElementTypeButton\l|name = Search\l|label = Search\l|enabled = true\l|visible = true\l|x = 133\l|y = 820\l|width = 35\l|height = 34\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = true \l|screenshotPath = guardian-search/S1/pngs/399.0_2460.0_504.0_2562.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 175\l|y = 820\l|width = 114\l|height = 34\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/525.0_2460.0_867.0_2562.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 134\l|width = 297\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_402.0_891.0_405.0.png\l}"]
+	36	[label="{type = XCUIElementTypeStaticText\l|value = US\l|name = US\l|label = US\l|enabled = true\l|visible = true\l|x = 5\l|y = 147\l|width = 292\l|height = 23\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/15.0_441.0_891.0_510.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 177\l|width = 312\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/24.0_531.0_960.0_534.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 183\l|width = 297\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_549.0_891.0_552.0.png\l}"]
+	39	[label="{type = XCUIElementTypeStaticText\l|value = Politics\l|name = Politics\l|label = Politics\l|enabled = true\l|visible = true\l|x = 5\l|y = 196\l|width = 292\l|height = 23\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/15.0_588.0_891.0_657.0.png\l}"]
+	40	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 226\l|width = 312\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/24.0_678.0_960.0_681.0.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 232\l|width = 297\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_696.0000000000001_891.0_699.0000000000001.png\l}"]
+	42	[label="{type = XCUIElementTypeStaticText\l|value = World\l|name = World\l|label = World\l|enabled = true\l|visible = true\l|x = 5\l|y = 245\l|width = 292\l|height = 23\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/15.0_735.0_891.0_804.0.png\l}"]
+	43	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 275\l|width = 312\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/24.0_825.0_960.0_828.0.png\l}"]
+	44	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 281\l|width = 297\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_843.0000000000001_891.0_846.0000000000001.png\l}"]
+	45	[label="{type = XCUIElementTypeStaticText\l|value = Opinion\l|name = Opinion\l|label = Opinion\l|enabled = true\l|visible = true\l|x = 5\l|y = 294\l|width = 292\l|height = 24\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/15.0_882.0_891.0_954.0.png\l}"]
+	46	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 324\l|width = 312\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/24.0_972.0_960.0_975.0.png\l}"]
+	47	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 330\l|width = 297\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_990.0000000000001_891.0_993.0000000000001.png\l}"]
+	48	[label="{type = XCUIElementTypeStaticText\l|value = Sports\l|name = Sports\l|label = Sports\l|enabled = true\l|visible = true\l|x = 5\l|y = 343\l|width = 292\l|height = 23\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/15.0_1029.0_891.0_1098.0.png\l}"]
+	49	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 373\l|width = 312\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/24.0_1119.0_960.0_1122.0.png\l}"]
+	50	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 379\l|width = 297\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_1137.0_891.0_1140.0.png\l}"]
+	51	[label="{type = XCUIElementTypeStaticText\l|value = Soccer\l|name = Soccer\l|label = Soccer\l|enabled = true\l|visible = true\l|x = 5\l|y = 392\l|width = 292\l|height = 23\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/15.0_1176.0_891.0_1245.0.png\l}"]
+	52	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 422\l|width = 312\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/24.0_1266.0_960.0_1269.0.png\l}"]
+	53	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 428\l|width = 297\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_1284.0_891.0_1287.0.png\l}"]
+	54	[label="{type = XCUIElementTypeStaticText\l|value = Tech\l|name = Tech\l|label = Tech\l|enabled = true\l|visible = true\l|x = 5\l|y = 441\l|width = 292\l|height = 23\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/15.0_1323.0_891.0_1392.0.png\l}"]
+	55	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 471\l|width = 312\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/24.0_1413.0000000000002_960.0_1416.0000000000002.png\l}"]
+	56	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 477\l|width = 297\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_1431.0_891.0_1434.0.png\l}"]
+	57	[label="{type = XCUIElementTypeStaticText\l|value = Arts\l|name = Arts\l|label = Arts\l|enabled = true\l|visible = true\l|x = 5\l|y = 490\l|width = 292\l|height = 23\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/15.0_1470.0_891.0_1539.0.png\l}"]
+	58	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 520\l|width = 312\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/24.0_1560.0000000000002_960.0_1563.0000000000002.png\l}"]
+	59	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 526\l|width = 297\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_1578.0_891.0_1581.0.png\l}"]
+	60	[label="{type = XCUIElementTypeStaticText\l|value = Lifestyle\l|name = Lifestyle\l|label = Lifestyle\l|enabled = true\l|visible = true\l|x = 5\l|y = 539\l|width = 292\l|height = 23\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/15.0_1617.0_891.0_1686.0.png\l}"]
+	61	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 569\l|width = 312\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/24.0_1707.0000000000002_960.0_1710.0000000000002.png\l}"]
+	62	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 575\l|width = 297\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_1725.0_891.0_1728.0.png\l}"]
+	63	[label="{type = XCUIElementTypeStaticText\l|value = Fashion\l|name = Fashion\l|label = Fashion\l|enabled = true\l|visible = true\l|x = 5\l|y = 588\l|width = 292\l|height = 23\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/15.0_1764.0_891.0_1833.0.png\l}"]
+	64	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 618\l|width = 312\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/24.0_1854.0000000000002_960.0_1857.0000000000002.png\l}"]
+	65	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 624\l|width = 297\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_1872.0_891.0_1875.0.png\l}"]
+	66	[label="{type = XCUIElementTypeStaticText\l|value = Business\l|name = Business\l|label = Business\l|enabled = true\l|visible = true\l|x = 5\l|y = 637\l|width = 292\l|height = 23\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/15.0_1911.0_891.0_1980.0.png\l}"]
+	67	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 667\l|width = 312\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/24.0_2001.0000000000002_960.0_2004.0000000000002.png\l}"]
+	68	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 673\l|width = 297\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_2019.0_891.0_2022.0.png\l}"]
+	69	[label="{type = XCUIElementTypeStaticText\l|value = Travel\l|name = Travel\l|label = Travel\l|enabled = true\l|visible = true\l|x = 5\l|y = 686\l|width = 292\l|height = 23\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/15.0_2058.0_891.0_2127.0.png\l}"]
+	70	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 716\l|width = 312\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/24.0_2148.0_960.0_2151.0.png\l}"]
+	71	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 722\l|width = 297\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_2166.0_891.0_2169.0.png\l}"]
+	72	[label="{type = XCUIElementTypeStaticText\l|value = Environment\l|name = Environment\l|label = Environment\l|enabled = true\l|visible = true\l|x = 5\l|y = 735\l|width = 292\l|height = 23\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/15.0_2205.0_891.0_2274.0.png\l}"]
+	73	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 765\l|width = 312\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/24.0_2295.0_960.0_2298.0.png\l}"]
+	74	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 771\l|width = 297\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/0.0_2313.0_891.0_2316.0.png\l}"]
+	75	[label="{type = XCUIElementTypeStaticText\l|value = Science\l|name = Science\l|label = Science\l|enabled = true\l|visible = true\l|x = 5\l|y = 784\l|width = 292\l|height = 23\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/15.0_2352.0_891.0_2421.0.png\l}"]
+	76	[label="{type = XCUIElementTypeStaticText\l|value = \l|name = \l|label = \l|enabled = true\l|visible = true\l|x = 16\l|y = 826\l|width = 18\l|height = 22\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/48.0_2478.0_102.0_2544.0.png\l}"]
+	77	[label="{type = XCUIElementTypeStaticText\l|value = \l|name = \l|label = \l|enabled = true\l|visible = true\l|x = 58\l|y = 826\l|width = 18\l|height = 22\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/174.00000000000003_2478.0_228.00000000000003_2544.0.png\l}"]
+	78	[label="{type = XCUIElementTypeStaticText\l|value = \l|name = \l|label = \l|enabled = true\l|visible = true\l|x = 100\l|y = 826\l|width = 17\l|height = 22\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/300.0_2478.0_351.0_2544.0.png\l}"]
+	79	[label="{type = XCUIElementTypeStaticText\l|value = \l|name = \l|label = \l|enabled = true\l|visible = true\l|x = 141\l|y = 826\l|width = 18\l|height = 22\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S1/pngs/423.0_2478.0_477.0_2544.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	5 -> 7
+	6 -> 8
+	7 -> 9
+	7 -> 10
+	9 -> 11
+	10 -> 12
+	10 -> 13
+	11 -> 14
+	11 -> 15
+	11 -> 16
+	11 -> 17
+	11 -> 18
+	11 -> 19
+	11 -> 20
+	11 -> 21
+	11 -> 22
+	11 -> 23
+	11 -> 24
+	11 -> 25
+	11 -> 26
+	11 -> 27
+	11 -> 28
+	11 -> 29
+	13 -> 30
+	13 -> 31
+	13 -> 32
+	13 -> 33
+	13 -> 34
+	16 -> 35
+	16 -> 36
+	16 -> 37
+	17 -> 38
+	17 -> 39
+	17 -> 40
+	18 -> 41
+	18 -> 42
+	18 -> 43
+	19 -> 44
+	19 -> 45
+	19 -> 46
+	20 -> 47
+	20 -> 48
+	20 -> 49
+	21 -> 50
+	21 -> 51
+	21 -> 52
+	22 -> 53
+	22 -> 54
+	22 -> 55
+	23 -> 56
+	23 -> 57
+	23 -> 58
+	24 -> 59
+	24 -> 60
+	24 -> 61
+	25 -> 62
+	25 -> 63
+	25 -> 64
+	26 -> 65
+	26 -> 66
+	26 -> 67
+	27 -> 68
+	27 -> 69
+	27 -> 70
+	28 -> 71
+	28 -> 72
+	28 -> 73
+	29 -> 74
+	29 -> 75
+	30 -> 76
+	31 -> 77
+	32 -> 78
+	33 -> 79
+
+
+}

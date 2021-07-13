@@ -1,0 +1,5 @@
+pathToElementImageCrop: msToDo-edit/S6/pngs/177.0_344.99999999999994_1077.0_422.99999999999994.png;
+coords: {'x1': 177.0, 'y1': 344.99999999999994, 'x2': 1077.0, 'y2': 422.99999999999994};
+text_identifier: { "label" : "Task title" };
+event: send_keys_enter;
+input: Editedtask;

@@ -1,0 +1,4 @@
+pathToElementImageCrop: msToDo-duedate/S6/pngs/171.0_2112.0_1089.0_2262.0.png;
+coords: {'x1': 171.0, 'y1': 2112.0, 'x2': 1089.0, 'y2': 2262.0};
+text_identifier: { "label" : "Tomorrow" };
+event: click;

@@ -1,0 +1,90 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Newton\l|label = Newton\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeNavigationBar\l|name = CMCenterView\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 8\l|y = 20\l|width = 37\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/16.0_40.0_90.0_128.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 51\l|y = 22\l|width = 220\l|height = 40\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/102.00000000000001_44.0_542.0_124.0.png\l}"]
+	15	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 277\l|y = 20\l|width = 45\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/554.0_40.0_644.0_128.0.png\l}"]
+	16	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 330\l|y = 20\l|width = 37\l|height = 44\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/660.0_40.0_734.0_128.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	18	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 51\l|y = 22\l|width = 255\l|height = 40\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/102.00000000000001_44.0_612.0000000000001_124.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 617\l|width = 375\l|height = 50\l|index = 3\l|numberOfChildren = 3\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/0.0_1234.0_750.0_1334.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	23	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 617\l|width = 375\l|height = 50\l|index = 2\l|numberOfChildren = 5\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/0.0_1234.0_750.0_1334.0.png\l}"]
+	24	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	25	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 2\l|y = 624\l|width = 75\l|height = 36\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/4.0_1248.0_154.0_1320.0.png\l}"]
+	26	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 76\l|y = 624\l|width = 75\l|height = 36\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/152.0_1248.0_302.0_1320.0.png\l}"]
+	27	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 150\l|y = 624\l|width = 75\l|height = 36\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/300.0_1248.0_450.0_1320.0.png\l}"]
+	28	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 224\l|y = 624\l|width = 75\l|height = 36\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/448.00000000000006_1248.0_598.0_1320.0.png\l}"]
+	29	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 299\l|y = 624\l|width = 75\l|height = 36\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/598.0_1248.0_748.0_1320.0.png\l}"]
+	30	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 95\l|index = 0\l|numberOfChildren = 8\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/0.0_128.0_750.0_318.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 2\l|y = 624\l|width = 74\l|height = 36\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/4.0_1248.0_152.0_1320.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 76\l|y = 624\l|width = 74\l|height = 36\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/152.0_1248.0_300.0_1320.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 150\l|y = 624\l|width = 75\l|height = 36\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/300.0_1248.0_450.0_1320.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 224\l|y = 624\l|width = 75\l|height = 36\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/448.00000000000006_1248.0_598.0_1320.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 299\l|y = 624\l|width = 74\l|height = 36\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/598.0_1248.0_746.0_1320.0.png\l}"]
+	36	[label="{type = XCUIElementTypeStaticText\l|value = Note to self\l|name = Note to self\l|label = Note to self\l|enabled = true\l|visible = true\l|x = 20\l|y = 79\l|width = 304\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/40.0_158.0_648.0_196.0.png\l}"]
+	37	[label="{type = XCUIElementTypeStaticText\l|value = Testing\l|name = Testing\l|label = Testing\l|enabled = true\l|visible = true\l|x = 20\l|y = 104\l|width = 304\l|height = 15\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/40.0_208.0_648.0_238.0.png\l}"]
+	38	[label="{type = XCUIElementTypeStaticText\l|value = via Newton Mail\l|name = via Newton Mail\l|label = via Newton Mail\l|enabled = true\l|visible = true\l|x = 20\l|y = 127\l|width = 303\l|height = 18\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/40.0_254.0_646.0_290.0.png\l}"]
+	39	[label="{type = XCUIElementTypeStaticText\l|value = 1m\l|name = 1m\l|label = 1m\l|enabled = true\l|visible = true\l|x = 318\l|y = 127\l|width = 45\l|height = 19\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/636.0_254.0_726.0_292.0.png\l}"]
+	40	[label="{type = XCUIElementTypeButton\l|name = inbox mail item star\l|label = inbox mail item star\l|enabled = true\l|visible = true\l|x = 332\l|y = 62\l|width = 45\l|height = 57\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-delete/S0/pngs/664.0_124.0_754.0_238.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	8 -> 9
+	9 -> 10
+	10 -> 11
+	10 -> 12
+	11 -> 13
+	11 -> 14
+	11 -> 15
+	11 -> 16
+	12 -> 17
+	14 -> 18
+	17 -> 19
+	19 -> 20
+	19 -> 21
+	20 -> 22
+	21 -> 23
+	22 -> 24
+	23 -> 25
+	23 -> 26
+	23 -> 27
+	23 -> 28
+	23 -> 29
+	24 -> 30
+	25 -> 31
+	26 -> 32
+	27 -> 33
+	28 -> 34
+	29 -> 35
+	30 -> 36
+	30 -> 37
+	30 -> 38
+	30 -> 39
+	30 -> 40
+
+
+}

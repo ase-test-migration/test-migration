@@ -1,0 +1,23 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "guardian-category",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "Open navigation button",
+                "event": "click"
+            },
+            {
+                "type": "xPath",
+                "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout[2]/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[4]",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "type": "resource-id",
+                "tag": "com.guardian:id/tvGroupTitle"
+            }
+        ]
+    }
+}

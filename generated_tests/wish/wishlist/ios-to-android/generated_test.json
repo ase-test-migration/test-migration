@@ -1,0 +1,18 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "wish-wishlist",
+        "events": [
+            {
+                "type": "xPath",
+                "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/e.k.a.a/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.HorizontalScrollView/android.widget.LinearLayout/android.widget.TextView",
+                "event": "click"
+            },
+            {
+                "type": "xPath",
+                "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/e.k.a.a/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.HorizontalScrollView/android.widget.LinearLayout/android.widget.TextView[2]",
+                "event": "click"
+            }
+        ]
+    }
+}

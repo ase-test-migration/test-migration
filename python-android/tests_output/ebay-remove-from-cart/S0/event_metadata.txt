@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-remove-from-cart/S0/pngs/972_120_1044_192.png;
+coords: {'x1': 972, 'y1': 120, 'x2': 1044, 'y2': 192};
+text_identifier: { "content-desc" : "shopping cart" , "resource-id" : "com.ebay.mobile:id/action_view_icon" };
+event: click;

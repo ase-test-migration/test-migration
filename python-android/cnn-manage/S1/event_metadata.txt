@@ -1,0 +1,5 @@
+pathToElementImageCrop: cnn-manage/S1/pngs/363_279_1035_548.png;
+coords: {'x1': 363, 'y1': 279, 'x2': 1035, 'y2': 548};
+text_identifier: { "resource-id" : "com.cnn.mobile.android.phone:id/titleText" };
+event: oracle;
+oracle-type: widget_exists;

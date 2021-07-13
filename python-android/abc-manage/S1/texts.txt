@@ -1,0 +1,17 @@
+{ "content-desc" : "Open the menu" , "screenshotPath" : "abc-manage/S1/pngs/0_72_168_240.png"}
+{ "resource-id" : "com.abc.abcnews:id/button_container" , "screenshotPath" : "abc-manage/S1/pngs/865_72_1080_240.png"}
+{ "resource-id" : "com.abc.abcnews:id/section_view_pager_tabs" , "screenshotPath" : "abc-manage/S1/pngs/0_1608_1080_1776.png"}
+{ "resource-id" : "com.abc.abcnews:id/login_banner" , "screenshotPath" : "abc-manage/S1/pngs/0_240_1080_375.png"}
+{ "resource-id" : "com.abc.abcnews:id/story_interests_recycler_view" , "screenshotPath" : "abc-manage/S1/pngs/0_375_1080_1776.png"}
+{ "resource-id" : "com.abc.abcnews:id/headline_list_item_parent_container" , "screenshotPath" : "abc-manage/S1/pngs/0_423_1080_816.png"}
+{ "resource-id" : "com.abc.abcnews:id/headline_list_item_parent_container" , "screenshotPath" : "abc-manage/S1/pngs/0_816_1080_1209.png"}
+{ "resource-id" : "com.abc.abcnews:id/headline_list_item_parent_container" , "screenshotPath" : "abc-manage/S1/pngs/0_1209_1080_1602.png"}
+{ "resource-id" : "com.abc.abcnews:id/headline_list_item_parent_container" , "screenshotPath" : "abc-manage/S1/pngs/0_1602_1080_1776.png"}
+{ "resource-id" : "com.abc.abcnews:id/headline_list_item_interest_subscribed_icon" , "screenshotPath" : "abc-manage/S1/pngs/60_480_126_552.png"}
+{ "resource-id" : "com.abc.abcnews:id/headline_list_item_interest_name" , "screenshotPath" : "abc-manage/S1/pngs/126_483_600_548.png"}
+{ "resource-id" : "com.abc.abcnews:id/headline_list_item_interest_subscribed_icon" , "screenshotPath" : "abc-manage/S1/pngs/60_873_126_945.png"}
+{ "resource-id" : "com.abc.abcnews:id/headline_list_item_interest_name" , "screenshotPath" : "abc-manage/S1/pngs/126_876_600_941.png"}
+{ "resource-id" : "com.abc.abcnews:id/headline_list_item_interest_subscribed_icon" , "screenshotPath" : "abc-manage/S1/pngs/60_1266_126_1338.png"}
+{ "resource-id" : "com.abc.abcnews:id/headline_list_item_interest_name" , "screenshotPath" : "abc-manage/S1/pngs/126_1269_600_1334.png"}
+{ "resource-id" : "com.abc.abcnews:id/headline_list_item_interest_subscribed_icon" , "screenshotPath" : "abc-manage/S1/pngs/60_1659_126_1731.png"}
+{ "resource-id" : "com.abc.abcnews:id/headline_list_item_interest_name" , "screenshotPath" : "abc-manage/S1/pngs/126_1662_600_1727.png"}

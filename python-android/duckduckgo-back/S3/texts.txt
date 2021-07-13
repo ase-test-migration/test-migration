@@ -1,0 +1,5 @@
+{ "resource-id" : "com.duckduckgo.mobile.android:id/focusDummy" , "screenshotPath" : "duckduckgo-back/S3/pngs/0_325_1080_1463.png"}
+{ "resource-id" : "com.duckduckgo.mobile.android:id/omnibarTextInput" , "screenshotPath" : "duckduckgo-back/S3/pngs/127_193_959_303.png"}
+{ "content-desc" : "Clear search input" , "resource-id" : "com.duckduckgo.mobile.android:id/clearTextButton" , "screenshotPath" : "duckduckgo-back/S3/pngs/959_207_1041_289.png"}
+{ "content-desc" : "СЛИКЕ" , "screenshotPath" : "duckduckgo-back/S3/pngs/280_325_434_457.png"}
+{ "content-desc" : "Пријавите се" , "screenshotPath" : "duckduckgo-back/S3/pngs/709_338_1050_443.png"}

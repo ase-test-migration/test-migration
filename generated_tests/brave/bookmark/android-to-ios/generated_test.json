@@ -1,0 +1,44 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "brave-bookmark",
+        "events": [
+            {
+                "type": "name",
+                "tag": "url",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "address",
+                "event": "send_keys_enter",
+                "input": "google.com"
+            },
+            {
+                "type": "name",
+                "tag": "Navigation Toolbar",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Brave",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "u",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "StartPage search",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Google"
+            }
+        ]
+    }
+}

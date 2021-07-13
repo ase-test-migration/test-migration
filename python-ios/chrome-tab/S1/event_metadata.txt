@@ -1,0 +1,4 @@
+pathToElementImageCrop: chrome-tab/S1/pngs/336.0_1252.0_414.0_1328.0.png;
+coords: {'x1': 336.0, 'y1': 1252.0, 'x2': 414.0, 'y2': 1328.0};
+text_identifier: { "label" : "Create new tab." };
+event: click;

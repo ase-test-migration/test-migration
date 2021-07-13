@@ -1,0 +1,4 @@
+pathToElementImageCrop: ikea-delCart/S1/pngs/933_775_1059_901.png;
+coords: {'x1': 933, 'y1': 775, 'x2': 1059, 'y2': 901};
+text_identifier: { "content-desc" : "More options for BRUNKRISSLA" , "resource-id" : "com.ingka.ikea.app:id/actionsMenu" };
+event: click;

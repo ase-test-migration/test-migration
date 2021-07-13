@@ -1,0 +1,24 @@
+{ "name" : "ABC News", "screenshotPath" : "abc_categories/S1/pngs/0.0_0.0_750.0_1334.0.png"}
+{ "name" : "ABCNewsMenuView", "screenshotPath" : "abc_categories/S1/pngs/0.0_40.0_750.0_128.0.png"}
+{ "name" : "Search Articles", "screenshotPath" : "abc_categories/S1/pngs/114.0_176.0_694.0_204.0.png"}
+{ "name" : "TOP STORIES", "screenshotPath" : "abc_categories/S1/pngs/140.0_262.0_540.0_322.0.png"}
+{ "name" : "SAVED ITEMS", "screenshotPath" : "abc_categories/S1/pngs/140.0_362.0_540.0_422.0.png"}
+{ "name" : "Reorder SAVED ITEMS", "screenshotPath" : "abc_categories/S1/pngs/648.0_340.0_700.0_440.0.png"}
+{ "name" : "TRENDING", "screenshotPath" : "abc_categories/S1/pngs/140.0_462.0_540.0_522.0.png"}
+{ "name" : "Reorder TRENDING", "screenshotPath" : "abc_categories/S1/pngs/648.0_440.0_700.0_540.0.png"}
+{ "name" : "VIDEO", "screenshotPath" : "abc_categories/S1/pngs/140.0_562.0_540.0_622.0.png"}
+{ "name" : "Reorder VIDEO", "screenshotPath" : "abc_categories/S1/pngs/648.0_540.0_700.0_640.0.png"}
+{ "name" : "ELECTION 2020", "screenshotPath" : "abc_categories/S1/pngs/140.0_662.0_540.0_722.0.png"}
+{ "name" : "Reorder ELECTION 2020", "screenshotPath" : "abc_categories/S1/pngs/648.0_640.0_700.0_740.0.png"}
+{ "name" : "POLITICS", "screenshotPath" : "abc_categories/S1/pngs/140.0_762.0_540.0_822.0.png"}
+{ "name" : "Reorder POLITICS", "screenshotPath" : "abc_categories/S1/pngs/648.0_740.0_700.0_840.0.png"}
+{ "name" : "U.S.", "screenshotPath" : "abc_categories/S1/pngs/140.0_862.0_540.0_922.0.png"}
+{ "name" : "Reorder U.S.", "screenshotPath" : "abc_categories/S1/pngs/648.0_840.0_700.0_940.0.png"}
+{ "name" : "WORLD", "screenshotPath" : "abc_categories/S1/pngs/140.0_962.0_540.0_1022.0.png"}
+{ "name" : "Reorder WORLD", "screenshotPath" : "abc_categories/S1/pngs/648.0_940.0_700.0_1040.0.png"}
+{ "name" : "ENTERTAINMENT", "screenshotPath" : "abc_categories/S1/pngs/140.0_1062.0_540.0_1122.0.png"}
+{ "name" : "Reorder ENTERTAINMENT", "screenshotPath" : "abc_categories/S1/pngs/648.0_1040.0_700.0_1140.0.png"}
+{ "name" : "HEALTH", "screenshotPath" : "abc_categories/S1/pngs/140.0_1162.0_540.0_1222.0.png"}
+{ "name" : "Reorder HEALTH", "screenshotPath" : "abc_categories/S1/pngs/648.0_1140.0_700.0_1240.0.png"}
+{ "name" : "TECHNOLOGY", "screenshotPath" : "abc_categories/S1/pngs/140.0_1262.0_540.0_1322.0.png"}
+{ "name" : "Reorder TECHNOLOGY", "screenshotPath" : "abc_categories/S1/pngs/648.0_1240.0_700.0_1340.0.png"}

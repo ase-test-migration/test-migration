@@ -1,0 +1,4 @@
+pathToElementImageCrop: gtasks-dueDate/S4/pngs/738_1702_980_1834.png;
+coords: {'x1': 738, 'y1': 1702, 'x2': 980, 'y2': 1834};
+text_identifier: { "resource-id" : "com.google.android.apps.tasks:id/dtp_done" };
+event: click;

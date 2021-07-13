@@ -1,0 +1,5 @@
+pathToElementImageCrop: anydo-edit/S4/pngs/54_438_1026_556.png;
+coords: {'x1': 54, 'y1': 438, 'x2': 1026, 'y2': 556};
+text_identifier: {  };
+event: send_keys_enter;
+input: Editedtask;

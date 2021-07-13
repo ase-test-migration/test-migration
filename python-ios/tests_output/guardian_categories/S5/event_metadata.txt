@@ -1,0 +1,4 @@
+pathToElementImageCrop: guardian_categories/S5/pngs/10.0_770.0000000000001_536.0_816.0000000000001.png;
+coords: {'x1': 10.0, 'y1': 770.0000000000001, 'x2': 536.0, 'y2': 816.0000000000001};
+text_identifier: { "name" : "Tech" };
+event: click;

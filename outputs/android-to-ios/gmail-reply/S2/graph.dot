@@ -1,0 +1,86 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Gmail\l|label = Gmail\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|name = ComposeView\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 76\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/0.0_0.0_750.0_152.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 76\l|width = 375\l|height = 532\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/0.0_152.0_750.0_1216.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 607\l|width = 375\l|height = 60\l|index = 2\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/0.0_1214.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 76\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/0.0_0.0_750.0_152.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 56\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/0.0_40.0_750.0_152.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 76\l|width = 375\l|height = 532\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/0.0_152.0_750.0_1216.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|name = Emailing a friend? Allow suggestions from contacts\l|label = Emailing a friend? Allow suggestions from contacts\l|enabled = true\l|visible = true\l|x = 0\l|y = 607\l|width = 335\l|height = 60\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/0.0_1214.0_670.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|name = Close\l|label = Close\l|enabled = true\l|visible = true\l|x = 333\l|y = 614\l|width = 44\l|height = 45\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/666.0_1228.0_754.0_1318.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 56\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/0.0_40.0_750.0_152.0.png\l}"]
+	13	[label="{type = XCUIElementTypeWebView\l|name = ComposeEditor\l|label = Message\l|enabled = true\l|visible = true\l|x = 0\l|y = 76\l|width = 375\l|height = 532\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/0.0_152.0_750.0_1216.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 56\l|height = 56\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/0.0_40.0_112.00000000000001_152.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 223\l|y = 20\l|width = 152\l|height = 56\l|index = 2\l|numberOfChildren = 3\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/446.0_40.0_750.0_152.0.png\l}"]
+	16	[label="{type = XCUIElementTypeWebView\l|name = Compose body scroll view\l|enabled = true\l|visible = true\l|x = 0\l|y = 76\l|width = 375\l|height = 532\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/0.0_152.0_750.0_1216.0.png\l}"]
+	17	[label="{type = XCUIElementTypeButton\l|name = Back\l|label = Close\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 56\l|height = 56\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/0.0_40.0_112.00000000000001_152.0.png\l}"]
+	18	[label="{type = XCUIElementTypeButton\l|name = Add attachment button\l|label = Attach\l|enabled = true\l|visible = true\l|x = 223\l|y = 20\l|width = 52\l|height = 56\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/446.0_40.0_550.0_152.0.png\l}"]
+	19	[label="{type = XCUIElementTypeButton\l|name = Send button\l|label = Send\l|enabled = true\l|visible = true\l|x = 275\l|y = 20\l|width = 48\l|height = 56\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/550.0_40.0_646.0_152.0.png\l}"]
+	20	[label="{type = XCUIElementTypeButton\l|name = MoreActions\l|label = More actions\l|enabled = true\l|visible = true\l|x = 323\l|y = 20\l|width = 52\l|height = 56\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/646.0_40.0_750.0_152.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 76\l|width = 375\l|height = 132\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/0.0_152.0_750.0_416.0.png\l}"]
+	22	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 76\l|width = 375\l|height = 532\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/0.0_152.0_750.0_1216.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 574\l|width = 375\l|height = 31\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/0.0_1148.0_750.0_1210.0.png\l}"]
+	24	[label="{type = XCUIElementTypeButton\l|name = Reply\l|label = Reply\l|enabled = true\l|visible = true\l|x = 16\l|y = 76\l|width = 46\l|height = 44\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/32.0_152.0_124.0_240.0.png\l}"]
+	25	[label="{type = XCUIElementTypeButton\l|value = Some User\l|name = Recipient summary\l|label = Recipient summary\l|enabled = true\l|visible = true\l|x = 62\l|y = 76\l|width = 297\l|height = 44\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/124.0_152.0_718.0_240.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|name = Select from address\l|enabled = true\l|visible = true\l|x = 0\l|y = 120\l|width = 375\l|height = 44\l|index = 2\l|numberOfChildren = 3\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/0.0_240.00000000000003_750.0_328.0.png\l}"]
+	27	[label="{type = XCUIElementTypeTextField\l|value = Re: Testing\l|name = Email subject\l|label = Subject\l|enabled = true\l|visible = true\l|x = 0\l|y = 164\l|width = 375\l|height = 44\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/0.0_328.0_750.0_416.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	29	[label="{type = XCUIElementTypeStaticText\l|value = Reply\l|name = Reply\l|label = Reply\l|enabled = true\l|visible = true\l|x = 48\l|y = 89\l|width = 37\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/96.0_178.0_170.0_214.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 120\l|width = 375\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/0.0_240.00000000000003_750.0_242.00000000000003.png\l}"]
+	31	[label="{type = XCUIElementTypeButton\l|value = email@example.com\l|name = From\l|label = From\l|enabled = true\l|visible = true\l|x = 61\l|y = 120\l|width = 282\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/121.99999999999999_240.00000000000003_686.0_328.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 76\l|width = 375\l|height = 531\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/0.0_152.0_750.0_1214.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 76\l|width = 375\l|height = 532\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/0.0_152.0_750.0_1216.0.png\l}"]
+	35	[label="{type = XCUIElementTypeTextView\l|value =   On Sun, Apr 18, 2021 at 9:41 PM Some User <email@example.com> wrote: \l|enabled = true\l|visible = true\l|x = 16\l|y = 208\l|width = 343\l|height = 400\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/32.0_416.0_718.0_1216.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 260\l|width = 343\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/32.0_520.0_718.0_600.0.png\l}"]
+	37	[label="{type = XCUIElementTypeStaticText\l|value = On Sun, Apr 18, 2021 at 9:41 PM Some User <email@example.com> wrote:\l|name = On Sun, Apr 18, 2021 at 9:41 PM Some User <email@example.com> wrote:\l|label = On Sun, Apr 18, 2021 at 9:41 PM Some User <email@example.com> wrote:\l|enabled = true\l|visible = true\l|x = 16\l|y = 260\l|width = 343\l|height = 40\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/32.0_520.0_718.0_600.0.png\l}"]
+	38	[label="{type = XCUIElementTypeStaticText\l|value = On Sun, Apr 18, 2021 at 9:41 PM Some User <email@example.com> wrote:\l|name = On Sun, Apr 18, 2021 at 9:41 PM Some User <email@example.com> wrote:\l|label = On Sun, Apr 18, 2021 at 9:41 PM Some User <email@example.com> wrote:\l|enabled = true\l|visible = true\l|x = 16\l|y = 260\l|width = 343\l|height = 40\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-reply/S2/pngs/32.0_520.0_718.0_600.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	3 -> 5
+	3 -> 6
+	4 -> 7
+	4 -> 8
+	5 -> 9
+	6 -> 10
+	6 -> 11
+	8 -> 12
+	9 -> 13
+	12 -> 14
+	12 -> 15
+	13 -> 16
+	14 -> 17
+	15 -> 18
+	15 -> 19
+	15 -> 20
+	16 -> 21
+	16 -> 22
+	16 -> 23
+	21 -> 24
+	21 -> 25
+	21 -> 26
+	21 -> 27
+	22 -> 28
+	24 -> 29
+	26 -> 30
+	26 -> 31
+	28 -> 32
+	32 -> 33
+	33 -> 34
+	34 -> 35
+	35 -> 36
+	35 -> 37
+	36 -> 38
+
+
+}

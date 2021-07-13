@@ -1,0 +1,4 @@
+pathToElementImageCrop: anydo-edit/S2/pngs/0.0_633.0_1218.0_792.0.png;
+coords: {'x1': 0.0, 'y1': 633.0, 'x2': 1218.0, 'y2': 792.0};
+text_identifier: { "label" : "Mytask" };
+event: click;

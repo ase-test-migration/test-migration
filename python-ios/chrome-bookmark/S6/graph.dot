@@ -1,0 +1,46 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Chrome\l|label = Chrome\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-bookmark/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-bookmark/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-bookmark/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 40\l|width = 375\l|height = 627\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-bookmark/S6/pngs/0.0_80.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 40\l|width = 375\l|height = 627\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-bookmark/S6/pngs/0.0_80.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 40\l|width = 375\l|height = 627\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-bookmark/S6/pngs/0.0_80.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 40\l|width = 375\l|height = 627\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-bookmark/S6/pngs/0.0_80.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeNavigationBar\l|name = Bookmarks\l|enabled = true\l|visible = true\l|x = 0\l|y = 40\l|width = 375\l|height = 160\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-bookmark/S6/pngs/0.0_80.0_750.0_400.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 40\l|width = 375\l|height = 627\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-bookmark/S6/pngs/0.0_80.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeButton\l|name = kBookmarkHomeNavigationBarDoneButtonIdentifier\l|label = Done\l|enabled = true\l|visible = true\l|x = 317\l|y = 46\l|width = 50\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-bookmark/S6/pngs/634.0_92.0_734.0_180.0.png\l}"]
+	10	[label="{type = XCUIElementTypeStaticText\l|value = Bookmarks\l|name = Bookmarks\l|label = Bookmarks\l|enabled = true\l|visible = true\l|x = 16\l|y = 99\l|width = 179\l|height = 42\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-bookmark/S6/pngs/32.0_198.0_390.0_282.0.png\l}"]
+	11	[label="{type = XCUIElementTypeSearchField\l|name = Search\l|label = Search\l|enabled = true\l|visible = true\l|x = 16\l|y = 149\l|width = 343\l|height = 36\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-bookmark/S6/pngs/32.0_298.0_718.0_370.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 40\l|width = 375\l|height = 627\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-bookmark/S6/pngs/0.0_80.0_750.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeTable\l|name = kBookmarkHomeTableViewIdentifier\l|enabled = true\l|visible = true\l|x = 0\l|y = 200\l|width = 375\l|height = 467\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-bookmark/S6/pngs/0.0_400.0_750.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeCell\l|name = Mobile Bookmarks\l|label = Mobile Bookmarks\l|enabled = true\l|visible = true\l|x = 0\l|y = 200\l|width = 375\l|height = 51\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = chrome-bookmark/S6/pngs/0.0_400.0_750.0_502.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 250\l|width = 375\l|height = 2\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-bookmark/S6/pngs/0.0_499.99999999999994_750.0_503.99999999999994.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 251\l|width = 375\l|height = 2\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-bookmark/S6/pngs/0.0_502.0_750.0_506.0.png\l}"]
+	17	[label="{type = XCUIElementTypeTextField\l|value = Mobile Bookmarks\l|label = \l|enabled = true\l|visible = true\l|x = 55\l|y = 214\l|width = 273\l|height = 23\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-bookmark/S6/pngs/110.0_428.0_656.0_474.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 56\l|y = 200\l|width = 319\l|height = 1\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-bookmark/S6/pngs/112.00000000000001_400.0_750.0_402.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	6 -> 8
+	7 -> 9
+	7 -> 10
+	7 -> 11
+	8 -> 12
+	12 -> 13
+	13 -> 14
+	13 -> 15
+	13 -> 16
+	14 -> 17
+	14 -> 18
+
+
+}

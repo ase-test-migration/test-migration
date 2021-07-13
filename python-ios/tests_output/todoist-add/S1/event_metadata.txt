@@ -1,0 +1,5 @@
+pathToElementImageCrop: todoist-add/S1/pngs/32.0_628.0_718.0_704.0.png;
+coords: {'x1': 32.0, 'y1': 628.0, 'x2': 718.0, 'y2': 704.0};
+text_identifier: { "name" : "QuickAddTextView" };
+event: send_keys;
+input: testing;

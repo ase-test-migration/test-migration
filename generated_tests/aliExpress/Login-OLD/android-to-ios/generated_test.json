@@ -1,0 +1,18 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "aliExpress-Login",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Sign in",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Sign In",
+                "event": "click"
+            }
+        ]
+    }
+}

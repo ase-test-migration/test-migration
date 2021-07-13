@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-bid/S3/pngs/864_667_1027_793.png;
+coords: {'x1': 864, 'y1': 667, 'x2': 1027, 'y2': 793};
+text_identifier: { "content-desc" : "See all in Antiquities" , "resource-id" : "com.ebay.mobile:id/textview_see_all" };
+event: click;

@@ -1,0 +1,138 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Newton\l|label = Newton\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeNavigationBar\l|name = CMCenterView\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 8\l|y = 20\l|width = 37\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/16.0_40.0_90.0_128.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 51\l|y = 22\l|width = 220\l|height = 40\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/102.00000000000001_44.0_542.0_124.0.png\l}"]
+	15	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 277\l|y = 20\l|width = 45\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/554.0_40.0_644.0_128.0.png\l}"]
+	16	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 330\l|y = 20\l|width = 37\l|height = 44\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/660.0_40.0_734.0_128.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	18	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 51\l|y = 22\l|width = 255\l|height = 40\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/102.00000000000001_44.0_612.0000000000001_124.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 617\l|width = 375\l|height = 50\l|index = 3\l|numberOfChildren = 3\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/0.0_1234.0_750.0_1334.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	23	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 617\l|width = 375\l|height = 50\l|index = 2\l|numberOfChildren = 5\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/0.0_1234.0_750.0_1334.0.png\l}"]
+	24	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	25	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 2\l|y = 624\l|width = 75\l|height = 36\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/4.0_1248.0_154.0_1320.0.png\l}"]
+	26	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 76\l|y = 624\l|width = 75\l|height = 36\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/152.0_1248.0_302.0_1320.0.png\l}"]
+	27	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 150\l|y = 624\l|width = 75\l|height = 36\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/300.0_1248.0_450.0_1320.0.png\l}"]
+	28	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 224\l|y = 624\l|width = 75\l|height = 36\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/448.00000000000006_1248.0_598.0_1320.0.png\l}"]
+	29	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 299\l|y = 624\l|width = 75\l|height = 36\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/598.0_1248.0_748.0_1320.0.png\l}"]
+	30	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 95\l|index = 0\l|numberOfChildren = 8\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/0.0_128.0_750.0_318.0.png\l}"]
+	31	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 159\l|width = 375\l|height = 95\l|index = 1\l|numberOfChildren = 8\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/0.0_318.0_750.0_508.0.png\l}"]
+	32	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 254\l|width = 375\l|height = 95\l|index = 2\l|numberOfChildren = 8\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/0.0_508.0_750.0_698.0.png\l}"]
+	33	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 349\l|width = 375\l|height = 95\l|index = 3\l|numberOfChildren = 8\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/0.0_698.0_750.0_888.0.png\l}"]
+	34	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 444\l|width = 375\l|height = 95\l|index = 4\l|numberOfChildren = 8\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/0.0_888.0_750.0_1078.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 2\l|y = 624\l|width = 74\l|height = 36\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/4.0_1248.0_152.0_1320.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 76\l|y = 624\l|width = 74\l|height = 36\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/152.0_1248.0_300.0_1320.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 150\l|y = 624\l|width = 75\l|height = 36\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/300.0_1248.0_450.0_1320.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 224\l|y = 624\l|width = 75\l|height = 36\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/448.00000000000006_1248.0_598.0_1320.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 299\l|y = 624\l|width = 74\l|height = 36\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = newton-send/S0/pngs/598.0_1248.0_746.0_1320.0.png\l}"]
+	40	[label="{type = XCUIElementTypeStaticText\l|value = Google\l|name = Google\l|label = Google\l|enabled = true\l|visible = true\l|x = 34\l|y = 79\l|width = 290\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/68.0_158.0_648.0_196.0.png\l}"]
+	41	[label="{type = XCUIElementTypeStaticText\l|value = Security alert\l|name = Security alert\l|label = Security alert\l|enabled = true\l|visible = true\l|x = 20\l|y = 104\l|width = 304\l|height = 15\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/40.0_208.0_648.0_238.0.png\l}"]
+	42	[label="{type = XCUIElementTypeStaticText\l|value = Newton by CloudMagic was granted access to your Google Account email@example.com If you did not grant access, you should check this activity and secure your account. Check activity You can also see security activity https://myaccount.google.com/notifications You received this email to let you know about important changes to your Google Account and services. © 2021 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA\l|name = Newton by CloudMagic was granted access to your Google Account email@example.com If you did not grant access, you should check this activity and secure your account. Check activity You can also see security activity https://myaccount.google.com/notifications You received this email to let you know about important changes to your Google Account and services. © 2021 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA\l|label = Newton by CloudMagic was granted access to your Google Account email@example.com If you did not grant access, you should check this activity and secure your account. Check activity You can also see security activity https://myaccount.google.com/notifications You received this email to let you know about important changes to your Google Account and services. © 2021 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA\l|enabled = true\l|visible = true\l|x = 20\l|y = 127\l|width = 303\l|height = 18\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/40.0_254.0_646.0_290.0.png\l}"]
+	43	[label="{type = XCUIElementTypeStaticText\l|value = 17m\l|name = 17m\l|label = 17m\l|enabled = true\l|visible = true\l|x = 318\l|y = 127\l|width = 45\l|height = 19\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/636.0_254.0_726.0_292.0.png\l}"]
+	44	[label="{type = XCUIElementTypeButton\l|name = inbox mail item star\l|label = inbox mail item star\l|enabled = true\l|visible = true\l|x = 332\l|y = 62\l|width = 45\l|height = 57\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/664.0_124.0_754.0_238.0.png\l}"]
+	45	[label="{type = XCUIElementTypeStaticText\l|value = Note to self\l|name = Note to self\l|label = Note to self\l|enabled = true\l|visible = true\l|x = 34\l|y = 174\l|width = 290\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/68.0_348.0_648.0_386.0.png\l}"]
+	46	[label="{type = XCUIElementTypeStaticText\l|value = Testing 1 search term\l|name = Testing 1 search term\l|label = Testing 1 search term\l|enabled = true\l|visible = true\l|x = 20\l|y = 199\l|width = 304\l|height = 15\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/40.0_397.99999999999994_648.0_427.99999999999994.png\l}"]
+	47	[label="{type = XCUIElementTypeStaticText\l|value = (No Message)\l|name = (No Message)\l|label = (No Message)\l|enabled = true\l|visible = true\l|x = 20\l|y = 222\l|width = 303\l|height = 18\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/40.0_444.0_646.0_480.0.png\l}"]
+	48	[label="{type = XCUIElementTypeStaticText\l|value = 1h\l|name = 1h\l|label = 1h\l|enabled = true\l|visible = true\l|x = 318\l|y = 222\l|width = 45\l|height = 19\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/636.0_444.0_726.0_482.0.png\l}"]
+	49	[label="{type = XCUIElementTypeButton\l|name = inbox mail item starred\l|label = inbox mail item starred\l|enabled = true\l|visible = true\l|x = 332\l|y = 157\l|width = 45\l|height = 57\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/664.0_314.0_754.0_428.0.png\l}"]
+	50	[label="{type = XCUIElementTypeStaticText\l|value = Mail Delivery Subsystem\l|name = Mail Delivery Subsystem\l|label = Mail Delivery Subsystem\l|enabled = true\l|visible = true\l|x = 20\l|y = 269\l|width = 304\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/40.0_538.0_648.0_576.0.png\l}"]
+	51	[label="{type = XCUIElementTypeStaticText\l|value = Delivery Status Notification (Failure)\l|name = Delivery Status Notification (Failure)\l|label = Delivery Status Notification (Failure)\l|enabled = true\l|visible = true\l|x = 20\l|y = 294\l|width = 304\l|height = 15\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/40.0_588.0_648.0_618.0.png\l}"]
+	52	[label="{type = XCUIElementTypeStaticText\l|value = Address not found Your message wasn't delivered to email@example.com because the address couldn't be found, or is unable to receive mail. LEARN MORE The response was: 550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser d18sor6467235qkn.137 - gsmtp\l|name = Address not found Your message wasn't delivered to email@example.com because the address couldn't be found, or is unable to receive mail. LEARN MORE The response was: 550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser d18sor6467235qkn.137 - gsmtp\l|label = Address not found Your message wasn't delivered to email@example.com because the address couldn't be found, or is unable to receive mail. LEARN MORE The response was: 550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser d18sor6467235qkn.137 - gsmtp\l|enabled = true\l|visible = true\l|x = 20\l|y = 317\l|width = 303\l|height = 18\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/40.0_634.0_646.0_670.0.png\l}"]
+	53	[label="{type = XCUIElementTypeStaticText\l|value = 1h\l|name = 1h\l|label = 1h\l|enabled = true\l|visible = true\l|x = 318\l|y = 317\l|width = 45\l|height = 19\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/636.0_634.0_726.0_672.0.png\l}"]
+	54	[label="{type = XCUIElementTypeButton\l|name = inbox mail item star\l|label = inbox mail item star\l|enabled = true\l|visible = true\l|x = 332\l|y = 252\l|width = 45\l|height = 57\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/664.0_504.0_754.0_618.0.png\l}"]
+	55	[label="{type = XCUIElementTypeStaticText\l|value = me\l|name = me\l|label = me\l|enabled = true\l|visible = true\l|x = 20\l|y = 364\l|width = 304\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/40.0_727.9999999999999_648.0_765.9999999999999.png\l}"]
+	56	[label="{type = XCUIElementTypeStaticText\l|value = Testing 1 search term\l|name = Testing 1 search term\l|label = Testing 1 search term\l|enabled = true\l|visible = true\l|x = 39\l|y = 389\l|width = 285\l|height = 15\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/78.0_778.0_648.0_808.0.png\l}"]
+	57	[label="{type = XCUIElementTypeStaticText\l|value = Sent from Yahoo Mail for iPhone\l|name = Sent from Yahoo Mail for iPhone\l|label = Sent from Yahoo Mail for iPhone\l|enabled = true\l|visible = true\l|x = 20\l|y = 412\l|width = 303\l|height = 18\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/40.0_824.0000000000001_646.0_860.0000000000001.png\l}"]
+	58	[label="{type = XCUIElementTypeStaticText\l|value = 14 Feb\l|name = 14 Feb\l|label = 14 Feb\l|enabled = true\l|visible = true\l|x = 318\l|y = 412\l|width = 45\l|height = 19\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/636.0_824.0000000000001_726.0_862.0000000000001.png\l}"]
+	59	[label="{type = XCUIElementTypeButton\l|name = inbox mail item star\l|label = inbox mail item star\l|enabled = true\l|visible = true\l|x = 332\l|y = 347\l|width = 45\l|height = 57\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/664.0_694.0_754.0_808.0.png\l}"]
+	60	[label="{type = XCUIElementTypeStaticText\l|value = me\l|name = me\l|label = me\l|enabled = true\l|visible = true\l|x = 20\l|y = 459\l|width = 304\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/40.0_917.9999999999999_648.0_955.9999999999999.png\l}"]
+	61	[label="{type = XCUIElementTypeStaticText\l|value = Something else\l|name = Something else\l|label = Something else\l|enabled = true\l|visible = true\l|x = 39\l|y = 484\l|width = 285\l|height = 15\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/78.0_968.0_648.0_998.0.png\l}"]
+	62	[label="{type = XCUIElementTypeStaticText\l|value = (No Message)\l|name = (No Message)\l|label = (No Message)\l|enabled = true\l|visible = true\l|x = 20\l|y = 507\l|width = 303\l|height = 18\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/40.0_1013.9999999999999_646.0_1050.0.png\l}"]
+	63	[label="{type = XCUIElementTypeStaticText\l|value = 14 Feb\l|name = 14 Feb\l|label = 14 Feb\l|enabled = true\l|visible = true\l|x = 318\l|y = 507\l|width = 45\l|height = 19\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/636.0_1013.9999999999999_726.0_1052.0.png\l}"]
+	64	[label="{type = XCUIElementTypeButton\l|name = inbox mail item star\l|label = inbox mail item star\l|enabled = true\l|visible = true\l|x = 332\l|y = 442\l|width = 45\l|height = 57\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = newton-send/S0/pngs/664.0_884.0_754.0_998.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	8 -> 9
+	9 -> 10
+	10 -> 11
+	10 -> 12
+	11 -> 13
+	11 -> 14
+	11 -> 15
+	11 -> 16
+	12 -> 17
+	14 -> 18
+	17 -> 19
+	19 -> 20
+	19 -> 21
+	20 -> 22
+	21 -> 23
+	22 -> 24
+	23 -> 25
+	23 -> 26
+	23 -> 27
+	23 -> 28
+	23 -> 29
+	24 -> 30
+	24 -> 31
+	24 -> 32
+	24 -> 33
+	24 -> 34
+	25 -> 35
+	26 -> 36
+	27 -> 37
+	28 -> 38
+	29 -> 39
+	30 -> 40
+	30 -> 41
+	30 -> 42
+	30 -> 43
+	30 -> 44
+	31 -> 45
+	31 -> 46
+	31 -> 47
+	31 -> 48
+	31 -> 49
+	32 -> 50
+	32 -> 51
+	32 -> 52
+	32 -> 53
+	32 -> 54
+	33 -> 55
+	33 -> 56
+	33 -> 57
+	33 -> 58
+	33 -> 59
+	34 -> 60
+	34 -> 61
+	34 -> 62
+	34 -> 63
+	34 -> 64
+
+
+}

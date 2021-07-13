@@ -1,0 +1,4 @@
+pathToElementImageCrop: brave-tab/S0/pngs/450.0_1246.0_600.0_1334.0.png;
+coords: {'x1': 450.0, 'y1': 1246.0, 'x2': 600.0, 'y2': 1334.0};
+text_identifier: { "label" : "Show Tabs" };
+event: click;

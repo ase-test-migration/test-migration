@@ -1,0 +1,33 @@
+{
+    "tests": [
+        {
+            "name": "target-delCart", 
+            "events": [
+                {
+                    "tag": "cart_tab_button_item", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "more actions for Coca-Cola - 12pk/12 fl oz Cans", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Remove", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "14.3", 
+        "platformName": "iOS"
+    }
+}

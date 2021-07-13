@@ -1,0 +1,34 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "testUbeBtmMenu",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Search"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Orders"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Account"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Home"
+                }
+            ]
+        }
+    ]
+}

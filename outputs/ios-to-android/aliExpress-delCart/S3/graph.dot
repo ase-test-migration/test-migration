@@ -1,0 +1,26 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{class = hierarchy\l|rotation = 0\l|width = 1080\l|height = 2287\l|numberOfChildren = 1\l|eventGeneratedOnElement = false \l}"]
+	1	[label="{class = android.widget.FrameLayout\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [28,991][1052,1443]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	2	[label="{class = android.widget.LinearLayout\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [70,1033][1010,1401]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	3	[label="{class = android.widget.FrameLayout\l|text = \l|resource-id = android:id/content\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [70,1033][1010,1401]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	4	[label="{class = android.view.ViewGroup\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [70,1033][1010,1401]\l|displayed = true\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	5	[label="{class = android.widget.ScrollView\l|text = \l|resource-id = com.alibaba.aliexpresshd:id/contentScrollView\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [70,1075][1010,1233]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/ios-to-android/aliExpress-delCart/S3/pngs/70_1075_1010_1233.png\l}"]
+	6	[label="{class = android.widget.TextView\l|text = CANCEL\l|resource-id = com.alibaba.aliexpresshd:id/buttonDefaultNegative\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [575,1254][771,1380]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/ios-to-android/aliExpress-delCart/S3/pngs/575_1254_771_1380.png\l}"]
+	7	[label="{class = android.widget.TextView\l|text = REMOVE\l|resource-id = com.alibaba.aliexpresshd:id/buttonDefaultPositive\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [771,1254][978,1380]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/ios-to-android/aliExpress-delCart/S3/pngs/771_1254_978_1380.png\l}"]
+	8	[label="{class = android.widget.TextView\l|text = Are you sure you want to remove the items selected?\l|resource-id = com.alibaba.aliexpresshd:id/content\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [70,1096][1010,1212]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/ios-to-android/aliExpress-delCart/S3/pngs/70_1096_1010_1212.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	4 -> 7
+	5 -> 8
+
+
+}

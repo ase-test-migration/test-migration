@@ -1,0 +1,222 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Uber Eats\l|label = Uber Eats\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 805\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_0.0_1242.0_2415.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 805\l|width = 414\l|height = 49\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_2415.0_1242.0_2562.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 805\l|width = 414\l|height = 91\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_2415.0_1242.0_2688.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 805\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_0.0_1242.0_2415.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 805\l|width = 414\l|height = 2\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_2415.0_1242.0_2421.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 2\l|y = 806\l|width = 100\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/6.0_2418.0_306.0_2562.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 106\l|y = 806\l|width = 99\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/318.00000000000006_2418.0_615.0_2562.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 209\l|y = 806\l|width = 100\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/627.0_2418.0_927.0_2562.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 313\l|y = 806\l|width = 99\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = true \l|screenshotPath = removefavorite/S0/pngs/939.0_2418.0_1236.0_2562.0.png\l}"]
+	16	[label="{type = XCUIElementTypeTabBar\l|enabled = true\l|visible = true\l|x = 0\l|y = 805\l|width = 414\l|height = 49\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_2415.0_1242.0_2562.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 805\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_0.0_1242.0_2415.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 2\l|y = 806\l|width = 100\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/6.0_2418.0_306.0_2562.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 106\l|y = 806\l|width = 99\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/318.00000000000006_2418.0_615.0_2562.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 209\l|y = 806\l|width = 100\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/627.0_2418.0_927.0_2562.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 313\l|y = 806\l|width = 99\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = removefavorite/S0/pngs/939.0_2418.0_1236.0_2562.0.png\l}"]
+	22	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = Home\l|label = Home\l|enabled = true\l|visible = true\l|x = 2\l|y = 806\l|width = 100\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/6.0_2418.0_306.0_2562.0.png\l}"]
+	23	[label="{type = XCUIElementTypeButton\l|name = Search\l|label = Search\l|enabled = true\l|visible = true\l|x = 106\l|y = 806\l|width = 99\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/318.00000000000006_2418.0_615.0_2562.0.png\l}"]
+	24	[label="{type = XCUIElementTypeButton\l|name = Orders\l|label = Orders\l|enabled = true\l|visible = true\l|x = 209\l|y = 806\l|width = 100\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/627.0_2418.0_927.0_2562.0.png\l}"]
+	25	[label="{type = XCUIElementTypeButton\l|name = Account\l|label = Account\l|enabled = true\l|visible = true\l|x = 313\l|y = 806\l|width = 99\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = true \l|screenshotPath = removefavorite/S0/pngs/939.0_2418.0_1236.0_2562.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 805\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_0.0_1242.0_2415.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 805\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_0.0_1242.0_2415.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 761\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_132.0_1242.0_2415.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 104\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_132.0_1242.0_444.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 156\l|width = 414\l|height = 649\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_468.0_1242.0_2415.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 104\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_132.0_1242.0_444.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 156\l|width = 414\l|height = 649\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_468.0_1242.0_2415.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_132.0_1242.0_276.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 92\l|width = 414\l|height = 56\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_276.0_1242.0_444.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 156\l|width = 414\l|height = 649\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_468.0_1242.0_2415.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_132.0_1242.0_276.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 92\l|width = 358\l|height = 56\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_276.0_1074.0_444.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 358\l|y = 92\l|width = 56\l|height = 56\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/1074.0_276.0_1242.0_444.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 156\l|width = 414\l|height = 649\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_468.0_1242.0_2415.0.png\l}"]
+	40	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 133\l|y = 52\l|width = 148\l|height = 32\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/399.0_156.0_843.0_252.0.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 96\l|width = 342\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/48.0_288.0_1074.0_432.0.png\l}"]
+	42	[label="{type = XCUIElementTypeButton\l|name = Sort and filter entry\l|label = Sort and filter entry\l|enabled = true\l|visible = true\l|x = 358\l|y = 96\l|width = 48\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/1074.0_288.0_1218.0_432.0.png\l}"]
+	43	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 156\l|width = 414\l|height = 649\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_468.0_1242.0_2415.0.png\l}"]
+	44	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 133\l|y = 52\l|width = 148\l|height = 32\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/399.0_156.0_843.0_252.0.png\l}"]
+	45	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 96\l|width = 342\l|height = 48\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/48.0_288.0_1074.0_432.0.png\l}"]
+	46	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 156\l|width = 414\l|height = 649\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_468.0_1242.0_2415.0.png\l}"]
+	47	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = Delivery\l|label = Delivery\l|enabled = true\l|visible = true\l|x = 133\l|y = 52\l|width = 79\l|height = 32\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/399.0_156.0_636.0_252.0.png\l}"]
+	48	[label="{type = XCUIElementTypeButton\l|name = Pickup\l|label = Pickup\l|enabled = true\l|visible = true\l|x = 211\l|y = 52\l|width = 70\l|height = 32\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/633.0_156.0_843.0_252.0.png\l}"]
+	49	[label="{type = XCUIElementTypeButton\l|value = Now\l|name = Delivery time\l|label = Delivery time\l|enabled = true\l|visible = true\l|x = 240\l|y = 102\l|width = 110\l|height = 36\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/720.0_306.0_1050.0_414.0.png\l}"]
+	50	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 156\l|width = 414\l|height = 216\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_468.0_1242.0_1116.0.png\l}"]
+	51	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 379\l|width = 414\l|height = 97\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_1137.0_1242.0_1428.0.png\l}"]
+	52	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 483\l|width = 414\l|height = 247\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_1449.0_1242.0_2190.0.png\l}"]
+	53	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 737\l|width = 414\l|height = 264\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_2211.0_1242.0_3003.0.png\l}"]
+	54	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 29 pages\l|label = Vertical scroll bar, 29 pages\l|enabled = true\l|visible = true\l|x = 381\l|y = 156\l|width = 30\l|height = 649\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/1143.0_468.0_1233.0_2415.0.png\l}"]
+	55	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 772\l|width = 414\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_2316.0_1242.0_2406.0.png\l}"]
+	56	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 156\l|width = 414\l|height = 216\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_468.0_1242.0_1116.0.png\l}"]
+	57	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 379\l|width = 414\l|height = 97\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_1137.0_1242.0_1428.0.png\l}"]
+	58	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 483\l|width = 414\l|height = 247\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_1449.0_1242.0_2190.0.png\l}"]
+	59	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 737\l|width = 414\l|height = 264\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_2211.0_1242.0_3003.0.png\l}"]
+	60	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 156\l|width = 414\l|height = 216\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_468.0_1242.0_1116.0.png\l}"]
+	61	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 379\l|width = 414\l|height = 97\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_1137.0_1242.0_1428.0.png\l}"]
+	62	[label="{type = XCUIElementTypeButton\l|name = regular_store_view\l|label = Marias Italian Kitchen - West LA, A top rated restaurant with 4.7 out of 5 stars based on 40 reviews., Sponsored, $0.49 Delivery Fee, 45–55 Min\l|enabled = true\l|visible = true\l|x = 0\l|y = 483\l|width = 414\l|height = 247\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_1449.0_1242.0_2190.0.png\l}"]
+	63	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 737\l|width = 414\l|height = 264\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_2211.0_1242.0_3003.0.png\l}"]
+	64	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 379\l|width = 414\l|height = 97\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_1137.0_1242.0_1428.0.png\l}"]
+	65	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 737\l|width = 414\l|height = 64\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_2211.0_1242.0_2403.0.png\l}"]
+	66	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 800\l|width = 414\l|height = 201\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_2400.0_1242.0_3003.0.png\l}"]
+	67	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 379\l|width = 414\l|height = 97\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_1137.0_1242.0_1428.0.png\l}"]
+	68	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 753\l|width = 382\l|height = 32\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/48.0_2259.0_1194.0_2355.0.png\l}"]
+	69	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 800\l|width = 414\l|height = 201\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_2400.0_1242.0_3003.0.png\l}"]
+	70	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 379\l|width = 414\l|height = 97\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_1137.0_1242.0_1428.0.png\l}"]
+	71	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 753\l|width = 261\l|height = 32\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/48.0_2259.0_831.0_2355.0.png\l}"]
+	72	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 355\l|y = 767\l|width = 43\l|height = 18\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/1065.0_2301.0_1194.0_2355.0.png\l}"]
+	73	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 800\l|width = 414\l|height = 201\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/0.0_2400.0_1242.0_3003.0.png\l}"]
+	74	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 8\l|y = 387\l|width = 80\l|height = 77\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/24.0_1161.0_264.0_1392.0.png\l}"]
+	75	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 92\l|y = 387\l|width = 80\l|height = 77\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/276.0_1161.0_516.0_1392.0.png\l}"]
+	76	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 176\l|y = 387\l|width = 80\l|height = 77\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/528.0_1161.0_768.0_1392.0.png\l}"]
+	77	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 260\l|y = 387\l|width = 80\l|height = 77\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/780.0_1161.0_1020.0_1392.0.png\l}"]
+	78	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 344\l|y = 387\l|width = 80\l|height = 77\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/1032.0_1161.0_1272.0_1392.0.png\l}"]
+	79	[label="{type = XCUIElementTypeStaticText\l|value = Trending in Los Angeles\l|name = Trending in Los Angeles\l|label = Trending in Los Angeles\l|enabled = true\l|visible = true\l|x = 16\l|y = 753\l|width = 261\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/48.0_2259.0_831.0_2349.0.png\l}"]
+	80	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 16\l|y = 800\l|width = 312\l|height = 184\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/48.0_2400.0_984.0_2952.0.png\l}"]
+	81	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 340\l|y = 800\l|width = 312\l|height = 184\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/1020.0_2400.0_1956.0_2952.0.png\l}"]
+	82	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 387\l|width = 80\l|height = 77\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/24.0_1161.0_264.0_1392.0.png\l}"]
+	83	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 92\l|y = 387\l|width = 80\l|height = 77\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/276.0_1161.0_516.0_1392.0.png\l}"]
+	84	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 176\l|y = 387\l|width = 80\l|height = 77\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/528.0_1161.0_768.0_1392.0.png\l}"]
+	85	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 260\l|y = 387\l|width = 80\l|height = 77\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/780.0_1161.0_1020.0_1392.0.png\l}"]
+	86	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 344\l|y = 387\l|width = 80\l|height = 77\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/1032.0_1161.0_1272.0_1392.0.png\l}"]
+	87	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 800\l|width = 312\l|height = 184\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/48.0_2400.0_984.0_2952.0.png\l}"]
+	88	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 340\l|y = 800\l|width = 312\l|height = 184\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/1020.0_2400.0_1956.0_2952.0.png\l}"]
+	89	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 387\l|width = 80\l|height = 77\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/24.0_1161.0_264.0_1392.0.png\l}"]
+	90	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 92\l|y = 387\l|width = 80\l|height = 77\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/276.0_1161.0_516.0_1392.0.png\l}"]
+	91	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 176\l|y = 387\l|width = 80\l|height = 77\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/528.0_1161.0_768.0_1392.0.png\l}"]
+	92	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 260\l|y = 387\l|width = 80\l|height = 77\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/780.0_1161.0_1020.0_1392.0.png\l}"]
+	93	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 344\l|y = 387\l|width = 80\l|height = 77\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/1032.0_1161.0_1272.0_1392.0.png\l}"]
+	94	[label="{type = XCUIElementTypeButton\l|name = regular_store_view\l|label = Sweetfin (Venice), $0 Delivery Fee, 30–40 Min\l|enabled = true\l|visible = true\l|x = 16\l|y = 800\l|width = 312\l|height = 184\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/48.0_2400.0_984.0_2952.0.png\l}"]
+	95	[label="{type = XCUIElementTypeButton\l|name = regular_store_view\l|label = Tocaya Organica - Venice, A top rated restaurant with 4.7 out of 5 stars based on 35 reviews., $0 Delivery Fee, 35–45 Min\l|enabled = true\l|visible = true\l|x = 340\l|y = 800\l|width = 312\l|height = 184\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/1020.0_2400.0_1956.0_2952.0.png\l}"]
+	96	[label="{type = XCUIElementTypeStaticText\l|value = Pickup\l|name = Pickup\l|label = Pickup\l|enabled = true\l|visible = true\l|x = 8\l|y = 447\l|width = 80\l|height = 17\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/24.0_1341.0_264.0_1392.0.png\l}"]
+	97	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 109\l|y = 423\l|width = 46\l|height = 25\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/327.0_1269.0_465.0_1344.0.png\l}"]
+	98	[label="{type = XCUIElementTypeStaticText\l|value = Essentials\l|name = Essentials\l|label = Essentials\l|enabled = true\l|visible = true\l|x = 92\l|y = 447\l|width = 80\l|height = 17\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/276.0_1341.0_516.0_1392.0.png\l}"]
+	99	[label="{type = XCUIElementTypeStaticText\l|value = Deals\l|name = Deals\l|label = Deals\l|enabled = true\l|visible = true\l|x = 176\l|y = 447\l|width = 80\l|height = 17\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/528.0_1341.0_768.0_1392.0.png\l}"]
+	100	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 277\l|y = 423\l|width = 46\l|height = 25\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/831.0_1269.0_969.0_1344.0.png\l}"]
+	101	[label="{type = XCUIElementTypeStaticText\l|value = Alcohol\l|name = Alcohol\l|label = Alcohol\l|enabled = true\l|visible = true\l|x = 260\l|y = 447\l|width = 80\l|height = 17\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/780.0_1341.0_1020.0_1392.0.png\l}"]
+	102	[label="{type = XCUIElementTypeStaticText\l|value = Family Meals\l|name = Family Meals\l|label = Family Meals\l|enabled = true\l|visible = true\l|x = 344\l|y = 447\l|width = 80\l|height = 17\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/1032.0_1341.0_1272.0_1392.0.png\l}"]
+	103	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 111\l|y = 425\l|width = 42\l|height = 21\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/333.00000000000006_1275.0_459.00000000000006_1338.0.png\l}"]
+	104	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 279\l|y = 425\l|width = 42\l|height = 21\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/837.0_1275.0_963.0_1338.0.png\l}"]
+	105	[label="{type = XCUIElementTypeStaticText\l|value = New\l|name = New\l|label = New\l|enabled = true\l|visible = true\l|x = 119\l|y = 427\l|width = 26\l|height = 17\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/357.0_1281.0_435.0_1332.0.png\l}"]
+	106	[label="{type = XCUIElementTypeStaticText\l|value = New\l|name = New\l|label = New\l|enabled = true\l|visible = true\l|x = 287\l|y = 427\l|width = 26\l|height = 17\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S0/pngs/861.0_1281.0_939.0_1332.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	6 -> 8
+	6 -> 9
+	7 -> 10
+	8 -> 11
+	8 -> 12
+	8 -> 13
+	8 -> 14
+	8 -> 15
+	9 -> 16
+	10 -> 17
+	12 -> 18
+	13 -> 19
+	14 -> 20
+	15 -> 21
+	16 -> 22
+	16 -> 23
+	16 -> 24
+	16 -> 25
+	17 -> 26
+	26 -> 27
+	27 -> 28
+	28 -> 29
+	28 -> 30
+	29 -> 31
+	30 -> 32
+	31 -> 33
+	31 -> 34
+	32 -> 35
+	33 -> 36
+	34 -> 37
+	34 -> 38
+	35 -> 39
+	36 -> 40
+	37 -> 41
+	38 -> 42
+	39 -> 43
+	40 -> 44
+	41 -> 45
+	43 -> 46
+	44 -> 47
+	44 -> 48
+	45 -> 49
+	46 -> 50
+	46 -> 51
+	46 -> 52
+	46 -> 53
+	46 -> 54
+	46 -> 55
+	50 -> 56
+	51 -> 57
+	52 -> 58
+	53 -> 59
+	56 -> 60
+	57 -> 61
+	58 -> 62
+	59 -> 63
+	61 -> 64
+	63 -> 65
+	63 -> 66
+	64 -> 67
+	65 -> 68
+	66 -> 69
+	67 -> 70
+	68 -> 71
+	68 -> 72
+	69 -> 73
+	70 -> 74
+	70 -> 75
+	70 -> 76
+	70 -> 77
+	70 -> 78
+	71 -> 79
+	73 -> 80
+	73 -> 81
+	74 -> 82
+	75 -> 83
+	76 -> 84
+	77 -> 85
+	78 -> 86
+	80 -> 87
+	81 -> 88
+	82 -> 89
+	83 -> 90
+	84 -> 91
+	85 -> 92
+	86 -> 93
+	87 -> 94
+	88 -> 95
+	89 -> 96
+	90 -> 97
+	90 -> 98
+	91 -> 99
+	92 -> 100
+	92 -> 101
+	93 -> 102
+	97 -> 103
+	100 -> 104
+	103 -> 105
+	104 -> 106
+
+
+}

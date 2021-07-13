@@ -1,0 +1,4 @@
+pathToElementImageCrop: McD-removeFav/S2/pngs/391.99999999999994_962.0_740.0_1024.0.png;
+coords: {'x1': 391.99999999999994, 'y1': 962.0, 'x2': 740.0, 'y2': 1024.0};
+text_identifier: { "label" : "Favorites" };
+event: click;

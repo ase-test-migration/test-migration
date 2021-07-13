@@ -1,0 +1,4 @@
+pathToElementImageCrop: myTask-edit/S1/pngs/174.00000000000003_1026.0_1128.0_1092.0.png;
+coords: {'x1': 174.00000000000003, 'y1': 1026.0, 'x2': 1128.0, 'y2': 1092.0};
+text_identifier: { "label" : "My Task" };
+event: click;

@@ -1,0 +1,44 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "myTask-duedate",
+            "events": [
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/androidx.viewpager.widget.ViewPager/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[2]/android.view.ViewGroup/android.widget.TextView[3]"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.weekly.app:id/text_view_tasks_title"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.weekly.app:id/view_week_transfer"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.weekly.app:id/button_confirm_dialog_positive"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//com.prolificinteractive.materialcalendarview.CalendarPagerView[@content-desc=\"Calendar\"]/android.widget.CheckedTextView[14]"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "android:id/button1"
+                }
+            ]
+        }
+    ]
+}

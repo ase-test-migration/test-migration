@@ -1,0 +1,4 @@
+pathToElementImageCrop: edison-move/S4/pngs/121.99999999999999_362.0_188.0_416.0.png;
+coords: {'x1': 121.99999999999999, 'y1': 362.0, 'x2': 188.0, 'y2': 416.0};
+text_identifier: { "label" : "Test" };
+event: click;

@@ -1,0 +1,66 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = To Do\l|label = To Do\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = msToDo-edit/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = msToDo-edit/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = msToDo-edit/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = msToDo-edit/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = msToDo-edit/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = msToDo-edit/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = msToDo-edit/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 103\l|y = 0\l|width = 415\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = msToDo-edit/S0/pngs/309.0_0.0_1554.0_2688.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = msToDo-edit/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 103\l|y = 0\l|width = 415\l|height = 896\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = msToDo-edit/S0/pngs/309.0_0.0_1554.0_2688.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|name = Photo of you, Some Person. ( )\l|label = Photo of you, Some Person. ( )\l|enabled = true\l|visible = true\l|x = 13\l|y = 56\l|width = 354\l|height = 32\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = msToDo-edit/S0/pngs/39.0_168.0_1101.0_264.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|name = screenreader_search\l|label = Search\l|enabled = true\l|visible = true\l|x = 374\l|y = 53\l|width = 24\l|height = 38\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = msToDo-edit/S0/pngs/1122.0_159.0_1194.0_273.0.png\l}"]
+	12	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 100\l|width = 414\l|height = 714\l|numberOfChildren = 6\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = msToDo-edit/S0/pngs/0.0_300.0_1242.0_2442.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 814\l|width = 414\l|height = 48\l|numberOfChildren = 2\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = msToDo-edit/S0/pngs/0.0_2442.0_1242.0_2586.0.png\l}"]
+	14	[label="{type = XCUIElementTypeCell\l|name = My Day, Smart list, 1 of 5, 0 uncompleted tasks\l|label = My Day, Smart list, 1 of 5, 0 uncompleted tasks\l|enabled = true\l|visible = true\l|x = 0\l|y = 100\l|width = 414\l|height = 49\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = msToDo-edit/S0/pngs/0.0_300.0_1242.0_447.0.png\l}"]
+	15	[label="{type = XCUIElementTypeCell\l|name = Important, Smart list, 2 of 5, 0 uncompleted tasks\l|label = Important, Smart list, 2 of 5, 0 uncompleted tasks\l|enabled = true\l|visible = true\l|x = 0\l|y = 148\l|width = 414\l|height = 49\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = msToDo-edit/S0/pngs/0.0_444.0_1242.0_591.0.png\l}"]
+	16	[label="{type = XCUIElementTypeCell\l|name = Planned, Smart list, 3 of 5, 0 uncompleted tasks\l|label = Planned, Smart list, 3 of 5, 0 uncompleted tasks\l|enabled = true\l|visible = true\l|x = 0\l|y = 196\l|width = 414\l|height = 49\l|numberOfChildren = 3\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = msToDo-edit/S0/pngs/0.0_588.0_1242.0_735.0.png\l}"]
+	17	[label="{type = XCUIElementTypeCell\l|name = Assigned to you, Smart list, 4 of 5, 0 uncompleted tasks\l|label = Assigned to you, Smart list, 4 of 5, 0 uncompleted tasks\l|enabled = true\l|visible = true\l|x = 0\l|y = 244\l|width = 414\l|height = 50\l|numberOfChildren = 3\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = msToDo-edit/S0/pngs/0.0_731.9999999999999_1242.0_881.9999999999999.png\l}"]
+	18	[label="{type = XCUIElementTypeCell\l|name = Tasks, Smart list, 5 of 5, 0 uncompleted tasks\l|label = Tasks, Smart list, 5 of 5, 0 uncompleted tasks\l|enabled = true\l|visible = true\l|x = 0\l|y = 293\l|width = 414\l|height = 49\l|numberOfChildren = 3\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = msToDo-edit/S0/pngs/0.0_878.9999999999999_1242.0_1026.0.png\l}"]
+	19	[label="{type = XCUIElementTypeCell\l|name = Separator between smart lists and custom lists\l|label = Separator between smart lists and custom lists\l|enabled = true\l|visible = true\l|x = 0\l|y = 341\l|width = 414\l|height = 27\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = msToDo-edit/S0/pngs/0.0_1023.0_1242.0_1104.0.png\l}"]
+	20	[label="{type = XCUIElementTypeButton\l|name = placeholder_add_list\l|label = New List\l|enabled = true\l|visible = true\l|x = 0\l|y = 814\l|width = 361\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = msToDo-edit/S0/pngs/0.0_2442.0_1083.0_2586.0.png\l}"]
+	21	[label="{type = XCUIElementTypeButton\l|name = New group\l|label = New group\l|enabled = true\l|visible = true\l|x = 361\l|y = 814\l|width = 45\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = msToDo-edit/S0/pngs/1083.0_2442.0_1218.0_2586.0.png\l}"]
+	22	[label="{type = XCUIElementTypeStaticText\l|value = My Day\l|name = My Day\l|label = My Day\l|enabled = true\l|visible = true\l|x = 56\l|y = 114\l|width = 59\l|height = 21\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = true \l|screenshotPath = msToDo-edit/S0/pngs/168.0_342.0_345.0_405.0.png\l}"]
+	23	[label="{type = XCUIElementTypeStaticText\l|value = Important\l|name = Important\l|label = Important\l|enabled = true\l|visible = true\l|x = 55\l|y = 162\l|width = 79\l|height = 21\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = msToDo-edit/S0/pngs/165.0_486.0_402.0_549.0.png\l}"]
+	24	[label="{type = XCUIElementTypeStaticText\l|value = Planned\l|name = Planned\l|label = Planned\l|enabled = true\l|visible = true\l|x = 56\l|y = 210\l|width = 64\l|height = 21\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = msToDo-edit/S0/pngs/168.0_630.0_360.0_693.0.png\l}"]
+	25	[label="{type = XCUIElementTypeStaticText\l|value = Assigned to you\l|name = Assigned to you\l|label = Assigned to you\l|enabled = true\l|visible = true\l|x = 55\l|y = 258\l|width = 127\l|height = 22\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = msToDo-edit/S0/pngs/165.0_773.9999999999999_546.0_839.9999999999999.png\l}"]
+	26	[label="{type = XCUIElementTypeStaticText\l|value = Tasks\l|name = Tasks\l|label = Tasks\l|enabled = true\l|visible = true\l|x = 56\l|y = 307\l|width = 45\l|height = 21\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = msToDo-edit/S0/pngs/168.0_920.9999999999999_303.0_983.9999999999999.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 341\l|width = 414\l|height = 27\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = msToDo-edit/S0/pngs/0.0_1023.0_1242.0_1104.0.png\l}"]
+	28	[label="{type = XCUIElementTypeStaticText\l|value = New List\l|name = New List\l|label = New List\l|enabled = true\l|visible = true\l|x = 56\l|y = 827\l|width = 68\l|height = 22\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = msToDo-edit/S0/pngs/168.0_2481.0_372.0_2547.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	5 -> 7
+	6 -> 8
+	7 -> 9
+	8 -> 10
+	8 -> 11
+	8 -> 12
+	8 -> 13
+	12 -> 14
+	12 -> 15
+	12 -> 16
+	12 -> 17
+	12 -> 18
+	12 -> 19
+	13 -> 20
+	13 -> 21
+	14 -> 22
+	15 -> 23
+	16 -> 24
+	17 -> 25
+	18 -> 26
+	19 -> 27
+	20 -> 28
+
+
+}

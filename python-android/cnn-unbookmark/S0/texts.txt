@@ -1,0 +1,17 @@
+{ "text" : "Watch TV" , "content-desc" : "Watch TV" , "resource-id" : "com.cnn.mobile.android.phone:id/toolbar_watch_TV" , "screenshotPath" : "cnn-unbookmark/S0/pngs/841_171_1069_320.png"}
+{ "text" : "" , "content-desc" : "Home" , "resource-id" : "com.cnn.mobile.android.phone:id/home_item_menu" , "screenshotPath" : "cnn-unbookmark/S0/pngs/0_1994_270_2148.png"}
+{ "text" : "" , "content-desc" : "Search" , "resource-id" : "com.cnn.mobile.android.phone:id/search_item_menu" , "screenshotPath" : "cnn-unbookmark/S0/pngs/270_1994_540_2148.png"}
+{ "text" : "" , "content-desc" : "Saved Stories" , "resource-id" : "com.cnn.mobile.android.phone:id/saved_story_item_menu" , "screenshotPath" : "cnn-unbookmark/S0/pngs/540_1994_810_2148.png"}
+{ "text" : "" , "content-desc" : "Settings" , "resource-id" : "com.cnn.mobile.android.phone:id/settings_item_menu" , "screenshotPath" : "cnn-unbookmark/S0/pngs/810_1994_1080_2148.png"}
+{ "text" : "" , "resource-id" : "com.cnn.mobile.android.phone:id/fragment_news_pager_header" , "screenshotPath" : "cnn-unbookmark/S0/pngs/0_320_1080_452.png"}
+{ "text" : "" , "resource-id" : "com.cnn.mobile.android.phone:id/fragment_news_pager_view_pager" , "screenshotPath" : "cnn-unbookmark/S0/pngs/0_452_1080_1977.png"}
+{ "text" : "" , "content-desc" : "selected Top News" , "screenshotPath" : "cnn-unbookmark/S0/pngs/0_320_264_452.png"}
+{ "text" : "" , "content-desc" : "World" , "screenshotPath" : "cnn-unbookmark/S0/pngs/264_320_454_452.png"}
+{ "text" : "" , "content-desc" : "Politics" , "screenshotPath" : "cnn-unbookmark/S0/pngs/454_320_667_452.png"}
+{ "text" : "" , "content-desc" : "Business" , "screenshotPath" : "cnn-unbookmark/S0/pngs/667_320_913_452.png"}
+{ "text" : "" , "content-desc" : "Health" , "screenshotPath" : "cnn-unbookmark/S0/pngs/913_320_1080_452.png"}
+{ "text" : "" , "resource-id" : "com.cnn.mobile.android.phone:id/fragment_recycler_recyclerView" , "screenshotPath" : "cnn-unbookmark/S0/pngs/0_452_1080_1977.png"}
+{ "text" : "" , "resource-id" : "com.cnn.mobile.android.phone:id/card_view" , "screenshotPath" : "cnn-unbookmark/S0/pngs/22_474_1058_677.png"}
+{ "text" : "" , "resource-id" : "com.cnn.mobile.android.phone:id/card_view" , "screenshotPath" : "cnn-unbookmark/S0/pngs/22_699_1058_1977.png"}
+{ "text" : "" , "content-desc" : "Share" , "resource-id" : "com.cnn.mobile.android.phone:id/item_feed_article_share_button" , "screenshotPath" : "cnn-unbookmark/S0/pngs/908_1752_1019_1857.png"}
+{ "text" : "" , "content-desc" : "Bookmark" , "resource-id" : "com.cnn.mobile.android.phone:id/item_feed_article_bookmark_article_button" , "screenshotPath" : "cnn-unbookmark/S0/pngs/742_1752_908_1857.png"}

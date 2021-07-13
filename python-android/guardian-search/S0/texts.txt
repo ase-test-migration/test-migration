@@ -1,0 +1,8 @@
+{ "content-desc" : "Open navigation button" , "resource-id" : "com.guardian:id/fabHomeNav" , "screenshotPath" : "guardian-search/S0/pngs/876_1572_1044_1740.png"}
+{ "resource-id" : "com.guardian:id/tlTabs" , "screenshotPath" : "guardian-search/S0/pngs/0_1626_780_1776.png"}
+{ "content-desc" : "Home" , "screenshotPath" : "guardian-search/S0/pngs/0_1626_260_1776.png"}
+{ "content-desc" : "Discover" , "screenshotPath" : "guardian-search/S0/pngs/260_1626_520_1776.png"}
+{ "content-desc" : "Live" , "screenshotPath" : "guardian-search/S0/pngs/520_1626_780_1776.png"}
+{ "content-desc" : "The Guardian" , "resource-id" : "com.guardian:id/iivLogo" , "screenshotPath" : "guardian-search/S0/pngs/381_84_1032_294.png"}
+{ "resource-id" : "com.guardian:id/rvArticles" , "screenshotPath" : "guardian-search/S0/pngs/0_371_1080_1626.png"}
+{ "resource-id" : "com.guardian:id/tvGroupTitle" , "screenshotPath" : "guardian-search/S0/pngs/24_395_882_507.png"}

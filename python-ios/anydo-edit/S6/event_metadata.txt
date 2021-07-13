@@ -1,0 +1,4 @@
+pathToElementImageCrop: anydo-edit/S6/pngs/1074.0_192.0_1182.0_252.0.png;
+coords: {'x1': 1074.0, 'y1': 192.0, 'x2': 1182.0, 'y2': 252.0};
+text_identifier: { "label" : "Save" };
+event: click;

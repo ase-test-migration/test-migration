@@ -1,0 +1,38 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "spark-delete",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Testing"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "smi general icon more"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//XCUIElementTypeStaticText[@name=\"Delete\"]"
+                },
+                {
+                    "input": "Testing",
+                    "event": "oracle",
+                    "oracle-type": "text_invisible"
+                }
+            ]
+        }
+    ]
+}

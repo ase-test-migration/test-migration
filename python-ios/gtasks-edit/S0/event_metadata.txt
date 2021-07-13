@@ -1,0 +1,4 @@
+pathToElementImageCrop: gtasks-edit/S0/pngs/0.0_202.0_750.0_308.0.png;
+coords: {'x1': 0.0, 'y1': 202.0, 'x2': 750.0, 'y2': 308.0};
+text_identifier: { "label" : "Edit, Not starred" };
+event: click;

@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "anydo-edit",
+        "events": [
+            {
+                "type": "xPath",
+                "tag": "/XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]",
+                "event": "send_keys_enter",
+                "input": "Mytask"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Mytask"
+            },
+            {
+                "type": "name",
+                "tag": "Mytask",
+                "event": "click"
+            }
+        ]
+    }
+}

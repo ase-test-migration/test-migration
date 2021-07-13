@@ -1,0 +1,4 @@
+pathToElementImageCrop: addOrder/S1/pngs/633.0_1107.0_1194.0_1557.0.png;
+coords: {'x1': 633.0, 'y1': 1107.0, 'x2': 1194.0, 'y2': 1557.0};
+text_identifier: { "name" : "Pizza" };
+event: click;

@@ -1,0 +1,4 @@
+pathToElementImageCrop: addOrder/S5/pngs/48_1560_1032_1728.png;
+coords: {'x1': 48, 'y1': 1560, 'x2': 1032, 'y2': 1728};
+text_identifier: { "resource-id" : "com.ubercab.eats:id/ub__storefront_menu_item_cart_button" };
+event: click;

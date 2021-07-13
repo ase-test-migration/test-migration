@@ -1,0 +1,92 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Safari\l|label = Safari\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 40\l|width = 375\l|height = 627\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/0.0_80.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 40\l|width = 375\l|height = 627\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/0.0_80.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 40\l|width = 375\l|height = 627\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/0.0_80.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 40\l|width = 375\l|height = 627\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/0.0_80.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeNavigationBar\l|name = Privacy Report\l|enabled = true\l|visible = true\l|x = 0\l|y = 40\l|width = 375\l|height = 56\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/0.0_80.0_750.0_192.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 40\l|width = 375\l|height = 627\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/0.0_80.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeStaticText\l|value = Privacy Report\l|name = Privacy Report\l|label = Privacy Report\l|enabled = true\l|visible = true\l|x = 129\l|y = 58\l|width = 117\l|height = 21\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/258.0_116.0_492.0_158.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|name = Done\l|label = Done\l|enabled = true\l|visible = true\l|x = 317\l|y = 46\l|width = 50\l|height = 44\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/634.0_92.0_734.0_180.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 40\l|width = 375\l|height = 627\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/0.0_80.0_750.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 40\l|width = 375\l|height = 627\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/0.0_80.0_750.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 40\l|width = 375\l|height = 627\l|index = 0\l|numberOfChildren = 7\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/0.0_80.0_750.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 112\l|width = 375\l|height = 123\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/0.0_224.0_750.0_470.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 252\l|width = 375\l|height = 38\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/0.0_504.0_750.0_580.0.png\l}"]
+	16	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 290\l|width = 375\l|height = 225\l|index = 2\l|numberOfChildren = 7\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/0.0_580.0_750.0_1030.0.png\l}"]
+	17	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 549\l|width = 375\l|height = 84\l|index = 3\l|numberOfChildren = 5\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/0.0_1098.0_750.0_1266.0.png\l}"]
+	18	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 633\l|width = 375\l|height = 57\l|index = 4\l|numberOfChildren = 6\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/0.0_1266.0_750.0_1380.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 112\l|width = 40\l|height = 41\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/32.0_224.0_112.0_306.0.png\l}"]
+	20	[label="{type = XCUIElementTypeStaticText\l|value = Safari prevents trackers from following you across websites.\l|name = Safari prevents trackers from following you across websites.\l|label = Safari prevents trackers from following you across websites.\l|enabled = true\l|visible = true\l|x = 16\l|y = 161\l|width = 343\l|height = 49\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/32.0_322.0_718.0_420.0.png\l}"]
+	21	[label="{type = XCUIElementTypeButton\l|name = Show More\l|label = Show More\l|enabled = true\l|visible = true\l|x = 16\l|y = 208\l|width = 86\l|height = 33\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/32.0_416.0_204.0_482.0.png\l}"]
+	22	[label="{type = XCUIElementTypeStaticText\l|value = Last 30 days\l|name = Last 30 days\l|label = Last 30 days\l|enabled = true\l|visible = true\l|x = 0\l|y = 252\l|width = 375\l|height = 38\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/0.0_504.0_750.0_580.0.png\l}"]
+	23	[label="{type = XCUIElementTypeStaticText\l|value = 2\l|name = 2\l|label = 2\l|enabled = true\l|visible = true\l|x = 16\l|y = 356\l|width = 156\l|height = 25\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/32.0_712.0_344.0_762.0.png\l}"]
+	24	[label="{type = XCUIElementTypeStaticText\l|value = Websites that contacted trackers\l|name = Websites that contacted trackers\l|label = Websites that contacted trackers\l|enabled = true\l|visible = true\l|x = 203\l|y = 310\l|width = 156\l|height = 43\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/406.0_620.0_718.0_706.0.png\l}"]
+	25	[label="{type = XCUIElementTypeStaticText\l|value = 100%\l|name = 100%\l|label = 100%\l|enabled = true\l|visible = true\l|x = 203\l|y = 356\l|width = 156\l|height = 25\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/406.0_712.0_718.0_762.0.png\l}"]
+	26	[label="{type = XCUIElementTypeStaticText\l|value = Most contacted tracker\l|name = Most contacted tracker\l|label = Most contacted tracker\l|enabled = true\l|visible = true\l|x = 16\l|y = 420\l|width = 343\l|height = 21\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/32.0_840.0_718.0_882.0.png\l}"]
+	27	[label="{type = XCUIElementTypeStaticText\l|value = branch.io was prevented from profiling you on 1 website\l|name = branch.io was prevented from profiling you on 1 website\l|label = branch.io was prevented from profiling you on 1 website\l|enabled = true\l|visible = true\l|x = 16\l|y = 445\l|width = 343\l|height = 49\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/32.0_890.0_718.0_988.0.png\l}"]
+	28	[label="{type = XCUIElementTypeStaticText\l|value = Trackers prevented from profiling you\l|name = Trackers prevented from profiling you\l|label = Trackers prevented from profiling you\l|enabled = true\l|visible = true\l|x = 16\l|y = 310\l|width = 156\l|height = 43\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/32.0_620.0_344.0_706.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 549\l|width = 375\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/0.0_1098.0_750.0_1100.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 549\l|width = 375\l|height = 84\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/0.0_1098.0_750.0_1266.0.png\l}"]
+	31	[label="{type = XCUIElementTypeSegmentedControl\l|enabled = true\l|visible = true\l|x = 16\l|y = 565\l|width = 343\l|height = 33\l|index = 2\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/32.0_1130.0_718.0_1196.0.png\l}"]
+	32	[label="{type = XCUIElementTypeStaticText\l|value = CURRENT WEBSITE\l|name = CURRENT WEBSITE\l|label = CURRENT WEBSITE\l|enabled = true\l|visible = true\l|x = 16\l|y = 612\l|width = 343\l|height = 17\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/32.0_1224.0_718.0_1258.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 632\l|width = 359\l|height = 1\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/32.0_1264.0_750.0_1266.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 633\l|width = 375\l|height = 57\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/0.0_1266.0_750.0_1380.0.png\l}"]
+	35	[label="{type = XCUIElementTypeStaticText\l|value = twitter.com\l|name = twitter.com\l|label = twitter.com\l|enabled = true\l|visible = true\l|x = 16\l|y = 641\l|width = 324\l|height = 21\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/32.0_1282.0_680.0_1324.0.png\l}"]
+	36	[label="{type = XCUIElementTypeStaticText\l|value = 2\l|name = 2\l|label = 2\l|enabled = true\l|visible = true\l|x = 83\l|y = 664\l|width = 9\l|height = 18\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/166.0_1328.0_184.0_1364.0.png\l}"]
+	37	[label="{type = XCUIElementTypeStaticText\l|value = Show More\l|name = Show More\l|label = Show More\l|enabled = true\l|visible = true\l|x = 16\l|y = 214\l|width = 86\l|height = 21\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/32.0_428.0_204.0_470.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 549\l|width = 375\l|height = 84\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/0.0_1098.0_750.0_1266.0.png\l}"]
+	39	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = Websites\l|label = Websites\l|enabled = true\l|visible = true\l|x = 16\l|y = 565\l|width = 171\l|height = 33\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/32.0_1130.0_374.0_1196.0.png\l}"]
+	40	[label="{type = XCUIElementTypeButton\l|name = Trackers\l|label = Trackers\l|enabled = true\l|visible = true\l|x = 188\l|y = 565\l|width = 171\l|height = 33\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/376.0_1130.0_718.0_1196.0.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 633\l|width = 375\l|height = 57\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/spark-move/S6/pngs/0.0_1266.0_750.0_1380.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	6 -> 8
+	7 -> 9
+	7 -> 10
+	8 -> 11
+	11 -> 12
+	12 -> 13
+	13 -> 14
+	13 -> 15
+	13 -> 16
+	13 -> 17
+	13 -> 18
+	14 -> 19
+	14 -> 20
+	14 -> 21
+	15 -> 22
+	16 -> 23
+	16 -> 24
+	16 -> 25
+	16 -> 26
+	16 -> 27
+	16 -> 28
+	17 -> 29
+	17 -> 30
+	17 -> 31
+	17 -> 32
+	17 -> 33
+	18 -> 34
+	18 -> 35
+	18 -> 36
+	21 -> 37
+	30 -> 38
+	31 -> 39
+	31 -> 40
+	34 -> 41
+
+
+}

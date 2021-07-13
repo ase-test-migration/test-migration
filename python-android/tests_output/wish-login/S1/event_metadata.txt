@@ -1,0 +1,5 @@
+pathToElementImageCrop: wish-login/S1/pngs/48_675_1032_795.png;
+coords: {'x1': 48, 'y1': 675, 'x2': 1032, 'y2': 795};
+text_identifier: { "resource-id" : "com.contextlogic.wish:id/sign_in_fragment_email_text" };
+event: send_keys;
+input: email@example.com;

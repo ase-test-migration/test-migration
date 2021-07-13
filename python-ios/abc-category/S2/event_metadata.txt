@@ -1,0 +1,5 @@
+pathToElementImageCrop: abc-category/S2/pngs/40.0_1068.0_440.0_1220.0.png;
+coords: {'x1': 40.0, 'y1': 1068.0, 'x2': 440.0, 'y2': 1220.0};
+text_identifier: { "label" : "ABC News Live Prime: Wednesday, February 24, 2021" };
+event: oracle;
+oracle-type: widget_exists;

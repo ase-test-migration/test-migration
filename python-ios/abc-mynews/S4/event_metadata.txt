@@ -1,0 +1,4 @@
+pathToElementImageCrop: abc-mynews/S4/pngs/378.0_1293.0_864.0_1341.0.png;
+coords: {'x1': 378.0, 'y1': 1293.0, 'x2': 864.0, 'y2': 1341.0};
+text_identifier: { "label" : "More State Races to Follow" };
+event: click;

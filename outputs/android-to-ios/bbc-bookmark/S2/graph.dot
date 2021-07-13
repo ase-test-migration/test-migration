@@ -1,0 +1,56 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = BBC News\l|label = BBC News\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-bookmark/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-bookmark/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-bookmark/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-bookmark/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-bookmark/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-bookmark/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-bookmark/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-bookmark/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeNavigationBar\l|name = bn-navigation-bar\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-bookmark/S2/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-bookmark/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|name = Back\l|label = Back\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 44\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-bookmark/S2/pngs/0.0_40.0_88.0_128.0.png\l}"]
+	11	[label="{type = XCUIElementTypeStaticText\l|value = 1 of 4\l|name = 1 of 4\l|label = 1 of 4\l|enabled = true\l|visible = true\l|x = 166\l|y = 32\l|width = 44\l|height = 21\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-bookmark/S2/pngs/332.0_64.0_420.0_106.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-bookmark/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|name = bn-view-pager-controller\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-bookmark/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-bookmark/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|name = bn-photo-page\l|label = Image with caption: (null)\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-bookmark/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 4 pages\l|label = Vertical scroll bar, 4 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 64\l|width = 30\l|height = 603\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-bookmark/S2/pngs/684.0_128.0_744.0_1334.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 4 pages\l|label = Horizontal scroll bar, 4 pages\l|enabled = true\l|visible = true\l|x = 0\l|y = 634\l|width = 375\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-bookmark/S2/pngs/0.0_1268.0_750.0_1328.0.png\l}"]
+	18	[label="{type = XCUIElementTypeScrollView\l|name = bn-zoomable-image-view\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-bookmark/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	19	[label="{type = XCUIElementTypeImage\l|name = bbc-news-image-view\l|enabled = true\l|visible = true\l|x = 0\l|y = 228\l|width = 375\l|height = 211\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-bookmark/S2/pngs/0.0_456.0_750.0_878.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 1 page\l|label = Vertical scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 342\l|y = 0\l|width = 30\l|height = 667\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-bookmark/S2/pngs/684.0_0.0_744.0_1334.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 634\l|width = 375\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-bookmark/S2/pngs/0.0_1268.0_750.0_1328.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|name = Getty Images\l|label = Getty Images\l|enabled = true\l|visible = true\l|x = 303\l|y = 424\l|width = 72\l|height = 16\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-bookmark/S2/pngs/606.0_848.0_750.0_880.0.png\l}"]
+	23	[label="{type = XCUIElementTypeStaticText\l|value = Getty Images\l|name = Getty Images\l|label = Getty Images\l|enabled = true\l|visible = true\l|x = 311\l|y = 426\l|width = 56\l|height = 12\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-bookmark/S2/pngs/622.0_852.0000000000001_734.0_876.0000000000001.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	7 -> 9
+	8 -> 10
+	8 -> 11
+	9 -> 12
+	12 -> 13
+	13 -> 14
+	14 -> 15
+	14 -> 16
+	14 -> 17
+	15 -> 18
+	18 -> 19
+	18 -> 20
+	18 -> 21
+	19 -> 22
+	22 -> 23
+
+
+}

@@ -1,0 +1,50 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "brave-bookmark",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.brave.browser:id/url_bar"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys_enter",
+                    "tag": "com.brave.browser:id/url_bar",
+                    "input": "google.com"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Bookmark this page"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.brave.browser:id/menu_button"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Bookmarks"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.brave.browser:id/title"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Google"
+                }
+            ]
+        }
+    ]
+}

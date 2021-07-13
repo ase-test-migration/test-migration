@@ -1,0 +1,5 @@
+pathToElementImageCrop: bbc-my-news/S5/pngs/204.0_663.0_1059.0_798.0.png;
+coords: {'x1': 204.0, 'y1': 663.0, 'x2': 1059.0, 'y2': 798.0};
+text_identifier: { "label" : "Coronavirus" };
+event: oracle;
+oracle-type: widget_exists;

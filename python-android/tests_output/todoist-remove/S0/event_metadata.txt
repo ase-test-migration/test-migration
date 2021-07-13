@@ -1,0 +1,4 @@
+pathToElementImageCrop: todoist-remove/S0/pngs/144_679_1036_743.png;
+coords: {'x1': 144, 'y1': 679, 'x2': 1036, 'y2': 743};
+text_identifier: { "resource-id" : "com.todoist:id/text" };
+event: click;

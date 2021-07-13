@@ -1,0 +1,68 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Firefox\l|label = Firefox\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|name = Action Sheet\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeTable\l|name = Context Menu\l|enabled = true\l|visible = true\l|x = 6\l|y = 206\l|width = 363\l|height = 393\l|index = 0\l|numberOfChildren = 11\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/12.0_412.00000000000006_738.0_1198.0.png\l}"]
+	7	[label="{type = XCUIElementTypeButton\l|name = PhotonMenu.close\l|label = Close\l|enabled = true\l|visible = true\l|x = 6\l|y = 605\l|width = 363\l|height = 56\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/12.0_1210.0_738.0_1322.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 6\l|y = 206\l|width = 363\l|height = 6\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/12.0_412.00000000000006_738.0_424.00000000000006.png\l}"]
+	9	[label="{type = XCUIElementTypeCell\l|name = menu-sync\l|label = Sign in to Sync\l|enabled = true\l|visible = true\l|x = 6\l|y = 212\l|width = 363\l|height = 44\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/12.0_424.0_738.0_512.0.png\l}"]
+	10	[label="{type = XCUIElementTypeCell\l|name = key\l|label = Logins & Passwords\l|enabled = true\l|visible = true\l|x = 6\l|y = 256\l|width = 363\l|height = 44\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/12.0_512.0_738.0_600.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 6\l|y = 301\l|width = 363\l|height = 13\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/12.0_602.0_738.0_628.0.png\l}"]
+	12	[label="{type = XCUIElementTypeCell\l|name = menu-Home\l|label = Home\l|enabled = true\l|visible = true\l|x = 6\l|y = 314\l|width = 363\l|height = 44\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/12.0_628.0_738.0_716.0.png\l}"]
+	13	[label="{type = XCUIElementTypeCell\l|name = menu-library\l|label = Your Library\l|enabled = true\l|visible = true\l|x = 6\l|y = 358\l|width = 363\l|height = 44\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/12.0_716.0000000000001_738.0_804.0000000000001.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 6\l|y = 403\l|width = 363\l|height = 13\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/12.0_806.0_738.0_832.0.png\l}"]
+	15	[label="{type = XCUIElementTypeCell\l|name = menu-NoImageMode\l|label = Block Images\l|enabled = true\l|visible = true\l|x = 6\l|y = 416\l|width = 363\l|height = 44\l|index = 7\l|numberOfChildren = 2\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/12.0_832.0_738.0_920.0.png\l}"]
+	16	[label="{type = XCUIElementTypeCell\l|name = menu-NightMode\l|label = Enable Night Mode\l|enabled = true\l|visible = true\l|x = 6\l|y = 460\l|width = 363\l|height = 44\l|index = 8\l|numberOfChildren = 2\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/12.0_920.0000000000001_738.0_1008.0000000000001.png\l}"]
+	17	[label="{type = XCUIElementTypeCell\l|name = whatsnew\l|label = What's New\l|enabled = true\l|visible = true\l|x = 6\l|y = 504\l|width = 363\l|height = 44\l|index = 9\l|numberOfChildren = 1\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/12.0_1008.0_738.0_1096.0.png\l}"]
+	18	[label="{type = XCUIElementTypeCell\l|name = menu-Settings\l|label = Settings\l|enabled = true\l|visible = true\l|x = 6\l|y = 548\l|width = 363\l|height = 44\l|index = 10\l|numberOfChildren = 1\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/12.0_1096.0_738.0_1184.0.png\l}"]
+	19	[label="{type = XCUIElementTypeStaticText\l|value = Close\l|name = Close\l|label = Close\l|enabled = true\l|visible = true\l|x = 162\l|y = 621\l|width = 51\l|height = 24\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/324.0_1242.0_426.0_1290.0.png\l}"]
+	20	[label="{type = XCUIElementTypeStaticText\l|value = Sign in to Sync\l|name = Sign in to Sync\l|label = Sign in to Sync\l|enabled = true\l|visible = true\l|x = 62\l|y = 224\l|width = 113\l|height = 21\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/124.0_448.0_350.0_490.0.png\l}"]
+	21	[label="{type = XCUIElementTypeStaticText\l|value = Logins & Passwords\l|name = Logins & Passwords\l|label = Logins & Passwords\l|enabled = true\l|visible = true\l|x = 62\l|y = 268\l|width = 153\l|height = 21\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/124.0_536.0_430.0_578.0.png\l}"]
+	22	[label="{type = XCUIElementTypeStaticText\l|value = Home\l|name = Home\l|label = Home\l|enabled = true\l|visible = true\l|x = 62\l|y = 326\l|width = 46\l|height = 21\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/124.0_652.0_216.0_694.0.png\l}"]
+	23	[label="{type = XCUIElementTypeStaticText\l|value = Your Library\l|name = Your Library\l|label = Your Library\l|enabled = true\l|visible = true\l|x = 62\l|y = 370\l|width = 92\l|height = 21\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/124.0_740.0_308.0_782.0.png\l}"]
+	24	[label="{type = XCUIElementTypeStaticText\l|value = Block Images\l|name = Block Images\l|label = Block Images\l|enabled = true\l|visible = true\l|x = 62\l|y = 428\l|width = 102\l|height = 21\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/124.0_856.0_328.0_898.0.png\l}"]
+	25	[label="{type = XCUIElementTypeImage\l|name = disabled\l|enabled = true\l|visible = true\l|x = 319\l|y = 427\l|width = 34\l|height = 22\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/638.0_854.0_706.0_898.0.png\l}"]
+	26	[label="{type = XCUIElementTypeStaticText\l|value = Enable Night Mode\l|name = Enable Night Mode\l|label = Enable Night Mode\l|enabled = true\l|visible = true\l|x = 62\l|y = 472\l|width = 145\l|height = 21\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/124.0_944.0_414.0_986.0.png\l}"]
+	27	[label="{type = XCUIElementTypeImage\l|name = disabled\l|enabled = true\l|visible = true\l|x = 319\l|y = 471\l|width = 34\l|height = 22\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/638.0_942.0_706.0_986.0.png\l}"]
+	28	[label="{type = XCUIElementTypeStaticText\l|value = What's New\l|name = What's New\l|label = What's New\l|enabled = true\l|visible = true\l|x = 62\l|y = 516\l|width = 92\l|height = 21\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/124.0_1032.0_308.0_1074.0.png\l}"]
+	29	[label="{type = XCUIElementTypeStaticText\l|value = Settings\l|name = Settings\l|label = Settings\l|enabled = true\l|visible = true\l|x = 62\l|y = 560\l|width = 63\l|height = 21\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S5/pngs/124.0_1120.0_250.0_1162.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	5 -> 7
+	6 -> 8
+	6 -> 9
+	6 -> 10
+	6 -> 11
+	6 -> 12
+	6 -> 13
+	6 -> 14
+	6 -> 15
+	6 -> 16
+	6 -> 17
+	6 -> 18
+	7 -> 19
+	9 -> 20
+	10 -> 21
+	12 -> 22
+	13 -> 23
+	15 -> 24
+	15 -> 25
+	16 -> 26
+	16 -> 27
+	17 -> 28
+	18 -> 29
+
+
+}

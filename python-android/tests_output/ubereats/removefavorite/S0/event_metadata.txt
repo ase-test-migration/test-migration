@@ -1,0 +1,4 @@
+pathToElementImageCrop: removefavorite/S0/pngs/810_1608_1080_1776.png;
+coords: {'x1': 810, 'y1': 1608, 'x2': 1080, 'y2': 1848};
+text_identifier: { "content-desc" : "Account" };
+event: click;

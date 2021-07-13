@@ -1,0 +1,5 @@
+pathToElementImageCrop: bbc-personalize/S6/pngs/44_844_507_996.png;
+coords: {'x1': 44, 'y1': 844, 'x2': 507, 'y2': 996};
+text_identifier: { "resource-id" : "bbc.mobile.news.ww:id/content_card_title" };
+event: oracle;
+oracle-type: widget_exists;

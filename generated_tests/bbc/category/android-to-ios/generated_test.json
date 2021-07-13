@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "bbc-category",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Search",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Coronavirus pandemic",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "oracle-type": "widget_exists",
+                "type": "name",
+                "tag": "Coronavirus"
+            }
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Wish\l|label = Wish\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|name = pickerDialog\l|enabled = true\l|visible = true\l|x = 8\l|y = 573\l|width = 398\l|height = 281\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S2/pngs/24.0_1719.0_1218.0_2562.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 605\l|width = 398\l|height = 249\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S2/pngs/24.0_1815.0_1218.0_2562.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 605\l|width = 398\l|height = 249\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S2/pngs/24.0_1815.0_1218.0_2562.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 605\l|width = 398\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S2/pngs/24.0_1815.0_1218.0_1959.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 653\l|width = 398\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S2/pngs/24.0_1959.0000000000002_1218.0_1962.0000000000002.png\l}"]
+	10	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 8\l|y = 654\l|width = 398\l|height = 200\l|numberOfChildren = 51\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S2/pngs/24.0_1962.0_1218.0_2562.0.png\l}"]
+	11	[label="{type = XCUIElementTypeStaticText\l|value = Select Quantity\l|name = pickerDialogTitleLabel\l|label = Select Quantity\l|enabled = true\l|visible = true\l|x = 24\l|y = 620\l|width = 366\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S2/pngs/72.0_1860.0_1170.0_1917.0.png\l}"]
+	12	[label="{type = XCUIElementTypeCell\l|name = generalCellPicker0\l|enabled = true\l|visible = true\l|x = 8\l|y = 654\l|width = 398\l|height = 40\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S2/pngs/24.0_1962.0_1218.0_2082.0.png\l}"]
+	13	[label="{type = XCUIElementTypeCell\l|name = generalCellPicker1\l|enabled = true\l|visible = true\l|x = 8\l|y = 694\l|width = 398\l|height = 40\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S2/pngs/24.0_2082.0_1218.0_2202.0.png\l}"]
+	14	[label="{type = XCUIElementTypeCell\l|name = generalCellPicker2\l|enabled = true\l|visible = true\l|x = 8\l|y = 734\l|width = 398\l|height = 40\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S2/pngs/24.0_2202.0_1218.0_2322.0.png\l}"]
+	15	[label="{type = XCUIElementTypeCell\l|name = generalCellPicker3\l|enabled = true\l|visible = true\l|x = 8\l|y = 774\l|width = 398\l|height = 40\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S2/pngs/24.0_2322.0_1218.0_2442.0.png\l}"]
+	16	[label="{type = XCUIElementTypeCell\l|name = generalCellPicker4\l|enabled = true\l|visible = true\l|x = 8\l|y = 814\l|width = 398\l|height = 40\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S2/pngs/24.0_2442.0_1218.0_2562.0.png\l}"]
+	17	[label="{type = XCUIElementTypeStaticText\l|value = 0\l|name = 0\l|label = 0\l|enabled = true\l|visible = true\l|x = 28\l|y = 654\l|width = 358\l|height = 40\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = remove-item-from-cart/S2/pngs/84.0_1962.0_1158.0_2082.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 693\l|width = 398\l|height = 42\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S2/pngs/24.0_2079.0_1218.0_2205.0.png\l}"]
+	19	[label="{type = XCUIElementTypeStaticText\l|value = 1\l|name = 1\l|label = 1\l|enabled = true\l|visible = true\l|x = 28\l|y = 694\l|width = 358\l|height = 40\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S2/pngs/84.0_2082.0_1158.0_2202.0.png\l}"]
+	20	[label="{type = XCUIElementTypeStaticText\l|value = 2\l|name = 2\l|label = 2\l|enabled = true\l|visible = true\l|x = 28\l|y = 734\l|width = 358\l|height = 40\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S2/pngs/84.0_2202.0_1158.0_2322.0.png\l}"]
+	21	[label="{type = XCUIElementTypeStaticText\l|value = 3\l|name = 3\l|label = 3\l|enabled = true\l|visible = true\l|x = 28\l|y = 774\l|width = 358\l|height = 40\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S2/pngs/84.0_2322.0_1158.0_2442.0.png\l}"]
+	22	[label="{type = XCUIElementTypeStaticText\l|value = 4\l|name = 4\l|label = 4\l|enabled = true\l|visible = true\l|x = 28\l|y = 814\l|width = 358\l|height = 40\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S2/pngs/84.0_2442.0_1158.0_2562.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	7 -> 9
+	7 -> 10
+	8 -> 11
+	10 -> 12
+	10 -> 13
+	10 -> 14
+	10 -> 15
+	10 -> 16
+	12 -> 17
+	13 -> 18
+	13 -> 19
+	14 -> 20
+	15 -> 21
+	16 -> 22
+
+
+}

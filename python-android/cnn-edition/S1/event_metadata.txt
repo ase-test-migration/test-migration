@@ -1,0 +1,7 @@
+pathToElementImageCrop: cnn-edition/S1/pngs/48_938_114_987.png;
+coords: {'x1': 48, 'y1': 938, 'x2': 114, 'y2': 987};
+text_identifier: { "resource-id" : "com.cnn.mobile.android.phone:id/currentEditionTextView" };
+event: oracle;
+oracle-type: assert_equal;
+attribute: text;
+value: U.S.;

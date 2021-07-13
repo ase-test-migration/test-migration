@@ -1,0 +1,10 @@
+{ "resource-id" : "com.google.android.apps.tasks:id/root_view" , "screenshotPath" : "gTask-delTask/S1/pngs/0_221_1080_2287.png"}
+{ "resource-id" : "com.google.android.apps.tasks:id/edit_task_complete_button" , "screenshotPath" : "gTask-delTask/S1/pngs/700_2224_1038_2287.png"}
+{ "content-desc" : "Navigate up" , "screenshotPath" : "gTask-delTask/S1/pngs/0_74_147_219.png"}
+{ "content-desc" : "List, My Tasks selected, 1 of 1" , "resource-id" : "com.google.android.apps.tasks:id/edit_list" , "screenshotPath" : "gTask-delTask/S1/pngs/53_221_304_309.png"}
+{ "resource-id" : "com.google.android.apps.tasks:id/edit_title" , "screenshotPath" : "gTask-delTask/S1/pngs/53_351_1027_422.png"}
+{ "resource-id" : "com.google.android.apps.tasks:id/edit_details_container" , "screenshotPath" : "gTask-delTask/S1/pngs/0_454_1080_580.png"}
+{ "resource-id" : "com.google.android.apps.tasks:id/edit_due_date_container" , "screenshotPath" : "gTask-delTask/S1/pngs/0_580_1080_706.png"}
+{ "resource-id" : "com.google.android.apps.tasks:id/edit_subtasks_container" , "screenshotPath" : "gTask-delTask/S1/pngs/0_706_1080_832.png"}
+{ "content-desc" : "Delete" , "resource-id" : "com.google.android.apps.tasks:id/delete_task_option" , "screenshotPath" : "gTask-delTask/S1/pngs/953_82_1080_208.png"}
+{ "resource-id" : "com.google.android.apps.tasks:id/edit_details" , "screenshotPath" : "gTask-delTask/S1/pngs/158_488_1027_545.png"}

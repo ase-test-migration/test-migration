@@ -1,0 +1,88 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = CNN\l|label = CNN\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	9	[label="{type = XCUIElementTypeTabBar\l|enabled = true\l|visible = true\l|x = 0\l|y = 813\l|width = 414\l|height = 83\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/0.0_2439.0_1242.0_2688.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|name = Home\l|label = Home\l|enabled = true\l|visible = true\l|x = 2\l|y = 814\l|width = 80\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/6.0_2442.0_246.0_2586.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|name = Audio\l|label = Audio\l|enabled = true\l|visible = true\l|x = 85\l|y = 814\l|width = 80\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/255.0_2442.0_495.0_2586.0.png\l}"]
+	13	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = Search\l|label = Search\l|enabled = true\l|visible = true\l|x = 168\l|y = 814\l|width = 78\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/504.00000000000006_2442.0_738.0_2586.0.png\l}"]
+	14	[label="{type = XCUIElementTypeButton\l|name = Saved Stories\l|label = Saved Stories\l|enabled = true\l|visible = true\l|x = 249\l|y = 814\l|width = 80\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/747.0_2442.0_987.0_2586.0.png\l}"]
+	15	[label="{type = XCUIElementTypeButton\l|name = Settings\l|label = Settings\l|enabled = true\l|visible = true\l|x = 332\l|y = 814\l|width = 80\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/996.0_2442.0_1236.0_2586.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	17	[label="{type = XCUIElementTypeNavigationBar\l|name = Search\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 44\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/0.0_132.0_1242.0_264.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	19	[label="{type = XCUIElementTypeStaticText\l|value = Search\l|name = Search\l|label = Search\l|enabled = true\l|visible = true\l|x = 176\l|y = 54\l|width = 62\l|height = 25\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/528.0_162.0_714.0_237.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 725\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/0.0_264.0_1242.0_2439.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|name =    search text input Cancel Recent Searches Clear Recent Searches Travel   search result Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|label =    search text input Cancel Recent Searches Clear Recent Searches Travel   search result Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 725\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/0.0_264.0_1242.0_2439.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|name =    search text input Cancel Recent Searches Clear Recent Searches Travel   search result Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|label =    search text input Cancel Recent Searches Clear Recent Searches Travel   search result Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 725\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/0.0_264.0_1242.0_2439.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|name =    search text input Cancel Recent Searches Clear Recent Searches Travel   search result Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|label =    search text input Cancel Recent Searches Clear Recent Searches Travel   search result Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 725\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/0.0_264.0_1242.0_2439.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|name =    search text input Cancel Recent Searches Clear Recent Searches Travel   search result Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|label =    search text input Cancel Recent Searches Clear Recent Searches Travel   search result Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 725\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/0.0_264.0_1242.0_2439.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|name =    search text input Cancel\l|label =    search text input Cancel\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 56\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/0.0_264.0_1242.0_432.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|name = Recent Searches Clear Recent Searches Travel   search result Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|label = Recent Searches Clear Recent Searches Travel   search result Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 144\l|width = 414\l|height = 669\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/0.0_432.00000000000006_1242.0_2439.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|name =    search text input\l|label =    search text input\l|enabled = true\l|visible = true\l|x = 17\l|y = 98\l|width = 323\l|height = 36\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/51.0_294.0_1020.0_402.0.png\l}"]
+	29	[label="{type = XCUIElementTypeButton\l|name = cancel\l|label = Cancel\l|enabled = true\l|visible = true\l|x = 340\l|y = 104\l|width = 64\l|height = 24\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/1020.0_312.0_1212.0_384.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|name = Recent Searches Clear Recent Searches\l|label = Recent Searches Clear Recent Searches\l|enabled = true\l|visible = true\l|x = 0\l|y = 144\l|width = 414\l|height = 43\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/0.0_432.00000000000006_1242.0_561.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|name = Travel   search result Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|label = Travel   search result Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 186\l|width = 414\l|height = 627\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/0.0_558.0_1242.0_2439.0.png\l}"]
+	32	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 24\l|y = 108\l|width = 16\l|height = 16\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/72.0_324.0_120.0_372.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|name =    search text input\l|label =    search text input\l|enabled = true\l|visible = true\l|x = 45\l|y = 106\l|width = 288\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/135.0_318.0_999.0_378.0.png\l}"]
+	34	[label="{type = XCUIElementTypeStaticText\l|value = Recent Searches\l|name = title\l|label = Recent Searches\l|enabled = true\l|visible = true\l|x = 18\l|y = 156\l|width = 258\l|height = 21\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/54.0_468.0_828.0_531.0.png\l}"]
+	35	[label="{type = XCUIElementTypeButton\l|name = Clear Recent Searches\l|label = Clear Recent Searches\l|enabled = true\l|visible = true\l|x = 275\l|y = 154\l|width = 129\l|height = 23\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/824.9999999999999_462.0_1212.0_531.0.png\l}"]
+	36	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 186\l|width = 414\l|height = 628\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/0.0_558.0_1242.0_2442.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|name = Travel   search result\l|label = Travel   search result\l|enabled = true\l|visible = true\l|x = 0\l|y = 186\l|width = 414\l|height = 45\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/0.0_558.0_1242.0_693.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|name = Travel   search result\l|label = Travel   search result\l|enabled = true\l|visible = true\l|x = 0\l|y = 186\l|width = 414\l|height = 45\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/0.0_558.0_1242.0_693.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|name = Travel   search result\l|label = Travel   search result\l|enabled = true\l|visible = true\l|x = 0\l|y = 186\l|width = 414\l|height = 45\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-edition/S5/pngs/0.0_558.0_1242.0_693.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	7 -> 9
+	8 -> 10
+	9 -> 11
+	9 -> 12
+	9 -> 13
+	9 -> 14
+	9 -> 15
+	10 -> 16
+	16 -> 17
+	16 -> 18
+	17 -> 19
+	18 -> 20
+	20 -> 21
+	21 -> 22
+	22 -> 23
+	23 -> 24
+	24 -> 25
+	25 -> 26
+	25 -> 27
+	26 -> 28
+	26 -> 29
+	27 -> 30
+	27 -> 31
+	28 -> 32
+	28 -> 33
+	30 -> 34
+	30 -> 35
+	31 -> 36
+	36 -> 37
+	37 -> 38
+	38 -> 39
+
+
+}

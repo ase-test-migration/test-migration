@@ -1,0 +1,5 @@
+pathToElementImageCrop: firefox-search/S1/pngs/132_1331_948_1441.png;
+coords: {'x1': 132, 'y1': 1331, 'x2': 948, 'y2': 1441};
+text_identifier: { "resource-id" : "org.mozilla.firefox:id/mozac_browser_toolbar_edit_url_view" };
+event: send_keys;
+input: chess.com;

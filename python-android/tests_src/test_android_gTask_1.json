@@ -1,0 +1,30 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "R3CN30038ME",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "gTask-addTask",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Create new task"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys",
+                    "tag": "com.google.android.apps.tasks:id/add_task_title",
+                    "input": "Test01"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.google.android.apps.tasks:id/add_task_done"
+                }
+            ]
+        }
+    ]
+}

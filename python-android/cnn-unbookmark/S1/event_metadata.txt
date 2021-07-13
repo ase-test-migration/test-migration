@@ -1,0 +1,4 @@
+pathToElementImageCrop: cnn-unbookmark/S1/pngs/333_361_1039_604.png;
+coords: {'x1': 333, 'y1': 361, 'x2': 1039, 'y2': 604};
+text_identifier: { "text" : "US Capitol Police officer allegedly told units to only monitor for 'anti-Trump' protesters on January 6" , "resource-id" : "com.cnn.mobile.android.phone:id/titleText" };
+event: click;

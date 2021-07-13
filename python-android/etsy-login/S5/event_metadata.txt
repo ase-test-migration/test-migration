@@ -1,0 +1,5 @@
+pathToElementImageCrop: etsy-login/S5/pngs/0_2214_216_2287.png;
+coords: {'x1': 0, 'y1': 2214, 'x2': 216, 'y2': 2361};
+text_identifier: { "content-desc" : "Home tab, 1 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_home" };
+event: oracle;
+oracle-type: widget_exists;

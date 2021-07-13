@@ -1,0 +1,10 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = BBC News\l|label = BBC News\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+
+
+
+
+}

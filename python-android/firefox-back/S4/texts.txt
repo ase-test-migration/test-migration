@@ -1,0 +1,14 @@
+{ "resource-id" : "org.mozilla.firefox:id/toolbar" , "screenshotPath" : "firefox-back/S4/pngs/0_1994_1080_2148.png"}
+{ "content-desc" : "Tracking Protection is on" , "resource-id" : "org.mozilla.firefox:id/mozac_browser_toolbar_tracking_protection_indicator" , "screenshotPath" : "firefox-back/S4/pngs/22_2016_132_2126.png"}
+{ "content-desc" : "Site information" , "resource-id" : "org.mozilla.firefox:id/mozac_browser_toolbar_security_indicator" , "screenshotPath" : "firefox-back/S4/pngs/135_2016_245_2126.png"}
+{ "resource-id" : "org.mozilla.firefox:id/mozac_browser_toolbar_menu" , "screenshotPath" : "firefox-back/S4/pngs/981_2005_1080_2137.png"}
+{ "resource-id" : "org.mozilla.firefox:id/mozac_browser_toolbar_url_view" , "screenshotPath" : "firefox-back/S4/pngs/267_2016_849_2126.png"}
+{ "content-desc" : "Tabs" , "screenshotPath" : "firefox-back/S4/pngs/849_2005_981_2137.png"}
+{ "content-desc" : "Google.com" , "screenshotPath" : "firefox-back/S4/pngs/444_1916_636_1958.png"}
+{ "content-desc" : "" , "resource-id" : "xRRFWe" , "screenshotPath" : "firefox-back/S4/pngs/0_171_136_305.png"}
+{ "content-desc" : "Слике" , "screenshotPath" : "firefox-back/S4/pngs/295_171_415_307.png"}
+{ "content-desc" : "srpski" , "screenshotPath" : "firefox-back/S4/pngs/542_820_681_862.png"}
+{ "content-desc" : "English" , "screenshotPath" : "firefox-back/S4/pngs/690_820_848_862.png"}
+{ "content-desc" : "Пријави ме" , "screenshotPath" : "firefox-back/S4/pngs/846_200_1037_277.png"}
+{ "resource-id" : "tsbb" , "screenshotPath" : "firefox-back/S4/pngs/955_631_1058_732.png"}
+{ "resource-id" : "mib" , "screenshotPath" : "firefox-back/S4/pngs/46_633_886_729.png"}

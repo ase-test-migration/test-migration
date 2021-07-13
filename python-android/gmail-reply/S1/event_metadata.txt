@@ -1,0 +1,4 @@
+pathToElementImageCrop: gmail-reply/S1/pngs/190_2013_290_2062.png;
+coords: {'x1': 190, 'y1': 2013, 'x2': 290, 'y2': 2062};
+text_identifier: { "resource-id" : "com.google.android.gm:id/reply_button_text" };
+event: click;

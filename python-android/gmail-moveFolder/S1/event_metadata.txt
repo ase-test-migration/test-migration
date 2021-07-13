@@ -1,0 +1,4 @@
+pathToElementImageCrop: gmail-moveFolder/S1/pngs/975_84_1080_210.png;
+coords: {'x1': 975, 'y1': 84, 'x2': 1080, 'y2': 210};
+text_identifier: { "content-desc" : "More options" };
+event: click;

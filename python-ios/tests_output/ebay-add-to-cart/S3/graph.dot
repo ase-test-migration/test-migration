@@ -1,0 +1,40 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = eBay\l|label = eBay\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-add-to-cart/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-add-to-cart/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-add-to-cart/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-add-to-cart/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-add-to-cart/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 685\l|width = 414\l|height = 261\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-add-to-cart/S3/pngs/0.0_2055.0_1242.0_2838.0.png\l}"]
+	6	[label="{type = XCUIElementTypeButton\l|name = button_dismiss\l|label = Dismiss\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 685\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-add-to-cart/S3/pngs/0.0_0.0_1242.0_2055.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 685\l|width = 414\l|height = 15\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-add-to-cart/S3/pngs/0.0_2055.0_1242.0_2100.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 700\l|width = 414\l|height = 162\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-add-to-cart/S3/pngs/0.0_2100.0_1242.0_2586.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 195\l|y = 693\l|width = 24\l|height = 3\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-add-to-cart/S3/pngs/585.0_2079.0_657.0_2088.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 700\l|width = 414\l|height = 162\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-add-to-cart/S3/pngs/0.0_2100.0_1242.0_2586.0.png\l}"]
+	11	[label="{type = XCUIElementTypeStaticText\l|value = Choose quantity\l|name = Choose quantity\l|label = Choose quantity\l|enabled = true\l|visible = true\l|x = 135\l|y = 724\l|width = 144\l|height = 24\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-add-to-cart/S3/pngs/405.0_2172.0_837.0_2244.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = stepper_button_decrement\l|label = Decrease Quantity\l|enabled = false\l|visible = true\l|x = 24\l|y = 776\l|width = 44\l|height = 45\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-add-to-cart/S3/pngs/72.0_2328.0_204.0_2463.0.png\l}"]
+	13	[label="{type = XCUIElementTypeStaticText\l|value = Quantity 1\l|name = stepper_label_quantitySelected\l|label = Quantity 1\l|enabled = true\l|visible = true\l|x = 197\l|y = 772\l|width = 20\l|height = 53\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-add-to-cart/S3/pngs/591.0_2316.0_651.0_2475.0.png\l}"]
+	14	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = stepper_button_increment\l|label = Increase Quantity\l|enabled = true\l|visible = true\l|x = 346\l|y = 776\l|width = 44\l|height = 45\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = true \l|screenshotPath = ebay-add-to-cart/S3/pngs/1038.0_2328.0_1170.0_2463.0.png\l}"]
+	15	[label="{type = XCUIElementTypeStaticText\l|value = 5 available\l|name = stepper_label_quantityAvailable\l|label = 5 available\l|enabled = true\l|visible = true\l|x = 177\l|y = 840\l|width = 60\l|height = 15\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-add-to-cart/S3/pngs/531.0_2520.0_711.0_2565.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	3 -> 5
+	4 -> 6
+	5 -> 7
+	5 -> 8
+	7 -> 9
+	8 -> 10
+	10 -> 11
+	10 -> 12
+	10 -> 13
+	10 -> 14
+	10 -> 15
+
+
+}

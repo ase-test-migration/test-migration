@@ -1,0 +1,5 @@
+pathToElementImageCrop: firefox-back/S3/pngs/112.00000000000001_70.0_638.0_160.0.png;
+coords: {'x1': 112.00000000000001, 'y1': 70.0, 'x2': 638.0, 'y2': 160.0};
+text_identifier: { "label" : "Address and Search" };
+event: send_keys_enter;
+input: wikipedia.org;

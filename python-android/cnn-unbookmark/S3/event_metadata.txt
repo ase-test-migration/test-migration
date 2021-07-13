@@ -1,0 +1,4 @@
+pathToElementImageCrop: cnn-unbookmark/S3/pngs/44_171_121_320.png;
+coords: {'x1': 44, 'y1': 171, 'x2': 121, 'y2': 320};
+text_identifier: { "text" : "" , "resource-id" : "com.cnn.mobile.android.phone:id/toolbar_back_button" };
+event: click;

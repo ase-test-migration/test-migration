@@ -1,0 +1,29 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "python-ios",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.weekly.app:id/view_button_days",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.weekly.app:id/edit_text_task",
+                "event": "send_keys",
+                "input": "testing"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.weekly.app:id/switch_repeat_task",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "testing"
+            }
+        ]
+    }
+}

@@ -1,0 +1,5 @@
+pathToElementImageCrop: ikea-addCart/S1/pngs/38.0_191.99999999999997_566.0_287.99999999999994.png;
+coords: {'x1': 38.0, 'y1': 191.99999999999997, 'x2': 566.0, 'y2': 287.99999999999994};
+text_identifier: { "label" : "" };
+event: send_keys_enter;
+input: table;

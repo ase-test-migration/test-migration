@@ -1,0 +1,13 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "spark-search",
+        "events": [
+            {
+                "type": "xPath",
+                "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.FrameLayout[2]/android.view.ViewGroup/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout",
+                "event": "click"
+            }
+        ]
+    }
+}

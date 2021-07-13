@@ -1,0 +1,4 @@
+pathToElementImageCrop: poshmark-addCart/S0/pngs/20.0_766.0_164.0_910.0.png;
+coords: {'x1': 20.0, 'y1': 766.0, 'x2': 164.0, 'y2': 910.0};
+text_identifier: { "label" : "All Likes »" };
+event: click;

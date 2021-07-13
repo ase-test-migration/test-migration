@@ -1,0 +1,4 @@
+pathToElementImageCrop: usa_bookmark/S1/pngs/948_77_1080_209.png;
+coords: {'x1': 948, 'y1': 77, 'x2': 1080, 'y2': 209};
+text_identifier: { "content-desc" : "Unchecked. Save Checkbox" , "resource-id" : "com.usatoday.android.news:id/menuButtonBookmark" };
+event: click;

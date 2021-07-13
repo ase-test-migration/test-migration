@@ -1,0 +1,150 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Etsy\l|label = Etsy\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 617\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/0.0_0.0_750.0_1234.0.png\l}"]
+	7	[label="{type = XCUIElementTypeTabBar\l|name = BOE Navigation Bar\l|label = Tab Bar\l|enabled = true\l|visible = true\l|x = 0\l|y = 617\l|width = 375\l|height = 50\l|index = 1\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/0.0_1234.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 617\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/0.0_0.0_750.0_1234.0.png\l}"]
+	9	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = Home\l|label = Home\l|enabled = true\l|visible = true\l|x = 2\l|y = 618\l|width = 71\l|height = 49\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/4.0_1236.0_146.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|name = Favorites\l|label = Favorites\l|enabled = true\l|visible = true\l|x = 77\l|y = 618\l|width = 71\l|height = 49\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/154.0_1236.0_296.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|name = Updates\l|label = Updates\l|enabled = true\l|visible = true\l|x = 152\l|y = 618\l|width = 71\l|height = 49\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/304.0_1236.0_446.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|name = You\l|label = You\l|enabled = true\l|visible = true\l|x = 227\l|y = 618\l|width = 71\l|height = 49\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/453.99999999999994_1236.0_596.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeButton\l|name = Cart\l|label = Cart\l|enabled = true\l|visible = true\l|x = 302\l|y = 618\l|width = 71\l|height = 49\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/604.0_1236.0_746.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 617\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/0.0_0.0_750.0_1234.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 617\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/0.0_0.0_750.0_1234.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 617\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/0.0_0.0_750.0_1234.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 617\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/0.0_0.0_750.0_1234.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 617\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/0.0_0.0_750.0_1234.0.png\l}"]
+	19	[label="{type = XCUIElementTypeScrollView\l|name = Listing Details ScrollView Accessibility Identifier\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 617\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/0.0_0.0_750.0_1234.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|name = Listing\l|label = Listing\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 3360\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/0.0_0.0_750.0_6720.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 584\l|width = 375\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/0.0_1168.0_750.0_1228.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 3360\l|index = 0\l|numberOfChildren = 8\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/0.0_0.0_750.0_6720.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 451\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/0.0_0.0_750.0_902.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 459\l|width = 375\l|height = 74\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/0.0_917.9999999999999_750.0_1066.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 533\l|width = 375\l|height = 417\l|index = 2\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/0.0_1066.0_750.0_1900.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 395\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/0.0_0.0_750.0_790.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 403\l|width = 375\l|height = 48\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/0.0_806.0_750.0_902.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 471\l|width = 351\l|height = 50\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/16.0_942.0_718.0_1042.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 533\l|width = 343\l|height = 58\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/32.0_1066.0_718.0_1182.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 609\l|width = 343\l|height = 341\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/32.0_1218.0_718.0_1900.0.png\l}"]
+	31	[label="{type = XCUIElementTypeImage\l|name = Wood Bowling Toy - Personalized Wood Toy - Wooden Skittles Game - First Birthday Gift - Toddler Wood Toy - Custom Bowling Set - Montessori\l|label = Wood Bowling Toy - Personalized Wood Toy - Wooden Skittles Game - First Birthday Gift - Toddler Wood Toy - Custom Bowling Set - Montessori\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 395\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/0.0_0.0_750.0_790.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 26\l|width = 371\l|height = 48\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/0.0_52.0_742.0_148.0.png\l}"]
+	33	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 403\l|width = 375\l|height = 48\l|index = 0\l|numberOfChildren = 7\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/0.0_806.0_750.0_902.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 471\l|width = 351\l|height = 50\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/16.0_942.0_718.0_1042.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 533\l|width = 343\l|height = 58\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/32.0_1066.0_718.0_1182.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 609\l|width = 343\l|height = 341\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/32.0_1218.0_718.0_1900.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 26\l|width = 371\l|height = 48\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/0.0_52.0_742.0_148.0.png\l}"]
+	38	[label="{type = XCUIElementTypeCell\l|name = Product picture thumbnail 1 of 6\l|label = Product picture thumbnail 1 of 6\l|enabled = true\l|visible = true\l|x = 27\l|y = 403\l|width = 49\l|height = 48\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/53.99999999999999_806.0_151.99999999999997_902.0.png\l}"]
+	39	[label="{type = XCUIElementTypeCell\l|name = Product picture thumbnail 2 of 6\l|label = Product picture thumbnail 2 of 6\l|enabled = true\l|visible = true\l|x = 83\l|y = 403\l|width = 49\l|height = 48\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/166.0_806.0_264.0_902.0.png\l}"]
+	40	[label="{type = XCUIElementTypeCell\l|name = Product picture thumbnail 3 of 6\l|label = Product picture thumbnail 3 of 6\l|enabled = true\l|visible = true\l|x = 139\l|y = 403\l|width = 49\l|height = 48\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/278.0_806.0_376.0_902.0.png\l}"]
+	41	[label="{type = XCUIElementTypeCell\l|name = Product picture thumbnail 4 of 6\l|label = Product picture thumbnail 4 of 6\l|enabled = true\l|visible = true\l|x = 195\l|y = 403\l|width = 49\l|height = 48\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/390.0_806.0_488.0_902.0.png\l}"]
+	42	[label="{type = XCUIElementTypeCell\l|name = Product picture thumbnail 5 of 6\l|label = Product picture thumbnail 5 of 6\l|enabled = true\l|visible = true\l|x = 251\l|y = 403\l|width = 49\l|height = 48\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/502.0_806.0_600.0_902.0.png\l}"]
+	43	[label="{type = XCUIElementTypeCell\l|name = Product picture thumbnail 6 of 6\l|label = Product picture thumbnail 6 of 6\l|enabled = true\l|visible = true\l|x = 307\l|y = 403\l|width = 49\l|height = 48\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/614.0_806.0_712.0_902.0.png\l}"]
+	44	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 1 page\l|label = Vertical scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 342\l|y = 403\l|width = 30\l|height = 48\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/684.0_806.0_744.0_902.0.png\l}"]
+	45	[label="{type = XCUIElementTypeButton\l|name = Shop Icon Image\l|label = Shop Icon Image\l|enabled = true\l|visible = true\l|x = 16\l|y = 479\l|width = 34\l|height = 34\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/32.0_958.0_100.0_1026.0.png\l}"]
+	46	[label="{type = XCUIElementTypeButton\l|name = TreeFortToys\l|label = TreeFortToys\l|enabled = true\l|visible = true\l|x = 58\l|y = 480\l|width = 83\l|height = 15\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/116.0_960.0000000000001_282.0_990.0000000000001.png\l}"]
+	47	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 296\l|y = 479\l|width = 66\l|height = 34\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/592.0_958.0_724.0_1026.0.png\l}"]
+	48	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 58\l|y = 497\l|width = 70\l|height = 15\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/116.0_994.0_256.0_1024.0.png\l}"]
+	49	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 533\l|width = 343\l|height = 20\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/32.0_1066.0_718.0_1106.0.png\l}"]
+	50	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 555\l|width = 343\l|height = 9\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/32.0_1110.0_718.0_1128.0.png\l}"]
+	51	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 567\l|width = 343\l|height = 24\l|index = 2\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/32.0_1134.0_718.0_1182.0.png\l}"]
+	52	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 609\l|width = 343\l|height = 233\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/32.0_1218.0_718.0_1684.0.png\l}"]
+	53	[label="{type = XCUIElementTypeButton\l|name = clg icon core left v1\l|label = clg icon core left v1\l|enabled = true\l|visible = true\l|x = 0\l|y = 26\l|width = 48\l|height = 48\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/0.0_52.0_96.0_148.0.png\l}"]
+	54	[label="{type = XCUIElementTypeButton\l|name = Share item: Wood Bowling Toy - Personalized Wood Toy - Wooden Skittles Game - First Birthday Gift - Toddler Wood Toy - Custom Bowling Set - Montessori\l|label = Share item: Wood Bowling Toy - Personalized Wood Toy - Wooden Skittles Game - First Birthday Gift - Toddler Wood Toy - Custom Bowling Set - Montessori\l|enabled = true\l|visible = true\l|x = 275\l|y = 26\l|width = 48\l|height = 48\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/550.0_52.0_646.0_148.0.png\l}"]
+	55	[label="{type = XCUIElementTypeButton\l|name = Add Wood Bowling Toy - Personalized Wood Toy - Wooden Skittles Game - First Birthday Gift - Toddler Wood Toy - Custom Bowling Set - Montessori to favorites\l|label = Add Wood Bowling Toy - Personalized Wood Toy - Wooden Skittles Game - First Birthday Gift - Toddler Wood Toy - Custom Bowling Set - Montessori to favorites\l|enabled = true\l|visible = true\l|x = 323\l|y = 26\l|width = 48\l|height = 48\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/646.0_52.0_742.0_148.0.png\l}"]
+	56	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 27\l|y = 403\l|width = 49\l|height = 48\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/53.99999999999999_806.0_151.99999999999997_902.0.png\l}"]
+	57	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 83\l|y = 403\l|width = 49\l|height = 48\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/166.0_806.0_264.0_902.0.png\l}"]
+	58	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 139\l|y = 403\l|width = 49\l|height = 48\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/278.0_806.0_376.0_902.0.png\l}"]
+	59	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 195\l|y = 403\l|width = 49\l|height = 48\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/390.0_806.0_488.0_902.0.png\l}"]
+	60	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 251\l|y = 403\l|width = 49\l|height = 48\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/502.0_806.0_600.0_902.0.png\l}"]
+	61	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 307\l|y = 403\l|width = 49\l|height = 48\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/614.0_806.0_712.0_902.0.png\l}"]
+	62	[label="{type = XCUIElementTypeButton\l|name = 901 reviews; average rating: 4.9 out of 5\l|label = 901 reviews; average rating: 4.9 out of 5\l|enabled = true\l|visible = true\l|x = 296\l|y = 479\l|width = 66\l|height = 34\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/592.0_958.0_724.0_1026.0.png\l}"]
+	63	[label="{type = XCUIElementTypeButton\l|name = Shop sales count\l|label = Shop sales count\l|enabled = true\l|visible = true\l|x = 58\l|y = 497\l|width = 70\l|height = 15\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/116.0_994.0_256.0_1024.0.png\l}"]
+	64	[label="{type = XCUIElementTypeStaticText\l|value = Wood Bowling Toy - Personalized Wood Toy - Wooden Skittles Game - First Birthday Gift - Toddler Wood Toy - Custom Bowling Set - Montessori\l|name = Wood Bowling Toy - Personalized Wood Toy - Wooden Skittles Game - First Birthday Gift - Toddler Wood Toy - Custom Bowling Set - Montessori\l|label = Wood Bowling Toy - Personalized Wood Toy - Wooden Skittles Game - First Birthday Gift - Toddler Wood Toy - Custom Bowling Set - Montessori\l|enabled = true\l|visible = true\l|x = 16\l|y = 533\l|width = 343\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/32.0_1066.0_718.0_1106.0.png\l}"]
+	65	[label="{type = XCUIElementTypeOther\l|name = $45.00+\l|label = $45.00+\l|enabled = true\l|visible = true\l|x = 16\l|y = 567\l|width = 75\l|height = 24\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/32.0_1134.0_182.0_1182.0.png\l}"]
+	66	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 283\l|y = 570\l|width = 76\l|height = 18\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/566.0_1140.0_718.0_1176.0.png\l}"]
+	67	[label="{type = XCUIElementTypeButton\l|name = Number Of Letters / Pins,Select an option\l|label = Number Of Letters / Pins,Select an option\l|enabled = true\l|visible = true\l|x = 16\l|y = 609\l|width = 343\l|height = 67\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/32.0_1218.0_718.0_1352.0.png\l}"]
+	68	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 283\l|y = 570\l|width = 76\l|height = 18\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/566.0_1140.0_718.0_1176.0.png\l}"]
+	69	[label="{type = XCUIElementTypeStaticText\l|value = Number Of Letters / Pins\l|name = Number Of Letters / Pins\l|label = Number Of Letters / Pins\l|enabled = true\l|visible = true\l|x = 16\l|y = 609\l|width = 343\l|height = 15\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/32.0_1218.0_718.0_1248.0.png\l}"]
+	70	[label="{type = XCUIElementTypeStaticText\l|value = In stock\l|name = In stock\l|label = In stock\l|enabled = true\l|visible = true\l|x = 309\l|y = 570\l|width = 50\l|height = 18\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S1/pngs/618.0_1140.0_718.0_1176.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	5 -> 7
+	6 -> 8
+	7 -> 9
+	7 -> 10
+	7 -> 11
+	7 -> 12
+	7 -> 13
+	8 -> 14
+	14 -> 15
+	15 -> 16
+	16 -> 17
+	17 -> 18
+	18 -> 19
+	19 -> 20
+	19 -> 21
+	20 -> 22
+	22 -> 23
+	22 -> 24
+	22 -> 25
+	23 -> 26
+	23 -> 27
+	24 -> 28
+	25 -> 29
+	25 -> 30
+	26 -> 31
+	26 -> 32
+	27 -> 33
+	28 -> 34
+	29 -> 35
+	30 -> 36
+	32 -> 37
+	33 -> 38
+	33 -> 39
+	33 -> 40
+	33 -> 41
+	33 -> 42
+	33 -> 43
+	33 -> 44
+	34 -> 45
+	34 -> 46
+	34 -> 47
+	34 -> 48
+	35 -> 49
+	35 -> 50
+	35 -> 51
+	36 -> 52
+	37 -> 53
+	37 -> 54
+	37 -> 55
+	38 -> 56
+	39 -> 57
+	40 -> 58
+	41 -> 59
+	42 -> 60
+	43 -> 61
+	47 -> 62
+	48 -> 63
+	49 -> 64
+	51 -> 65
+	51 -> 66
+	52 -> 67
+	66 -> 68
+	67 -> 69
+	68 -> 70
+
+
+}

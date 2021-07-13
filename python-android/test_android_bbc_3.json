@@ -1,0 +1,46 @@
+{
+    "tests": [
+        {
+            "name": "bbc-search",
+            "events": [
+                {
+                    "tag": "Search", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                },
+                {
+                    "event": "oracle",
+                    "oracle-type": "widget_exists",
+                    "tag": "bbc.mobile.news.uk:id/search",
+                    "type": "id"
+                },
+                {
+                    "input": "travel", 
+                    "tag": "bbc.mobile.news.uk:id/search", 
+                    "type": "id", 
+                    "event": "send_keys"
+                }, 
+                {
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/androidx.recyclerview.widget.RecyclerView/android.widget.TextView[1]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[1]/android.view.ViewGroup/android.widget.TextView[1]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "input": "Eleanor Lawrie",
+                    "event": "oracle",
+                    "oracle-type": "text_exists"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "emulator-5554", 
+        "platformName": "Android", 
+        "newCommandTimeout": 0
+    }
+}

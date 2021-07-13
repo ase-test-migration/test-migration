@@ -1,0 +1,50 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "usa-mynews",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "My Topics"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.usatoday.android.news:id/suggested_link"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "(//android.widget.Button[@content-desc=\"Follow Topic Checkbox\"])[1]"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Navigate up"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.view.ViewGroup[1]/androidx.appcompat.widget.LinearLayoutCompat"
+                },
+                {
+                    "type": "id",
+                    "event": "oracle",
+                    "oracle-type": "widget_exists",
+                    "tag": "com.usatoday.android.news:id/suggested_topic_name"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.usatoday.android.news:id/remove_topic"
+                }
+            ]
+        }
+    ]
+}

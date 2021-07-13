@@ -1,0 +1,49 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "duckduckgo-bookmark",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "searchEntry"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "send_keys_enter",
+                    "tag": "searchEntry",
+                    "input": "google.com"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Browsing Menu"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Add to Bookmarks"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Bookmarks"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Google"
+                }
+            ]
+        }
+    ]
+}

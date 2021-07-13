@@ -1,0 +1,18 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "cnn-bookmark",
+        "events": [
+            {
+                "type": "name",
+                "tag": "KFILE, Close ally of Marjorie Taylor Greene among those in Capitol mob",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Bookmark",
+                "event": "click"
+            }
+        ]
+    }
+}

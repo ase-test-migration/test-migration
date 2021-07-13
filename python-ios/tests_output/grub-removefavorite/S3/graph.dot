@@ -1,0 +1,126 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Grubhub\l|label = Grubhub\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeTabBar\l|name = bottom_bar_navigation\l|enabled = true\l|visible = true\l|x = 0\l|y = 813\l|width = 414\l|height = 83\l|numberOfChildren = 7\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/0.0_2439.0_1242.0_2688.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|name = cart_badge - (null)\l|enabled = true\l|visible = true\l|x = -2\l|y = 811\l|width = 28\l|height = 53\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/-6.0_2433.0_78.0_2592.0.png\l}"]
+	9	[label="{type = XCUIElementTypeButton\l|value = Restaurants\l|name = Search\l|label = Tab bar\l|enabled = true\l|visible = true\l|x = 2\l|y = 814\l|width = 100\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/6.0_2442.0_306.0_2586.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|value = My Grubhub\l|name = My Grubhub\l|label = Tab bar\l|enabled = true\l|visible = true\l|x = 106\l|y = 814\l|width = 99\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/318.00000000000006_2442.0_615.0_2586.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|value = Perks\l|name = Perks\l|label = Tab bar\l|enabled = true\l|visible = true\l|x = 209\l|y = 814\l|width = 100\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/627.0_2442.0_927.0_2586.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|value = Bag\l|name = Bag\l|label = Tab bar\l|enabled = true\l|visible = true\l|x = 313\l|y = 814\l|width = 99\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/939.0_2442.0_1236.0_2586.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	14	[label="{type = XCUIElementTypeNavigationBar\l|name = My Grubhub\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 44\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/0.0_132.0_1242.0_264.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	16	[label="{type = XCUIElementTypeButton\l|name = Back\l|label = Back\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 74\l|height = 44\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/0.0_132.0_222.0_264.0.png\l}"]
+	17	[label="{type = XCUIElementTypeButton\l|name = Saved\l|label = Saved\l|enabled = true\l|visible = true\l|x = 294\l|y = 52\l|width = 28\l|height = 28\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = true \l|screenshotPath = search-removefavorite/S3/pngs/882.0_156.0_966.0_240.0.png\l}"]
+	18	[label="{type = XCUIElementTypeButton\l|name = shareBarButton\l|label = Share\l|enabled = true\l|visible = true\l|x = 330\l|y = 52\l|width = 28\l|height = 28\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/990.0_156.0_1074.0_240.0.png\l}"]
+	19	[label="{type = XCUIElementTypeButton\l|name = restaurantMenu.search\l|label = Search\l|enabled = true\l|visible = true\l|x = 366\l|y = 52\l|width = 28\l|height = 28\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/1098.0_156.0_1182.0_240.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 813\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/0.0_0.0_1242.0_2439.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 725\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/0.0_264.0_1242.0_2439.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 725\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/0.0_264.0_1242.0_2439.0.png\l}"]
+	24	[label="{type = XCUIElementTypeCollectionView\l|name = Restaurant Menu Items\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 725\l|numberOfChildren = 8\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/0.0_264.0_1242.0_2439.0.png\l}"]
+	25	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 241\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/0.0_264.0_1242.0_987.0.png\l}"]
+	26	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 340\l|width = 414\l|height = 110\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/0.0_1020.0_1242.0_1350.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|name = CollectionViewHeader.Item2\l|enabled = true\l|visible = true\l|x = 0\l|y = 455\l|width = 414\l|height = 41\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/0.0_1365.0_1242.0_1488.0.png\l}"]
+	28	[label="{type = XCUIElementTypeCell\l|value = Coke Bottle, Price: $3.11, Description: Delicious and refreshing, one-of-a-kind taste to complete your meal.\l|name = Coke Bottle\l|label = Menu Item\l|enabled = true\l|visible = true\l|x = 12\l|y = 501\l|width = 390\l|height = 116\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/36.0_1503.0_1206.0_1851.0.png\l}"]
+	29	[label="{type = XCUIElementTypeCell\l|value = Diet Coke Bottle, Price: $3.11, Description: No calories, always refreshing.\l|name = Diet Coke Bottle\l|label = Menu Item\l|enabled = true\l|visible = true\l|x = 12\l|y = 624\l|width = 390\l|height = 116\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/36.0_1872.0_1206.0_2220.0.png\l}"]
+	30	[label="{type = XCUIElementTypeCell\l|value = Sprite Bottle, Price: $3.11, Description: Crisp, clean, lemon-lime taste. \l|name = Sprite Bottle\l|label = Menu Item\l|enabled = true\l|visible = true\l|x = 12\l|y = 747\l|width = 390\l|height = 116\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/36.0_2241.0_1206.0_2589.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 6 pages\l|label = Vertical scroll bar, 6 pages\l|enabled = true\l|visible = true\l|x = 381\l|y = 88\l|width = 30\l|height = 725\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/1143.0_264.0_1233.0_2439.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 780\l|width = 414\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/0.0_2340.0_1242.0_2430.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 241\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/0.0_264.0_1242.0_987.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 340\l|width = 414\l|height = 110\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/0.0_1020.0_1242.0_1350.0.png\l}"]
+	35	[label="{type = XCUIElementTypeStaticText\l|value = Five Guys Favorites\l|name = Five Guys Favorites\l|label = Five Guys Favorites\l|enabled = true\l|visible = true\l|x = 16\l|y = 463\l|width = 382\l|height = 24\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/48.0_1389.0_1194.0_1461.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 100\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/0.0_264.0_1242.0_564.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 188\l|width = 414\l|height = 141\l|numberOfChildren = 3\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/0.0_564.0_1242.0_987.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 352\l|width = 382\l|height = 86\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/48.0_1056.0_1194.0_1314.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 200\l|width = 390\l|height = 76\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/36.0_600.0_1206.0_828.0.png\l}"]
+	40	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 283\l|width = 414\l|height = 2\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/0.0_849.0_1242.0_855.0.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 284\l|width = 390\l|height = 45\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/36.0_852.0_1206.0_987.0.png\l}"]
+	42	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 352\l|width = 382\l|height = 86\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/48.0_1056.0_1194.0_1314.0.png\l}"]
+	43	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 200\l|width = 390\l|height = 30\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/36.0_600.0_1206.0_690.0.png\l}"]
+	44	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 233\l|width = 390\l|height = 15\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/36.0_699.0_1206.0_744.0.png\l}"]
+	45	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 251\l|width = 141\l|height = 25\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/36.0_752.9999999999999_459.0_827.9999999999999.png\l}"]
+	46	[label="{type = XCUIElementTypeButton\l|name = restaurantScreen.aboutButton\l|label = About\l|enabled = true\l|visible = true\l|x = 12\l|y = 284\l|width = 46\l|height = 45\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/36.0_852.0_174.0_987.0.png\l}"]
+	47	[label="{type = XCUIElementTypeButton\l|name = restaurantScreen.reviewsButton\l|label = Reviews (15)\l|enabled = true\l|visible = true\l|x = 82\l|y = 284\l|width = 89\l|height = 45\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/246.0_852.0_513.0_987.0.png\l}"]
+	48	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 352\l|width = 382\l|height = 86\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/48.0_1056.0_1194.0_1314.0.png\l}"]
+	49	[label="{type = XCUIElementTypeStaticText\l|value = Restaurant Menu: This is Five Guys, located at 6000 Sepulveda Blvd, Culver City, CA. This restaurant has a rating of 4.500000 out of 5 stars, left by 83 diners.\l|name = Restaurant Name\l|label = Restaurant Menu: This is Five Guys, located at 6000 Sepulveda Blvd, Culver City, CA. This restaurant has a rating of 4.500000 out of 5 stars, left by 83 diners.\l|enabled = true\l|visible = true\l|x = 12\l|y = 200\l|width = 328\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/36.0_600.0_1020.0_690.0.png\l}"]
+	50	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 342\l|y = 200\l|width = 60\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/1026.0_600.0_1206.0_690.0.png\l}"]
+	51	[label="{type = XCUIElementTypeOther\l|value = 4.5 out of five stars.\l|name = Star Rating\l|label = Rating\l|enabled = true\l|visible = true\l|x = 12\l|y = 251\l|width = 80\l|height = 25\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/36.0_752.9999999999999_276.0_827.9999999999999.png\l}"]
+	52	[label="{type = XCUIElementTypeStaticText\l|value = About\l|name = About\l|label = About\l|enabled = true\l|visible = true\l|x = 12\l|y = 296\l|width = 46\l|height = 21\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/36.0_888.0_174.0_951.0.png\l}"]
+	53	[label="{type = XCUIElementTypeStaticText\l|value = Reviews (15)\l|name = Reviews (15)\l|label = Reviews (15)\l|enabled = true\l|visible = true\l|x = 82\l|y = 296\l|width = 89\l|height = 21\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/246.0_888.0_513.0_951.0.png\l}"]
+	54	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 352\l|width = 382\l|height = 45\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/48.0_1056.0_1194.0_1191.0.png\l}"]
+	55	[label="{type = XCUIElementTypeStaticText\l|value = Five Guys stops taking delivery orders in 56 minutes at 7:15pm.\l|name = Five Guys stops taking delivery orders in 56 minutes at 7:15pm.\l|label = Five Guys stops taking delivery orders in 56 minutes at 7:15pm.\l|enabled = true\l|visible = true\l|x = 16\l|y = 396\l|width = 382\l|height = 42\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/48.0_1188.0_1194.0_1314.0.png\l}"]
+	56	[label="{type = XCUIElementTypeStaticText\l|value = Delivery, ASAP (45–55 mins) No minimum\l|name = Settings label\l|label = Delivery, ASAP (45–55 mins) No minimum\l|enabled = true\l|visible = true\l|x = 16\l|y = 355\l|width = 283\l|height = 39\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/48.0_1065.0_897.0_1182.0.png\l}"]
+	57	[label="{type = XCUIElementTypeButton\l|name = Change\l|label = Change\l|enabled = false\l|visible = true\l|x = 309\l|y = 352\l|width = 89\l|height = 45\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/927.0_1056.0_1194.0_1191.0.png\l}"]
+	58	[label="{type = XCUIElementTypeStaticText\l|value = Change\l|name = Change\l|label = Change\l|enabled = true\l|visible = true\l|x = 325\l|y = 366\l|width = 57\l|height = 17\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S3/pngs/975.0_1098.0_1146.0_1149.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	5 -> 7
+	6 -> 8
+	6 -> 9
+	6 -> 10
+	6 -> 11
+	6 -> 12
+	7 -> 13
+	13 -> 14
+	13 -> 15
+	14 -> 16
+	14 -> 17
+	14 -> 18
+	14 -> 19
+	15 -> 20
+	20 -> 21
+	21 -> 22
+	22 -> 23
+	23 -> 24
+	24 -> 25
+	24 -> 26
+	24 -> 27
+	24 -> 28
+	24 -> 29
+	24 -> 30
+	24 -> 31
+	24 -> 32
+	25 -> 33
+	26 -> 34
+	27 -> 35
+	33 -> 36
+	33 -> 37
+	34 -> 38
+	37 -> 39
+	37 -> 40
+	37 -> 41
+	38 -> 42
+	39 -> 43
+	39 -> 44
+	39 -> 45
+	41 -> 46
+	41 -> 47
+	42 -> 48
+	43 -> 49
+	43 -> 50
+	45 -> 51
+	46 -> 52
+	47 -> 53
+	48 -> 54
+	48 -> 55
+	54 -> 56
+	54 -> 57
+	57 -> 58
+
+
+}

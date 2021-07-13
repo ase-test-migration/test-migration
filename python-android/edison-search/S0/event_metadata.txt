@@ -1,0 +1,4 @@
+pathToElementImageCrop: edison-search/S0/pngs/780_176_912_308.png;
+coords: {'x1': 780, 'y1': 176, 'x2': 912, 'y2': 308};
+text_identifier: { "content-desc" : "Search" , "resource-id" : "com.easilydo.mail:id/action_open_search" };
+event: click;

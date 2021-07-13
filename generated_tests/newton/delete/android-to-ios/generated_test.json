@@ -1,0 +1,23 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "newton-delete",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Testing",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "conversation reply",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_invisible",
+                "input": "Testing"
+            }
+        ]
+    }
+}

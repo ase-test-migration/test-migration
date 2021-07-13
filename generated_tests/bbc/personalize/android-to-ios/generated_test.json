@@ -1,0 +1,44 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "bbc-personalize",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Search",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Africa",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "bn-bar-button",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Search",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Middle East",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "BBC News",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "oracle-type": "widget_exists",
+                "type": "name",
+                "tag": "bn-cell-view"
+            }
+        ]
+    }
+}

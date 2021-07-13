@@ -1,0 +1,11 @@
+{ "content-desc" : "Back" , "screenshotPath" : "bbc-my-news/S7/pngs/0_72_168_240.png"}
+{ "resource-id" : "bbc.mobile.news.uk:id/standard_tabs" , "screenshotPath" : "bbc-my-news/S7/pngs/0_240_1080_384.png"}
+{ "resource-id" : "bbc.mobile.news.uk:id/view_pager" , "screenshotPath" : "bbc-my-news/S7/pngs/0_384_1080_1776.png"}
+{ "content-desc" : "Search for topics" , "resource-id" : "bbc.mobile.news.uk:id/search_t" , "screenshotPath" : "bbc-my-news/S7/pngs/936_84_1080_228.png"}
+{ "content-desc" : "My Topics" , "screenshotPath" : "bbc-my-news/S7/pngs/0_240_540_384.png"}
+{ "content-desc" : "Add Topics" , "screenshotPath" : "bbc-my-news/S7/pngs/540_240_1080_384.png"}
+{ "resource-id" : "bbc.mobile.news.uk:id/recyclerview" , "screenshotPath" : "bbc-my-news/S7/pngs/0_528_1080_1776.png"}
+{ "content-desc" : "Remove topic" , "resource-id" : "bbc.mobile.news.uk:id/button_tick" , "screenshotPath" : "bbc-my-news/S7/pngs/60_546_168_654.png"}
+{ "content-desc" : "To move, tap and hold, then drag." , "resource-id" : "bbc.mobile.news.uk:id/grab_handle" , "screenshotPath" : "bbc-my-news/S7/pngs/906_543_1020_657.png"}
+{ "content-desc" : "Remove topic" , "resource-id" : "bbc.mobile.news.uk:id/button_tick" , "screenshotPath" : "bbc-my-news/S7/pngs/60_690_168_798.png"}
+{ "content-desc" : "To move, tap and hold, then drag." , "resource-id" : "bbc.mobile.news.uk:id/grab_handle" , "screenshotPath" : "bbc-my-news/S7/pngs/906_687_1020_801.png"}

@@ -1,0 +1,32 @@
+{ "resource-id" : "com.etsy.android:id/app_bar_toolbar" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/0_74_1080_221.png"}
+{ "resource-id" : "com.etsy.android:id/cart_view_pager" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/0_347_1080_2214.png"}
+{ "content-desc" : "Home tab, 1 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_home" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/0_2214_216_2287.png"}
+{ "content-desc" : "Favorites tab, 2 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_favorites" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/216_2214_432_2287.png"}
+{ "content-desc" : "Updates tab, 3 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_updates" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/432_2214_648_2287.png"}
+{ "content-desc" : "You tab, 4 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_you" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/648_2214_864_2287.png"}
+{ "content-desc" : "Cart tab, 5 of 5, 1 new notification" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_cart" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/864_2214_1080_2287.png"}
+{ "resource-id" : "com.etsy.android:id/clg_material_tab_layout" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/0_221_1080_347.png"}
+{ "content-desc" : "Your cart: 1, tab 1 of 2" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/0_221_540_347.png"}
+{ "content-desc" : "Saved, tab 2 of 2" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/540_221_1080_347.png"}
+{ "resource-id" : "com.etsy.android:id/recycler_view" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/0_347_1080_2214.png"}
+{ "resource-id" : "com.etsy.android:id/items" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/0_347_1080_2214.png"}
+{ "resource-id" : "com.etsy.android:id/cart_listing_frame" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/0_494_1080_979.png"}
+{ "resource-id" : "com.etsy.android:id/image_shop_avatar" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/42_389_126_473.png"}
+{ "resource-id" : "com.etsy.android:id/txt_shop_name" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/137_389_806_473.png"}
+{ "content-desc" : "Contact shop button" , "resource-id" : "com.etsy.android:id/txt_contact_shop" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/817_389_1049_473.png"}
+{ "resource-id" : "com.etsy.android:id/txt_listing_title" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/299_505_1038_597.png"}
+{ "content-desc" : "This order of PoppaCap is a gift. Prices will be hidden when shipped" , "resource-id" : "com.etsy.android:id/gift_options_gift_checkbox" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/21_979_602_1105.png"}
+{ "resource-id" : "com.etsy.android:id/txt_message" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/42_1263_1038_1369.png"}
+{ "resource-id" : "com.etsy.android:id/txt_title" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/0_1477_1080_1528.png"}
+{ "resource-id" : "com.etsy.android:id/txt_nudge" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/299_724_772_821.png"}
+{ "content-desc" : "Save Moon Landing Keycap for Cherry MX Keycap Mechanical Gaming Keyboards - Kalih Keycap - Gateron Keycap for later" , "resource-id" : "com.etsy.android:id/btn_save_for_later" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/278_842_558_958.png"}
+{ "content-desc" : "Remove Moon Landing Keycap for Cherry MX Keycap Mechanical Gaming Keyboards - Kalih Keycap - Gateron Keycap" , "resource-id" : "com.etsy.android:id/btn_remove" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/579_842_810_958.png"}
+{ "resource-id" : "com.etsy.android:id/btn_add_coupon_code" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/84_1126_592_1242.png"}
+{ "content-desc" : "false for How you'll pay" , "resource-id" : "com.etsy.android:id/radio_button" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/42_1570_249_1717.png"}
+{ "content-desc" : "Credit Card: Visa, Master, American Express or Discover for How you'll pay" , "resource-id" : "com.etsy.android:id/radio_button" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/42_1717_651_1864.png"}
+{ "content-desc" : "PayPal for How you'll pay" , "resource-id" : "com.etsy.android:id/radio_button" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/42_1864_249_2011.png"}
+{ "content-desc" : "4 interest-free installments for How you'll pay" , "resource-id" : "com.etsy.android:id/radio_button" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/42_2011_1017_2095.png"}
+{ "resource-id" : "com.etsy.android:id/payment_item_subtext" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/126_2095_1038_2190.png"}
+{ "content-desc" : "Quantity for Moon Landing Keycap for Cherry MX Keycap Mechanical Gaming Keyboards - Kalih Keycap - Gateron Keycap" , "resource-id" : "com.etsy.android:id/txt_title_quantity" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/299_646_452_697.png"}
+{ "resource-id" : "com.etsy.android:id/spinner_quantity" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/473_618_674_724.png"}
+{ "resource-id" : "com.etsy.android:id/txt_total_price" , "screenshotPath" : "etsy-remove-from-cart/S1/pngs/901_642_1038_700.png"}

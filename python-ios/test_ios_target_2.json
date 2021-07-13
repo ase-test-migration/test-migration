@@ -1,0 +1,39 @@
+{
+    "tests": [
+        {
+            "name": "target-addCart", 
+            "events": [
+                {
+                    "input": "Cola", 
+                    "tag": "hyland_header_search_field", 
+                    "type": "accessibilityId", 
+                    "event": "send_keys_enter"
+                }, 
+                {
+                    "tag": "Coca-Cola - 12pk/12 fl oz Cans $5.19 at LA Central", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "(//XCUIElementTypeButton[@name=\"Add to cart\"])[1]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "(//XCUIElementTypeButton[@name=\"Add to cart\"])[2]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "14.3", 
+        "platformName": "iOS"
+    }
+}

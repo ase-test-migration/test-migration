@@ -1,0 +1,4 @@
+pathToElementImageCrop: cnn_bookmark/S0/pngs/22_369_1058_1405.png;
+coords: {'x1': 22, 'y1': 369, 'x2': 1058, 'y2': 1405};
+text_identifier: { "resource-id" : "com.cnn.mobile.android.phone:id/news_image_container" , "content-desc" : "Image" , "resource-id" : "com.cnn.mobile.android.phone:id/item_feed_article_image" };
+event: click;

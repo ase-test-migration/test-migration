@@ -1,0 +1,45 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "gmail-reply",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.google.android.gm:id/subject"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.google.android.gm:id/reply_button_text"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys",
+                    "tag": "com.google.android.gm:id/subject",
+                    "input": "Testing2"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Send"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Navigate up"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Testing 2"
+                }
+            ]
+        }
+    ]
+}

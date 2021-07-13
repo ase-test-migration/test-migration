@@ -1,0 +1,34 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "guardian-category",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Menu"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Politics"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "oracle",
+                    "oracle-type": "widget_exists",
+                    "tag": "Millions of pages of documents received after president has attempted for years to keep his records, particularly tax returns, out of public view"
+                }
+            ]
+        }
+    ]
+}

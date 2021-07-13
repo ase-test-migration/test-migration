@@ -1,0 +1,5 @@
+pathToElementImageCrop: aliExpress-Login/S2/pngs/36.0_316.0_714.0_404.0.png;
+coords: {'x1': 36.0, 'y1': 316.0, 'x2': 714.0, 'y2': 404.0};
+text_identifier: { "label" : "" };
+event: send_keys;
+input: email@example.com;

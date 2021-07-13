@@ -1,0 +1,4 @@
+pathToElementImageCrop: remove-from-cart/S1/pngs/657_1078_921_1210.png;
+coords: {'x1': 657, 'y1': 1078, 'x2': 921, 'y2': 1210};
+text_identifier: { "content-desc" : "Remove ZAHRA | Antique Persian Heriz Pattern Oriental Rug, Hand-knotted texture, Traditional decor, Mid-century Modern, Navy blue, Red, Area Rugs" , "resource-id" : "com.etsy.android:id/btn_remove" };
+event: click;

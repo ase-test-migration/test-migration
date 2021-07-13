@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "R3CN30038ME",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "gTask-delList",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "More options"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.google.android.apps.tasks:id/delete_list_option"
+                }
+            ]
+        }
+    ]
+}

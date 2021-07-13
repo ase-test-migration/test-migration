@@ -1,0 +1,55 @@
+{
+    "tests": [
+        {
+            "name": "anydo-duedate", 
+            "events": [
+                {
+                    "input": "Mytask",
+                    "tag": "//XCUIElementTypeApplication[@name=\"Any.do\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeTextField",
+                    "type": "xPath",
+                    "event": "send_keys_enter"
+                },
+                {
+                    "tag": "//XCUIElementTypeCell[@name=\"Mytask_0_0\"]/XCUIElementTypeOther[1]",
+                    "type": "xPath",
+                    "event": "click"
+                },
+                {
+                    "tag": "(//XCUIElementTypeStaticText[@name=\"Tomorrow, 9:00 AM\"])[1]", 
+                    "type": "xPath", 
+                    "event": "click"
+                },
+                {
+                    "input": "Mar 28, 2021 9:00 AM",
+                    "event": "oracle",
+                    "oracle-type": "text_invisible"
+                },
+                {
+                    "tag": "//XCUIElementTypeOther[@name=\"mainView\"]/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeScrollView/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "DUE DATE", 
+                    "type": "accessibilityId", 
+                    "event": "oracle",
+                    "oracle-type": "widget_exists"
+                },
+                {
+                    "tag": "//XCUIElementTypeStaticText[@name=\"REMOVE\"]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "14.3", 
+        "platformName": "iOS"
+    }
+}

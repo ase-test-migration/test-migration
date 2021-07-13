@@ -1,0 +1,39 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "R3CN30038ME",
+        "newCommandTimeout":0
+    },
+    "tests" : [
+        {
+            "name" : "testBottomMenu",
+            "events": [
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "Settings",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "Home",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "Audio",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "Search",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "Saved Stories",
+                    "event" : "click" 
+                }
+            ]
+        }
+    ]
+}

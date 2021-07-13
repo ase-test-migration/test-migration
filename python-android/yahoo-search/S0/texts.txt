@@ -1,0 +1,22 @@
+{ "resource-id" : "com.yahoo.mobile.client.android.mail:id/include_toolbar_layout" , "screenshotPath" : "yahoo-search/S0/pngs/0_171_1080_501.png"}
+{ "resource-id" : "com.yahoo.mobile.client.android.mail:id/list_bottom_nav" , "screenshotPath" : "yahoo-search/S0/pngs/0_1994_1080_2148.png"}
+{ "resource-id" : "com.yahoo.mobile.client.android.mail:id/toolbar_subtitle" , "screenshotPath" : "yahoo-search/S0/pngs/44_426_627_479.png"}
+{ "resource-id" : "com.yahoo.mobile.client.android.mail:id/fragment_container" , "screenshotPath" : "yahoo-search/S0/pngs/0_501_1080_1977.png"}
+{ "content-desc" : "Sidebar button. Double tap or slide two fingers from the left of the screen to expand." , "resource-id" : "com.yahoo.mobile.client.android.mail:id/avatar_button" , "screenshotPath" : "yahoo-search/S0/pngs/0_171_154_325.png"}
+{ "content-desc" : "%1$s Get the latest news on the pandemic" , "resource-id" : "com.yahoo.mobile.client.android.mail:id/right_button_0" , "screenshotPath" : "yahoo-search/S0/pngs/684_193_794_303.png"}
+{ "content-desc" : "Compose" , "resource-id" : "com.yahoo.mobile.client.android.mail:id/right_button_1" , "screenshotPath" : "yahoo-search/S0/pngs/816_193_926_303.png"}
+{ "content-desc" : "Search mail" , "resource-id" : "com.yahoo.mobile.client.android.mail:id/right_button_2" , "screenshotPath" : "yahoo-search/S0/pngs/948_193_1058_303.png"}
+{ "resource-id" : "com.yahoo.mobile.client.android.mail:id/item_inbox" , "screenshotPath" : "yahoo-search/S0/pngs/216_1994_432_2148.png"}
+{ "resource-id" : "com.yahoo.mobile.client.android.mail:id/item_inbox" , "screenshotPath" : "yahoo-search/S0/pngs/432_1994_648_2148.png"}
+{ "resource-id" : "com.yahoo.mobile.client.android.mail:id/item_inbox" , "screenshotPath" : "yahoo-search/S0/pngs/648_1994_864_2148.png"}
+{ "resource-id" : "com.yahoo.mobile.client.android.mail:id/item_inbox" , "screenshotPath" : "yahoo-search/S0/pngs/864_1994_1080_2148.png"}
+{ "resource-id" : "com.yahoo.mobile.client.android.mail:id/emails_recyclerview" , "screenshotPath" : "yahoo-search/S0/pngs/0_501_1080_1977.png"}
+{ "resource-id" : "com.yahoo.mobile.client.android.mail:id/email_layout" , "screenshotPath" : "yahoo-search/S0/pngs/0_501_1080_723.png"}
+{ "resource-id" : "com.yahoo.mobile.client.android.mail:id/email_layout" , "screenshotPath" : "yahoo-search/S0/pngs/0_726_1080_948.png"}
+{ "resource-id" : "com.yahoo.mobile.client.android.mail:id/email_layout" , "screenshotPath" : "yahoo-search/S0/pngs/0_951_1080_1173.png"}
+{ "content-desc" : "Profile" , "resource-id" : "com.yahoo.mobile.client.android.mail:id/email_avatar" , "screenshotPath" : "yahoo-search/S0/pngs/44_562_154_672.png"}
+{ "content-desc" : "Mark as starred." , "resource-id" : "com.yahoo.mobile.client.android.mail:id/email_star" , "screenshotPath" : "yahoo-search/S0/pngs/975_634_1030_689.png"}
+{ "content-desc" : "Profile" , "resource-id" : "com.yahoo.mobile.client.android.mail:id/email_avatar" , "screenshotPath" : "yahoo-search/S0/pngs/44_787_154_897.png"}
+{ "content-desc" : "Mark as starred." , "resource-id" : "com.yahoo.mobile.client.android.mail:id/email_star" , "screenshotPath" : "yahoo-search/S0/pngs/975_859_1030_914.png"}
+{ "content-desc" : "Profile" , "resource-id" : "com.yahoo.mobile.client.android.mail:id/email_avatar" , "screenshotPath" : "yahoo-search/S0/pngs/44_1012_154_1122.png"}
+{ "content-desc" : "Mark as starred." , "resource-id" : "com.yahoo.mobile.client.android.mail:id/email_star" , "screenshotPath" : "yahoo-search/S0/pngs/975_1084_1030_1139.png"}

@@ -1,0 +1,12 @@
+{ "content-desc" : "Main navigation, open" , "resource-id" : "com.ebay.mobile:id/home" , "screenshotPath" : "ebay-bid/S1/pngs/0_74_147_221.png"}
+{ "content-desc" : "Search" , "resource-id" : "com.ebay.mobile:id/menu_search" , "screenshotPath" : "ebay-bid/S1/pngs/828_84_954_210.png"}
+{ "content-desc" : "Cart, 1 item, button." , "resource-id" : "com.ebay.mobile:id/menu_cart" , "screenshotPath" : "ebay-bid/S1/pngs/954_84_1080_210.png"}
+{ "resource-id" : "com.ebay.mobile:id/channel_content" , "screenshotPath" : "ebay-bid/S1/pngs/0_221_1080_2287.png"}
+{ "resource-id" : "com.ebay.mobile:id/parent" , "screenshotPath" : "ebay-bid/S1/pngs/49_274_530_781.png"}
+{ "resource-id" : "com.ebay.mobile:id/parent" , "screenshotPath" : "ebay-bid/S1/pngs/550_274_1031_781.png"}
+{ "resource-id" : "com.ebay.mobile:id/parent" , "screenshotPath" : "ebay-bid/S1/pngs/49_802_530_1309.png"}
+{ "resource-id" : "com.ebay.mobile:id/parent" , "screenshotPath" : "ebay-bid/S1/pngs/550_802_1031_1309.png"}
+{ "resource-id" : "com.ebay.mobile:id/parent" , "screenshotPath" : "ebay-bid/S1/pngs/49_1330_530_1837.png"}
+{ "resource-id" : "com.ebay.mobile:id/parent" , "screenshotPath" : "ebay-bid/S1/pngs/550_1330_1031_1837.png"}
+{ "resource-id" : "com.ebay.mobile:id/parent" , "screenshotPath" : "ebay-bid/S1/pngs/49_1858_530_2287.png"}
+{ "resource-id" : "com.ebay.mobile:id/parent" , "screenshotPath" : "ebay-bid/S1/pngs/550_1858_1031_2287.png"}

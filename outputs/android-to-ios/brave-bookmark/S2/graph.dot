@@ -1,0 +1,134 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Brave\l|label = Brave\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 559\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/0.0_128.0_750.0_1246.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 375\l|height = 44\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/0.0_1246.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	12	[label="{type = XCUIElementTypeWebView\l|name = contentView\l|label = Web content\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 559\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/0.0_128.0_750.0_1246.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|name = Navigation Toolbar\l|label = Navigation Toolbar\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/0.0_1246.0_750.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 20\l|width = 355\l|height = 44\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/20.0_40.0_730.0_128.0.png\l}"]
+	15	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 559\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/0.0_128.0_750.0_1246.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/0.0_1246.0_750.0_1334.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 25\l|width = 355\l|height = 34\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/20.0_50.0_730.0_118.0.png\l}"]
+	18	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 559\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/0.0_128.0_750.0_1246.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 2 pages\l|label = Vertical scroll bar, 2 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 64\l|width = 30\l|height = 559\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/684.0_128.0_744.0_1246.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 590\l|width = 375\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/0.0_1180.0_750.0_1240.0.png\l}"]
+	21	[label="{type = XCUIElementTypeButton\l|name = TabToolbar.backButton\l|label = Back\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 75\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/0.0_1246.0_150.0_1334.0.png\l}"]
+	22	[label="{type = XCUIElementTypeButton\l|name = TabToolbar.forwardButton\l|label = Forward\l|enabled = false\l|visible = true\l|x = 75\l|y = 623\l|width = 75\l|height = 44\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/150.0_1246.0_300.0_1334.0.png\l}"]
+	23	[label="{type = XCUIElementTypeButton\l|name = TabToolbar.addTabButton\l|label = Add Tab\l|enabled = true\l|visible = true\l|x = 150\l|y = 623\l|width = 75\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/300.0_1246.0_450.0_1334.0.png\l}"]
+	24	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = TabToolbar.tabsButton\l|label = Show Tabs\l|enabled = true\l|visible = true\l|x = 225\l|y = 623\l|width = 75\l|height = 44\l|index = 3\l|numberOfChildren = 2\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/450.0_1246.0_600.0_1334.0.png\l}"]
+	25	[label="{type = XCUIElementTypeButton\l|name = Menu\l|label = Menu\l|enabled = true\l|visible = true\l|x = 300\l|y = 623\l|width = 75\l|height = 44\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/600.0_1246.0_750.0_1334.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 25\l|width = 355\l|height = 34\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/20.0_50.0_730.0_118.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	28	[label="{type = XCUIElementTypeStaticText\l|value = 1\l|name = 1\l|label = 1\l|enabled = true\l|visible = true\l|x = 253\l|y = 635\l|width = 19\l|height = 20\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/506.0_1270.0_544.0_1310.0.png\l}"]
+	29	[label="{type = XCUIElementTypeImage\l|name = Secure connection\l|label = Secure connection\l|enabled = true\l|visible = true\l|x = 18\l|y = 35\l|width = 12\l|height = 14\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/36.0_70.0_60.0_98.0.png\l}"]
+	30	[label="{type = XCUIElementTypeTextField\l|value = google.com\l|name = url\l|label = \l|enabled = true\l|visible = true\l|x = 40\l|y = 31\l|width = 213\l|height = 22\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/80.0_62.0_505.99999999999994_106.0.png\l}"]
+	31	[label="{type = XCUIElementTypeButton\l|name = TabToolbar.stopReloadButton\l|label = Reload\l|enabled = true\l|visible = true\l|x = 258\l|y = 25\l|width = 28\l|height = 34\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/516.0_50.0_572.0_118.0.png\l}"]
+	32	[label="{type = XCUIElementTypeButton\l|name = urlBar-shieldsButton\l|label = Brave Panel\l|enabled = true\l|visible = true\l|x = 291\l|y = 25\l|width = 34\l|height = 34\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/582.0_50.0_650.0_118.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 559\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/0.0_128.0_750.0_1246.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|name = Google\l|label = Google\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 650\l|index = 0\l|numberOfChildren = 11\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/0.0_128.0_750.0_1428.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|name = banner\l|label = banner\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 52\l|index = 2\l|numberOfChildren = 5\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/0.0_128.0_750.0_232.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 107\l|y = 168\l|width = 161\l|height = 75\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/214.0_336.0_536.0_486.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|name = search\l|label = search\l|enabled = true\l|visible = true\l|x = 8\l|y = 258\l|width = 359\l|height = 40\l|index = 4\l|numberOfChildren = 4\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/16.0_516.0_734.0_596.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 322\l|width = 375\l|height = 28\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/0.0_644.0_750.0_700.0.png\l}"]
+	40	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 531\l|width = 378\l|height = 36\l|index = 6\l|numberOfChildren = 1\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/0.0_1062.0_756.0_1134.0.png\l}"]
+	41	[label="{type = XCUIElementTypeButton\l|name = Главни мени\l|label = Главни мени\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 56\l|height = 52\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/0.0_128.0_112.00000000000001_232.0.png\l}"]
+	42	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 56\l|y = 64\l|width = 41\l|height = 48\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/112.00000000000001_128.0_194.0_224.0.png\l}"]
+	43	[label="{type = XCUIElementTypeLink\l|name = СЛИКЕ\l|label = СЛИКЕ\l|enabled = true\l|visible = true\l|x = 113\l|y = 80\l|width = 44\l|height = 15\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/226.0_160.0_314.0_190.0.png\l}"]
+	44	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 185\l|y = 64\l|width = 191\l|height = 48\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/370.0_128.0_752.0_224.0.png\l}"]
+	45	[label="{type = XCUIElementTypeImage\l|name = Google\l|label = Google\l|enabled = true\l|visible = true\l|x = 107\l|y = 176\l|width = 161\l|height = 56\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/214.0_352.0_536.0_464.0.png\l}"]
+	46	[label="{type = XCUIElementTypeButton\l|name = Google претрага\l|label = Google претрага\l|enabled = true\l|visible = true\l|x = 11\l|y = 261\l|width = 32\l|height = 34\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/22.0_522.0_86.0_590.0.png\l}"]
+	47	[label="{type = XCUIElementTypeOther\l|name = Тражи\l|label = Тражи\l|enabled = true\l|visible = true\l|x = 42\l|y = 266\l|width = 279\l|height = 25\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/84.0_532.0_642.0_582.0.png\l}"]
+	48	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 58\l|y = 322\l|width = 259\l|height = 28\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/116.0_644.0_634.0_700.0.png\l}"]
+	49	[label="{type = XCUIElementTypeStaticText\l|value = СВЕ\l|name = СВЕ\l|label = СВЕ\l|enabled = true\l|visible = true\l|x = 64\l|y = 80\l|width = 26\l|height = 15\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/128.0_160.0_180.0_190.0.png\l}"]
+	50	[label="{type = XCUIElementTypeStaticText\l|value = СЛИКЕ\l|name = СЛИКЕ\l|label = СЛИКЕ\l|enabled = true\l|visible = true\l|x = 113\l|y = 80\l|width = 44\l|height = 15\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/226.0_160.0_314.0_190.0.png\l}"]
+	51	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 185\l|y = 64\l|width = 187\l|height = 48\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/370.0_128.0_744.0_224.0.png\l}"]
+	52	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 72\l|y = 322\l|width = 114\l|height = 28\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/144.0_644.0_372.0_700.0.png\l}"]
+	53	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 190\l|y = 322\l|width = 113\l|height = 28\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/380.00000000000006_644.0_606.0_700.0.png\l}"]
+	54	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 189\l|y = 68\l|width = 41\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/378.0_136.0_460.0_216.0.png\l}"]
+	55	[label="{type = XCUIElementTypeLink\l|name = Пријавите се\l|label = Пријавите се\l|enabled = true\l|visible = true\l|x = 257\l|y = 78\l|width = 90\l|height = 19\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/514.0_156.0_694.0_194.0.png\l}"]
+	56	[label="{type = XCUIElementTypeStaticText\l|value = Google се нуди на:\l|name = Google се нуди на:\l|label = Google се нуди на:\l|enabled = true\l|visible = true\l|x = 72\l|y = 328\l|width = 115\l|height = 16\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/144.0_656.0_374.0_688.0.png\l}"]
+	57	[label="{type = XCUIElementTypeLink\l|name = srpski\l|label = srpski\l|enabled = true\l|visible = true\l|x = 198\l|y = 328\l|width = 35\l|height = 16\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/396.0_656.0_466.0_688.0.png\l}"]
+	58	[label="{type = XCUIElementTypeLink\l|name = English\l|label = English\l|enabled = true\l|visible = true\l|x = 252\l|y = 328\l|width = 43\l|height = 16\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/504.00000000000006_656.0_590.0_688.0.png\l}"]
+	59	[label="{type = XCUIElementTypeButton\l|name = Google апликације\l|label = Google апликације\l|enabled = true\l|visible = true\l|x = 189\l|y = 68\l|width = 41\l|height = 40\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/378.0_136.0_460.0_216.0.png\l}"]
+	60	[label="{type = XCUIElementTypeStaticText\l|value = Пријавите се\l|name = Пријавите се\l|label = Пријавите се\l|enabled = true\l|visible = true\l|x = 257\l|y = 78\l|width = 90\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/514.0_156.0_694.0_194.0.png\l}"]
+	61	[label="{type = XCUIElementTypeStaticText\l|value = srpski\l|name = srpski\l|label = srpski\l|enabled = true\l|visible = true\l|x = 198\l|y = 328\l|width = 35\l|height = 16\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/396.0_656.0_466.0_688.0.png\l}"]
+	62	[label="{type = XCUIElementTypeStaticText\l|value = nglish\l|name = English\l|label = English\l|enabled = true\l|visible = true\l|x = 252\l|y = 328\l|width = 43\l|height = 16\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S2/pngs/504.00000000000006_656.0_590.0_688.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	7 -> 9
+	7 -> 10
+	8 -> 11
+	9 -> 12
+	10 -> 13
+	11 -> 14
+	12 -> 15
+	13 -> 16
+	14 -> 17
+	15 -> 18
+	15 -> 19
+	15 -> 20
+	16 -> 21
+	16 -> 22
+	16 -> 23
+	16 -> 24
+	16 -> 25
+	17 -> 26
+	18 -> 27
+	24 -> 28
+	26 -> 29
+	26 -> 30
+	26 -> 31
+	26 -> 32
+	27 -> 33
+	33 -> 34
+	34 -> 35
+	35 -> 36
+	35 -> 37
+	35 -> 38
+	35 -> 39
+	35 -> 40
+	36 -> 41
+	36 -> 42
+	36 -> 43
+	36 -> 44
+	37 -> 45
+	38 -> 46
+	38 -> 47
+	39 -> 48
+	42 -> 49
+	43 -> 50
+	44 -> 51
+	48 -> 52
+	48 -> 53
+	51 -> 54
+	51 -> 55
+	52 -> 56
+	53 -> 57
+	53 -> 58
+	54 -> 59
+	55 -> 60
+	57 -> 61
+	58 -> 62
+
+
+}

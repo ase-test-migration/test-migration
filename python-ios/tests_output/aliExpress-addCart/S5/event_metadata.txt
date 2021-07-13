@@ -1,0 +1,4 @@
+pathToElementImageCrop: aliExpress-addCart/S5/pngs/36.0_878.0000000000001_156.0_998.0000000000001.png;
+coords: {'x1': 36.0, 'y1': 878.0000000000001, 'x2': 156.0, 'y2': 998.0000000000001};
+text_identifier: { "label" : "sku image" };
+event: click;

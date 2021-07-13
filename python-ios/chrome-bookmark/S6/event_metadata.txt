@@ -1,0 +1,4 @@
+pathToElementImageCrop: chrome-bookmark/S6/pngs/0.0_400.0_750.0_502.0.png;
+coords: {'x1': 0.0, 'y1': 400.0, 'x2': 750.0, 'y2': 502.0};
+text_identifier: { "label" : "Mobile Bookmarks" };
+event: click;

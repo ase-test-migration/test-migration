@@ -1,0 +1,5 @@
+pathToElementImageCrop: newton-reply/S4/pngs/55_1362_1028_1425.png;
+coords: {'x1': 55, 'y1': 1362, 'x2': 1028, 'y2': 1425};
+text_identifier: {  };
+event: oracle;
+oracle-type: widget_exists;

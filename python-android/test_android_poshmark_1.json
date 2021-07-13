@@ -1,0 +1,41 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "poshmark-Login",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.poshmark.app:id/logInOption"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "send_keys",
+                    "tag": "username",
+                    "input": "TestUseri"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "send_keys",
+                    "tag": "password",
+                    "input": "Test.0123"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "rightNavButton1"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "@TestUseri"
+                }
+            ]
+        }
+    ]
+}

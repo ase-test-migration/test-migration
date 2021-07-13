@@ -1,0 +1,4 @@
+pathToElementImageCrop: guardian_categories/S4/pngs/10.0_53.99999999999999_80.0_122.0.png;
+coords: {'x1': 10.0, 'y1': 53.99999999999999, 'x2': 80.0, 'y2': 122.0};
+text_identifier: { "name" : "Back" };
+event: click;

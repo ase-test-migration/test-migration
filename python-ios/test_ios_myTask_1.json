@@ -1,0 +1,62 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "myTask-edit",
+            "events": [
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeStaticText[@name=\"1 undone task\"])[1]"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "My Task"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "toolbar edit"
+                },
+                {
+                    "type": "xPath",
+                    "event": "send_keys_enter",
+                    "tag": "//XCUIElementTypeApplication[@name=\"My tasks\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextView",
+                    "input": "Edited Task"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "checkmark icon"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "oracle",
+                    "tag": "Edited Task",
+                    "oracle-type": "assert_equal",
+                    "attribute": "label",
+                    "value": "Edited Task"
+                },
+                {
+                    "event": "oracle",
+                    "oracle-type": "text_exists",
+                    "input": "Edited Task"
+                },
+                {
+                    "event": "oracle",
+                    "oracle-type": "text_invisible",
+                    "input": "My Task"
+                }
+            ]
+        }
+    ]
+}

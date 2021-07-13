@@ -1,0 +1,4 @@
+pathToElementImageCrop: wish-remove-item-from-cart/S2/pngs/84.0_1962.0_1158.0_2082.0.png;
+coords: {'x1': 84.0, 'y1': 1962.0, 'x2': 1158.0, 'y2': 2082.0};
+text_identifier: { "name" : "0" };
+event: click;

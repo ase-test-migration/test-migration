@@ -1,0 +1,4 @@
+pathToElementImageCrop: myTask-duedate/S0/pngs/295_522_881_597.png;
+coords: {'x1': 295, 'y1': 522, 'x2': 881, 'y2': 597};
+text_identifier: { "resource-id" : "com.weekly.app:id/tv_state_of_tasks_title" };
+event: click;

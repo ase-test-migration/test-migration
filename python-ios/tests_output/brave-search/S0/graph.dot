@@ -1,0 +1,118 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Brave\l|label = Brave\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 559\l|index = 4\l|numberOfChildren = 3\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/0.0_128.0_750.0_1246.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 375\l|height = 44\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/0.0_1246.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	12	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 559\l|index = 1\l|numberOfChildren = 8\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/0.0_128.0_750.0_1246.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|name = Navigation Toolbar\l|label = Navigation Toolbar\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/0.0_1246.0_750.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 20\l|width = 355\l|height = 44\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/20.0_40.0_730.0_128.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 559\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/0.0_128.0_750.0_1246.0.png\l}"]
+	16	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 20\l|y = 64\l|width = 335\l|height = 110\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/40.0_128.0_710.0_348.0.png\l}"]
+	17	[label="{type = XCUIElementTypeCell\l|name = Youtube\l|label = Youtube\l|enabled = true\l|visible = true\l|x = 8\l|y = 180\l|width = 82\l|height = 93\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/16.0_360.0_180.0_546.0.png\l}"]
+	18	[label="{type = XCUIElementTypeCell\l|name = Amazon\l|label = Amazon\l|enabled = true\l|visible = true\l|x = 100\l|y = 180\l|width = 83\l|height = 93\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/200.0_360.0_366.0_546.0.png\l}"]
+	19	[label="{type = XCUIElementTypeCell\l|name = Wikipedia\l|label = Wikipedia\l|enabled = true\l|visible = true\l|x = 192\l|y = 180\l|width = 83\l|height = 93\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/384.0_360.0_550.0_546.0.png\l}"]
+	20	[label="{type = XCUIElementTypeCell\l|name = Twitter\l|label = Twitter\l|enabled = true\l|visible = true\l|x = 285\l|y = 180\l|width = 82\l|height = 93\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/570.0_360.0_734.0_546.0.png\l}"]
+	21	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 299\l|width = 375\l|height = 25\l|index = 6\l|numberOfChildren = 1\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/0.0_598.0_750.0_648.0.png\l}"]
+	22	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 16\l|y = 591\l|width = 343\l|height = 371\l|index = 7\l|numberOfChildren = 1\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/32.0_1182.0_718.0_1924.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/0.0_1246.0_750.0_1334.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 25\l|width = 355\l|height = 34\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/20.0_50.0_730.0_118.0.png\l}"]
+	25	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 16\l|y = 552\l|width = 209\l|height = 25\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/32.0_1104.0_450.0_1154.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 64\l|width = 335\l|height = 110\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/40.0_128.0_710.0_348.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 180\l|width = 82\l|height = 93\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/16.0_360.0_180.0_546.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 100\l|y = 180\l|width = 83\l|height = 93\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/200.0_360.0_366.0_546.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 192\l|y = 180\l|width = 83\l|height = 93\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/384.0_360.0_550.0_546.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 285\l|y = 180\l|width = 82\l|height = 93\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/570.0_360.0_734.0_546.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 299\l|width = 375\l|height = 25\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/0.0_598.0_750.0_648.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 591\l|width = 343\l|height = 371\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/32.0_1182.0_718.0_1924.0.png\l}"]
+	33	[label="{type = XCUIElementTypeButton\l|name = TabToolbar.backButton\l|label = Back\l|enabled = false\l|visible = true\l|x = 0\l|y = 623\l|width = 75\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/0.0_1246.0_150.0_1334.0.png\l}"]
+	34	[label="{type = XCUIElementTypeButton\l|name = TabToolbar.forwardButton\l|label = Forward\l|enabled = true\l|visible = true\l|x = 75\l|y = 623\l|width = 75\l|height = 44\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/150.0_1246.0_300.0_1334.0.png\l}"]
+	35	[label="{type = XCUIElementTypeButton\l|name = TabToolbar.searchButton\l|label = ntp search\l|enabled = true\l|visible = true\l|x = 150\l|y = 623\l|width = 75\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/300.0_1246.0_450.0_1334.0.png\l}"]
+	36	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = TabToolbar.tabsButton\l|label = Show Tabs\l|enabled = true\l|visible = true\l|x = 225\l|y = 623\l|width = 75\l|height = 44\l|index = 3\l|numberOfChildren = 2\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/450.0_1246.0_600.0_1334.0.png\l}"]
+	37	[label="{type = XCUIElementTypeButton\l|name = Menu\l|label = Menu\l|enabled = true\l|visible = true\l|x = 300\l|y = 623\l|width = 75\l|height = 44\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/600.0_1246.0_750.0_1334.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 25\l|width = 355\l|height = 34\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/20.0_50.0_730.0_118.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 64\l|width = 335\l|height = 110\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/40.0_128.0_710.0_348.0.png\l}"]
+	40	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 145\l|y = 299\l|width = 85\l|height = 25\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/290.0_598.0_460.0_648.0.png\l}"]
+	41	[label="{type = XCUIElementTypeButton\l|name = Gina Carano faces backlash for social media posts, 'not currently employed' by 'Star Wars'. 2 hours ago. FOX News\l|label = Gina Carano faces backlash for social media posts, 'not currently employed' by 'Star Wars'. 2 hours ago. FOX News\l|enabled = true\l|visible = true\l|x = 16\l|y = 591\l|width = 343\l|height = 371\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/32.0_1182.0_718.0_1924.0.png\l}"]
+	42	[label="{type = XCUIElementTypeStaticText\l|value = 1\l|name = 1\l|label = 1\l|enabled = true\l|visible = true\l|x = 253\l|y = 635\l|width = 19\l|height = 20\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/506.0_1270.0_544.0_1310.0.png\l}"]
+	43	[label="{type = XCUIElementTypeTextField\l|value = Search or enter address\l|name = url\l|label = \l|enabled = true\l|visible = true\l|x = 18\l|y = 31\l|width = 235\l|height = 22\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = brave-search/S0/pngs/36.0_62.0_506.00000000000006_106.0.png\l}"]
+	44	[label="{type = XCUIElementTypeButton\l|name = TabToolbar.stopReloadButton\l|label = Reload\l|enabled = true\l|visible = true\l|x = 258\l|y = 25\l|width = 28\l|height = 34\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/516.0_50.0_572.0_118.0.png\l}"]
+	45	[label="{type = XCUIElementTypeButton\l|name = urlBar-shieldsButton\l|label = Brave Panel\l|enabled = true\l|visible = true\l|x = 291\l|y = 25\l|width = 34\l|height = 34\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/582.0_50.0_650.0_118.0.png\l}"]
+	46	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 64\l|width = 112\l|height = 110\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/40.0_128.0_264.0_348.0.png\l}"]
+	47	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 131\l|y = 64\l|width = 113\l|height = 110\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/262.0_128.0_488.0_348.0.png\l}"]
+	48	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 243\l|y = 64\l|width = 112\l|height = 110\l|index = 2\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/486.0_128.0_710.0_348.0.png\l}"]
+	49	[label="{type = XCUIElementTypeStaticText\l|value = 5\l|name = 5\l|label = 5\l|enabled = true\l|visible = true\l|x = 20\l|y = 90\l|width = 112\l|height = 39\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/40.0_180.0_264.0_258.0.png\l}"]
+	50	[label="{type = XCUIElementTypeStaticText\l|value = Trackers & Ads Blocked\l|name = Trackers & Ads Blocked\l|label = Trackers & Ads Blocked\l|enabled = true\l|visible = true\l|x = 20\l|y = 133\l|width = 112\l|height = 25\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/40.0_266.0_264.0_316.0.png\l}"]
+	51	[label="{type = XCUIElementTypeStaticText\l|value = 0\l|name = 0\l|label = 0\l|enabled = true\l|visible = true\l|x = 131\l|y = 90\l|width = 113\l|height = 39\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/262.0_180.0_488.0_258.0.png\l}"]
+	52	[label="{type = XCUIElementTypeStaticText\l|value = HTTPS  Upgrades\l|name = HTTPS  Upgrades\l|label = HTTPS  Upgrades\l|enabled = true\l|visible = true\l|x = 131\l|y = 133\l|width = 113\l|height = 25\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/262.0_266.0_488.0_316.0.png\l}"]
+	53	[label="{type = XCUIElementTypeStaticText\l|value = 0s\l|name = 0s\l|label = 0s\l|enabled = true\l|visible = true\l|x = 243\l|y = 90\l|width = 112\l|height = 39\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/486.0_180.0_710.0_258.0.png\l}"]
+	54	[label="{type = XCUIElementTypeStaticText\l|value = Est. Time  Saved\l|name = Est. Time  Saved\l|label = Est. Time  Saved\l|enabled = true\l|visible = true\l|x = 243\l|y = 133\l|width = 112\l|height = 25\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = brave-search/S0/pngs/486.0_266.0_710.0_316.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	7 -> 9
+	7 -> 10
+	8 -> 11
+	9 -> 12
+	10 -> 13
+	11 -> 14
+	12 -> 15
+	12 -> 16
+	12 -> 17
+	12 -> 18
+	12 -> 19
+	12 -> 20
+	12 -> 21
+	12 -> 22
+	13 -> 23
+	14 -> 24
+	15 -> 25
+	16 -> 26
+	17 -> 27
+	18 -> 28
+	19 -> 29
+	20 -> 30
+	21 -> 31
+	22 -> 32
+	23 -> 33
+	23 -> 34
+	23 -> 35
+	23 -> 36
+	23 -> 37
+	24 -> 38
+	26 -> 39
+	31 -> 40
+	32 -> 41
+	36 -> 42
+	38 -> 43
+	38 -> 44
+	38 -> 45
+	39 -> 46
+	39 -> 47
+	39 -> 48
+	46 -> 49
+	46 -> 50
+	47 -> 51
+	47 -> 52
+	48 -> 53
+	48 -> 54
+
+
+}

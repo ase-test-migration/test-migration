@@ -1,0 +1,66 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = BBC News\l|label = BBC News\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeNavigationBar\l|name = bn-navigation-bar\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|name = Middle East\l|label = Middle East\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 44\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/0.0_40.0_88.0_128.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|name = bn-bar-button\l|label = Share\l|enabled = true\l|visible = true\l|x = 324\l|y = 20\l|width = 43\l|height = 44\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/648.0_40.0_734.0_128.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|name = bn-view-pager-controller\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 13 pages\l|label = Vertical scroll bar, 13 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 64\l|width = 30\l|height = 603\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/684.0_128.0_744.0_1334.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 13 pages\l|label = Horizontal scroll bar, 13 pages\l|enabled = true\l|visible = true\l|x = 0\l|y = 634\l|width = 375\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/0.0_1268.0_750.0_1328.0.png\l}"]
+	18	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|name = bn-cell-view\l|label = Image, The train was heading from Cairo to Mansoura when four carriages derailed\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 259\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/0.0_128.0_750.0_646.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|name = bn-cell-view\l|label = Egypt's second deadly rail accident in a month kills 11\l|enabled = true\l|visible = true\l|x = 0\l|y = 323\l|width = 375\l|height = 77\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/0.0_646.0_750.0_800.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|name = bn-cell-view\l|label = 9 hours ago  .  Middle East\l|enabled = true\l|visible = true\l|x = 0\l|y = 400\l|width = 375\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/0.0_800.0_750.0_888.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|name = bn-cell-view\l|enabled = true\l|visible = true\l|x = 0\l|y = 443\l|width = 375\l|height = 1815\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/0.0_886.0_750.0_4516.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 5 pages\l|label = Vertical scroll bar, 5 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 128\l|width = 30\l|height = 490\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/684.0_256.0_744.0_1236.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 585\l|width = 375\l|height = 30\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/0.0_1170.0_750.0_1230.0.png\l}"]
+	25	[label="{type = XCUIElementTypeTextView\l|value = Eleven people have been killed and 98 have been injured in the second deadly rail accident in Egypt in a month. Four carriages of a train derailed at a station near Toukh on Sunday afternoon, as it travelled north from the capital, Cairo, to the city of Mansoura. The cause was not immediately clear, but President Abdul Fattah al-Sisi ordered an investigation. The rail authority said the driver and his assistant, as well as eight station officials, had been detained. Egypt's railway system has a poor safety \l|enabled = true\l|visible = true\l|x = 0\l|y = 443\l|width = 375\l|height = 1815\l|index = 0\l|numberOfChildren = 11\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/0.0_886.0_750.0_4516.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|name = Eleven people have been killed and 98 have been injured in the second deadly rail accident in Egypt in a month.\l|label = Eleven people have been killed and 98 have been injured in the second deadly rail accident in Egypt in a month.\l|enabled = true\l|visible = true\l|x = 0\l|y = 443\l|width = 375\l|height = 74\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/0.0_886.0_750.0_1034.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|name = Four carriages of a train derailed at a station near Toukh on Sunday afternoon, as it travelled north from the capital, Cairo, to the city of Mansoura.\l|label = Four carriages of a train derailed at a station near Toukh on Sunday afternoon, as it travelled north from the capital, Cairo, to the city of Mansoura.\l|enabled = true\l|visible = true\l|x = 0\l|y = 539\l|width = 375\l|height = 97\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/0.0_1078.0_750.0_1272.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|name = The cause was not immediately clear, but President Abdul Fattah al-Sisi ordered an investigation.\l|label = The cause was not immediately clear, but President Abdul Fattah al-Sisi ordered an investigation.\l|enabled = true\l|visible = true\l|x = 0\l|y = 659\l|width = 375\l|height = 73\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-personalize/S6/pngs/0.0_1318.0_750.0_1464.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	7 -> 9
+	8 -> 10
+	8 -> 11
+	9 -> 12
+	12 -> 13
+	13 -> 14
+	14 -> 15
+	14 -> 16
+	14 -> 17
+	15 -> 18
+	18 -> 19
+	18 -> 20
+	18 -> 21
+	18 -> 22
+	18 -> 23
+	18 -> 24
+	22 -> 25
+	25 -> 26
+	25 -> 27
+	25 -> 28
+
+
+}

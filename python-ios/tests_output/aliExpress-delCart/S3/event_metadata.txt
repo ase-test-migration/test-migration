@@ -1,0 +1,4 @@
+pathToElementImageCrop: aliExpress-delCart/S3/pngs/376.0_730.0_646.0_818.0.png;
+coords: {'x1': 376.0, 'y1': 730.0, 'x2': 646.0, 'y2': 818.0};
+text_identifier: { "label" : "Remove" };
+event: click;

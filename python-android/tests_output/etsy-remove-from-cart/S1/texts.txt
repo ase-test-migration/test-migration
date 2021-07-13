@@ -1,0 +1,28 @@
+{ "resource-id" : "com.etsy.android:id/app_bar_toolbar" , "screenshotPath" : "remove-from-cart/S1/pngs/0_72_1080_240.png"}
+{ "resource-id" : "com.etsy.android:id/cart_view_pager" , "screenshotPath" : "remove-from-cart/S1/pngs/0_384_1080_1608.png"}
+{ "content-desc" : "Home tab, 1 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_home" , "screenshotPath" : "remove-from-cart/S1/pngs/0_1608_216_1776.png"}
+{ "content-desc" : "Favorites tab, 2 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_favorites" , "screenshotPath" : "remove-from-cart/S1/pngs/216_1608_432_1776.png"}
+{ "content-desc" : "Updates tab, 3 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_updates" , "screenshotPath" : "remove-from-cart/S1/pngs/432_1608_648_1776.png"}
+{ "content-desc" : "You tab, 4 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_you" , "screenshotPath" : "remove-from-cart/S1/pngs/648_1608_864_1776.png"}
+{ "content-desc" : "Cart tab, 5 of 5, 1 new notification" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_cart" , "screenshotPath" : "remove-from-cart/S1/pngs/864_1608_1080_1776.png"}
+{ "resource-id" : "com.etsy.android:id/clg_material_tab_layout" , "screenshotPath" : "remove-from-cart/S1/pngs/0_240_1080_384.png"}
+{ "content-desc" : "Your cart: 1, tab 1 of 2" , "screenshotPath" : "remove-from-cart/S1/pngs/0_240_540_384.png"}
+{ "content-desc" : "Saved, tab 2 of 2" , "screenshotPath" : "remove-from-cart/S1/pngs/540_240_1080_384.png"}
+{ "resource-id" : "com.etsy.android:id/recycler_view" , "screenshotPath" : "remove-from-cart/S1/pngs/0_384_1080_1608.png"}
+{ "resource-id" : "com.etsy.android:id/items" , "screenshotPath" : "remove-from-cart/S1/pngs/0_384_1080_1608.png"}
+{ "resource-id" : "com.etsy.android:id/cart_listing_frame" , "screenshotPath" : "remove-from-cart/S1/pngs/0_552_1080_1234.png"}
+{ "resource-id" : "com.etsy.android:id/image_shop_avatar" , "screenshotPath" : "remove-from-cart/S1/pngs/48_432_144_528.png"}
+{ "resource-id" : "com.etsy.android:id/txt_shop_name" , "screenshotPath" : "remove-from-cart/S1/pngs/156_432_1020_528.png"}
+{ "content-desc" : "Show menu of listing actions for FameRugs" , "resource-id" : "com.etsy.android:id/btn_shop_more" , "screenshotPath" : "remove-from-cart/S1/pngs/948_426_1044_534.png"}
+{ "resource-id" : "com.etsy.android:id/txt_listing_title" , "screenshotPath" : "remove-from-cart/S1/pngs/342_564_1032_668.png"}
+{ "content-desc" : "This order of FameRugs is a gift. Prices will be hidden when shipped" , "resource-id" : "com.etsy.android:id/gift_options_gift_checkbox" , "screenshotPath" : "remove-from-cart/S1/pngs/24_1234_678_1378.png"}
+{ "resource-id" : "com.etsy.android:id/txt_message" , "screenshotPath" : "remove-from-cart/S1/pngs/48_1558_1032_1608.png"}
+{ "resource-id" : "com.etsy.android:id/txt_nudge" , "screenshotPath" : "remove-from-cart/S1/pngs/342_944_882_1054.png"}
+{ "content-desc" : "Save ZAHRA | Antique Persian Heriz Pattern Oriental Rug, Hand-knotted texture, Traditional decor, Mid-century Modern, Navy blue, Red, Area Rugs for later" , "resource-id" : "com.etsy.android:id/btn_save_for_later" , "screenshotPath" : "remove-from-cart/S1/pngs/318_1078_633_1210.png"}
+{ "content-desc" : "Remove ZAHRA | Antique Persian Heriz Pattern Oriental Rug, Hand-knotted texture, Traditional decor, Mid-century Modern, Navy blue, Red, Area Rugs" , "resource-id" : "com.etsy.android:id/btn_remove" , "screenshotPath" : "remove-from-cart/S1/pngs/657_1078_921_1210.png"}
+{ "resource-id" : "com.etsy.android:id/btn_add_coupon_code" , "screenshotPath" : "remove-from-cart/S1/pngs/96_1402_671_1534.png"}
+{ "content-desc" : "Size for ZAHRA | Antique Persian Heriz Pattern Oriental Rug, Hand-knotted texture, Traditional decor, Mid-century Modern, Navy blue, Red, Area Rugs" , "resource-id" : "com.etsy.android:id/txt_variation1_title" , "screenshotPath" : "remove-from-cart/S1/pngs/342_722_425_779.png"}
+{ "resource-id" : "com.etsy.android:id/txt_variation1" , "screenshotPath" : "remove-from-cart/S1/pngs/449_692_1008_812.png"}
+{ "content-desc" : "Quantity for ZAHRA | Antique Persian Heriz Pattern Oriental Rug, Hand-knotted texture, Traditional decor, Mid-century Modern, Navy blue, Red, Area Rugs" , "resource-id" : "com.etsy.android:id/txt_title_quantity" , "screenshotPath" : "remove-from-cart/S1/pngs/342_856_515_913.png"}
+{ "resource-id" : "com.etsy.android:id/spinner_quantity" , "screenshotPath" : "remove-from-cart/S1/pngs/539_824_767_944.png"}
+{ "resource-id" : "com.etsy.android:id/txt_total_price" , "screenshotPath" : "remove-from-cart/S1/pngs/834_852_1032_917.png"}

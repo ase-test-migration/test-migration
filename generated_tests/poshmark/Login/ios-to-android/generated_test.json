@@ -1,0 +1,13 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "poshmark-Login",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.poshmark.app:id/fbLoginButton",
+                "event": "click"
+            }
+        ]
+    }
+}

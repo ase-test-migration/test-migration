@@ -1,0 +1,4 @@
+pathToElementImageCrop: spark-move/S2/pngs/56.00000000000001_1042.0_112.00000000000001_1066.0.png;
+coords: {'x1': 56.00000000000001, 'y1': 1042.0, 'x2': 112.00000000000001, 'y2': 1066.0};
+text_identifier: { "label" : "Move" };
+event: click;

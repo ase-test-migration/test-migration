@@ -1,0 +1,8 @@
+{ "resource-id" : "org.mozilla.firefox:id/search_wrapper" , "screenshotPath" : "firefox-back/S3/pngs/0_0_1080_1977.png"}
+{ "resource-id" : "org.mozilla.firefox:id/awesome_bar" , "screenshotPath" : "firefox-back/S3/pngs/0_171_1080_1199.png"}
+{ "resource-id" : "org.mozilla.firefox:id/qr_scan_button" , "screenshotPath" : "firefox-back/S3/pngs/0_1199_241_1309.png"}
+{ "resource-id" : "org.mozilla.firefox:id/search_engines_shortcut_button" , "screenshotPath" : "firefox-back/S3/pngs/241_1199_645_1309.png"}
+{ "content-desc" : "Google, Search or enter address" , "resource-id" : "org.mozilla.firefox:id/toolbar" , "screenshotPath" : "firefox-back/S3/pngs/0_1309_1080_1463.png"}
+{ "resource-id" : "org.mozilla.firefox:id/mozac_browser_toolbar_edit_url_view" , "screenshotPath" : "firefox-back/S3/pngs/132_1331_838_1441.png"}
+{ "content-desc" : "Clear" , "resource-id" : "org.mozilla.firefox:id/mozac_browser_toolbar_clear_view" , "screenshotPath" : "firefox-back/S3/pngs/948_1331_1058_1441.png"}
+{ "content-desc" : "Voice search" , "screenshotPath" : "firefox-back/S3/pngs/838_1331_948_1441.png"}

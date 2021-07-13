@@ -1,0 +1,4 @@
+pathToElementImageCrop: usa-mynews/S4/pngs/936_72_1080_240.png;
+coords: {'x1': 936, 'y1': 72, 'x2': 1080, 'y2': 240};
+text_identifier: { "text" : "" };
+event: click;

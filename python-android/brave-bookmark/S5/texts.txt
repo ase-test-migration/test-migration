@@ -1,0 +1,4 @@
+{ "resource-id" : "com.brave.browser:id/selectable_list" , "screenshotPath" : "brave-bookmark/S5/pngs/0_171_1080_1977.png"}
+{ "resource-id" : "com.brave.browser:id/recycler_view" , "screenshotPath" : "brave-bookmark/S5/pngs/0_325_1080_1977.png"}
+{ "content-desc" : "Search" , "resource-id" : "com.brave.browser:id/search_menu_id" , "screenshotPath" : "brave-bookmark/S5/pngs/805_182_937_314.png"}
+{ "content-desc" : "Close dialog" , "resource-id" : "com.brave.browser:id/close_menu_id" , "screenshotPath" : "brave-bookmark/S5/pngs/937_182_1069_314.png"}

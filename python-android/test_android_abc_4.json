@@ -1,0 +1,41 @@
+{
+    "tests": [
+        {
+            "name": "abc-search", 
+            "events": [
+                {
+                    "tag": "Open the menu", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "input": "travel", 
+                    "tag": "com.abc.abcnews:id/drawer_search", 
+                    "type": "id", 
+                    "event": "send_keys_enter"
+                }, 
+                {
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[2]/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ListView/android.widget.LinearLayout[3]/android.widget.TextView[1]",
+                    "type": "xPath",
+                    "event": "click"
+                },
+                {
+                    "input": "Mar 20, 4:47pm",
+                    "event": "oracle",
+                    "oracle-type": "text_exists"
+                },
+                {
+                    "oracle-type": "widget_exists",
+                    "tag": "com.abc.abcnews:id/story_title",
+                    "type": "id",
+                    "event": "oracle"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "emulator-5554", 
+        "platformName": "Android", 
+        "newCommandTimeout": 0
+    }
+}

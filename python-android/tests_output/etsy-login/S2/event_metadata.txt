@@ -1,0 +1,5 @@
+pathToElementImageCrop: etsy-login/S2/pngs/72_284_1008_397.png;
+coords: {'x1': 72, 'y1': 284, 'x2': 1008, 'y2': 397};
+text_identifier: { "resource-id" : "com.etsy.android:id/edit_username" };
+event: send_keys;
+input: email@example.com;

@@ -1,0 +1,4 @@
+pathToElementImageCrop: spark-delete/S2/pngs/386.00000000000006_1042.0_454.00000000000006_1066.0.png;
+coords: {'x1': 386.00000000000006, 'y1': 1042.0, 'x2': 454.00000000000006, 'y2': 1066.0};
+text_identifier: { "label" : "Delete" };
+event: click;

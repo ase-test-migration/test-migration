@@ -1,0 +1,18 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "etsy-login",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Horizontal scroll bar, 1 page",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "901 reviews; average rating: 4.9 out of 5",
+                "event": "click"
+            }
+        ]
+    }
+}

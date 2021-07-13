@@ -1,0 +1,31 @@
+{ "resource-id" : "com.poshmark.app:id/feedTab" , "screenshotPath" : "poshmark-naviCat/S2/pngs/0_2127_216_2200.png"}
+{ "resource-id" : "com.poshmark.app:id/shopTab" , "screenshotPath" : "poshmark-naviCat/S2/pngs/216_2127_432_2200.png"}
+{ "resource-id" : "com.poshmark.app:id/sellTab" , "screenshotPath" : "poshmark-naviCat/S2/pngs/432_2127_648_2200.png"}
+{ "resource-id" : "com.poshmark.app:id/newsTab" , "screenshotPath" : "poshmark-naviCat/S2/pngs/648_2127_864_2200.png"}
+{ "resource-id" : "com.poshmark.app:id/userTab" , "screenshotPath" : "poshmark-naviCat/S2/pngs/864_2127_1080_2200.png"}
+{ "resource-id" : "com.poshmark.app:id/dept_tabs_view_pager" , "screenshotPath" : "poshmark-naviCat/S2/pngs/0_347_1080_2127.png"}
+{ "resource-id" : "com.poshmark.app:id/tabs" , "screenshotPath" : "poshmark-naviCat/S2/pngs/0_221_1080_347.png"}
+{ "resource-id" : "com.poshmark.app:id/leftNavButton" , "screenshotPath" : "poshmark-naviCat/S2/pngs/32_100_137_195.png"}
+{ "resource-id" : "com.poshmark.app:id/brand_suggestions_list" , "screenshotPath" : "poshmark-naviCat/S2/pngs/0_347_1080_2127.png"}
+{ "resource-id" : "com.poshmark.app:id/searchWidget" , "screenshotPath" : "poshmark-naviCat/S2/pngs/137_100_1048_195.png"}
+{ "content-desc" : "All" , "screenshotPath" : "poshmark-naviCat/S2/pngs/7_221_165_347.png"}
+{ "content-desc" : "Women" , "screenshotPath" : "poshmark-naviCat/S2/pngs/178_221_382_347.png"}
+{ "content-desc" : "Men" , "screenshotPath" : "poshmark-naviCat/S2/pngs/395_221_553_347.png"}
+{ "content-desc" : "Kids" , "screenshotPath" : "poshmark-naviCat/S2/pngs/565_221_723_347.png"}
+{ "content-desc" : "Home" , "screenshotPath" : "poshmark-naviCat/S2/pngs/735_221_904_347.png"}
+{ "content-desc" : "Pets" , "screenshotPath" : "poshmark-naviCat/S2/pngs/916_221_1074_347.png"}
+{ "content-desc" : "My Brands" , "screenshotPath" : "poshmark-naviCat/S2/pngs/0_373_1080_500.png"}
+{ "content-desc" : "adidas" , "resource-id" : "com.poshmark.app:id/metaItemLayout" , "screenshotPath" : "poshmark-naviCat/S2/pngs/0_579_1080_706.png"}
+{ "content-desc" : "Abercrombie & Fitch" , "resource-id" : "com.poshmark.app:id/metaItemLayout" , "screenshotPath" : "poshmark-naviCat/S2/pngs/0_706_1080_833.png"}
+{ "content-desc" : "Brandy Melville" , "resource-id" : "com.poshmark.app:id/metaItemLayout" , "screenshotPath" : "poshmark-naviCat/S2/pngs/0_833_1080_960.png"}
+{ "content-desc" : "Abercrombie & Fitch" , "resource-id" : "com.poshmark.app:id/metaItemLayout" , "screenshotPath" : "poshmark-naviCat/S2/pngs/0_1039_1080_1166.png"}
+{ "content-desc" : "adidas" , "resource-id" : "com.poshmark.app:id/metaItemLayout" , "screenshotPath" : "poshmark-naviCat/S2/pngs/0_1166_1080_1293.png"}
+{ "content-desc" : "American Eagle Outfitters" , "resource-id" : "com.poshmark.app:id/metaItemLayout" , "screenshotPath" : "poshmark-naviCat/S2/pngs/0_1293_1080_1420.png"}
+{ "content-desc" : "Banana Republic" , "resource-id" : "com.poshmark.app:id/metaItemLayout" , "screenshotPath" : "poshmark-naviCat/S2/pngs/0_1420_1080_1547.png"}
+{ "content-desc" : "Brooks Brothers" , "resource-id" : "com.poshmark.app:id/metaItemLayout" , "screenshotPath" : "poshmark-naviCat/S2/pngs/0_1547_1080_1674.png"}
+{ "content-desc" : "Burberry" , "resource-id" : "com.poshmark.app:id/metaItemLayout" , "screenshotPath" : "poshmark-naviCat/S2/pngs/0_1674_1080_1801.png"}
+{ "content-desc" : "Calvin Klein" , "resource-id" : "com.poshmark.app:id/metaItemLayout" , "screenshotPath" : "poshmark-naviCat/S2/pngs/0_1801_1080_1928.png"}
+{ "content-desc" : "Carhartt" , "resource-id" : "com.poshmark.app:id/metaItemLayout" , "screenshotPath" : "poshmark-naviCat/S2/pngs/0_1928_1080_2055.png"}
+{ "content-desc" : "Champion" , "resource-id" : "com.poshmark.app:id/metaItemLayout" , "screenshotPath" : "poshmark-naviCat/S2/pngs/0_2055_1080_2127.png"}
+{ "resource-id" : "com.poshmark.app:id/search_layout" , "screenshotPath" : "poshmark-naviCat/S2/pngs/137_100_1048_195.png"}
+{ "resource-id" : "com.poshmark.app:id/searchTextView" , "screenshotPath" : "poshmark-naviCat/S2/pngs/137_116_1048_175.png"}

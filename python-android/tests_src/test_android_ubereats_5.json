@@ -1,0 +1,31 @@
+{
+    "tests": [
+        {
+            "name": "search", 
+            "events": [
+                {
+                    "tag": "Search", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "input": "daves", 
+                    "tag": "com.ubercab.eats:id/ub__search_query", 
+                    "type": "id", 
+                    "event": "send_keys"
+                }, 
+                {
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout[2]/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[2]/android.widget.FrameLayout/android.widget.RelativeLayout", 
+                    "type": "xPath", 
+                    "event": "click"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+      "platformName": "Android",
+      "platformVersion": "9",
+      "deviceName": "Nexus_5_API_28",
+      "newCommandTimeout": 1000
+    }
+}

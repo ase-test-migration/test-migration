@@ -1,0 +1,4 @@
+pathToElementImageCrop: aliExpress-Login/S1/pngs/42_1795_1038_1921.png;
+coords: {'x1': 42, 'y1': 1795, 'x2': 1038, 'y2': 1921};
+text_identifier: { "resource-id" : "com.alibaba.aliexpresshd:id/btn_sign_in" };
+event: click;

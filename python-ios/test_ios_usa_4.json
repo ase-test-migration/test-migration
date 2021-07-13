@@ -1,0 +1,60 @@
+{
+    "tests": [
+        {
+            "name": "usa-mynews",
+            "events": [
+                {
+                    "tag": "My Topics tab", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "//XCUIElementTypeButton[@name=\"See Suggested Topics\"]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "(//XCUIElementTypeButton[@name=\"Follow\"])[1]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Done", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Manage", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Coronavirus COVID-19",
+                    "type": "accessibilityId", 
+                    "event": "oracle",
+                    "oracle-type": "widget_exists"
+                }, 
+                {
+                    "tag": "Delete Coronavirus COVID-19",
+                    "type": "accessibilityId", 
+                    "event": "click"
+                },
+                {
+                    "tag": "Coronavirus COVID-19",
+                    "type": "accessibilityId",
+                    "event": "oracle",
+                    "oracle-type": "element_invisible"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "14.3", 
+        "platformName": "iOS"
+    }
+}

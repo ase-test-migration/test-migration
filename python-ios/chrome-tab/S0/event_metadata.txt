@@ -1,0 +1,4 @@
+pathToElementImageCrop: chrome-tab/S0/pngs/486.0_1246.0_576.0_1334.0.png;
+coords: {'x1': 486.0, 'y1': 1246.0, 'x2': 576.0, 'y2': 1334.0};
+text_identifier: { "label" : "Show Tabs" };
+event: click;

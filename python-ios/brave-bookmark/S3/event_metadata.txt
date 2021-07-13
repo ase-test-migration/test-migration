@@ -1,0 +1,4 @@
+pathToElementImageCrop: brave-bookmark/S3/pngs/438.0_1086.0_714.0_1128.0.png;
+coords: {'x1': 438.0, 'y1': 1086.0, 'x2': 714.0, 'y2': 1128.0};
+text_identifier: { "label" : "Add Bookmark" };
+event: click;

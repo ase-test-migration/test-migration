@@ -1,0 +1,34 @@
+{
+    "tests": [
+        {
+            "name": "search", 
+            "events": [
+                {
+                    "tag": "Search", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "input": "panda", 
+                    "tag": "//XCUIElementTypeApplication[@name=\"Postmates\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeSearchField", 
+                    "type": "xPath", 
+                    "event": "send_keys"
+                },
+                {
+                    "input": "Panda Express",
+                    "type": "text_exists",
+                    "event": "oracle"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "Someone's iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "13.4.1", 
+        "platformName": "iOS"
+    }
+}

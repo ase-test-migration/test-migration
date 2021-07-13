@@ -1,0 +1,5 @@
+pathToElementImageCrop: spark-search/S1/pngs/84.0_76.0_190.0_116.0.png;
+coords: {'x1': 84.0, 'y1': 76.0, 'x2': 190.0, 'y2': 116.0};
+text_identifier: { "label" : "Search" };
+event: send_keys;
+input: Testing 1;

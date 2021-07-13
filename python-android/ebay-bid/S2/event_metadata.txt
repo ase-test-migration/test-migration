@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-bid/S2/pngs/53_657_1027_804.png;
+coords: {'x1': 53, 'y1': 657, 'x2': 1027, 'y2': 804};
+text_identifier: { "content-desc" : "Collapsed Antiquities" , "resource-id" : "com.ebay.mobile:id/parent" , "resource-id" : "com.ebay.mobile:id/textview_category" };
+event: click;

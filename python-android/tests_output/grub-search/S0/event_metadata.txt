@@ -1,0 +1,4 @@
+pathToElementImageCrop: grub-search/S0/pngs/48_258_676_366.png;
+coords: {'x1': 48, 'y1': 258, 'x2': 676, 'y2': 366};
+text_identifier: { "resource-id" : "com.grubhub.android:id/search_edit_text_layout" , "content-desc" : "Search Bar Field" , "resource-id" : "com.grubhub.android:id/search_edit_text" };
+event: click;

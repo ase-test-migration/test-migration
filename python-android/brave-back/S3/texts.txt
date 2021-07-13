@@ -1,0 +1,10 @@
+{ "content-desc" : "Web View" , "screenshotPath" : "brave-back/S3/pngs/0_171_1080_1977.png"}
+{ "content-desc" : "Refine: wikipedia.org" , "screenshotPath" : "brave-back/S3/pngs/948_661_1080_829.png"}
+{ "content-desc" : "Refine: google.com" , "screenshotPath" : "brave-back/S3/pngs/948_829_1080_997.png"}
+{ "content-desc" : "Refine: chess.com" , "screenshotPath" : "brave-back/S3/pngs/948_997_1080_1165.png"}
+{ "content-desc" : "Share…" , "screenshotPath" : "brave-back/S3/pngs/684_325_816_493.png"}
+{ "content-desc" : "Copy link" , "screenshotPath" : "brave-back/S3/pngs/816_325_948_493.png"}
+{ "content-desc" : "Edit" , "screenshotPath" : "brave-back/S3/pngs/948_325_1080_493.png"}
+{ "resource-id" : "com.brave.browser:id/url_bar" , "screenshotPath" : "brave-back/S3/pngs/154_179_932_317.png"}
+{ "resource-id" : "com.brave.browser:id/location_bar_status_icon" , "screenshotPath" : "brave-back/S3/pngs/44_171_110_325.png"}
+{ "content-desc" : "Clear input" , "resource-id" : "com.brave.browser:id/delete_button" , "screenshotPath" : "brave-back/S3/pngs/932_171_1058_325.png"}

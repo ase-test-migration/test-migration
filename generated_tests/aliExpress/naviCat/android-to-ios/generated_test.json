@@ -1,0 +1,28 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "aliExpress-naviCat",
+        "events": [
+            {
+                "type": "name",
+                "tag": "a1z65.home.diamond.3",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "TODAY'S NEW ARRIVALS",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Freebies",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "T-Shirts"
+            }
+        ]
+    }
+}

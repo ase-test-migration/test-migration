@@ -1,0 +1,35 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout":0
+    },
+    "tests" : [
+        {
+            "name" : "test_accuw_submenu",
+            "events":[
+                {
+                    "event": "click",
+                    "tag": "NOW",
+                    "type": "accessibilityId"
+                },
+                {
+                    "event": "click",
+                    "tag": "HOURLY",
+                    "type": "accessibilityId"
+                },
+                {
+                    "event": "click",
+                    "tag": "DAILY",
+                    "type": "accessibilityId"
+                },
+                {
+                    "event": "click",
+                    "tag": "RADAR",
+                    "type": "accessibilityId"
+                }
+            ]
+            
+    }
+    ]
+}

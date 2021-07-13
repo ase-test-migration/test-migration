@@ -1,0 +1,4 @@
+pathToElementImageCrop: edison-delete/S1/pngs/334.0_1246.0_418.0_1334.0.png;
+coords: {'x1': 334.0, 'y1': 1246.0, 'x2': 418.0, 'y2': 1334.0};
+text_identifier: { "label" : "Horizontal scroll bar, 1 page" };
+event: click;

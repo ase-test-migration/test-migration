@@ -1,0 +1,33 @@
+{ "resource-id" : "com.etsy.android:id/app_bar_toolbar" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/0_74_1080_221.png"}
+{ "content-desc" : "Home tab, 1 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_home" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/0_2214_216_2287.png"}
+{ "content-desc" : "Favorites tab, 2 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_favorites" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/216_2214_432_2287.png"}
+{ "content-desc" : "Updates tab, 3 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_updates" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/432_2214_648_2287.png"}
+{ "content-desc" : "You tab, 4 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_you" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/648_2214_864_2287.png"}
+{ "content-desc" : "Cart tab, 5 of 5, 1 new notification" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_cart" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/864_2214_1080_2287.png"}
+{ "content-desc" : "Search for anything on Etsy" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/0_74_147_221.png"}
+{ "resource-id" : "com.etsy.android:id/view_pager" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/0_221_1080_2214.png"}
+{ "resource-id" : "com.etsy.android:id/recycler_view" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/0_221_1080_2214.png"}
+{ "resource-id" : "com.etsy.android:id/horizontal_recycler_view" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/0_760_1080_1110.png"}
+{ "resource-id" : "com.etsy.android:id/horizontal_recycler_view" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/0_1220_1080_1631.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/42_1762_519_2119.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/561_1762_1038_2119.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/42_2161_519_2214.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/561_2161_1038_2214.png"}
+{ "resource-id" : "com.etsy.android:id/search_src_text" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/147_99_1080_194.png"}
+{ "resource-id" : "com.etsy.android:id/styledBannerContentCard" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/42_284_1038_587.png"}
+{ "resource-id" : "com.etsy.android:id/headerTitle" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/42_692_377_739.png"}
+{ "content-desc" : "See more Recently viewed" , "resource-id" : "com.etsy.android:id/headerViewAllLink" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/840_665_1059_760.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/42_781_339_1078.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/381_781_678_1078.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/720_781_1017_1078.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/1059_781_1080_1078.png"}
+{ "resource-id" : "com.etsy.android:id/headerTitle" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/42_1152_455_1199.png"}
+{ "resource-id" : "com.etsy.android:id/headerTitle" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/42_1673_387_1720.png"}
+{ "content-desc" : "See more Our picks for you" , "resource-id" : "com.etsy.android:id/headerViewAllLink" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/840_1646_1059_1741.png"}
+{ "content-desc" : "Add Letter Necklace by Caitlyn Minimalist • Name Necklace • Perfect for Your Minimalist Look • Gifts for Mom • NM54F77 to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/403_1783_498_1878.png"}
+{ "content-desc" : "Add Wood Therapy Manual to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/922_1783_1017_1878.png"}
+{ "content-desc" : "Add Military Itty Bitty/Military Doll/Itty Bitty Soldier/Soldier Doll/Army/Air Force/Navy/Marines/Camo/Military Gift/Deployment Gift/Camo Gift to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/403_2182_498_2214.png"}
+{ "content-desc" : "Add Personalized Cape - Kids cape - Superhero Cape - Superhero Cape and mask - Cape for Kids - Superhero Party Favor - Super Hero Cape to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/922_2182_1017_2214.png"}
+{ "content-desc" : "Add Moon Landing Keycap for Cherry MX Keycap Mechanical Gaming Keyboards - Kalih Keycap - Gateron Keycap to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/223_802_318_897.png"}
+{ "content-desc" : "Add Billie Eilish 3 to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/562_802_657_897.png"}
+{ "content-desc" : "Add Cat Tree, Eye-Catchy Black and White Cat Tower with a Eco-Friendly Hand-Woven Paper Rope Condo, Perch, Scratching Posts and Toy 27"x19"x49" to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-remove-from-cart/S0/pngs/901_802_996_897.png"}

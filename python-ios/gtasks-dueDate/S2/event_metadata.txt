@@ -1,0 +1,4 @@
+pathToElementImageCrop: gtasks-dueDate/S2/pngs/32.0_1190.0_718.0_1226.0.png;
+coords: {'x1': 32.0, 'y1': 1190.0, 'x2': 718.0, 'y2': 1226.0};
+text_identifier: { "label" : "Set time" };
+event: click;

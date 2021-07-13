@@ -1,0 +1,34 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "cnn-unbookmark",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Saved Stories",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Article Title",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Bookmark",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Video Icon",
+                "event": "click"
+            },
+            {
+                "event": "oracle-element_invisible",
+                "oracle-type": "element_invisible",
+                "type": "name",
+                "tag": "Article Title"
+            }
+        ]
+    }
+}

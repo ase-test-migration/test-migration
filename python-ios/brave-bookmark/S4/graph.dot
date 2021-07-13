@@ -1,0 +1,70 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Brave\l|label = Brave\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 40\l|width = 375\l|height = 627\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/0.0_80.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 40\l|width = 375\l|height = 627\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/0.0_80.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 40\l|width = 375\l|height = 627\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/0.0_80.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 40\l|width = 375\l|height = 627\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/0.0_80.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeNavigationBar\l|name = New bookmark\l|enabled = true\l|visible = true\l|x = 0\l|y = 40\l|width = 375\l|height = 56\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/0.0_80.0_750.0_192.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 40\l|width = 375\l|height = 627\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/0.0_80.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeButton\l|name = Cancel\l|label = Cancel\l|enabled = true\l|visible = true\l|x = 8\l|y = 46\l|width = 64\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/16.0_92.0_144.0_180.0.png\l}"]
+	10	[label="{type = XCUIElementTypeStaticText\l|value = New bookmark\l|name = New bookmark\l|label = New bookmark\l|enabled = true\l|visible = true\l|x = 127\l|y = 58\l|width = 121\l|height = 21\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/254.0_116.0_496.0_158.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|name = Save\l|label = Save\l|enabled = true\l|visible = true\l|x = 322\l|y = 46\l|width = 45\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = true \l|screenshotPath = brave-bookmark/S4/pngs/644.0_92.0_734.0_180.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 40\l|width = 375\l|height = 627\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/0.0_80.0_750.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 40\l|width = 375\l|height = 627\l|index = 0\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/0.0_80.0_750.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 132\l|width = 375\l|height = 81\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/0.0_264.0_750.0_426.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 213\l|width = 375\l|height = 56\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/0.0_426.00000000000006_750.0_538.0.png\l}"]
+	16	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 268\l|width = 375\l|height = 45\l|index = 2\l|numberOfChildren = 3\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/0.0_536.0_750.0_626.0.png\l}"]
+	17	[label="{type = XCUIElementTypeTextField\l|value = Google\l|label = \l|enabled = true\l|visible = true\l|x = 80\l|y = 142\l|width = 295\l|height = 23\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/160.0_284.0_750.0_330.0.png\l}"]
+	18	[label="{type = XCUIElementTypeTextField\l|value = https://www.google.com/\l|label = \l|enabled = true\l|visible = true\l|x = 80\l|y = 181\l|width = 295\l|height = 22\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/160.0_362.0_750.0_406.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 132\l|width = 375\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/0.0_264.0_750.0_266.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 140\l|width = 375\l|height = 65\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/0.0_280.0_750.0_410.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 212\l|width = 375\l|height = 1\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/0.0_424.0_750.0_426.0.png\l}"]
+	22	[label="{type = XCUIElementTypeStaticText\l|value = Location\l|name = Location\l|label = Location\l|enabled = true\l|visible = true\l|x = 0\l|y = 213\l|width = 375\l|height = 56\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/0.0_426.00000000000006_750.0_538.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 268\l|width = 375\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/0.0_536.0_750.0_538.0.png\l}"]
+	24	[label="{type = XCUIElementTypeStaticText\l|value = Mobile Bookmarks\l|name = Mobile Bookmarks\l|label = Mobile Bookmarks\l|enabled = true\l|visible = true\l|x = 37\l|y = 280\l|width = 330\l|height = 21\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/74.0_560.0_734.0_602.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 312\l|width = 375\l|height = 1\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/0.0_624.0_750.0_626.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 140\l|width = 64\l|height = 65\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/16.0_280.0_144.0_410.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 80\l|y = 142\l|width = 295\l|height = 61\l|index = 1\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/160.0_284.0_750.0_406.0.png\l}"]
+	28	[label="{type = XCUIElementTypeTextField\l|value = Google\l|label = \l|enabled = true\l|visible = true\l|x = 80\l|y = 142\l|width = 295\l|height = 23\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/160.0_284.0_750.0_330.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 80\l|y = 172\l|width = 295\l|height = 1\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/160.0_344.00000000000006_750.0_346.00000000000006.png\l}"]
+	30	[label="{type = XCUIElementTypeTextField\l|value = https://www.google.com/\l|label = \l|enabled = true\l|visible = true\l|x = 80\l|y = 181\l|width = 295\l|height = 22\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = brave-bookmark/S4/pngs/160.0_362.0_750.0_406.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	6 -> 8
+	7 -> 9
+	7 -> 10
+	7 -> 11
+	8 -> 12
+	12 -> 13
+	13 -> 14
+	13 -> 15
+	13 -> 16
+	13 -> 17
+	13 -> 18
+	14 -> 19
+	14 -> 20
+	14 -> 21
+	15 -> 22
+	16 -> 23
+	16 -> 24
+	16 -> 25
+	20 -> 26
+	20 -> 27
+	27 -> 28
+	27 -> 29
+	27 -> 30
+
+
+}

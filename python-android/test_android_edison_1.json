@@ -1,0 +1,30 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "edison-search",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Search"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys",
+                    "tag": "com.easilydo.mail:id/email_search_toolbar_edittext",
+                    "input": "Testing 1"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Testing 1 search term"
+                }
+            ]
+        }
+    ]
+}

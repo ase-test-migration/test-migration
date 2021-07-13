@@ -1,0 +1,4 @@
+pathToElementImageCrop: cnn-unbookmark/S0/pngs/642_2038_708_2104.png;
+coords: {'x1': 642, 'y1': 2038, 'x2': 708, 'y2': 2104};
+text_identifier: { "text" : "" , "resource-id" : "com.cnn.mobile.android.phone:id/icon" };
+event: click;

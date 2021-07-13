@@ -1,0 +1,35 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "usa-bookmark",
+        "events":[
+                {
+                    "tag": "frontSearchBarButton",
+                    "type": "accessibilityId",
+                    "event": "click"
+                },
+                {
+                    "tag": "Search for news and sections",
+                    "type": "accessibilityId",
+                    "event": "oracle",
+                    "oracle-type": "widget_exists"
+                },
+                {
+                    "input": "travel",
+                    "tag": "Search for news and sections",
+                    "type": "accessibilityId",
+                    "event": "send_keys_enter"
+                },
+                {
+                    "tag": "EU sets out virus pass plan to allow free travel by summer",
+                    "type": "accessibilityId",
+                    "event": "click"
+                },
+                {
+                    "input": "'We can't afford to lose another season'",
+                    "event": "oracle",
+                    "oracle-type": "text_exists"
+                }
+        ]
+    }
+}

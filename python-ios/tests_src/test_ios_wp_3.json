@@ -1,0 +1,39 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout":0
+    },
+    "tests" : [
+        {
+            "name" : "test_WP_TopMenu",
+            "events": 
+            [
+                {
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeButton[@name=\"Section Name\"])[1]",
+                    "type": "xPath"
+                },
+                {
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeButton[@name=\"Section Name\"])[2]",
+                    "type": "xPath"
+                },
+                {
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeButton[@name=\"Section Name\"])[3]",
+                    "type": "xPath"
+                },
+                {
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeButton[@name=\"Section Name\"])[3]",
+                    "type": "xPath"
+                }
+            ]
+    }
+    ]
+}

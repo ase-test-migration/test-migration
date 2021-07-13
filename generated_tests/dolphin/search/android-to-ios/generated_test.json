@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "dolphin-search",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Type a URL or Search",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Bookmarks",
+                "event": "send_keys_enter",
+                "input": "google.com"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Google"
+            }
+        ]
+    }
+}

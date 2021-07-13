@@ -1,0 +1,29 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "mytasks-remove",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.weekly.app:id/text_view_tasks_title"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/androidx.viewpager.widget.ViewPager/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.LinearLayout/android.widget.LinearLayout[5]/android.widget.ImageView"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.weekly.app:id/button_confirm_dialog_positive"
+                }
+            ]
+        }
+    ]
+}

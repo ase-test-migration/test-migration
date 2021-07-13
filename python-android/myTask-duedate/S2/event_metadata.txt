@@ -1,0 +1,4 @@
+pathToElementImageCrop: myTask-duedate/S2/pngs/226_1635_435_1752.png;
+coords: {'x1': 226, 'y1': 1635, 'x2': 435, 'y2': 1752};
+text_identifier: { "resource-id" : "com.weekly.app:id/view_week_transfer" };
+event: click;

@@ -1,0 +1,5 @@
+pathToElementImageCrop: wish-delCart/S4/pngs/248.0_304.0_502.0_342.0.png;
+coords: {'x1': 248.0, 'y1': 304.0, 'x2': 502.0, 'y2': 342.0};
+text_identifier: { "label" : "Your cart is empty!" };
+event: oracle;
+oracle-type: widget_exists;

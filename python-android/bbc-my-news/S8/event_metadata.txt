@@ -1,0 +1,4 @@
+pathToElementImageCrop: bbc-my-news/S8/pngs/60_546_168_654.png;
+coords: {'x1': 60, 'y1': 546, 'x2': 168, 'y2': 654};
+text_identifier: { "content-desc" : "Remove topic" , "resource-id" : "bbc.mobile.news.uk:id/button_tick" };
+event: click;

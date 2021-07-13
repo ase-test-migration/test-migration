@@ -1,0 +1,38 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{class = hierarchy\l|rotation = 0\l|width = 1080\l|height = 1776\l|numberOfChildren = 1\l|eventGeneratedOnElement = false \l}"]
+	1	[label="{class = android.widget.FrameLayout\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,0][1080,1776]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	2	[label="{class = android.widget.LinearLayout\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,0][1080,1776]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	3	[label="{class = android.widget.FrameLayout\l|text = \l|resource-id = android:id/content\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,0][1080,1776]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	4	[label="{class = android.widget.LinearLayout\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,0][1080,1776]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	5	[label="{class = android.widget.LinearLayout\l|text = \l|resource-id = com.contextlogic.wish:id/base_dialog_content\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,0][1080,1776]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-remove-item-from-cart/S3/pngs/0_0_1080_1776.png\l}"]
+	6	[label="{class = android.widget.LinearLayout\l|text = \l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [81,417][999,1358]\l|displayed = true\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-remove-item-from-cart/S3/pngs/81_417_999_1358.png\l}"]
+	7	[label="{class = android.widget.ImageView\l|text = \l|resource-id = com.contextlogic.wish:id/multi_button_dialog_fragment_x_button\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [909,447][969,507]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-remove-item-from-cart/S3/pngs/909_447_969_507.png\l}"]
+	8	[label="{class = android.widget.LinearLayout\l|text = \l|resource-id = com.contextlogic.wish:id/multi_button_dialog_fragment_content\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [81,507][999,1358]\l|displayed = true\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l}"]
+	9	[label="{class = android.view.ViewGroup\l|text = \l|resource-id = com.contextlogic.wish:id/multi_button_dialog_fragment_custom_view_container\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [435,531][645,741]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	10	[label="{class = android.widget.TextView\l|text = Remove this item from cart?\l|resource-id = com.contextlogic.wish:id/multi_button_dialog_fragment_title\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [153,741][927,958]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l}"]
+	11	[label="{class = android.widget.LinearLayout\l|text = \l|resource-id = com.contextlogic.wish:id/multi_button_dialog_fragment_choices_container\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [153,1030][927,1286]\l|displayed = true\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l}"]
+	12	[label="{class = android.widget.ImageView\l|text = \l|resource-id = com.contextlogic.wish:id/multi_button_dialog_fragment_network_image\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [435,531][645,741]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	13	[label="{class = android.widget.Button\l|text = Remove\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [153,1030][927,1174]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = wish-remove-item-from-cart/S3/pngs/153_1030_927_1174.png\l}"]
+	14	[label="{class = android.widget.TextView\l|text = Save to Wishlist\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [153,1222][927,1286]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-remove-item-from-cart/S3/pngs/153_1222_927_1286.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	6 -> 8
+	8 -> 9
+	8 -> 10
+	8 -> 11
+	9 -> 12
+	11 -> 13
+	11 -> 14
+
+
+}

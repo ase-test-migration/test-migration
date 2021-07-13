@@ -1,0 +1,5 @@
+pathToElementImageCrop: target-addCart/S1/pngs/126_130_828_187.png;
+coords: {'x1': 126, 'y1': 130, 'x2': 828, 'y2': 187};
+text_identifier: { "resource-id" : "com.target.ui:id/searchField" };
+event: send_keys_enter;
+input: Coke;

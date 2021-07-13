@@ -1,0 +1,5 @@
+pathToElementImageCrop: msToDo-duedate/S2/pngs/180_768_885_833.png;
+coords: {'x1': 180, 'y1': 768, 'x2': 885, 'y2': 833};
+text_identifier: { "resource-id" : "com.microsoft.todos:id/create_task_edit_text" };
+event: send_keys_enter;
+input: Mytask;

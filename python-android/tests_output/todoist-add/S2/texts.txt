@@ -1,0 +1,18 @@
+{ "resource-id" : "com.todoist:id/quick_add_item_container" , "screenshotPath" : "todoist-add/S2/pngs/0_171_1080_1463.png"}
+{ "resource-id" : "com.todoist:id/toolbar" , "screenshotPath" : "todoist-add/S2/pngs/0_171_1080_325.png"}
+{ "resource-id" : "android:id/list" , "screenshotPath" : "todoist-add/S2/pngs/0_171_1080_1463.png"}
+{ "resource-id" : "com.todoist:id/quick_add_item_content_wrapper" , "screenshotPath" : "todoist-add/S2/pngs/0_1077_1080_1463.png"}
+{ "content-desc" : "Change the current view" , "screenshotPath" : "todoist-add/S2/pngs/0_171_154_325.png"}
+{ "resource-id" : "com.todoist:id/section" , "screenshotPath" : "todoist-add/S2/pngs/0_347_1080_457.png"}
+{ "resource-id" : "com.todoist:id/root" , "screenshotPath" : "todoist-add/S2/pngs/0_460_1080_642.png"}
+{ "resource-id" : "android:id/message" , "screenshotPath" : "todoist-add/S2/pngs/44_1121_1036_1188.png"}
+{ "resource-id" : "com.todoist:id/schedule" , "screenshotPath" : "todoist-add/S2/pngs/44_1232_248_1331.png"}
+{ "resource-id" : "com.todoist:id/project" , "screenshotPath" : "todoist-add/S2/pngs/270_1232_471_1331.png"}
+{ "content-desc" : "Label" , "resource-id" : "com.todoist:id/label" , "screenshotPath" : "todoist-add/S2/pngs/11_1331_143_1463.png"}
+{ "content-desc" : "Priority" , "resource-id" : "com.todoist:id/priority" , "screenshotPath" : "todoist-add/S2/pngs/143_1331_275_1463.png"}
+{ "content-desc" : "Reminders" , "resource-id" : "com.todoist:id/reminders" , "screenshotPath" : "todoist-add/S2/pngs/275_1331_407_1463.png"}
+{ "content-desc" : "Comment" , "resource-id" : "com.todoist:id/note" , "screenshotPath" : "todoist-add/S2/pngs/407_1331_539_1463.png"}
+{ "content-desc" : "Add" , "resource-id" : "android:id/button1" , "screenshotPath" : "todoist-add/S2/pngs/948_1331_1080_1463.png"}
+{ "content-desc" : "Search" , "resource-id" : "com.todoist:id/menu_content_search" , "screenshotPath" : "todoist-add/S2/pngs/837_182_969_314.png"}
+{ "content-desc" : "More options" , "screenshotPath" : "todoist-add/S2/pngs/969_182_1080_314.png"}
+{ "content-desc" : "Complete" , "resource-id" : "com.todoist:id/checkmark" , "screenshotPath" : "todoist-add/S2/pngs/39_487_116_564.png"}

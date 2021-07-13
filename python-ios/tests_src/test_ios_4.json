@@ -1,0 +1,33 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer"
+    },
+    "tests" : [
+        {
+            "name" : "testPrivacySettings",
+            "events": [
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "Settings",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "Privacy Settings",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "coordinate", 
+                    "x" : 332,
+                    "y": 277,
+                    "event" : "click" 
+                }
+            ]
+        }
+    ]
+}

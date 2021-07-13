@@ -1,0 +1,4 @@
+pathToElementImageCrop: todoist-remove/S0/pngs/96.0_484.0_196.0_524.0.png;
+coords: {'x1': 96.0, 'y1': 484.0, 'x2': 196.0, 'y2': 524.0};
+text_identifier: { "label" : "testing" };
+event: click;

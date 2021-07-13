@@ -1,0 +1,4 @@
+pathToElementImageCrop: twobird-delMail/S2/pngs/0_2081_1080_2197.png;
+coords: {'x1': 0, 'y1': 2081, 'x2': 1080, 'y2': 2197};
+text_identifier: { "content-desc" : "Trash" };
+event: click;

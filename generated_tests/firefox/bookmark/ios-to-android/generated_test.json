@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "firefox-bookmark",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "Search or enter address",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "org.mozilla.firefox:id/mozac_browser_toolbar_edit_url_view",
+                "event": "send_keys_enter",
+                "input": "google.com"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "\u041f\u0440\u0438\u0458\u0430\u0432\u0438 \u043c\u0435",
+                "event": "click"
+            }
+        ]
+    }
+}

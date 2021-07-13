@@ -1,0 +1,46 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "cnn-edition",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Settings",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Edition",
+                "event": "oracle-assert_equal",
+                "oracle-type": "assert_equal",
+                "attribute": "label",
+                "value": "U.S."
+            },
+            {
+                "type": "name",
+                "tag": "Edition",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Edition",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Search",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Search",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Home",
+                "event": "oracle-assert_equal"
+            }
+        ]
+    }
+}

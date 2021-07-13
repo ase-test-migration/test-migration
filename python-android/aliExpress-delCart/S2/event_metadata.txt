@@ -1,0 +1,4 @@
+pathToElementImageCrop: aliExpress-delCart/S2/pngs/985_115_1048_179.png;
+coords: {'x1': 985, 'y1': 115, 'x2': 1048, 'y2': 179};
+text_identifier: { "resource-id" : "com.alibaba.aliexpresshd:id/ifv_delete_multi_cart_item" };
+event: click;

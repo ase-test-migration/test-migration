@@ -1,0 +1,55 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "testUbeAddFood",
+            "events": [
+                {
+                    "type": "coordinate",
+                    "event": "click",
+                    "x": "241",
+                    "y": "361"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Search menu"
+                },
+                {
+                    "type": "xPath",
+                    "event": "send_keys",
+                    "tag": "//XCUIElementTypeApplication[@name=\"Uber Eats\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeTextField",
+                    "input": "Egg"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//XCUIElementTypeCell[@name=\"Bacon Egg & Cheese Biscuit, $4.39, 450 Cal.\"]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//XCUIElementTypeCell[@name=\"Bacon Egg & Cheese Biscuit, 450 Cal.\"]/XCUIElementTypeOther"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "add 1 to cart"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//XCUIElementTypeStaticText[@name=\"Cancel\"]"
+                }
+            ]
+        }
+    ]
+}

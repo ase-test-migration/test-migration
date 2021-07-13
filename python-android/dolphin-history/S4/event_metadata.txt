@@ -1,0 +1,6 @@
+pathToElementImageCrop: ;
+coords: ;
+text_identifier: { Chess.com };
+event: oracle;
+oracle-type: text_exists;
+input: Chess.com;

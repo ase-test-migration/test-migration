@@ -1,0 +1,4 @@
+pathToElementImageCrop: firefox-tab/S0/pngs/882_2038_948_2104.png;
+coords: {'x1': 882, 'y1': 2038, 'x2': 948, 'y2': 2104};
+text_identifier: { "content-desc" : "1 open tab. Tap to switch tabs." , "resource-id" : "org.mozilla.firefox:id/counter_root" , "content-desc" : "The tab counter toolbar button." , "resource-id" : "org.mozilla.firefox:id/counter_box" };
+event: click;

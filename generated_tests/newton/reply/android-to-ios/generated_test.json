@@ -1,0 +1,35 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "newton-reply",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Testing",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "conversation reply all",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Newton Mail",
+                "event": "send_keys",
+                "input": "Testing 2"
+            },
+            {
+                "type": "name",
+                "tag": "SEND",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "oracle-type": "widget_exists",
+                "type": "name",
+                "tag": "via Testing 2"
+            }
+        ]
+    }
+}

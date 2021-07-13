@@ -1,0 +1,20 @@
+{ "resource-id" : "com.etsy.android:id/app_bar_toolbar" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/0_74_1080_221.png"}
+{ "content-desc" : "Home tab, 1 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_home" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/0_2214_216_2287.png"}
+{ "content-desc" : "Favorites tab, 2 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_favorites" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/216_2214_432_2287.png"}
+{ "content-desc" : "Updates tab, 3 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_updates" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/432_2214_648_2287.png"}
+{ "content-desc" : "You tab, 4 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_you" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/648_2214_864_2287.png"}
+{ "content-desc" : "Cart tab, 5 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_cart" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/864_2214_1080_2287.png"}
+{ "content-desc" : "Navigate up" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/0_74_147_221.png"}
+{ "resource-id" : "com.etsy.android:id/recycler_view" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/0_221_1080_2214.png"}
+{ "resource-id" : "com.etsy.android:id/search_src_text" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/147_99_954_194.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/21_502_530_1124.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/551_502_1059_1124.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/21_1145_530_1767.png"}
+{ "content-desc" : "Add ZAHRA | Antique Persian Heriz Pattern Oriental Rug, Hand-knotted texture, Traditional decor, Mid-century Modern, Navy blue, Red, Area Rugs to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/414_523_509_618.png"}
+{ "content-desc" : "Show menu of listing actions for ZAHRA | Antique Persian Heriz Pattern Oriental Rug, Hand-knotted texture, Traditional decor, Mid-century Modern, Navy blue, Red, Area Rugs" , "resource-id" : "com.etsy.android:id/btn_menu" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/435_998_530_1124.png"}
+{ "content-desc" : "Add Zahra 237 x 134  cm to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/943_523_1038_618.png"}
+{ "content-desc" : "Show menu of listing actions for Zahra 237 x 134  cm" , "resource-id" : "com.etsy.android:id/btn_menu" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/964_998_1059_1124.png"}
+{ "content-desc" : "Add Moroccan Berber Rug Beni Ourain Lalla Zahra 2.53 m x 1.57 m Beniourain Berber Rug Berber Rug | New Carpet | 8.30 ft x 5.15 ft to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/414_1166_509_1261.png"}
+{ "content-desc" : "Show menu of listing actions for Moroccan Berber Rug Beni Ourain Lalla Zahra 2.53 m x 1.57 m Beniourain Berber Rug Berber Rug | New Carpet | 8.30 ft x 5.15 ft" , "resource-id" : "com.etsy.android:id/btn_menu" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/435_1641_530_1767.png"}
+{ "content-desc" : "Change to 3x3 grid" , "resource-id" : "com.etsy.android:id/toggle_3x3_view_button" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/31_253_283_379.png"}
+{ "content-desc" : "Filter Button" , "resource-id" : "com.etsy.android:id/filter_button" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/795_253_1049_379.png"}

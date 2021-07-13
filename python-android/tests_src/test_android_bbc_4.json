@@ -1,0 +1,36 @@
+{
+    "desiredCapabilities": {
+      "platformName": "Android",
+      "platformVersion": "9",
+      "deviceName": "Nexus_5_API_28",
+      "newCommandTimeout": 1000
+
+    },
+    "tests" :[
+                {
+
+                    "name" : "testBBCPopularNews",
+                    "events" : [
+                      {
+                          "event": "click",
+                          "tag": "Popular",
+                          "type": "accessibilityId"
+                      },
+                      {
+                          "event": "click",
+                          "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[5]/android.view.ViewGroup/android.widget.TextView[2]",
+                          "type": "xPath"
+                      },
+                      {
+                          "event": "click",
+                          "tag": "Play",
+                          "type": "accessibilityId"
+                      }
+                  ]
+
+
+
+
+    }
+]
+}

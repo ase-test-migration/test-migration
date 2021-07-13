@@ -1,0 +1,18 @@
+{
+    "desiredCapabilities": {
+      "platformName": "Android",
+      "platformVersion": "9",
+      "deviceName": "Nexus_5_API_28"
+    },
+    
+    "tests" : [
+        {
+            "name" : "backtest",
+            "events": [
+                {
+                    "event" : "back"
+                }
+            ]
+        }
+    ]
+}

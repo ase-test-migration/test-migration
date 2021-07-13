@@ -1,0 +1,20 @@
+{
+    "tests": [
+        {
+            "name": "testWishRemoveItem", 
+            "events": [
+                {
+                    "tag": "com.contextlogic.wish:id/browse_button", 
+                    "type": "id", 
+                    "event": "click"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+      "platformName": "Android",
+      "platformVersion": "9",
+      "deviceName": "Nexus_5_API_28",
+      "newCommandTimeout": 1000
+    }
+}

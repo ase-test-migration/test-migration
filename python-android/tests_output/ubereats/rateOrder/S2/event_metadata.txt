@@ -1,0 +1,4 @@
+pathToElementImageCrop: rateOrder/S2/pngs/469_1023_625_1143.png;
+coords: {'x1': 469, 'y1': 1023, 'x2': 625, 'y2': 1143};
+text_identifier: { "content-desc" : "Double tap to rate 3 stars" };
+event: click;

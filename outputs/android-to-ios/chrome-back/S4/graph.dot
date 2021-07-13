@@ -1,0 +1,74 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Chrome\l|label = Chrome\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 70\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/0.0_0.0_750.0_140.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 2\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 375\l|height = 44\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/0.0_1246.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 24\l|width = 355\l|height = 36\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/20.0_47.99999999999999_730.0_120.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/0.0_1246.0_750.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 24\l|width = 355\l|height = 36\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/20.0_47.99999999999999_730.0_120.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 70\l|width = 375\l|height = 553\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/0.0_140.0_750.0_1246.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 623\l|width = 355\l|height = 44\l|index = 1\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/20.0_1246.0_730.0_1334.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 24\l|width = 355\l|height = 36\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/20.0_47.99999999999999_730.0_120.0.png\l}"]
+	17	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	18	[label="{type = XCUIElementTypeButton\l|name = Back\l|label = Back\l|enabled = true\l|visible = true\l|x = 10\l|y = 623\l|width = 44\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/20.0_1246.0_108.0_1334.0.png\l}"]
+	19	[label="{type = XCUIElementTypeButton\l|name = Forward\l|label = Forward\l|enabled = false\l|visible = true\l|x = 88\l|y = 623\l|width = 44\l|height = 44\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/176.0_1246.0_264.0_1334.0.png\l}"]
+	20	[label="{type = XCUIElementTypeButton\l|name = kToolbarNewTabButtonIdentifier\l|label = New Tab\l|enabled = true\l|visible = true\l|x = 165\l|y = 623\l|width = 45\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/330.0_1246.0_420.0_1334.0.png\l}"]
+	21	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = kToolbarStackButtonIdentifier\l|label = Show Tabs\l|enabled = true\l|visible = true\l|x = 243\l|y = 623\l|width = 45\l|height = 44\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/486.0_1246.0_576.0_1334.0.png\l}"]
+	22	[label="{type = XCUIElementTypeButton\l|name = kToolbarToolsMenuButtonIdentifier\l|label = Menu\l|enabled = true\l|visible = true\l|x = 314\l|y = 623\l|width = 44\l|height = 44\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/628.0_1246.0_716.0_1334.0.png\l}"]
+	23	[label="{type = XCUIElementTypeButton\l|value = wikipedia.org Secure\l|name = Address and search bar\l|label = Address and search bar\l|enabled = true\l|visible = true\l|x = 10\l|y = 24\l|width = 355\l|height = 36\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/20.0_47.99999999999999_730.0_120.0.png\l}"]
+	24	[label="{type = XCUIElementTypeButton\l|name = kOmniboxShareButtonIdentifier\l|label = Share…\l|enabled = true\l|visible = true\l|x = 330\l|y = 30\l|width = 24\l|height = 24\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/660.0_60.00000000000001_708.0_108.0.png\l}"]
+	25	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	26	[label="{type = XCUIElementTypeStaticText\l|value = 1\l|name = 1\l|label = 1\l|enabled = true\l|visible = true\l|x = 258\l|y = 638\l|width = 15\l|height = 14\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/516.0_1276.0_546.0_1304.0.png\l}"]
+	27	[label="{type = XCUIElementTypeStaticText\l|value = wikipedia.org\l|name = wikipedia.org\l|label = wikipedia.org\l|enabled = true\l|visible = true\l|x = 146\l|y = 31\l|width = 101\l|height = 21\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/292.0_62.0_494.0_104.0.png\l}"]
+	28	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 3 pages\l|label = Vertical scroll bar, 3 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 20\l|width = 30\l|height = 647\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/684.0_40.0_744.0_1334.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 70\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/chrome-back/S4/pngs/0.0_140.0_750.0_1474.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	6 -> 8
+	6 -> 9
+	7 -> 10
+	8 -> 11
+	9 -> 12
+	10 -> 13
+	11 -> 14
+	12 -> 15
+	13 -> 16
+	14 -> 17
+	15 -> 18
+	15 -> 19
+	15 -> 20
+	15 -> 21
+	15 -> 22
+	16 -> 23
+	16 -> 24
+	17 -> 25
+	21 -> 26
+	23 -> 27
+	25 -> 28
+	25 -> 29
+	28 -> 30
+	30 -> 31
+	31 -> 32
+
+
+}

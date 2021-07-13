@@ -1,0 +1,41 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "newton-reply",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.cloudmagic.mail:id/subject"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.cloudmagic.mail:id/unread_filter"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys",
+                    "tag": "com.cloudmagic.mail:id/composeMail",
+                    "input": "Testing 2"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.cloudmagic.mail:id/send_mail_text"
+                },
+                {
+                    "type": "xPath",
+                    "event": "oracle",
+                    "oracle-type": "widget_exists",
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.RelativeLayout/android.widget.RelativeLayout/android.view.ViewGroup/android.widget.LinearLayout/androidx.viewpager.widget.ViewPager/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.RelativeLayout[2]/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[1]"
+                }
+            ]
+        }
+    ]
+}

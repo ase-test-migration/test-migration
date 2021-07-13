@@ -1,0 +1,50 @@
+{
+    "tests": [
+        {
+            "name": "target-login", 
+            "events": [
+                {
+                    "tag": "account_tab_button_item", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                },
+                {
+                    "tag": "accountSignInButton", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "//XCUIElementTypeOther[@name=\"Target Login\"]/XCUIElementTypeOther[3]/XCUIElementTypeTextField", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "input": "email@example.com", 
+                    "tag": "//XCUIElementTypeOther[@name=\"Target Login\"]/XCUIElementTypeOther[3]/XCUIElementTypeTextField", 
+                    "type": "xPath", 
+                    "event": "send_keys_enter"
+                }, 
+                {
+                    "input": "Test0123", 
+                    "tag": "//XCUIElementTypeOther[@name=\"Target Login\"]/XCUIElementTypeOther[4]/XCUIElementTypeSecureTextField", 
+                    "type": "xPath", 
+                    "event": "send_keys_enter"
+                }, 
+                {
+                    "tag": "//XCUIElementTypeButton[@name=\"Sign in\"]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "14.3", 
+        "platformName": "iOS"
+    }
+}

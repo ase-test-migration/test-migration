@@ -1,0 +1,4 @@
+pathToElementImageCrop: bbc-bookmark/S1/pngs/229_1346_1036_1421.png;
+coords: {'x1': 229, 'y1': 1346, 'x2': 1036, 'y2': 1421};
+text_identifier: { "resource-id" : "bbc.mobile.news.ww:id/headline_link" };
+event: click;

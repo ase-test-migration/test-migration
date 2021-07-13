@@ -1,0 +1,178 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Edge\l|label = Edge\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 622\l|width = 375\l|height = 45\l|index = 1\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/0.0_1244.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeButton\l|name = FooterBackButton\l|label = Back\l|enabled = false\l|visible = true\l|x = 28\l|y = 622\l|width = 30\l|height = 46\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/56.00000000000001_1244.0_116.0_1336.0.png\l}"]
+	9	[label="{type = XCUIElementTypeButton\l|name = FooterForwardButton\l|label = Forward\l|enabled = false\l|visible = true\l|x = 94\l|y = 622\l|width = 30\l|height = 46\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/188.0_1244.0_248.0_1336.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|name = BrowserMenuButton\l|label = Browser menu\l|enabled = true\l|visible = true\l|x = 163\l|y = 631\l|width = 49\l|height = 28\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/326.0_1262.0_424.0_1318.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|name = TabCenterButton\l|label = 1 open tabs\l|enabled = true\l|visible = true\l|x = 251\l|y = 622\l|width = 30\l|height = 46\l|index = 3\l|numberOfChildren = 2\l|numInParentLayout = 3\l|eventGeneratedOnElement = true \l|screenshotPath = edge-tab/S0/pngs/502.0_1244.0_562.0_1336.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|name = ShareButton\l|label = Share\l|enabled = false\l|visible = true\l|x = 317\l|y = 622\l|width = 30\l|height = 46\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/634.0_1244.0_694.0_1336.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeStaticText\l|value = 1\l|name = 1\l|label = 1\l|enabled = true\l|visible = true\l|x = 251\l|y = 622\l|width = 30\l|height = 46\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = true \l|screenshotPath = edge-tab/S0/pngs/502.0_1244.0_562.0_1336.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	17	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 622\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/0.0_40.0_750.0_1284.0.png\l}"]
+	18	[label="{type = XCUIElementTypeButton\l|name = DualIdentityAvatarImageView\l|label = Switch accounts\l|enabled = true\l|visible = true\l|x = 0\l|y = 21\l|width = 48\l|height = 48\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/0.0_42.0_96.0_138.0.png\l}"]
+	19	[label="{type = XCUIElementTypeButton\l|name = New tab page layout settings\l|label = New tab page layout settings\l|enabled = true\l|visible = true\l|x = 333\l|y = 28\l|width = 30\l|height = 34\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/666.0_56.0_726.0_124.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 1124\l|index = 0\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/0.0_40.0_750.0_2288.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 112\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/0.0_40.0_750.0_264.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|name = NTPSearchBox\l|enabled = true\l|visible = true\l|x = 0\l|y = 131\l|width = 375\l|height = 58\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/0.0_262.0_750.0_378.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|name = HotSitesContainer\l|enabled = true\l|visible = true\l|x = 0\l|y = 189\l|width = 375\l|height = 258\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/0.0_378.00000000000006_750.0_894.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 447\l|width = 375\l|height = 30\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/0.0_894.0_750.0_954.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|name = NTPWebViewContainer\l|enabled = true\l|visible = true\l|x = 0\l|y = 477\l|width = 375\l|height = 667\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/0.0_954.0_750.0_2288.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|name = searchBoxInNTP\l|enabled = true\l|visible = true\l|x = 16\l|y = 135\l|width = 343\l|height = 50\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/32.0_270.0_718.0_370.0.png\l}"]
+	27	[label="{type = XCUIElementTypeCollectionView\l|name = TopSiteCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 189\l|width = 375\l|height = 258\l|index = 0\l|numberOfChildren = 8\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/0.0_378.00000000000006_750.0_894.0.png\l}"]
+	28	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 477\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/0.0_954.0_750.0_2288.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 41\l|y = 135\l|width = 306\l|height = 50\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/82.0_270.0_694.0_370.0.png\l}"]
+	30	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 29\l|y = 224\l|width = 65\l|height = 104\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/58.0_448.0_188.0_656.0.png\l}"]
+	31	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 113\l|y = 224\l|width = 65\l|height = 104\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/226.0_448.0_356.0_656.0.png\l}"]
+	32	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 197\l|y = 224\l|width = 65\l|height = 104\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/394.0_448.0_524.0_656.0.png\l}"]
+	33	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 281\l|y = 224\l|width = 65\l|height = 104\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/562.0_448.0_692.0_656.0.png\l}"]
+	34	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 29\l|y = 343\l|width = 65\l|height = 104\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/58.0_685.9999999999999_188.0_893.9999999999999.png\l}"]
+	35	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 113\l|y = 343\l|width = 65\l|height = 104\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/226.0_685.9999999999999_356.0_893.9999999999999.png\l}"]
+	36	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 197\l|y = 343\l|width = 65\l|height = 104\l|index = 6\l|numberOfChildren = 1\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/394.0_685.9999999999999_524.0_893.9999999999999.png\l}"]
+	37	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 281\l|y = 343\l|width = 65\l|height = 104\l|index = 7\l|numberOfChildren = 1\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/562.0_685.9999999999999_692.0_893.9999999999999.png\l}"]
+	38	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 477\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/0.0_954.0_750.0_2288.0.png\l}"]
+	39	[label="{type = XCUIElementTypeStaticText\l|value = Search or enter web address\l|name = Search or enter web address\l|label = Search or enter web address\l|enabled = true\l|visible = true\l|x = 41\l|y = 135\l|width = 210\l|height = 50\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/82.0_270.0_502.00000000000006_370.0.png\l}"]
+	40	[label="{type = XCUIElementTypeButton\l|name = Camera search\l|label = Camera search\l|enabled = true\l|visible = true\l|x = 251\l|y = 135\l|width = 48\l|height = 50\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/502.0_270.0_598.0_370.0.png\l}"]
+	41	[label="{type = XCUIElementTypeButton\l|name = Microphone\l|label = Microphone\l|enabled = true\l|visible = true\l|x = 299\l|y = 135\l|width = 48\l|height = 50\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/598.0_270.0_694.0_370.0.png\l}"]
+	42	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 224\l|width = 65\l|height = 104\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/58.0_448.0_188.0_656.0.png\l}"]
+	43	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 113\l|y = 224\l|width = 65\l|height = 104\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/226.0_448.0_356.0_656.0.png\l}"]
+	44	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 197\l|y = 224\l|width = 65\l|height = 104\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/394.0_448.0_524.0_656.0.png\l}"]
+	45	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 281\l|y = 224\l|width = 65\l|height = 104\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/562.0_448.0_692.0_656.0.png\l}"]
+	46	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 343\l|width = 65\l|height = 104\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/58.0_685.9999999999999_188.0_893.9999999999999.png\l}"]
+	47	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 113\l|y = 343\l|width = 65\l|height = 104\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/226.0_685.9999999999999_356.0_893.9999999999999.png\l}"]
+	48	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 197\l|y = 343\l|width = 65\l|height = 104\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/394.0_685.9999999999999_524.0_893.9999999999999.png\l}"]
+	49	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 281\l|y = 343\l|width = 65\l|height = 104\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/562.0_685.9999999999999_692.0_893.9999999999999.png\l}"]
+	50	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 477\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/0.0_954.0_750.0_2288.0.png\l}"]
+	51	[label="{type = XCUIElementTypeStaticText\l|value = \l|name = \l|label = \l|enabled = true\l|visible = true\l|x = 264\l|y = 149\l|width = 22\l|height = 23\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/528.0_298.0_572.0_344.0.png\l}"]
+	52	[label="{type = XCUIElementTypeStaticText\l|value = \l|name = \l|label = \l|enabled = true\l|visible = true\l|x = 312\l|y = 149\l|width = 22\l|height = 23\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/624.0_298.0_668.0_344.0.png\l}"]
+	53	[label="{type = XCUIElementTypeLink\l|name = TopSiteLinkView\l|label = Top site, Shopping\l|enabled = true\l|visible = true\l|x = 29\l|y = 224\l|width = 65\l|height = 104\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/58.0_448.0_188.0_656.0.png\l}"]
+	54	[label="{type = XCUIElementTypeLink\l|name = TopSiteLinkView\l|label = Top site, Facebook\l|enabled = true\l|visible = true\l|x = 113\l|y = 224\l|width = 65\l|height = 104\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/226.0_448.0_356.0_656.0.png\l}"]
+	55	[label="{type = XCUIElementTypeLink\l|name = TopSiteLinkView\l|label = Top site, Netflix\l|enabled = true\l|visible = true\l|x = 197\l|y = 224\l|width = 65\l|height = 104\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/394.0_448.0_524.0_656.0.png\l}"]
+	56	[label="{type = XCUIElementTypeLink\l|name = TopSiteLinkView\l|label = Top site, Linkedin\l|enabled = true\l|visible = true\l|x = 281\l|y = 224\l|width = 65\l|height = 104\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/562.0_448.0_692.0_656.0.png\l}"]
+	57	[label="{type = XCUIElementTypeLink\l|name = TopSiteLinkView\l|label = Top site, The Weather Channel\l|enabled = true\l|visible = true\l|x = 29\l|y = 343\l|width = 65\l|height = 104\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/58.0_685.9999999999999_188.0_893.9999999999999.png\l}"]
+	58	[label="{type = XCUIElementTypeLink\l|name = TopSiteLinkView\l|label = Top site, Instagram\l|enabled = true\l|visible = true\l|x = 113\l|y = 343\l|width = 65\l|height = 104\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/226.0_685.9999999999999_356.0_893.9999999999999.png\l}"]
+	59	[label="{type = XCUIElementTypeLink\l|name = TopSiteLinkView\l|label = Top site, Pandora\l|enabled = true\l|visible = true\l|x = 197\l|y = 343\l|width = 65\l|height = 104\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/394.0_685.9999999999999_524.0_893.9999999999999.png\l}"]
+	60	[label="{type = XCUIElementTypeLink\l|name = TopSiteLinkView\l|label = Top site, Bing\l|enabled = true\l|visible = true\l|x = 281\l|y = 343\l|width = 65\l|height = 104\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/562.0_685.9999999999999_692.0_893.9999999999999.png\l}"]
+	61	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	62	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	63	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 477\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/0.0_954.0_750.0_2288.0.png\l}"]
+	64	[label="{type = XCUIElementTypeOther\l|name = Microsoft News\l|label = Microsoft News\l|enabled = true\l|visible = true\l|x = 0\l|y = 477\l|width = 375\l|height = 1216\l|index = 0\l|numberOfChildren = 35\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/0.0_954.0_750.0_3386.0.png\l}"]
+	65	[label="{type = XCUIElementTypeOther\l|name = navigation\l|label = navigation\l|enabled = true\l|visible = true\l|x = 11\l|y = 477\l|width = 337\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/22.0_954.0_696.0_1034.0.png\l}"]
+	66	[label="{type = XCUIElementTypeImage\l|name = Bruce Castor 'began shouting' when he heard an 'enraged' Trump didn't want him to speak after his poorly received Day 1 presentation: NYT - Provided by Business Insider\l|label = Bruce Castor 'began shouting' when he heard an 'enraged' Trump didn't want him to speak after his poorly received Day 1 presentation: NYT - Provided by Business Insider\l|enabled = true\l|visible = true\l|x = 0\l|y = 527\l|width = 441\l|height = 296\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/0.0_1054.0_882.0_1646.0.png\l}"]
+	67	[label="{type = XCUIElementTypeLink\l|name = Bruce Castor 'began shouting' when he heard an 'enraged' Trump didn't want him to speak after his poorly received Day 1 presentation: NYT - From: Business Insider\l|label = Bruce Castor 'began shouting' when he heard an 'enraged' Trump didn't want him to speak after his poorly received Day 1 presentation: NYT - From: Business Insider\l|enabled = true\l|visible = true\l|x = 30\l|y = 699\l|width = 290\l|height = 140\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/60.0_1398.0_640.0_1678.0.png\l}"]
+	68	[label="{type = XCUIElementTypeButton\l|name = TOP VIDEO\l|label = TOP VIDEO\l|enabled = true\l|visible = true\l|x = 32\l|y = 849\l|width = 209\l|height = 20\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/64.0_1698.0_482.0_1738.0.png\l}"]
+	69	[label="{type = XCUIElementTypeLink\l|name = Trump hits back after McConnell blamed him for provoking riot - From: MSNBC\l|label = Trump hits back after McConnell blamed him for provoking riot - From: MSNBC\l|enabled = true\l|visible = true\l|x = 30\l|y = 872\l|width = 195\l|height = 67\l|index = 7\l|numberOfChildren = 1\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/60.0_1744.0_450.0_1878.0.png\l}"]
+	70	[label="{type = XCUIElementTypeButton\l|name = NEWS\l|label = NEWS\l|enabled = true\l|visible = true\l|x = 32\l|y = 1003\l|width = 209\l|height = 20\l|index = 11\l|numberOfChildren = 0\l|numInParentLayout = 11\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/64.0_2006.0_482.0_2046.0.png\l}"]
+	71	[label="{type = XCUIElementTypeLink\l|name = San Diego high-school sweethearts die of Covid-19 hours apart after one last family video call - From: CNN\l|label = San Diego high-school sweethearts die of Covid-19 hours apart after one last family video call - From: CNN\l|enabled = true\l|visible = true\l|x = 30\l|y = 1026\l|width = 202\l|height = 89\l|index = 12\l|numberOfChildren = 1\l|numInParentLayout = 12\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/60.0_2052.0_463.99999999999994_2230.0.png\l}"]
+	72	[label="{type = XCUIElementTypeOther\l|name = More categories\l|label = More categories\l|enabled = true\l|visible = true\l|x = 11\l|y = 477\l|width = 327\l|height = 40\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/22.0_954.0_676.0_1034.0.png\l}"]
+	73	[label="{type = XCUIElementTypeLink\l|value = 3\l|name = Bruce Castor 'began shouting' when he heard an 'enraged' Trump didn't want him to speak after his poorly received Day 1 presentation: NYT - From: Business Insider\l|label = Bruce Castor 'began shouting' when he heard an 'enraged' Trump didn't want him to speak after his poorly received Day 1 presentation: NYT - From: Business Insider\l|enabled = true\l|visible = true\l|x = 30\l|y = 699\l|width = 290\l|height = 140\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/60.0_1398.0_640.0_1678.0.png\l}"]
+	74	[label="{type = XCUIElementTypeLink\l|value = 3\l|name = Trump hits back after McConnell blamed him for provoking riot - From: MSNBC\l|label = Trump hits back after McConnell blamed him for provoking riot - From: MSNBC\l|enabled = true\l|visible = true\l|x = 30\l|y = 872\l|width = 195\l|height = 67\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/60.0_1744.0_450.0_1878.0.png\l}"]
+	75	[label="{type = XCUIElementTypeLink\l|value = 3\l|name = San Diego high-school sweethearts die of Covid-19 hours apart after one last family video call - From: CNN\l|label = San Diego high-school sweethearts die of Covid-19 hours apart after one last family video call - From: CNN\l|enabled = true\l|visible = true\l|x = 30\l|y = 1026\l|width = 202\l|height = 89\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/60.0_2052.0_463.99999999999994_2230.0.png\l}"]
+	76	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = My Feed\l|label = My Feed\l|enabled = true\l|visible = true\l|x = 11\l|y = 477\l|width = 95\l|height = 40\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/22.0_954.0_212.00000000000003_1034.0.png\l}"]
+	77	[label="{type = XCUIElementTypeButton\l|name = Personalize\l|label = Personalize\l|enabled = true\l|visible = true\l|x = 105\l|y = 477\l|width = 115\l|height = 40\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/210.00000000000003_954.0_440.0_1034.0.png\l}"]
+	78	[label="{type = XCUIElementTypeButton\l|name = Coronavirus\l|label = Coronavirus\l|enabled = true\l|visible = true\l|x = 218\l|y = 477\l|width = 120\l|height = 40\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/436.0_954.0_676.0_1034.0.png\l}"]
+	79	[label="{type = XCUIElementTypeLink\l|value = 3\l|name = Bruce Castor 'began shouting' when he heard an 'enraged' Trump didn't want him to speak after his poorly received Day 1 presentation: NYT - From: Business Insider\l|label = Bruce Castor 'began shouting' when he heard an 'enraged' Trump didn't want him to speak after his poorly received Day 1 presentation: NYT - From: Business Insider\l|enabled = true\l|visible = true\l|x = 30\l|y = 699\l|width = 290\l|height = 140\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/60.0_1398.0_640.0_1678.0.png\l}"]
+	80	[label="{type = XCUIElementTypeLink\l|value = 3\l|name = Trump hits back after McConnell blamed him for provoking riot - From: MSNBC\l|label = Trump hits back after McConnell blamed him for provoking riot - From: MSNBC\l|enabled = true\l|visible = true\l|x = 30\l|y = 872\l|width = 195\l|height = 67\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/60.0_1744.0_450.0_1878.0.png\l}"]
+	81	[label="{type = XCUIElementTypeLink\l|value = 3\l|name = San Diego high-school sweethearts die of Covid-19 hours apart after one last family video call - From: CNN\l|label = San Diego high-school sweethearts die of Covid-19 hours apart after one last family video call - From: CNN\l|enabled = true\l|visible = true\l|x = 30\l|y = 1026\l|width = 202\l|height = 89\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/60.0_2052.0_463.99999999999994_2230.0.png\l}"]
+	82	[label="{type = XCUIElementTypeStaticText\l|value = Bruce Castor 'began shouting' when he heard an 'enraged' Trump didn't want him to speak after his poorly received Day 1 presentation: NYT\l|name = Bruce Castor 'began shouting' when he heard an 'enraged' Trump didn't want him to speak after his poorly received Day 1 presentation: NYT - From: Business Insider\l|label = Bruce Castor 'began shouting' when he heard an 'enraged' Trump didn't want him to speak after his poorly received Day 1 presentation: NYT - From: Business Insider\l|enabled = true\l|visible = true\l|x = 30\l|y = 699\l|width = 290\l|height = 140\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/60.0_1398.0_640.0_1678.0.png\l}"]
+	83	[label="{type = XCUIElementTypeStaticText\l|value = Trump hits back after McConnell blamed him for provoking riot\l|name = Trump hits back after McConnell blamed him for provoking riot - From: MSNBC\l|label = Trump hits back after McConnell blamed him for provoking riot - From: MSNBC\l|enabled = true\l|visible = true\l|x = 30\l|y = 872\l|width = 195\l|height = 67\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/60.0_1744.0_450.0_1878.0.png\l}"]
+	84	[label="{type = XCUIElementTypeStaticText\l|value = San Diego high-school sweethearts die of Covid-19 hours apart after one last family video call\l|name = San Diego high-school sweethearts die of Covid-19 hours apart after one last family video call - From: CNN\l|label = San Diego high-school sweethearts die of Covid-19 hours apart after one last family video call - From: CNN\l|enabled = true\l|visible = true\l|x = 30\l|y = 1026\l|width = 202\l|height = 89\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S0/pngs/60.0_2052.0_463.99999999999994_2230.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	5 -> 7
+	6 -> 8
+	6 -> 9
+	6 -> 10
+	6 -> 11
+	6 -> 12
+	7 -> 13
+	11 -> 14
+	13 -> 15
+	15 -> 16
+	16 -> 17
+	16 -> 18
+	16 -> 19
+	17 -> 20
+	20 -> 21
+	20 -> 22
+	20 -> 23
+	20 -> 24
+	20 -> 25
+	22 -> 26
+	23 -> 27
+	25 -> 28
+	26 -> 29
+	27 -> 30
+	27 -> 31
+	27 -> 32
+	27 -> 33
+	27 -> 34
+	27 -> 35
+	27 -> 36
+	27 -> 37
+	28 -> 38
+	29 -> 39
+	29 -> 40
+	29 -> 41
+	30 -> 42
+	31 -> 43
+	32 -> 44
+	33 -> 45
+	34 -> 46
+	35 -> 47
+	36 -> 48
+	37 -> 49
+	38 -> 50
+	40 -> 51
+	41 -> 52
+	42 -> 53
+	43 -> 54
+	44 -> 55
+	45 -> 56
+	46 -> 57
+	47 -> 58
+	48 -> 59
+	49 -> 60
+	50 -> 61
+	61 -> 62
+	62 -> 63
+	63 -> 64
+	64 -> 65
+	64 -> 66
+	64 -> 67
+	64 -> 68
+	64 -> 69
+	64 -> 70
+	64 -> 71
+	65 -> 72
+	67 -> 73
+	69 -> 74
+	71 -> 75
+	72 -> 76
+	72 -> 77
+	72 -> 78
+	73 -> 79
+	74 -> 80
+	75 -> 81
+	79 -> 82
+	80 -> 83
+	81 -> 84
+
+
+}

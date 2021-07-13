@@ -1,0 +1,4 @@
+pathToElementImageCrop: guardian-follow/S3/pngs/541_1430_952_1552.png;
+coords: {'x1': 541, 'y1': 1430, 'x2': 952, 'y2': 1552};
+text_identifier: { "resource-id" : "com.guardian:id/accept_button" };
+event: click;

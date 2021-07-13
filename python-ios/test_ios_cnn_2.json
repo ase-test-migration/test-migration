@@ -1,0 +1,29 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "cnn-category",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "World"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "oracle",
+                    "oracle-type": "widget_exists",
+                    "tag": ", India was in crisis months ago. Why have its Covid cases plummeted?"
+                }
+            ]
+        }
+    ]
+}

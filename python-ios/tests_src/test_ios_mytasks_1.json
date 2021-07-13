@@ -1,0 +1,39 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "mytasks-add",
+            "events": [
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeButton[@name=\"add task light single scale\"])[1]"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "send_keys",
+                    "tag": " ",
+                    "input": "testing"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//XCUIElementTypeNavigationBar[@name=\"\u041c\u043e\u0438_\u0414\u0435\u043b\u0430.TaskEditView\"]/XCUIElementTypeButton[2]"
+                },
+                {
+                    "event": "oracle",
+                    "oracle-type": "text_exists",
+                    "input": "testing"
+                }
+            ]
+        }
+    ]
+}

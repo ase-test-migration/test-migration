@@ -1,0 +1,16 @@
+{ "content-desc" : "Back" , "screenshotPath" : "bbc-my-news/S4/pngs/0_72_168_240.png"}
+{ "resource-id" : "bbc.mobile.news.uk:id/standard_tabs" , "screenshotPath" : "bbc-my-news/S4/pngs/0_240_1080_384.png"}
+{ "resource-id" : "bbc.mobile.news.uk:id/view_pager" , "screenshotPath" : "bbc-my-news/S4/pngs/0_384_1080_1776.png"}
+{ "content-desc" : "Search for topics" , "resource-id" : "bbc.mobile.news.uk:id/search_t" , "screenshotPath" : "bbc-my-news/S4/pngs/936_84_1080_228.png"}
+{ "content-desc" : "My Topics" , "screenshotPath" : "bbc-my-news/S4/pngs/0_240_540_384.png"}
+{ "content-desc" : "Add Topics" , "screenshotPath" : "bbc-my-news/S4/pngs/540_240_1080_384.png"}
+{ "resource-id" : "bbc.mobile.news.uk:id/recyclerview" , "screenshotPath" : "bbc-my-news/S4/pngs/0_384_1080_1776.png"}
+{ "content-desc" : "Button: Add India coronavirus lockdown to My News" , "screenshotPath" : "bbc-my-news/S4/pngs/24_738_1056_875.png"}
+{ "content-desc" : "Button: Add Brexit to My News" , "screenshotPath" : "bbc-my-news/S4/pngs/24_875_1056_1012.png"}
+{ "content-desc" : "Button: Add Wedding of Prince Harry and Meghan Markle to My News" , "screenshotPath" : "bbc-my-news/S4/pngs/24_1012_1056_1206.png"}
+{ "content-desc" : "Button: Add West Bengal Legislative Assembly election 2021 to My News" , "screenshotPath" : "bbc-my-news/S4/pngs/24_1206_1056_1400.png"}
+{ "content-desc" : "Button: Add Coronavirus lockdown measures to My News" , "screenshotPath" : "bbc-my-news/S4/pngs/24_1577_1056_1714.png"}
+{ "content-desc" : "Button: Add Coronavirus pandemic to My News" , "screenshotPath" : "bbc-my-news/S4/pngs/24_1714_1056_1776.png"}
+{ "resource-id" : "bbc.mobile.news.uk:id/request_permission" , "screenshotPath" : "bbc-my-news/S4/pngs/606_408_1056_561.png"}
+{ "resource-id" : "bbc.mobile.news.uk:id/add_all" , "screenshotPath" : "bbc-my-news/S4/pngs/840_593_1056_730.png"}
+{ "resource-id" : "bbc.mobile.news.uk:id/add_all" , "screenshotPath" : "bbc-my-news/S4/pngs/840_1432_1056_1569.png"}

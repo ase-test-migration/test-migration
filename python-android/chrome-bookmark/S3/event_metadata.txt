@@ -1,0 +1,4 @@
+pathToElementImageCrop: chrome-bookmark/S3/pngs/496_187_638_319.png;
+coords: {'x1': 496, 'y1': 187, 'x2': 638, 'y2': 319};
+text_identifier: { "content-desc" : "Bookmark" , "resource-id" : "com.android.chrome:id/button_two" };
+event: click;

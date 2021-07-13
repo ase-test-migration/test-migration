@@ -1,0 +1,11 @@
+{ "resource-id" : "com.etsy.android:id/app_bar_toolbar" , "screenshotPath" : "etsy-navi/S2/pngs/0_74_1080_221.png"}
+{ "content-desc" : "Home tab, 1 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_home" , "screenshotPath" : "etsy-navi/S2/pngs/0_2214_216_2287.png"}
+{ "content-desc" : "Favorites tab, 2 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_favorites" , "screenshotPath" : "etsy-navi/S2/pngs/216_2214_432_2287.png"}
+{ "content-desc" : "Updates tab, 3 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_updates" , "screenshotPath" : "etsy-navi/S2/pngs/432_2214_648_2287.png"}
+{ "content-desc" : "You tab, 4 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_you" , "screenshotPath" : "etsy-navi/S2/pngs/648_2214_864_2287.png"}
+{ "content-desc" : "Cart tab, 5 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_cart" , "screenshotPath" : "etsy-navi/S2/pngs/864_2214_1080_2287.png"}
+{ "content-desc" : "Navigate up" , "screenshotPath" : "etsy-navi/S2/pngs/0_74_147_221.png"}
+{ "resource-id" : "com.etsy.android:id/recycler_view" , "screenshotPath" : "etsy-navi/S2/pngs/0_221_1080_2214.png"}
+{ "resource-id" : "com.etsy.android:id/following_button" , "screenshotPath" : "etsy-navi/S2/pngs/266_738_540_864.png"}
+{ "resource-id" : "com.etsy.android:id/followers_button" , "screenshotPath" : "etsy-navi/S2/pngs/540_738_813_864.png"}
+{ "resource-id" : "com.etsy.android:id/click_region" , "screenshotPath" : "etsy-navi/S2/pngs/42_1070_1038_1487.png"}

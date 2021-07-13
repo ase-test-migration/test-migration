@@ -1,0 +1,4 @@
+pathToElementImageCrop: usa-mynews/S1/pngs/316_1379_764_1608.png;
+coords: {'x1': 316, 'y1': 1379, 'x2': 764, 'y2': 1608};
+text_identifier: { "text" : "See Suggested Topics" , "resource-id" : "com.usatoday.android.news:id/suggested_link" };
+event: click;

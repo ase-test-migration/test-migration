@@ -1,0 +1,4 @@
+pathToElementImageCrop: dolphin-send/S2/pngs/210_195_821_277.png;
+coords: {'x1': 210, 'y1': 195, 'x2': 821, 'y2': 277};
+text_identifier: { "resource-id" : "mobi.mgeek.TunnyBrowser:id/title_container" , "resource-id" : "mobi.mgeek.TunnyBrowser:id/title" };
+event: click;

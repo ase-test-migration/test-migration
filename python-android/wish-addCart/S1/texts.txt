@@ -1,0 +1,14 @@
+{ "content-desc" : "Navigate up" , "screenshotPath" : "wish-addCart/S1/pngs/0_66_154_220.png"}
+{ "resource-id" : "com.contextlogic.wish:id/action_id_show_cart" , "screenshotPath" : "wish-addCart/S1/pngs/794_95_926_191.png"}
+{ "content-desc" : "Search" , "resource-id" : "com.contextlogic.wish:id/action_id_search" , "screenshotPath" : "wish-addCart/S1/pngs/926_77_1080_209.png"}
+{ "resource-id" : "com.contextlogic.wish:id/product_details_fragment_viewpager" , "screenshotPath" : "wish-addCart/S1/pngs/0_220_1080_1878.png"}
+{ "resource-id" : "com.contextlogic.wish:id/product_details_fragment_viewpager_tabs" , "screenshotPath" : "wish-addCart/S1/pngs/0_220_1080_352.png"}
+{ "resource-id" : "com.contextlogic.wish:id/overview_scroller" , "screenshotPath" : "wish-addCart/S1/pngs/0_220_1080_1878.png"}
+{ "resource-id" : "com.contextlogic.wish:id/add_to_cart_button" , "screenshotPath" : "wish-addCart/S1/pngs/673_1929_1058_2039.png"}
+{ "resource-id" : "com.contextlogic.wish:id/product_details_fragment_overview_image_viewpager" , "screenshotPath" : "wish-addCart/S1/pngs/0_352_1080_1432.png"}
+{ "resource-id" : "com.contextlogic.wish:id/product_details_fragment_overview_photo_video_count" , "screenshotPath" : "wish-addCart/S1/pngs/813_352_1080_491.png"}
+{ "resource-id" : "com.contextlogic.wish:id/messenger_share_button" , "screenshotPath" : "wish-addCart/S1/pngs/534_1363_672_1501.png"}
+{ "resource-id" : "com.contextlogic.wish:id/share_button" , "screenshotPath" : "wish-addCart/S1/pngs/716_1363_854_1501.png"}
+{ "resource-id" : "com.contextlogic.wish:id/wishlist_button" , "screenshotPath" : "wish-addCart/S1/pngs/898_1363_1036_1501.png"}
+{ "resource-id" : "com.contextlogic.wish:id/product_title_text_view" , "screenshotPath" : "wish-addCart/S1/pngs/44_1529_1036_1729.png"}
+{ "resource-id" : "com.contextlogic.wish:id/view_all_button" , "screenshotPath" : "wish-addCart/S1/pngs/891_1849_1080_1878.png"}

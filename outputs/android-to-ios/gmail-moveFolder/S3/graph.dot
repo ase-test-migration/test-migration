@@ -1,0 +1,54 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Gmail\l|label = Gmail\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 76\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S3/pngs/0.0_0.0_750.0_152.0.png\l}"]
+	8	[label="{type = XCUIElementTypeTable\l|name = MoreActionsTableView\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 56\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S3/pngs/0.0_40.0_750.0_152.0.png\l}"]
+	10	[label="{type = XCUIElementTypeCell\l|name = Social\l|label = Social\l|enabled = true\l|visible = true\l|x = 0\l|y = 76\l|width = 375\l|height = 55\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S3/pngs/0.0_152.0_750.0_262.0.png\l}"]
+	11	[label="{type = XCUIElementTypeCell\l|name = Promotions\l|label = Promotions\l|enabled = true\l|visible = true\l|x = 0\l|y = 131\l|width = 375\l|height = 55\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S3/pngs/0.0_262.0_750.0_372.0.png\l}"]
+	12	[label="{type = XCUIElementTypeCell\l|name = twobird/low-priority\l|label = twobird/low-priority\l|enabled = true\l|visible = true\l|x = 0\l|y = 186\l|width = 375\l|height = 55\l|index = 2\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S3/pngs/0.0_372.0_750.0_482.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 56\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S3/pngs/0.0_40.0_750.0_152.0.png\l}"]
+	14	[label="{type = XCUIElementTypeStaticText\l|value = Social\l|name = Social\l|label = Social\l|enabled = true\l|visible = true\l|x = 72\l|y = 93\l|width = 287\l|height = 20\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S3/pngs/144.0_186.0_718.0_226.0.png\l}"]
+	15	[label="{type = XCUIElementTypeStaticText\l|value = Promotions\l|name = Promotions\l|label = Promotions\l|enabled = true\l|visible = true\l|x = 72\l|y = 148\l|width = 287\l|height = 20\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S3/pngs/144.0_296.0_718.0_336.0.png\l}"]
+	16	[label="{type = XCUIElementTypeStaticText\l|value = twobird/low-priority\l|name = twobird/low-priority\l|label = twobird/low-priority\l|enabled = true\l|visible = true\l|x = 72\l|y = 203\l|width = 287\l|height = 20\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S3/pngs/144.0_406.0_718.0_446.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 56\l|height = 56\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S3/pngs/0.0_40.0_112.00000000000001_152.0.png\l}"]
+	18	[label="{type = XCUIElementTypeButton\l|name = AppBarTitleView\l|label = Move to\l|enabled = true\l|visible = true\l|x = 72\l|y = 20\l|width = 231\l|height = 56\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S3/pngs/144.0_40.0_606.0_152.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 319\l|y = 20\l|width = 56\l|height = 56\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S3/pngs/638.0_40.0_750.0_152.0.png\l}"]
+	20	[label="{type = XCUIElementTypeButton\l|name = Cancel/Close\l|label = Close\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 56\l|height = 56\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S3/pngs/0.0_40.0_112.00000000000001_152.0.png\l}"]
+	21	[label="{type = XCUIElementTypeStaticText\l|value = Move to\l|name = Move to\l|label = Move to\l|enabled = true\l|visible = true\l|x = 154\l|y = 36\l|width = 67\l|height = 24\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S3/pngs/308.0_72.0_442.0_120.0.png\l}"]
+	22	[label="{type = XCUIElementTypeButton\l|name = Create new label\l|label = Create new label\l|enabled = true\l|visible = true\l|x = 319\l|y = 20\l|width = 56\l|height = 56\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S3/pngs/638.0_40.0_750.0_152.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	6 -> 8
+	7 -> 9
+	8 -> 10
+	8 -> 11
+	8 -> 12
+	9 -> 13
+	10 -> 14
+	11 -> 15
+	12 -> 16
+	13 -> 17
+	13 -> 18
+	13 -> 19
+	17 -> 20
+	18 -> 21
+	19 -> 22
+
+
+}

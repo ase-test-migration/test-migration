@@ -1,0 +1,35 @@
+
+{
+    "desiredCapabilities": {
+          "platformName": "iOS",
+          "platformVersion": "13.3.1",
+          "deviceName": "Someone's iPhone",
+          "udid": "auto",
+          "xcodeOrgId": "X9EN5J4J22",
+          "xcodeSigningId": "iPhone Developer"
+    },
+    "tests" : [
+        {
+            "name" : "testAOLTopMenu",
+            "events": [
+                {
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeStaticText[@name=\"Main\"])[13]",
+                    "type": "xPath"
+                },
+                {
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeStaticText[@name=\"Coronavirus\"])[12]",
+                    "type": "xPath"
+                },
+                {
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeStaticText[@name=\"Entertainment\"])[12]",
+                    "type": "xPath"
+                }
+            ]
+
+
+    }
+    ]
+}

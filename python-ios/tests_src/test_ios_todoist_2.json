@@ -1,0 +1,38 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "todoist-remove",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "testing"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "More"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Delete Task"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Delete task"
+                }
+            ]
+        }
+    ]
+}

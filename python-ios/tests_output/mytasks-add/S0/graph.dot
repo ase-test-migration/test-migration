@@ -1,0 +1,176 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = My tasks\l|label = My tasks\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 52\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_40.0_750.0_144.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 595\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_144.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 52\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_40.0_750.0_144.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 595\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_144.0_750.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 75\l|height = 2\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_40.0_150.0_44.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 52\l|index = 1\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_40.0_750.0_144.0.png\l}"]
+	14	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 595\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_144.0_750.0_1334.0.png\l}"]
+	15	[label="{type = XCUIElementTypeButton\l|name = tabs tasks\l|label = tabs tasks\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 75\l|height = 52\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_40.0_150.0_144.0.png\l}"]
+	16	[label="{type = XCUIElementTypeButton\l|name = tabs secondary\l|label = tabs secondary\l|enabled = true\l|visible = true\l|x = 75\l|y = 20\l|width = 75\l|height = 52\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/150.0_40.0_300.0_144.0.png\l}"]
+	17	[label="{type = XCUIElementTypeButton\l|name = tabs calendar\l|label = tabs calendar\l|enabled = true\l|visible = true\l|x = 150\l|y = 20\l|width = 75\l|height = 52\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/300.0_40.0_450.0_144.0.png\l}"]
+	18	[label="{type = XCUIElementTypeButton\l|name = tabs search\l|label = tabs search\l|enabled = true\l|visible = true\l|x = 225\l|y = 20\l|width = 75\l|height = 52\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/450.0_40.0_600.0_144.0.png\l}"]
+	19	[label="{type = XCUIElementTypeButton\l|name = tabs settings\l|label = tabs settings\l|enabled = true\l|visible = true\l|x = 300\l|y = 20\l|width = 75\l|height = 52\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/600.0_40.0_750.0_144.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 595\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_144.0_750.0_1334.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 595\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_144.0_750.0_1334.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 595\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_144.0_750.0_1334.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 595\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_144.0_750.0_1334.0.png\l}"]
+	24	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 595\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_144.0_750.0_1334.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 595\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_144.0_750.0_1334.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 595\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_144.0_750.0_1334.0.png\l}"]
+	27	[label="{type = XCUIElementTypeTable\l|name = Empty list\l|label = Empty list\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 595\l|index = 0\l|numberOfChildren = 56\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_144.0_750.0_1334.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|name = Mon\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 84\l|index = 0\l|numberOfChildren = 7\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_144.0_750.0_312.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|name = Tue\l|enabled = true\l|visible = true\l|x = 0\l|y = 157\l|width = 375\l|height = 84\l|index = 1\l|numberOfChildren = 7\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_314.0_750.0_482.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|name = Wed\l|enabled = true\l|visible = true\l|x = 0\l|y = 242\l|width = 375\l|height = 84\l|index = 2\l|numberOfChildren = 7\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_484.0_750.0_652.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|name = Thu\l|enabled = true\l|visible = true\l|x = 0\l|y = 327\l|width = 375\l|height = 84\l|index = 3\l|numberOfChildren = 7\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_654.0_750.0_822.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|name = Fri\l|enabled = true\l|visible = true\l|x = 0\l|y = 412\l|width = 375\l|height = 84\l|index = 4\l|numberOfChildren = 7\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_824.0000000000001_750.0_992.0000000000001.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|name = Sat\l|enabled = true\l|visible = true\l|x = 0\l|y = 497\l|width = 375\l|height = 84\l|index = 5\l|numberOfChildren = 7\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_994.0_750.0_1162.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|name = Sun\l|enabled = true\l|visible = true\l|x = 0\l|y = 582\l|width = 375\l|height = 84\l|index = 6\l|numberOfChildren = 7\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/0.0_1164.0_750.0_1332.0.png\l}"]
+	35	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 8\l|y = 82\l|width = 359\l|height = 73\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/16.0_164.0_734.0_310.0.png\l}"]
+	36	[label="{type = XCUIElementTypeStaticText\l|value = Mon\l|name = Mon\l|label = Mon\l|enabled = true\l|visible = true\l|x = 13\l|y = 83\l|width = 27\l|height = 19\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/26.0_166.0_80.0_204.0.png\l}"]
+	37	[label="{type = XCUIElementTypeStaticText\l|value = 8\l|name = 8\l|label = 8\l|enabled = true\l|visible = true\l|x = 29\l|y = 101\l|width = 16\l|height = 37\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/58.0_202.0_90.0_276.0.png\l}"]
+	38	[label="{type = XCUIElementTypeStaticText\l|value = No tasks\l|name = No tasks\l|label = No tasks\l|enabled = true\l|visible = true\l|x = 86\l|y = 98\l|width = 60\l|height = 21\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/172.0_196.00000000000003_292.0_238.00000000000003.png\l}"]
+	39	[label="{type = XCUIElementTypeStaticText\l|value = 0/0\l|name = 0/0\l|label = 0/0\l|enabled = true\l|visible = true\l|x = 86\l|y = 123\l|width = 60\l|height = 16\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/172.0_246.0_292.0_278.0.png\l}"]
+	40	[label="{type = XCUIElementTypeButton\l|name = add task light single scale\l|label = add task light single scale\l|enabled = true\l|visible = true\l|x = 312\l|y = 97\l|width = 43\l|height = 43\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = true \l|screenshotPath = mytasks-add/S0/pngs/624.0_194.0_710.0_280.0.png\l}"]
+	41	[label="{type = XCUIElementTypeStaticText\l|value = February\l|name = February\l|label = February\l|enabled = true\l|visible = true\l|x = 12\l|y = 136\l|width = 50\l|height = 16\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/24.0_272.0_124.0_304.0.png\l}"]
+	42	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 8\l|y = 167\l|width = 359\l|height = 73\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/16.0_334.0_734.0_480.0.png\l}"]
+	43	[label="{type = XCUIElementTypeStaticText\l|value = Tue\l|name = Tue\l|label = Tue\l|enabled = true\l|visible = true\l|x = 13\l|y = 168\l|width = 23\l|height = 19\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/26.0_336.0_72.0_374.0.png\l}"]
+	44	[label="{type = XCUIElementTypeStaticText\l|value = 9\l|name = 9\l|label = 9\l|enabled = true\l|visible = true\l|x = 28\l|y = 186\l|width = 18\l|height = 37\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/56.00000000000001_372.0_92.0_446.0.png\l}"]
+	45	[label="{type = XCUIElementTypeStaticText\l|value = No tasks\l|name = No tasks\l|label = No tasks\l|enabled = true\l|visible = true\l|x = 86\l|y = 183\l|width = 60\l|height = 21\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/172.0_366.0_292.0_408.0.png\l}"]
+	46	[label="{type = XCUIElementTypeStaticText\l|value = 0/0\l|name = 0/0\l|label = 0/0\l|enabled = true\l|visible = true\l|x = 86\l|y = 208\l|width = 60\l|height = 16\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/172.0_416.0_292.0_448.0.png\l}"]
+	47	[label="{type = XCUIElementTypeButton\l|name = add task light single scale\l|label = add task light single scale\l|enabled = true\l|visible = true\l|x = 312\l|y = 182\l|width = 43\l|height = 43\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/624.0_363.99999999999994_710.0_449.99999999999994.png\l}"]
+	48	[label="{type = XCUIElementTypeStaticText\l|value = February\l|name = February\l|label = February\l|enabled = true\l|visible = true\l|x = 12\l|y = 221\l|width = 50\l|height = 16\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/24.0_442.0_124.0_474.0.png\l}"]
+	49	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 8\l|y = 252\l|width = 359\l|height = 73\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/16.0_504.0_734.0_650.0.png\l}"]
+	50	[label="{type = XCUIElementTypeStaticText\l|value = Wed\l|name = Wed\l|label = Wed\l|enabled = true\l|visible = true\l|x = 13\l|y = 253\l|width = 28\l|height = 19\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/26.0_506.0_82.0_544.0.png\l}"]
+	51	[label="{type = XCUIElementTypeStaticText\l|value = 10\l|name = 10\l|label = 10\l|enabled = true\l|visible = true\l|x = 23\l|y = 271\l|width = 28\l|height = 37\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/46.0_542.0_102.0_616.0.png\l}"]
+	52	[label="{type = XCUIElementTypeStaticText\l|value = No tasks\l|name = No tasks\l|label = No tasks\l|enabled = true\l|visible = true\l|x = 86\l|y = 268\l|width = 60\l|height = 21\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/172.0_536.0_292.0_578.0.png\l}"]
+	53	[label="{type = XCUIElementTypeStaticText\l|value = 0/0\l|name = 0/0\l|label = 0/0\l|enabled = true\l|visible = true\l|x = 86\l|y = 293\l|width = 60\l|height = 16\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/172.0_586.0_292.0_618.0.png\l}"]
+	54	[label="{type = XCUIElementTypeButton\l|name = add task light single scale\l|label = add task light single scale\l|enabled = true\l|visible = true\l|x = 312\l|y = 267\l|width = 43\l|height = 43\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/624.0_534.0_710.0_620.0.png\l}"]
+	55	[label="{type = XCUIElementTypeStaticText\l|value = February\l|name = February\l|label = February\l|enabled = true\l|visible = true\l|x = 12\l|y = 306\l|width = 50\l|height = 16\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/24.0_612.0_124.0_644.0.png\l}"]
+	56	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 8\l|y = 337\l|width = 359\l|height = 73\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/16.0_674.0000000000001_734.0_820.0000000000001.png\l}"]
+	57	[label="{type = XCUIElementTypeStaticText\l|value = Thu\l|name = Thu\l|label = Thu\l|enabled = true\l|visible = true\l|x = 13\l|y = 338\l|width = 24\l|height = 19\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/26.0_676.0_74.0_714.0.png\l}"]
+	58	[label="{type = XCUIElementTypeStaticText\l|value = 11\l|name = 11\l|label = 11\l|enabled = true\l|visible = true\l|x = 26\l|y = 356\l|width = 22\l|height = 37\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/52.0_712.0_96.0_786.0.png\l}"]
+	59	[label="{type = XCUIElementTypeStaticText\l|value = No tasks\l|name = No tasks\l|label = No tasks\l|enabled = true\l|visible = true\l|x = 86\l|y = 353\l|width = 60\l|height = 21\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/172.0_706.0_292.0_748.0.png\l}"]
+	60	[label="{type = XCUIElementTypeStaticText\l|value = 0/0\l|name = 0/0\l|label = 0/0\l|enabled = true\l|visible = true\l|x = 86\l|y = 378\l|width = 60\l|height = 16\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/172.0_756.0000000000001_292.0_788.0000000000001.png\l}"]
+	61	[label="{type = XCUIElementTypeButton\l|name = add task light single scale\l|label = add task light single scale\l|enabled = true\l|visible = true\l|x = 312\l|y = 352\l|width = 43\l|height = 43\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/624.0_704.0_710.0_790.0.png\l}"]
+	62	[label="{type = XCUIElementTypeStaticText\l|value = February\l|name = February\l|label = February\l|enabled = true\l|visible = true\l|x = 12\l|y = 391\l|width = 50\l|height = 16\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/24.0_781.9999999999999_124.0_813.9999999999999.png\l}"]
+	63	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 8\l|y = 422\l|width = 359\l|height = 73\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/16.0_844.0_734.0_990.0.png\l}"]
+	64	[label="{type = XCUIElementTypeStaticText\l|value = Fri\l|name = Fri\l|label = Fri\l|enabled = true\l|visible = true\l|x = 13\l|y = 423\l|width = 15\l|height = 19\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/26.0_846.0_56.0_884.0.png\l}"]
+	65	[label="{type = XCUIElementTypeStaticText\l|value = 12\l|name = 12\l|label = 12\l|enabled = true\l|visible = true\l|x = 24\l|y = 441\l|width = 27\l|height = 37\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/48.0_882.0_102.0_956.0.png\l}"]
+	66	[label="{type = XCUIElementTypeStaticText\l|value = No tasks\l|name = No tasks\l|label = No tasks\l|enabled = true\l|visible = true\l|x = 86\l|y = 438\l|width = 60\l|height = 21\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/172.0_876.0_292.0_918.0.png\l}"]
+	67	[label="{type = XCUIElementTypeStaticText\l|value = 0/0\l|name = 0/0\l|label = 0/0\l|enabled = true\l|visible = true\l|x = 86\l|y = 463\l|width = 60\l|height = 16\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/172.0_926.0_292.0_958.0.png\l}"]
+	68	[label="{type = XCUIElementTypeButton\l|name = add task light single scale\l|label = add task light single scale\l|enabled = true\l|visible = true\l|x = 312\l|y = 437\l|width = 43\l|height = 43\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/624.0_874.0_710.0_960.0.png\l}"]
+	69	[label="{type = XCUIElementTypeStaticText\l|value = February\l|name = February\l|label = February\l|enabled = true\l|visible = true\l|x = 12\l|y = 476\l|width = 50\l|height = 16\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/24.0_952.0_124.0_984.0.png\l}"]
+	70	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 8\l|y = 507\l|width = 359\l|height = 73\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/16.0_1013.9999999999999_734.0_1160.0.png\l}"]
+	71	[label="{type = XCUIElementTypeStaticText\l|value = Sat\l|name = Sat\l|label = Sat\l|enabled = true\l|visible = true\l|x = 13\l|y = 508\l|width = 21\l|height = 19\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/26.0_1016.0_68.0_1054.0.png\l}"]
+	72	[label="{type = XCUIElementTypeStaticText\l|value = 13\l|name = 13\l|label = 13\l|enabled = true\l|visible = true\l|x = 24\l|y = 526\l|width = 26\l|height = 37\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/48.0_1052.0_100.0_1126.0.png\l}"]
+	73	[label="{type = XCUIElementTypeStaticText\l|value = No tasks\l|name = No tasks\l|label = No tasks\l|enabled = true\l|visible = true\l|x = 86\l|y = 523\l|width = 61\l|height = 21\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/172.0_1046.0_294.0_1088.0.png\l}"]
+	74	[label="{type = XCUIElementTypeStaticText\l|value = 0/0\l|name = 0/0\l|label = 0/0\l|enabled = true\l|visible = true\l|x = 86\l|y = 547\l|width = 61\l|height = 17\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/172.0_1094.0_294.0_1128.0.png\l}"]
+	75	[label="{type = XCUIElementTypeButton\l|name = add task green single scale\l|label = add task green single scale\l|enabled = true\l|visible = true\l|x = 312\l|y = 522\l|width = 43\l|height = 43\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/624.0_1044.0_710.0_1130.0.png\l}"]
+	76	[label="{type = XCUIElementTypeStaticText\l|value = February\l|name = February\l|label = February\l|enabled = true\l|visible = true\l|x = 12\l|y = 561\l|width = 50\l|height = 16\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/24.0_1122.0_124.0_1154.0.png\l}"]
+	77	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 8\l|y = 592\l|width = 359\l|height = 73\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/16.0_1184.0_734.0_1330.0.png\l}"]
+	78	[label="{type = XCUIElementTypeStaticText\l|value = Sun\l|name = Sun\l|label = Sun\l|enabled = true\l|visible = true\l|x = 13\l|y = 593\l|width = 24\l|height = 19\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/26.0_1186.0_74.0_1224.0.png\l}"]
+	79	[label="{type = XCUIElementTypeStaticText\l|value = 14\l|name = 14\l|label = 14\l|enabled = true\l|visible = true\l|x = 23\l|y = 611\l|width = 28\l|height = 37\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/46.0_1222.0_102.0_1296.0.png\l}"]
+	80	[label="{type = XCUIElementTypeStaticText\l|value = No tasks\l|name = No tasks\l|label = No tasks\l|enabled = true\l|visible = true\l|x = 86\l|y = 608\l|width = 60\l|height = 21\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/172.0_1216.0_292.0_1258.0.png\l}"]
+	81	[label="{type = XCUIElementTypeStaticText\l|value = 0/0\l|name = 0/0\l|label = 0/0\l|enabled = true\l|visible = true\l|x = 86\l|y = 633\l|width = 60\l|height = 16\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/172.0_1266.0_292.0_1298.0.png\l}"]
+	82	[label="{type = XCUIElementTypeButton\l|name = add task light single scale\l|label = add task light single scale\l|enabled = true\l|visible = true\l|x = 312\l|y = 607\l|width = 43\l|height = 43\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/624.0_1214.0_710.0_1300.0.png\l}"]
+	83	[label="{type = XCUIElementTypeStaticText\l|value = February\l|name = February\l|label = February\l|enabled = true\l|visible = true\l|x = 12\l|y = 646\l|width = 50\l|height = 16\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S0/pngs/24.0_1292.0_124.0_1324.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	7 -> 9
+	8 -> 10
+	9 -> 11
+	10 -> 12
+	10 -> 13
+	11 -> 14
+	13 -> 15
+	13 -> 16
+	13 -> 17
+	13 -> 18
+	13 -> 19
+	14 -> 20
+	20 -> 21
+	21 -> 22
+	22 -> 23
+	23 -> 24
+	24 -> 25
+	25 -> 26
+	26 -> 27
+	27 -> 28
+	27 -> 29
+	27 -> 30
+	27 -> 31
+	27 -> 32
+	27 -> 33
+	27 -> 34
+	28 -> 35
+	28 -> 36
+	28 -> 37
+	28 -> 38
+	28 -> 39
+	28 -> 40
+	28 -> 41
+	29 -> 42
+	29 -> 43
+	29 -> 44
+	29 -> 45
+	29 -> 46
+	29 -> 47
+	29 -> 48
+	30 -> 49
+	30 -> 50
+	30 -> 51
+	30 -> 52
+	30 -> 53
+	30 -> 54
+	30 -> 55
+	31 -> 56
+	31 -> 57
+	31 -> 58
+	31 -> 59
+	31 -> 60
+	31 -> 61
+	31 -> 62
+	32 -> 63
+	32 -> 64
+	32 -> 65
+	32 -> 66
+	32 -> 67
+	32 -> 68
+	32 -> 69
+	33 -> 70
+	33 -> 71
+	33 -> 72
+	33 -> 73
+	33 -> 74
+	33 -> 75
+	33 -> 76
+	34 -> 77
+	34 -> 78
+	34 -> 79
+	34 -> 80
+	34 -> 81
+	34 -> 82
+	34 -> 83
+
+
+}

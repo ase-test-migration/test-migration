@@ -1,0 +1,4 @@
+pathToElementImageCrop: McD-removeFav/S3/pngs/36.0_1070.0_96.0_1130.0.png;
+coords: {'x1': 36.0, 'y1': 1070.0, 'x2': 96.0, 'y2': 1130.0};
+text_identifier: { "label" : "1071 Martin Luther King Jr Blvd, favorited store" };
+event: click;

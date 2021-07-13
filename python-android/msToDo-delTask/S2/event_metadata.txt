@@ -1,0 +1,4 @@
+pathToElementImageCrop: msToDo-delTask/S2/pngs/790_1279_978_1421.png;
+coords: {'x1': 790, 'y1': 1279, 'x2': 978, 'y2': 1421};
+text_identifier: { "resource-id" : "android:id/button1" };
+event: click;

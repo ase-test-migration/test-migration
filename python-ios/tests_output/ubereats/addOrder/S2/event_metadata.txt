@@ -1,0 +1,4 @@
+pathToElementImageCrop: addOrder/S2/pngs/84.0_1470.0_819.0_1533.0.png;
+coords: {'x1': 84.0, 'y1': 1470.0, 'x2': 819.0, 'y2': 1533.0};
+text_identifier: { "name" : "Classic Cheese Pizza" };
+event: click;

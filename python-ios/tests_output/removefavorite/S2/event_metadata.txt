@@ -1,0 +1,4 @@
+pathToElementImageCrop: removefavorite/S2/pngs/0.0_1833.0000000000002_1242.0_2181.0000000000005.png;
+coords: {'x1': 0.0, 'y1': 1833.0000000000002, 'x2': 1242.0, 'y2': 2181.0000000000005};
+text_identifier: { "name" : "Panda Express (Pico)" };
+event: click;

@@ -1,0 +1,33 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "abc-mynews",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Interests",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_invisible",
+                "input": "Following"
+            },
+            {
+                "type": "name",
+                "tag": "+  Follow",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Following"
+            },
+            {
+                "type": "name",
+                "tag": "To save interests across devices Log In or Sign Up \u00bb ",
+                "event": "click"
+            }
+        ]
+    }
+}

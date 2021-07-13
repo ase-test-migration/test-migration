@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-filter/S3/pngs/210_2095_1038_2200.png;
+coords: {'x1': 210, 'y1': 2095, 'x2': 1038, 'y2': 2274};
+text_identifier: { "text" : "Show 140 results" , "resource-id" : "com.ebay.mobile:id/call_to_action_button" };
+event: click;

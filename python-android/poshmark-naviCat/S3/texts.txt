@@ -1,0 +1,29 @@
+{ "resource-id" : "com.poshmark.app:id/feedTab" , "screenshotPath" : "poshmark-naviCat/S3/pngs/0_2127_216_2200.png"}
+{ "resource-id" : "com.poshmark.app:id/shopTab" , "screenshotPath" : "poshmark-naviCat/S3/pngs/216_2127_432_2200.png"}
+{ "resource-id" : "com.poshmark.app:id/sellTab" , "screenshotPath" : "poshmark-naviCat/S3/pngs/432_2127_648_2200.png"}
+{ "resource-id" : "com.poshmark.app:id/newsTab" , "screenshotPath" : "poshmark-naviCat/S3/pngs/648_2127_864_2200.png"}
+{ "resource-id" : "com.poshmark.app:id/userTab" , "screenshotPath" : "poshmark-naviCat/S3/pngs/864_2127_1080_2200.png"}
+{ "resource-id" : "com.poshmark.app:id/size_tabs_view_pager" , "screenshotPath" : "poshmark-naviCat/S3/pngs/0_586_1080_2127.png"}
+{ "resource-id" : "com.poshmark.app:id/boutiques_recycler_view" , "screenshotPath" : "poshmark-naviCat/S3/pngs/0_717_1080_2127.png"}
+{ "resource-id" : "com.poshmark.app:id/tabs" , "screenshotPath" : "poshmark-naviCat/S3/pngs/0_481_1080_586.png"}
+{ "resource-id" : "com.poshmark.app:id/experience_container" , "screenshotPath" : "poshmark-naviCat/S3/pngs/26_606_183_697.png"}
+{ "resource-id" : "com.poshmark.app:id/search_container" , "screenshotPath" : "poshmark-naviCat/S3/pngs/716_586_849_717.png"}
+{ "resource-id" : "com.poshmark.app:id/filter_container" , "screenshotPath" : "poshmark-naviCat/S3/pngs/849_586_973_717.png"}
+{ "resource-id" : "com.poshmark.app:id/sort_filter_container" , "screenshotPath" : "poshmark-naviCat/S3/pngs/973_609_1080_694.png"}
+{ "resource-id" : "com.poshmark.app:id/channel_covershot" , "screenshotPath" : "poshmark-naviCat/S3/pngs/0_74_1080_481.png"}
+{ "resource-id" : "com.poshmark.app:id/leftNavButton" , "screenshotPath" : "poshmark-naviCat/S3/pngs/32_100_137_195.png"}
+{ "resource-id" : "com.poshmark.app:id/menu" , "screenshotPath" : "poshmark-naviCat/S3/pngs/47_630_89_672.png"}
+{ "content-desc" : "Listings" , "screenshotPath" : "poshmark-naviCat/S3/pngs/0_481_540_586.png"}
+{ "content-desc" : "Sellers" , "screenshotPath" : "poshmark-naviCat/S3/pngs/540_481_1080_586.png"}
+{ "content-desc" : "coverShot0" , "resource-id" : "com.poshmark.app:id/covershotView" , "screenshotPath" : "poshmark-naviCat/S3/pngs/21_759_519_1257.png"}
+{ "content-desc" : "coverShot1" , "resource-id" : "com.poshmark.app:id/covershotView" , "screenshotPath" : "poshmark-naviCat/S3/pngs/561_759_1059_1257.png"}
+{ "content-desc" : "coverShot2" , "resource-id" : "com.poshmark.app:id/covershotView" , "screenshotPath" : "poshmark-naviCat/S3/pngs/21_1616_519_2114.png"}
+{ "content-desc" : "coverShot3" , "resource-id" : "com.poshmark.app:id/covershotView" , "screenshotPath" : "poshmark-naviCat/S3/pngs/561_1616_1059_2114.png"}
+{ "resource-id" : "com.poshmark.app:id/followFollowingButton" , "screenshotPath" : "poshmark-naviCat/S3/pngs/395_231_684_323.png"}
+{ "content-desc" : "rightNavButton1" , "resource-id" : "com.poshmark.app:id/customButton" , "screenshotPath" : "poshmark-naviCat/S3/pngs/932_100_1048_195.png"}
+{ "content-desc" : "Like" , "resource-id" : "com.poshmark.app:id/likeButton" , "screenshotPath" : "poshmark-naviCat/S3/pngs/21_1469_187_1574.png"}
+{ "content-desc" : "Add to Bundle" , "resource-id" : "com.poshmark.app:id/addToBundleButton" , "screenshotPath" : "poshmark-naviCat/S3/pngs/187_1469_353_1574.png"}
+{ "resource-id" : "com.poshmark.app:id/shareButton" , "screenshotPath" : "poshmark-naviCat/S3/pngs/353_1469_519_1574.png"}
+{ "content-desc" : "Like" , "resource-id" : "com.poshmark.app:id/likeButton" , "screenshotPath" : "poshmark-naviCat/S3/pngs/561_1469_727_1574.png"}
+{ "content-desc" : "Add to Bundle" , "resource-id" : "com.poshmark.app:id/addToBundleButton" , "screenshotPath" : "poshmark-naviCat/S3/pngs/727_1469_893_1574.png"}
+{ "resource-id" : "com.poshmark.app:id/shareButton" , "screenshotPath" : "poshmark-naviCat/S3/pngs/893_1469_1059_1574.png"}

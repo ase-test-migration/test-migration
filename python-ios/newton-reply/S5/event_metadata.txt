@@ -1,0 +1,4 @@
+pathToElementImageCrop: newton-reply/S5/pngs/40.0_158.0_648.0_196.0.png;
+coords: {'x1': 40.0, 'y1': 158.0, 'x2': 648.0, 'y2': 196.0};
+text_identifier: { "label" : "Note to self" };
+event: click;

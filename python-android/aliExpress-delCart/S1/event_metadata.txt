@@ -1,0 +1,4 @@
+pathToElementImageCrop: aliExpress-delCart/S1/pngs/50_445_97_492.png;
+coords: {'x1': 50, 'y1': 445, 'x2': 97, 'y2': 492};
+text_identifier: { "resource-id" : "com.alibaba.aliexpresshd:id/product_checkbox" };
+event: click;

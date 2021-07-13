@@ -1,0 +1,33 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "abc-mynews",
+        "events": [
+            {
+                "type": "xPath",
+                "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.HorizontalScrollView/android.widget.LinearLayout/android.widget.LinearLayout[2]",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_invisible",
+                "input": "Following"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.abc.abcnews:id/btnFollow",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "Following"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.abc.abcnews:id/elections_story_widget_more_options",
+                "event": "click"
+            }
+        ]
+    }
+}

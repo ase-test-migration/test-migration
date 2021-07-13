@@ -1,0 +1,156 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = McDonald's\l|label = McDonald's\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeTabBar\l|name = Tab Bar\l|label = Tab Bar\l|enabled = true\l|visible = true\l|x = 0\l|y = 611\l|width = 375\l|height = 56\l|index = 1\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_1222.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeButton\l|name = HOME\l|label = Home\l|enabled = true\l|visible = true\l|x = 2\l|y = 612\l|width = 71\l|height = 55\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/4.0_1224.0_146.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = ORDER\l|label = Order\l|enabled = true\l|visible = true\l|x = 77\l|y = 612\l|width = 71\l|height = 55\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/154.0_1224.0_296.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|name = DEALS\l|label = Deals\l|enabled = true\l|visible = true\l|x = 152\l|y = 612\l|width = 71\l|height = 55\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/304.0_1224.0_446.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|name = RECENTFAVES\l|label = Recents\l|enabled = true\l|visible = true\l|x = 227\l|y = 612\l|width = 71\l|height = 55\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/453.99999999999994_1224.0_596.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|name = MORE\l|label = More\l|enabled = true\l|visible = true\l|x = 302\l|y = 612\l|width = 71\l|height = 55\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/604.0_1224.0_746.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 611\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_0.0_750.0_1222.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 184\l|index = 1\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_40.0_750.0_408.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 204\l|width = 375\l|height = 408\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_408.0_750.0_1224.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 24\l|y = 36\l|width = 328\l|height = 41\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/48.0_72.0_704.0_154.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 24\l|y = 104\l|width = 160\l|height = 25\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/48.0_208.0_368.0_258.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 24\l|y = 151\l|width = 328\l|height = 31\l|index = 2\l|numberOfChildren = 4\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/48.0_302.0_704.0_364.0.png\l}"]
+	23	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 204\l|width = 375\l|height = 407\l|index = 0\l|numberOfChildren = 23\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_408.0_750.0_1222.0.png\l}"]
+	24	[label="{type = XCUIElementTypeStaticText\l|value = Order\l|name = menuHeaderOrder\l|label = Order\l|enabled = true\l|visible = true\l|x = 24\l|y = 36\l|width = 86\l|height = 41\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/48.0_72.0_220.0_154.0.png\l}"]
+	25	[label="{type = XCUIElementTypeButton\l|name = search_button\l|label = Search\l|enabled = true\l|visible = true\l|x = 320\l|y = 40\l|width = 32\l|height = 32\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/640.0_80.0_704.0_144.0.png\l}"]
+	26	[label="{type = XCUIElementTypeButton\l|name = pickUpSwitcher\l|label = selected . Pickup . Tab one of two\l|enabled = true\l|visible = true\l|x = 24\l|y = 104\l|width = 80\l|height = 25\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/48.0_208.0_208.0_258.0.png\l}"]
+	27	[label="{type = XCUIElementTypeButton\l|name = deliveryUpSwitcher\l|label = McDelivery . Tab two of two\l|enabled = true\l|visible = true\l|x = 104\l|y = 104\l|width = 80\l|height = 25\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/208.0_208.0_368.0_258.0.png\l}"]
+	28	[label="{type = XCUIElementTypeButton\l|name = order_wall_store_name_content_view_identifier\l|label = 1071 Martin Luther King Jr Blvd\l|enabled = true\l|visible = true\l|x = 72\l|y = 151\l|width = 167\l|height = 17\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/144.0_302.0_478.0_336.0.png\l}"]
+	29	[label="{type = XCUIElementTypeStaticText\l|value = Now serving Lunch until 04:59 pm  \l|name = dayPartLabel\l|label = Now serving Lunch until 04:59 pm  \l|enabled = true\l|visible = true\l|x = 72\l|y = 167\l|width = 167\l|height = 17\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/144.0_334.0_478.0_368.0.png\l}"]
+	30	[label="{type = XCUIElementTypeButton\l|name = changeAddressOrLocation\l|label = Change Location\l|enabled = true\l|visible = true\l|x = 239\l|y = 167\l|width = 113\l|height = 17\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/478.0_334.0_704.0_368.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 204\l|width = 375\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_408.0_750.0_410.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 204\l|width = 375\l|height = 1\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_408.0_750.0_410.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|name = Quickly reorder\l|enabled = true\l|visible = true\l|x = 0\l|y = 204\l|width = 375\l|height = 49\l|index = 2\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_408.0_750.0_506.0.png\l}"]
+	34	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 252\l|width = 375\l|height = 233\l|index = 3\l|numberOfChildren = 3\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_504.0_750.0_970.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 484\l|width = 375\l|height = 1\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_968.0_750.0_970.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 484\l|width = 375\l|height = 1\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_968.0_750.0_970.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|name = explore_our_menu\l|enabled = true\l|visible = true\l|x = 0\l|y = 484\l|width = 375\l|height = 72\l|index = 7\l|numberOfChildren = 1\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_968.0_750.0_1112.0.png\l}"]
+	38	[label="{type = XCUIElementTypeCell\l|name = category_name\l|label = Deals\l|enabled = true\l|visible = true\l|x = 0\l|y = 555\l|width = 375\l|height = 88\l|index = 8\l|numberOfChildren = 2\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_1110.0_750.0_1286.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 555\l|width = 375\l|height = 357\l|index = 20\l|numberOfChildren = 5\l|numInParentLayout = 20\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_1110.0_750.0_1824.0.png\l}"]
+	40	[label="{type = XCUIElementTypeButton\l|name = recent_order_view_all\l|label = View all\l|enabled = true\l|visible = true\l|x = 262\l|y = 212\l|width = 89\l|height = 33\l|index = 22\l|numberOfChildren = 1\l|numInParentLayout = 22\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/524.0_424.0_702.0_490.0.png\l}"]
+	41	[label="{type = XCUIElementTypeStaticText\l|value = Pickup\l|name = Pickup\l|label = Pickup\l|enabled = true\l|visible = true\l|x = 44\l|y = 108\l|width = 40\l|height = 17\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/88.0_215.99999999999997_168.0_249.99999999999997.png\l}"]
+	42	[label="{type = XCUIElementTypeStaticText\l|value = McDelivery\l|name = McDelivery\l|label = McDelivery\l|enabled = true\l|visible = true\l|x = 114\l|y = 108\l|width = 60\l|height = 17\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/228.0_215.99999999999997_348.0_249.99999999999997.png\l}"]
+	43	[label="{type = XCUIElementTypeStaticText\l|value = Change Location\l|name = Change Location\l|label = Change Location\l|enabled = true\l|visible = true\l|x = 242\l|y = 166\l|width = 107\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/484.0_332.0_698.0_370.0.png\l}"]
+	44	[label="{type = XCUIElementTypeStaticText\l|value = Quickly reorder\l|name = quickly_reorder\l|label = Quickly reorder\l|enabled = true\l|visible = true\l|x = 24\l|y = 212\l|width = 233\l|height = 33\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/48.0_424.0_514.0_490.0.png\l}"]
+	45	[label="{type = XCUIElementTypeButton\l|name = recent_order_view_all\l|label = View all\l|enabled = true\l|visible = true\l|x = 262\l|y = 212\l|width = 89\l|height = 33\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/524.0_424.0_702.0_490.0.png\l}"]
+	46	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 451\l|width = 354\l|height = 2\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/30.0_902.0_738.0_906.0.png\l}"]
+	47	[label="{type = XCUIElementTypeTable\l|name = Empty list\l|label = Empty list\l|enabled = true\l|visible = true\l|x = 0\l|y = 252\l|width = 375\l|height = 233\l|index = 2\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_504.0_750.0_970.0.png\l}"]
+	48	[label="{type = XCUIElementTypeOther\l|name = explore_our_menu\l|label = Explore our menu\l|enabled = true\l|visible = true\l|x = 0\l|y = 484\l|width = 375\l|height = 72\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_968.0_750.0_1112.0.png\l}"]
+	49	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 555\l|width = 375\l|height = 88\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_1110.0_750.0_1286.0.png\l}"]
+	50	[label="{type = XCUIElementTypeStaticText\l|value = View all\l|name = View all\l|label = View all\l|enabled = true\l|visible = true\l|x = 280\l|y = 219\l|width = 49\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/560.0_438.0_658.0_476.0.png\l}"]
+	51	[label="{type = XCUIElementTypeStaticText\l|value = View all\l|name = View all\l|label = View all\l|enabled = true\l|visible = true\l|x = 280\l|y = 219\l|width = 49\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/560.0_438.0_658.0_476.0.png\l}"]
+	52	[label="{type = XCUIElementTypeOther\l|name = recent_order_banner_cell\l|enabled = true\l|visible = true\l|x = 0\l|y = 252\l|width = 375\l|height = 108\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_504.0_750.0_720.0.png\l}"]
+	53	[label="{type = XCUIElementTypeOther\l|name = recent_order_banner_cell\l|enabled = true\l|visible = true\l|x = 0\l|y = 359\l|width = 375\l|height = 126\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_718.0_750.0_970.0.png\l}"]
+	54	[label="{type = XCUIElementTypeOther\l|name = recent_order_banner_cell\l|label = Apple Pie and 3 other items . ordered on . 10/06/20 - 09:17 PM\l|enabled = true\l|visible = true\l|x = 0\l|y = 252\l|width = 375\l|height = 108\l|index = 0\l|numberOfChildren = 7\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_504.0_750.0_720.0.png\l}"]
+	55	[label="{type = XCUIElementTypeOther\l|name = recent_order_banner_cell\l|label = 20 Piece McNuggets and 2 other items . ordered on . 09/03/20 - 09:19 PM\l|enabled = true\l|visible = true\l|x = 0\l|y = 359\l|width = 375\l|height = 126\l|index = 0\l|numberOfChildren = 7\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_718.0_750.0_970.0.png\l}"]
+	56	[label="{type = XCUIElementTypeButton\l|name = view_hide_order_details\l|label = View details . Apple Pie and 3 other items . ordered on . 10/06/20 - 09:17 PM . Link . Double tap to Activate\l|enabled = true\l|visible = true\l|x = 102\l|y = 316\l|width = 137\l|height = 17\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/204.00000000000003_632.0_478.0_666.0.png\l}"]
+	57	[label="{type = XCUIElementTypeStaticText\l|value = Apple Pie + 3 Items\l|name = recent_order_title\l|label = Apple Pie + 3 Items\l|enabled = true\l|visible = true\l|x = 102\l|y = 281\l|width = 124\l|height = 19\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/204.00000000000003_562.0_452.0_600.0.png\l}"]
+	58	[label="{type = XCUIElementTypeStaticText\l|value = 10/06/20 - 09:17 PM\l|name = recent_order_time\l|label = 10/06/20 - 09:17 PM\l|enabled = true\l|visible = true\l|x = 102\l|y = 299\l|width = 124\l|height = 17\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/204.00000000000003_598.0_452.0_632.0.png\l}"]
+	59	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 252\l|width = 375\l|height = 108\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_504.0_750.0_720.0.png\l}"]
+	60	[label="{type = XCUIElementTypeButton\l|name = reorder\l|label = Reorder . Apple Pie and 3 other items . ordered on . 10/06/20 - 09:17 PM . Double tap to Activate\l|enabled = true\l|visible = true\l|x = 266\l|y = 290\l|width = 72\l|height = 34\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/532.0_580.0_676.0_648.0.png\l}"]
+	61	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 359\l|width = 359\l|height = 1\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/32.0_718.0_750.0_720.0.png\l}"]
+	62	[label="{type = XCUIElementTypeButton\l|name = view_hide_order_details\l|label = View details . 20 Piece McNuggets and 2 other items . ordered on . 09/03/20 - 09:19 PM . Link . Double tap to Activate\l|enabled = true\l|visible = true\l|x = 102\l|y = 441\l|width = 137\l|height = 17\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/204.00000000000003_882.0_478.0_916.0.png\l}"]
+	63	[label="{type = XCUIElementTypeStaticText\l|value = 20 Piece McNuggets + 2 Items\l|name = recent_order_title\l|label = 20 Piece McNuggets + 2 Items\l|enabled = true\l|visible = true\l|x = 102\l|y = 389\l|width = 134\l|height = 36\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/204.00000000000003_778.0_472.0_850.0.png\l}"]
+	64	[label="{type = XCUIElementTypeStaticText\l|value = 09/03/20 - 09:19 PM\l|name = recent_order_time\l|label = 09/03/20 - 09:19 PM\l|enabled = true\l|visible = true\l|x = 102\l|y = 424\l|width = 134\l|height = 17\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/204.00000000000003_848.0_472.0_882.0.png\l}"]
+	65	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 359\l|width = 375\l|height = 126\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_718.0_750.0_970.0.png\l}"]
+	66	[label="{type = XCUIElementTypeButton\l|name = reorder\l|label = Reorder . 20 Piece McNuggets and 2 other items . ordered on . 09/03/20 - 09:19 PM . Double tap to Activate\l|enabled = true\l|visible = true\l|x = 266\l|y = 406\l|width = 72\l|height = 34\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/532.0_812.0_676.0_880.0.png\l}"]
+	67	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 484\l|width = 359\l|height = 1\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/32.0_968.0_750.0_970.0.png\l}"]
+	68	[label="{type = XCUIElementTypeStaticText\l|value = View details\l|name = View details\l|label = View details\l|enabled = true\l|visible = true\l|x = 102\l|y = 316\l|width = 65\l|height = 17\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/204.00000000000003_632.0_334.0_666.0.png\l}"]
+	69	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 252\l|width = 375\l|height = 108\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_504.0_750.0_720.0.png\l}"]
+	70	[label="{type = XCUIElementTypeStaticText\l|value = Reorder\l|name = Reorder\l|label = Reorder\l|enabled = true\l|visible = true\l|x = 277\l|y = 298\l|width = 50\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/554.0_596.0_654.0_634.0.png\l}"]
+	71	[label="{type = XCUIElementTypeStaticText\l|value = View details\l|name = View details\l|label = View details\l|enabled = true\l|visible = true\l|x = 102\l|y = 441\l|width = 65\l|height = 17\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/204.00000000000003_882.0_334.0_916.0.png\l}"]
+	72	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 359\l|width = 375\l|height = 126\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/0.0_718.0_750.0_970.0.png\l}"]
+	73	[label="{type = XCUIElementTypeStaticText\l|value = Reorder\l|name = Reorder\l|label = Reorder\l|enabled = true\l|visible = true\l|x = 277\l|y = 414\l|width = 50\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S1/pngs/554.0_828.0_654.0_866.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	5 -> 7
+	6 -> 8
+	6 -> 9
+	6 -> 10
+	6 -> 11
+	6 -> 12
+	7 -> 13
+	13 -> 14
+	14 -> 15
+	15 -> 16
+	16 -> 17
+	17 -> 18
+	17 -> 19
+	18 -> 20
+	18 -> 21
+	18 -> 22
+	19 -> 23
+	20 -> 24
+	20 -> 25
+	21 -> 26
+	21 -> 27
+	22 -> 28
+	22 -> 29
+	22 -> 30
+	23 -> 31
+	23 -> 32
+	23 -> 33
+	23 -> 34
+	23 -> 35
+	23 -> 36
+	23 -> 37
+	23 -> 38
+	23 -> 39
+	23 -> 40
+	26 -> 41
+	27 -> 42
+	30 -> 43
+	33 -> 44
+	33 -> 45
+	34 -> 46
+	34 -> 47
+	37 -> 48
+	38 -> 49
+	40 -> 50
+	45 -> 51
+	47 -> 52
+	47 -> 53
+	52 -> 54
+	53 -> 55
+	54 -> 56
+	54 -> 57
+	54 -> 58
+	54 -> 59
+	54 -> 60
+	54 -> 61
+	55 -> 62
+	55 -> 63
+	55 -> 64
+	55 -> 65
+	55 -> 66
+	55 -> 67
+	56 -> 68
+	59 -> 69
+	60 -> 70
+	62 -> 71
+	65 -> 72
+	66 -> 73
+
+
+}

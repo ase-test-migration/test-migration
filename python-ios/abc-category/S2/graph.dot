@@ -1,0 +1,110 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = ABC News\l|label = ABC News\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeTabBar\l|name = Tab Bar\l|label = Tab Bar\l|enabled = true\l|visible = true\l|x = 0\l|y = 618\l|width = 375\l|height = 49\l|index = 1\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_1236.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = News\l|label = News\l|enabled = true\l|visible = true\l|x = 2\l|y = 619\l|width = 71\l|height = 48\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/4.0_1238.0_146.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|name = Interests\l|label = Interests\l|enabled = true\l|visible = true\l|x = 77\l|y = 619\l|width = 71\l|height = 48\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/154.0_1238.0_296.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeButton\l|name = Live\l|label = Live\l|enabled = true\l|visible = true\l|x = 152\l|y = 619\l|width = 71\l|height = 48\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/304.0_1238.0_446.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeButton\l|name = Shows\l|label = Shows\l|enabled = true\l|visible = true\l|x = 227\l|y = 619\l|width = 71\l|height = 48\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/453.99999999999994_1238.0_596.0_1334.0.png\l}"]
+	15	[label="{type = XCUIElementTypeButton\l|name = Listen\l|label = Listen\l|enabled = true\l|visible = true\l|x = 302\l|y = 619\l|width = 71\l|height = 48\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/604.0_1238.0_746.0_1334.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	18	[label="{type = XCUIElementTypeNavigationBar\l|name = Politics\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	20	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 8\l|y = 20\l|width = 35\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/16.0_40.0_86.0_128.0.png\l}"]
+	21	[label="{type = XCUIElementTypeStaticText\l|value = Politics\l|name = Politics\l|label = Politics\l|enabled = true\l|visible = true\l|x = 137\l|y = 22\l|width = 101\l|height = 40\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/274.0_44.0_476.0_124.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	25	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	28	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 11\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	29	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 65\l|width = 375\l|height = 308\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_130.0_750.0_746.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 373\l|width = 375\l|height = 10\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_746.0_750.0_766.0.png\l}"]
+	31	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 384\l|width = 375\l|height = 130\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_767.9999999999999_750.0_1028.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 514\l|width = 375\l|height = 1\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_1028.0_750.0_1030.0.png\l}"]
+	33	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 514\l|width = 375\l|height = 130\l|index = 6\l|numberOfChildren = 1\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_1028.0_750.0_1288.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 5 pages\l|label = Vertical scroll bar, 5 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 64\l|width = 30\l|height = 554\l|index = 9\l|numberOfChildren = 0\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/684.0_128.0_744.0_1236.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 585\l|width = 375\l|height = 30\l|index = 10\l|numberOfChildren = 0\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_1170.0_750.0_1230.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 65\l|width = 375\l|height = 308\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_130.0_750.0_746.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 373\l|width = 375\l|height = 10\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_746.0_750.0_766.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 384\l|width = 375\l|height = 130\l|index = 0\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_767.9999999999999_750.0_1028.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 514\l|width = 375\l|height = 130\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_1028.0_750.0_1288.0.png\l}"]
+	40	[label="{type = XCUIElementTypeStaticText\l|value = ABCNews.com\l|name = ABCNews.com\l|label = ABCNews.com\l|enabled = true\l|visible = true\l|x = 2\l|y = 268\l|width = 371\l|height = 8\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/4.0_536.0_746.0_552.0.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 276\l|width = 375\l|height = 97\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_552.0_750.0_746.0.png\l}"]
+	42	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 373\l|width = 375\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/0.0_746.0_750.0_748.0.png\l}"]
+	43	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 394\l|width = 220\l|height = 31\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/20.0_788.0_460.0_850.0.png\l}"]
+	44	[label="{type = XCUIElementTypeStaticText\l|value = Battle over Biden Cabinet nomination\l|name = Battle over Biden Cabinet nomination\l|label = Battle over Biden Cabinet nomination\l|enabled = true\l|visible = true\l|x = 20\l|y = 420\l|width = 200\l|height = 60\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/40.0_840.0_440.0_960.0.png\l}"]
+	45	[label="{type = XCUIElementTypeStaticText\l|value = Feb 25, 11:17 am\l|name = Feb 25, 11:17 am\l|label = Feb 25, 11:17 am\l|enabled = true\l|visible = true\l|x = 20\l|y = 486\l|width = 200\l|height = 13\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/40.0_971.9999999999999_440.0_997.9999999999999.png\l}"]
+	46	[label="{type = XCUIElementTypeStaticText\l|value = ABC News Live Prime: Wednesday, February 24, 2021\l|name = ABC News Live Prime: Wednesday, February 24, 2021\l|label = ABC News Live Prime: Wednesday, February 24, 2021\l|enabled = true\l|visible = true\l|x = 20\l|y = 534\l|width = 200\l|height = 76\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = true \l|screenshotPath = abc-category/S2/pngs/40.0_1068.0_440.0_1220.0.png\l}"]
+	47	[label="{type = XCUIElementTypeStaticText\l|value = Feb 25, 4:50 am\l|name = Feb 25, 4:50 am\l|label = Feb 25, 4:50 am\l|enabled = true\l|visible = true\l|x = 20\l|y = 616\l|width = 200\l|height = 13\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/40.0_1232.0_440.0_1258.0.png\l}"]
+	48	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 291\l|width = 335\l|height = 82\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/40.0_582.0_710.0_746.0.png\l}"]
+	49	[label="{type = XCUIElementTypeStaticText\l|value = House GOP leaders clash over Trump at CPAC\l|name = House GOP leaders clash over Trump at CPAC\l|label = House GOP leaders clash over Trump at CPAC\l|enabled = true\l|visible = true\l|x = 20\l|y = 291\l|width = 335\l|height = 45\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/40.0_582.0_710.0_672.0.png\l}"]
+	50	[label="{type = XCUIElementTypeStaticText\l|value = 2h, 24m ago\l|name = 2h, 24m ago\l|label = 2h, 24m ago\l|enabled = true\l|visible = true\l|x = 20\l|y = 346\l|width = 315\l|height = 12\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = abc-category/S2/pngs/40.0_692.0_670.0_716.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	7 -> 9
+	8 -> 10
+	9 -> 11
+	9 -> 12
+	9 -> 13
+	9 -> 14
+	9 -> 15
+	10 -> 16
+	16 -> 17
+	17 -> 18
+	17 -> 19
+	18 -> 20
+	18 -> 21
+	19 -> 22
+	22 -> 23
+	23 -> 24
+	24 -> 25
+	25 -> 26
+	26 -> 27
+	27 -> 28
+	28 -> 29
+	28 -> 30
+	28 -> 31
+	28 -> 32
+	28 -> 33
+	28 -> 34
+	28 -> 35
+	29 -> 36
+	30 -> 37
+	31 -> 38
+	33 -> 39
+	36 -> 40
+	36 -> 41
+	37 -> 42
+	38 -> 43
+	38 -> 44
+	38 -> 45
+	39 -> 46
+	39 -> 47
+	41 -> 48
+	48 -> 49
+	48 -> 50
+
+
+}

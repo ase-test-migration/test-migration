@@ -1,0 +1,34 @@
+{"name" : "Yahoo Mail", "label" : "Yahoo Mail", "screenshotPath" : "yahoo-search/S0/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "Inbox", "screenshotPath" : "yahoo-search/S0/pngs/0.0_40.0_750.0_231.99999999999997.png"}
+{"name" : "account_picker", "label" : "Accounts", "screenshotPath" : "yahoo-search/S0/pngs/32.0_53.99999999999999_92.0_114.0.png"}
+{"name" : "medical_globalInformation_button", "label" : "Medical information button in navigation bar", "screenshotPath" : "yahoo-search/S0/pngs/436.0_40.0_528.0_128.0.png"}
+{"name" : "compose_button", "label" : "Compose new message", "screenshotPath" : "yahoo-search/S0/pngs/544.0_40.0_632.0_128.0.png"}
+{"name" : "search_button", "label" : "Search", "screenshotPath" : "yahoo-search/S0/pngs/648.0_40.0_734.0_128.0.png"}
+{"value" : "Inbox", "name" : "Inbox", "label" : "Inbox", "screenshotPath" : "yahoo-search/S0/pngs/32.0_152.0_162.0_224.0.png"}
+{"value" : "email@example.com", "name" : "email@example.com", "label" : "email@example.com", "screenshotPath" : "yahoo-search/S0/pngs/34.0_194.0_278.0_224.0.png"}
+{"name" : "PrimaryTabBarItem_home", "label" : "Inbox", "screenshotPath" : "yahoo-search/S0/pngs/16.0_1230.0_160.0_1334.0.png"}
+{"name" : "PrimaryTabBarItem_videos", "label" : "Videos", "screenshotPath" : "yahoo-search/S0/pngs/158.0_1230.0_302.0_1334.0.png"}
+{"name" : "PrimaryTabBarItem_attachments", "label" : "Attachments", "screenshotPath" : "yahoo-search/S0/pngs/302.0_1230.0_446.0_1334.0.png"}
+{"name" : "PrimaryTabBarItem_discovery", "label" : "Today", "screenshotPath" : "yahoo-search/S0/pngs/444.0_1230.0_588.0_1334.0.png"}
+{"name" : "PrimaryTabBarItem_more", "label" : "More", "screenshotPath" : "yahoo-search/S0/pngs/588.0_1230.0_732.0_1334.0.png"}
+{"name" : "TODAY", "screenshotPath" : "yahoo-search/S0/pngs/0.0_232.0_750.0_312.0.png"}
+{"name" : "Me,date, now,Unread,Subject,Testing 1 search term,2 messages in this conversation,Snippet,Sent from Yahoo Mail for iPhone", "label" : "Me,date, now,Unread,Subject,Testing 1 search term,2 messages in this conversation,Snippet,Sent from Yahoo Mail for iPhone", "screenshotPath" : "yahoo-search/S0/pngs/0.0_312.0_750.0_484.0.png"}
+{"name" : "Me,4 Hours ago,Unread,Subject,Something else ,Snippet,(No Content)", "label" : "Me,4 Hours ago,Unread,Subject,Something else ,Snippet,(No Content)", "screenshotPath" : "yahoo-search/S0/pngs/0.0_482.0_750.0_654.0.png"}
+{"name" : "Google Community Team,5 Hours ago,Subject,User, finish setting up your new Google Account,Snippet,Hi User, Welcome to Google. Your new account comes wit", "label" : "Google Community Team,5 Hours ago,Subject,User, finish setting up your new Google Account,Snippet,Hi User, Welcome to Google. Your new account comes wit", "screenshotPath" : "yahoo-search/S0/pngs/0.0_652.0_750.0_824.0.png"}
+{"name" : "TODAY,un-selected", "label" : "TODAY,un-selected", "screenshotPath" : "yahoo-search/S0/pngs/0.0_232.0_750.0_312.0.png"}
+{"value" : "Me", "name" : "From", "label" : "From", "screenshotPath" : "yahoo-search/S0/pngs/152.0_336.0_202.0_380.0.png"}
+{"value" : "Testing 1 search term", "name" : "Subject", "label" : "Subject", "screenshotPath" : "yahoo-search/S0/pngs/152.0_383.99999999999994_650.0_419.99999999999994.png"}
+{"value" : "Sent from Yahoo Mail for iPhone", "name" : "Snippet", "label" : "Snippet", "screenshotPath" : "yahoo-search/S0/pngs/152.0_424.0_650.0_460.0.png"}
+{"value" : "2", "name" : "2", "label" : "2", "screenshotPath" : "yahoo-search/S0/pngs/212.0_344.00000000000006_244.0_370.00000000000006.png"}
+{"value" : "now", "name" : "now", "label" : "now", "screenshotPath" : "yahoo-search/S0/pngs/664.0_342.0_710.0_374.0.png"}
+{"name" : "Star button off", "label" : "Star button off", "screenshotPath" : "yahoo-search/S0/pngs/650.0_383.99999999999994_750.0_485.99999999999994.png"}
+{"value" : "Me", "name" : "From", "label" : "From", "screenshotPath" : "yahoo-search/S0/pngs/152.0_506.0_202.0_550.0.png"}
+{"value" : "Something else ", "name" : "Subject", "label" : "Subject", "screenshotPath" : "yahoo-search/S0/pngs/152.0_554.0_650.0_590.0.png"}
+{"value" : "(No Content)", "name" : "Snippet", "label" : "Snippet", "screenshotPath" : "yahoo-search/S0/pngs/152.0_594.0_650.0_630.0.png"}
+{"value" : "4h", "name" : "4h", "label" : "4h", "screenshotPath" : "yahoo-search/S0/pngs/682.0_512.0_710.0_544.0.png"}
+{"name" : "Star button off", "label" : "Star button off", "screenshotPath" : "yahoo-search/S0/pngs/650.0_554.0_750.0_656.0.png"}
+{"value" : "Google Community Team", "name" : "From", "label" : "From", "screenshotPath" : "yahoo-search/S0/pngs/152.0_676.0_540.0_720.0.png"}
+{"value" : "User, finish setting up your new Google Account", "name" : "Subject", "label" : "Subject", "screenshotPath" : "yahoo-search/S0/pngs/152.0_724.0_650.0_760.0.png"}
+{"value" : "Hi User, Welcome to Google. Your new account comes with access to Google products, apps, and services. Here are a few tips to get you started. Confirm your options are right for youReview and change your privacy and security options to make Google work better for you. Confirm Stay in the know with the Google appFind quick answers, explore your interests, and stay up to date. Try it More from GoogleDiscover the latest apps from Google. For Android For iOS Want to stay in the loop?Sign up to receive per", "name" : "Snippet", "label" : "Snippet", "screenshotPath" : "yahoo-search/S0/pngs/152.0_764.0_650.0_800.0.png"}
+{"value" : "5h", "name" : "5h", "label" : "5h", "screenshotPath" : "yahoo-search/S0/pngs/682.0_682.0_710.0_714.0.png"}
+{"name" : "Star button off", "label" : "Star button off", "screenshotPath" : "yahoo-search/S0/pngs/650.0_724.0_750.0_826.0.png"}

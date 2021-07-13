@@ -1,0 +1,21 @@
+{ "resource-id" : "com.etsy.android:id/app_bar_toolbar" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/0_72_1080_240.png"}
+{ "content-desc" : "Home tab, 1 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_home" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/0_1608_216_1776.png"}
+{ "content-desc" : "Favorites tab, 2 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_favorites" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/216_1608_432_1776.png"}
+{ "content-desc" : "Updates tab, 3 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_updates" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/432_1608_648_1776.png"}
+{ "content-desc" : "You tab, 4 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_you" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/648_1608_864_1776.png"}
+{ "content-desc" : "Cart tab, 5 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_cart" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/864_1608_1080_1776.png"}
+{ "content-desc" : "Navigate up" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/0_72_168_240.png"}
+{ "resource-id" : "com.etsy.android:id/recycler_view" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/0_240_1080_1608.png"}
+{ "resource-id" : "com.etsy.android:id/search_src_text" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/168_102_936_210.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/24_559_528_1162.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/552_559_1056_1162.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/24_1186_528_1608.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/552_1186_1056_1608.png"}
+{ "content-desc" : "Add Cotton Area Rug- 2x3 Feet Oval Hand Woven Multicolor Recycled Cotton Reversible Braided Rag Rug to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/396_583_504_691.png"}
+{ "content-desc" : "Show menu of listing actions for Cotton Area Rug- 2x3 Feet Oval Hand Woven Multicolor Recycled Cotton Reversible Braided Rag Rug" , "resource-id" : "com.etsy.android:id/btn_menu" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/420_1018_528_1162.png"}
+{ "content-desc" : "Add Handmade Oval Crochet Area Rag Rug Mat Orange Peach Gray white 27 X 23 to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/924_583_1032_691.png"}
+{ "content-desc" : "Show menu of listing actions for Handmade Oval Crochet Area Rag Rug Mat Orange Peach Gray white 27 X 23" , "resource-id" : "com.etsy.android:id/btn_menu" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/948_1018_1056_1162.png"}
+{ "content-desc" : "Add ZAHRA | Antique Persian Heriz Pattern Oriental Rug, Hand-knotted texture, Traditional decor, Mid-century Modern, Navy blue, Red, Area Rugs to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/396_1210_504_1318.png"}
+{ "content-desc" : "Add Handmade Oval Crochet Area Rag Rug Mat Orange Peach Gray white 27 X 23 to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/924_1210_1032_1318.png"}
+{ "content-desc" : "Change to 3x3 grid" , "resource-id" : "com.etsy.android:id/toggle_3x3_view_button" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/36_276_324_420.png"}
+{ "content-desc" : "Filter Button" , "resource-id" : "com.etsy.android:id/filter_button" , "screenshotPath" : "etsy-add-to-cart/S1/pngs/758_276_1044_420.png"}

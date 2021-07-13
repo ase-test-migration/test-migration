@@ -1,0 +1,4 @@
+pathToElementImageCrop: brave-tab/S1/pngs/330.0_1246.0_420.0_1334.0.png;
+coords: {'x1': 330.0, 'y1': 1246.0, 'x2': 420.0, 'y2': 1334.0};
+text_identifier: { "label" : "Add Tab" };
+event: click;

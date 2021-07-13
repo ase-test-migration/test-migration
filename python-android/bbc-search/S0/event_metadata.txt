@@ -1,0 +1,4 @@
+pathToElementImageCrop: bbc-search/S0/pngs/936_84_1080_228.png;
+coords: {'x1': 936, 'y1': 84, 'x2': 1080, 'y2': 228};
+text_identifier: { "content-desc" : "Search" , "resource-id" : "bbc.mobile.news.uk:id/action_search" };
+event: click;

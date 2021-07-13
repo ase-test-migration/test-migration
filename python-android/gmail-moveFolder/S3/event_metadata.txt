@@ -1,0 +1,4 @@
+pathToElementImageCrop: gmail-moveFolder/S3/pngs/238_1118_947_1175.png;
+coords: {'x1': 238, 'y1': 1118, 'x2': 947, 'y2': 1175};
+text_identifier: { "resource-id" : "com.google.android.gm:id/folder_name" };
+event: click;

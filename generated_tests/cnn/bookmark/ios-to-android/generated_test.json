@@ -1,0 +1,18 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "cnn-bookmark",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.cnn.mobile.android.phone:id/card_view",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Bookmark",
+                "event": "click"
+            }
+        ]
+    }
+}

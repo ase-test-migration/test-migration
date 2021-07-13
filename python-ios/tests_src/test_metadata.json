@@ -1,0 +1,38 @@
+{
+    "desiredCapabilities": {
+        "platformName" : "iOS",
+        "xcodeOrgId" : "5FLNFHR2L3",
+        "xcodeSigningId" : "iPhone Developer",
+        "automationName" : "xcuitest",
+        "deviceName" : "Some User",
+        "udid" : "bdf8ac24c06288f44ac43ebe32b2c23e6e49b7e2",
+        "bundleId" : "com.cnn.iphone"
+    },
+    "tests" : [
+        {
+            "name" : "testHealthSaveReadLater",
+            "events": [
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "Health",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "save",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "share",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "xPath",
+                    "tag" : "//XCUIElementTypeCell[@name=\"Copy\"]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther",
+                    "event" : "click"
+                }
+            ]
+        }
+    ]
+}

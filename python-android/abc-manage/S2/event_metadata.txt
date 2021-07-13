@@ -1,0 +1,4 @@
+pathToElementImageCrop: abc-manage/S2/pngs/850_410_1020_560.png;
+coords: {'x1': 850, 'y1': 410, 'x2': 1020, 'y2': 560};
+text_identifier: { "resource-id" : "com.abc.abcnews:id/manage_interests_switch" };
+event: click;

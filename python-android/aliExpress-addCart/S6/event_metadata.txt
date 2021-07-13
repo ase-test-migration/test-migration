@@ -1,0 +1,5 @@
+pathToElementImageCrop: aliExpress-addCart/S6/pngs/731_84_802_155.png;
+coords: {'x1': 731, 'y1': 84, 'x2': 802, 'y2': 155};
+text_identifier: { "resource-id" : "com.alibaba.aliexpresshd:id/tv_cart_badge" };
+event: oracle;
+oracle-type: widget_exists;

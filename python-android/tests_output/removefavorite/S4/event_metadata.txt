@@ -1,0 +1,6 @@
+pathToElementImageCrop: ;
+coords: ;
+text_identifier: { Remove from favorites };
+event: oracle;
+type: text_exists;
+input: Remove from favorites;

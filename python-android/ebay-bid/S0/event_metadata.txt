@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-bid/S0/pngs/648_442_1022_547.png;
+coords: {'x1': 648, 'y1': 442, 'x2': 1022, 'y2': 547};
+text_identifier: { "resource-id" : "com.ebay.mobile:id/home_pill" };
+event: click;

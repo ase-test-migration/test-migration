@@ -1,0 +1,76 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Spark\l|label = Spark\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 72\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/0.0_0.0_750.0_144.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 595\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/0.0_144.0_750.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 5\l|y = 22\l|width = 44\l|height = 50\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/10.0_44.0_98.0_144.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 54\l|y = 22\l|width = 86\l|height = 50\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/107.99999999999999_44.0_280.0_144.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 145\l|y = 22\l|width = 137\l|height = 50\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/290.0_44.0_564.0_144.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 282\l|y = 22\l|width = 44\l|height = 50\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/564.0_44.0_652.0_144.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 326\l|y = 22\l|width = 44\l|height = 50\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/652.0_44.0_740.0_144.0.png\l}"]
+	18	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 595\l|index = 0\l|numberOfChildren = 45\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/0.0_144.0_750.0_1334.0.png\l}"]
+	19	[label="{type = XCUIElementTypeButton\l|name = icon sidebar n\l|enabled = true\l|visible = true\l|x = 5\l|y = 22\l|width = 44\l|height = 50\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/10.0_44.0_98.0_144.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|name = BarDefaultTitleViewTitle\l|enabled = true\l|visible = true\l|x = 54\l|y = 37\l|width = 86\l|height = 20\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/107.99999999999999_74.0_280.0_114.0.png\l}"]
+	21	[label="{type = XCUIElementTypeButton\l|name = search_button\l|enabled = true\l|visible = true\l|x = 282\l|y = 22\l|width = 44\l|height = 50\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/564.0_44.0_652.0_144.0.png\l}"]
+	22	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 326\l|y = 22\l|width = 44\l|height = 50\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/652.0_44.0_740.0_144.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|name = Today\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 44\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/0.0_144.0_750.0_232.0.png\l}"]
+	24	[label="{type = XCUIElementTypeCell\l|value = seen & unpinned & noAttachment & gmailMessageId:1696282245677461066 & 2021-04-06 & 11:20 & to:Some User <email@example.com> & shortBody:\l|name = Testing\l|enabled = true\l|visible = true\l|x = 0\l|y = 116\l|width = 375\l|height = 88\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = true \l|screenshotPath = spark-move/S6/pngs/0.0_232.0_750.0_408.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|name = February\l|enabled = true\l|visible = true\l|x = 0\l|y = 204\l|width = 375\l|height = 44\l|index = 7\l|numberOfChildren = 1\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/0.0_408.0_750.0_496.0.png\l}"]
+	26	[label="{type = XCUIElementTypeCell\l|value = unseen & unpinned & noAttachment & gmailMessageId:1692574156695339729 & 2021-02-24 & 12:01 & to:email@example.com & shortBody:Twobird was granted access to your Google Account email@example.com If you did not grant access, y\l|name = Security alert\l|enabled = true\l|visible = true\l|x = 0\l|y = 248\l|width = 375\l|height = 88\l|index = 8\l|numberOfChildren = 0\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/0.0_496.0_750.0_672.0.png\l}"]
+	27	[label="{type = XCUIElementTypeCell\l|value = unseen & unpinned & noAttachment & gmailMessageId:1692530323064613368 & 2021-02-24 & 00:24 & to:email@example.com & shortBody:Welcome to Boomerang! Offering congratulations for downloading an email application feels presumptuo\l|name = Welcome to Boomerang for iOS!\l|enabled = true\l|visible = true\l|x = 0\l|y = 336\l|width = 375\l|height = 88\l|index = 9\l|numberOfChildren = 0\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/0.0_672.0_750.0_848.0.png\l}"]
+	28	[label="{type = XCUIElementTypeCell\l|value = unseen & unpinned & noAttachment & gmailMessageId:1692530320905799903 & 2021-02-24 & 00:24 & to:email@example.com & shortBody:Boomerang for Gmail was granted access to your Google Account email@example.com If you did not gra\l|name = Security alert\l|enabled = true\l|visible = true\l|x = 0\l|y = 424\l|width = 375\l|height = 88\l|index = 10\l|numberOfChildren = 0\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/0.0_848.0_750.0_1024.0.png\l}"]
+	29	[label="{type = XCUIElementTypeCell\l|value = unseen & unpinned & noAttachment & gmailMessageId:1692527745026263517 & 2021-02-23 & 23:44 & to:email@example.com & shortBody:My.Com was granted access to your Google Account email@example.com If you did not grant access, yo\l|name = Security alert\l|enabled = true\l|visible = true\l|x = 0\l|y = 512\l|width = 375\l|height = 88\l|index = 11\l|numberOfChildren = 0\l|numInParentLayout = 11\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/0.0_1024.0_750.0_1200.0.png\l}"]
+	30	[label="{type = XCUIElementTypeCell\l|value = unseen & unpinned & hasAttachment & gmailMessageId:1692527745134646185 & 2021-02-23 & 23:44 & to:email@example.com & shortBody:myMail: one app to manage all your email accounts Like so many techies, we get really (and I mean, R\l|name = Welcome to myMail\l|enabled = true\l|visible = true\l|x = 0\l|y = 600\l|width = 375\l|height = 88\l|index = 12\l|numberOfChildren = 0\l|numInParentLayout = 12\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/0.0_1200.0_750.0_1376.0.png\l}"]
+	31	[label="{type = XCUIElementTypeStaticText\l|value = Important\l|name = Important\l|label = Important\l|enabled = true\l|visible = true\l|x = 54\l|y = 37\l|width = 86\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/107.99999999999999_74.0_280.0_114.0.png\l}"]
+	32	[label="{type = XCUIElementTypeStaticText\l|value = Today\l|name = Today\l|label = Today\l|enabled = true\l|visible = true\l|x = 12\l|y = 72\l|width = 351\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/24.0_144.0_726.0_232.0.png\l}"]
+	33	[label="{type = XCUIElementTypeStaticText\l|value = February\l|name = February\l|label = February\l|enabled = true\l|visible = true\l|x = 12\l|y = 204\l|width = 351\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S6/pngs/24.0_408.0_726.0_496.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	8 -> 9
+	9 -> 10
+	10 -> 11
+	10 -> 12
+	11 -> 13
+	11 -> 14
+	11 -> 15
+	11 -> 16
+	11 -> 17
+	12 -> 18
+	13 -> 19
+	14 -> 20
+	16 -> 21
+	17 -> 22
+	18 -> 23
+	18 -> 24
+	18 -> 25
+	18 -> 26
+	18 -> 27
+	18 -> 28
+	18 -> 29
+	18 -> 30
+	20 -> 31
+	23 -> 32
+	25 -> 33
+
+
+}

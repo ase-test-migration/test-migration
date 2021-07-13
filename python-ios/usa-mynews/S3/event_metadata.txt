@@ -1,0 +1,4 @@
+pathToElementImageCrop: usa-mynews/S3/pngs/1059.0_132.0_1206.0_264.0.png;
+coords: {'x1': 1059.0, 'y1': 132.0, 'x2': 1206.0, 'y2': 264.0};
+text_identifier: { "label" : "Done" };
+event: click;

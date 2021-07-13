@@ -1,0 +1,23 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "python-ios",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "1 open tab, tap to switch tabs",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.brave.browser:id/bottom_controls",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "Search"
+            }
+        ]
+    }
+}

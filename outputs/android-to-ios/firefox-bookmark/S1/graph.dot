@@ -1,0 +1,218 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Firefox\l|label = Firefox\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 451\l|width = 375\l|height = 216\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/0.0_902.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 451\l|width = 375\l|height = 216\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/0.0_902.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeKeyboard\l|enabled = true\l|visible = true\l|x = 0\l|y = 451\l|width = 375\l|height = 216\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/0.0_902.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 451\l|width = 375\l|height = 216\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/0.0_902.0_750.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 451\l|width = 375\l|height = 216\l|index = 0\l|numberOfChildren = 34\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/0.0_902.0_750.0_1334.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 75\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/0.0_40.0_750.0_190.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 95\l|width = 375\l|height = 572\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/0.0_190.0_750.0_1334.0.png\l}"]
+	17	[label="{type = XCUIElementTypeKey\l|name = q\l|label = q\l|enabled = true\l|visible = true\l|x = 0\l|y = 458\l|width = 38\l|height = 46\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/0.0_916.0_76.0_1008.0.png\l}"]
+	18	[label="{type = XCUIElementTypeKey\l|name = w\l|label = w\l|enabled = true\l|visible = true\l|x = 37\l|y = 458\l|width = 38\l|height = 46\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/74.0_916.0_150.0_1008.0.png\l}"]
+	19	[label="{type = XCUIElementTypeKey\l|name = e\l|label = e\l|enabled = true\l|visible = true\l|x = 75\l|y = 458\l|width = 38\l|height = 46\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/150.0_916.0_226.0_1008.0.png\l}"]
+	20	[label="{type = XCUIElementTypeKey\l|name = r\l|label = r\l|enabled = true\l|visible = true\l|x = 112\l|y = 458\l|width = 38\l|height = 46\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/224.00000000000003_916.0_300.0_1008.0.png\l}"]
+	21	[label="{type = XCUIElementTypeKey\l|name = t\l|label = t\l|enabled = true\l|visible = true\l|x = 150\l|y = 458\l|width = 38\l|height = 46\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/300.0_916.0_376.0_1008.0.png\l}"]
+	22	[label="{type = XCUIElementTypeKey\l|name = y\l|label = y\l|enabled = true\l|visible = true\l|x = 187\l|y = 458\l|width = 38\l|height = 46\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/374.0_916.0_450.0_1008.0.png\l}"]
+	23	[label="{type = XCUIElementTypeKey\l|name = u\l|label = u\l|enabled = true\l|visible = true\l|x = 225\l|y = 458\l|width = 38\l|height = 46\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/450.0_916.0_526.0_1008.0.png\l}"]
+	24	[label="{type = XCUIElementTypeKey\l|name = i\l|label = i\l|enabled = true\l|visible = true\l|x = 262\l|y = 458\l|width = 38\l|height = 46\l|index = 7\l|numberOfChildren = 0\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/524.0_916.0_600.0_1008.0.png\l}"]
+	25	[label="{type = XCUIElementTypeKey\l|name = o\l|label = o\l|enabled = true\l|visible = true\l|x = 300\l|y = 458\l|width = 38\l|height = 46\l|index = 8\l|numberOfChildren = 0\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/600.0_916.0_676.0_1008.0.png\l}"]
+	26	[label="{type = XCUIElementTypeKey\l|name = p\l|label = p\l|enabled = true\l|visible = true\l|x = 337\l|y = 458\l|width = 38\l|height = 46\l|index = 9\l|numberOfChildren = 0\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/674.0_916.0_750.0_1008.0.png\l}"]
+	27	[label="{type = XCUIElementTypeKey\l|name = a\l|label = a\l|enabled = true\l|visible = true\l|x = 18\l|y = 512\l|width = 38\l|height = 46\l|index = 10\l|numberOfChildren = 0\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/36.0_1024.0_112.0_1116.0.png\l}"]
+	28	[label="{type = XCUIElementTypeKey\l|name = s\l|label = s\l|enabled = true\l|visible = true\l|x = 56\l|y = 512\l|width = 38\l|height = 46\l|index = 11\l|numberOfChildren = 0\l|numInParentLayout = 11\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/112.00000000000001_1024.0_188.0_1116.0.png\l}"]
+	29	[label="{type = XCUIElementTypeKey\l|name = d\l|label = d\l|enabled = true\l|visible = true\l|x = 93\l|y = 512\l|width = 38\l|height = 46\l|index = 12\l|numberOfChildren = 0\l|numInParentLayout = 12\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/186.0_1024.0_262.0_1116.0.png\l}"]
+	30	[label="{type = XCUIElementTypeKey\l|name = f\l|label = f\l|enabled = true\l|visible = true\l|x = 131\l|y = 512\l|width = 38\l|height = 46\l|index = 13\l|numberOfChildren = 0\l|numInParentLayout = 13\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/262.0_1024.0_338.0_1116.0.png\l}"]
+	31	[label="{type = XCUIElementTypeKey\l|name = g\l|label = g\l|enabled = true\l|visible = true\l|x = 169\l|y = 512\l|width = 38\l|height = 46\l|index = 14\l|numberOfChildren = 0\l|numInParentLayout = 14\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/338.0_1024.0_414.0_1116.0.png\l}"]
+	32	[label="{type = XCUIElementTypeKey\l|name = h\l|label = h\l|enabled = true\l|visible = true\l|x = 206\l|y = 512\l|width = 38\l|height = 46\l|index = 15\l|numberOfChildren = 0\l|numInParentLayout = 15\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/412.0_1024.0_488.0_1116.0.png\l}"]
+	33	[label="{type = XCUIElementTypeKey\l|name = j\l|label = j\l|enabled = true\l|visible = true\l|x = 244\l|y = 512\l|width = 38\l|height = 46\l|index = 16\l|numberOfChildren = 0\l|numInParentLayout = 16\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/487.99999999999994_1024.0_564.0_1116.0.png\l}"]
+	34	[label="{type = XCUIElementTypeKey\l|name = k\l|label = k\l|enabled = true\l|visible = true\l|x = 281\l|y = 512\l|width = 38\l|height = 46\l|index = 17\l|numberOfChildren = 0\l|numInParentLayout = 17\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/562.0_1024.0_638.0_1116.0.png\l}"]
+	35	[label="{type = XCUIElementTypeKey\l|name = l\l|label = l\l|enabled = true\l|visible = true\l|x = 319\l|y = 512\l|width = 38\l|height = 46\l|index = 18\l|numberOfChildren = 0\l|numInParentLayout = 18\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/638.0_1024.0_714.0_1116.0.png\l}"]
+	36	[label="{type = XCUIElementTypeButton\l|name = shift\l|label = shift\l|enabled = true\l|visible = true\l|x = 0\l|y = 566\l|width = 48\l|height = 46\l|index = 19\l|numberOfChildren = 0\l|numInParentLayout = 19\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/0.0_1132.0_96.0_1224.0.png\l}"]
+	37	[label="{type = XCUIElementTypeKey\l|name = z\l|label = z\l|enabled = true\l|visible = true\l|x = 56\l|y = 566\l|width = 38\l|height = 46\l|index = 20\l|numberOfChildren = 0\l|numInParentLayout = 20\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/112.00000000000001_1132.0_188.0_1224.0.png\l}"]
+	38	[label="{type = XCUIElementTypeKey\l|name = x\l|label = x\l|enabled = true\l|visible = true\l|x = 93\l|y = 566\l|width = 38\l|height = 46\l|index = 21\l|numberOfChildren = 0\l|numInParentLayout = 21\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/186.0_1132.0_262.0_1224.0.png\l}"]
+	39	[label="{type = XCUIElementTypeKey\l|name = c\l|label = c\l|enabled = true\l|visible = true\l|x = 131\l|y = 566\l|width = 38\l|height = 46\l|index = 22\l|numberOfChildren = 0\l|numInParentLayout = 22\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/262.0_1132.0_338.0_1224.0.png\l}"]
+	40	[label="{type = XCUIElementTypeKey\l|name = v\l|label = v\l|enabled = true\l|visible = true\l|x = 169\l|y = 566\l|width = 38\l|height = 46\l|index = 23\l|numberOfChildren = 0\l|numInParentLayout = 23\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/338.0_1132.0_414.0_1224.0.png\l}"]
+	41	[label="{type = XCUIElementTypeKey\l|name = b\l|label = b\l|enabled = true\l|visible = true\l|x = 206\l|y = 566\l|width = 38\l|height = 46\l|index = 24\l|numberOfChildren = 0\l|numInParentLayout = 24\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/412.0_1132.0_488.0_1224.0.png\l}"]
+	42	[label="{type = XCUIElementTypeKey\l|name = n\l|label = n\l|enabled = true\l|visible = true\l|x = 244\l|y = 566\l|width = 38\l|height = 46\l|index = 25\l|numberOfChildren = 0\l|numInParentLayout = 25\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/487.99999999999994_1132.0_564.0_1224.0.png\l}"]
+	43	[label="{type = XCUIElementTypeKey\l|name = m\l|label = m\l|enabled = true\l|visible = true\l|x = 281\l|y = 566\l|width = 38\l|height = 46\l|index = 26\l|numberOfChildren = 0\l|numInParentLayout = 26\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/562.0_1132.0_638.0_1224.0.png\l}"]
+	44	[label="{type = XCUIElementTypeKey\l|name = delete\l|label = delete\l|enabled = true\l|visible = true\l|x = 327\l|y = 566\l|width = 48\l|height = 46\l|index = 27\l|numberOfChildren = 0\l|numInParentLayout = 27\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/654.0_1132.0_750.0_1224.0.png\l}"]
+	45	[label="{type = XCUIElementTypeKey\l|name = more\l|label = numbers\l|enabled = true\l|visible = true\l|x = 0\l|y = 620\l|width = 47\l|height = 46\l|index = 28\l|numberOfChildren = 0\l|numInParentLayout = 28\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/0.0_1240.0_94.0_1332.0.png\l}"]
+	46	[label="{type = XCUIElementTypeButton\l|name = Emoji\l|label = Emoji\l|enabled = true\l|visible = true\l|x = 46\l|y = 620\l|width = 48\l|height = 46\l|index = 29\l|numberOfChildren = 0\l|numInParentLayout = 29\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/92.0_1240.0_188.0_1332.0.png\l}"]
+	47	[label="{type = XCUIElementTypeButton\l|name = dictation\l|label = Dictate\l|enabled = true\l|visible = true\l|x = 93\l|y = 620\l|width = 38\l|height = 46\l|index = 30\l|numberOfChildren = 0\l|numInParentLayout = 30\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/186.0_1240.0_262.0_1332.0.png\l}"]
+	48	[label="{type = XCUIElementTypeKey\l|name = space\l|label = space\l|enabled = true\l|visible = true\l|x = 131\l|y = 620\l|width = 137\l|height = 46\l|index = 31\l|numberOfChildren = 0\l|numInParentLayout = 31\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/262.0_1240.0_536.0_1332.0.png\l}"]
+	49	[label="{type = XCUIElementTypeKey\l|name = .\l|label = .\l|enabled = true\l|visible = true\l|x = 267\l|y = 620\l|width = 38\l|height = 46\l|index = 32\l|numberOfChildren = 0\l|numInParentLayout = 32\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/534.0_1240.0_610.0_1332.0.png\l}"]
+	50	[label="{type = XCUIElementTypeButton\l|name = Go\l|label = go\l|enabled = true\l|visible = true\l|x = 305\l|y = 620\l|width = 70\l|height = 46\l|index = 33\l|numberOfChildren = 0\l|numInParentLayout = 33\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/610.0_1240.0_750.0_1332.0.png\l}"]
+	51	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 75\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/0.0_40.0_750.0_190.0.png\l}"]
+	52	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 95\l|width = 375\l|height = 572\l|index = 0\l|numberOfChildren = 11\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/0.0_190.0_750.0_1334.0.png\l}"]
+	53	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 44\l|y = 20\l|width = 287\l|height = 34\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/88.0_40.0_662.0_108.0.png\l}"]
+	54	[label="{type = XCUIElementTypeButton\l|name = urlBar-cancel\l|label = Back\l|enabled = true\l|visible = true\l|x = 0\l|y = 35\l|width = 44\l|height = 45\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/0.0_70.0_88.0_160.0.png\l}"]
+	55	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 44\l|y = 33\l|width = 287\l|height = 49\l|index = 2\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/88.0_66.0_662.0_164.0.png\l}"]
+	56	[label="{type = XCUIElementTypeButton\l|name = urlBar-scanQRCode\l|label = Scan QR Code\l|enabled = true\l|visible = true\l|x = 331\l|y = 35\l|width = 44\l|height = 45\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/662.0_70.0_750.0_160.0.png\l}"]
+	57	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 95\l|width = 375\l|height = 40\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/0.0_190.0_750.0_270.0.png\l}"]
+	58	[label="{type = XCUIElementTypeCell\l|name = TopSitesCell\l|enabled = true\l|visible = true\l|x = 6\l|y = 135\l|width = 363\l|height = 214\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/12.0_270.0_738.0_698.0.png\l}"]
+	59	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 349\l|width = 375\l|height = 5\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/0.0_698.0_750.0_708.0.png\l}"]
+	60	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 354\l|width = 375\l|height = 40\l|index = 3\l|numberOfChildren = 3\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/0.0_708.0_750.0_788.0.png\l}"]
+	61	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 20\l|y = 394\l|width = 335\l|height = 94\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/40.0_788.0_710.0_976.0.png\l}"]
+	62	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 5 pages\l|label = Vertical scroll bar, 5 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 95\l|width = 30\l|height = 356\l|index = 9\l|numberOfChildren = 0\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/684.0_190.0_744.0_902.0.png\l}"]
+	63	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 418\l|width = 375\l|height = 30\l|index = 10\l|numberOfChildren = 0\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/0.0_835.9999999999999_750.0_895.9999999999999.png\l}"]
+	64	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 48\l|y = 37\l|width = 279\l|height = 41\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/96.0_74.0_654.0_156.0.png\l}"]
+	65	[label="{type = XCUIElementTypeTextField\l|value = Search or enter address\l|name = address\l|label = Address and Search\l|enabled = true\l|visible = true\l|x = 56\l|y = 37\l|width = 263\l|height = 41\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/112.00000000000001_74.0_638.0_156.0.png\l}"]
+	66	[label="{type = XCUIElementTypeStaticText\l|value = Top Sites\l|name = topSitesTitle\l|label = Top Sites\l|enabled = true\l|visible = true\l|x = 41\l|y = 99\l|width = 70\l|height = 32\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/82.0_198.0_222.0_262.0.png\l}"]
+	67	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 6\l|y = 135\l|width = 363\l|height = 214\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/12.0_270.0_738.0_698.0.png\l}"]
+	68	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 349\l|width = 335\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/40.0_698.0_710.0_700.0.png\l}"]
+	69	[label="{type = XCUIElementTypeStaticText\l|value = Your Library\l|name = libraryTitle\l|label = Your Library\l|enabled = true\l|visible = true\l|x = 41\l|y = 358\l|width = 93\l|height = 32\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/82.0_716.0000000000001_268.0_780.0000000000001.png\l}"]
+	70	[label="{type = XCUIElementTypeButton\l|name = libraryMoreButton\l|label = See All\l|enabled = true\l|visible = true\l|x = 139\l|y = 358\l|width = 216\l|height = 32\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/278.0_716.0000000000001_710.0_780.0000000000001.png\l}"]
+	71	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 394\l|width = 335\l|height = 94\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/40.0_788.0_710.0_976.0.png\l}"]
+	72	[label="{type = XCUIElementTypeTextField\l|value = Search or enter address\l|name = url\l|label = Address Bar\l|enabled = true\l|visible = true\l|x = 58\l|y = 46\l|width = 269\l|height = 23\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/116.0_92.0_654.0_138.0.png\l}"]
+	73	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 6\l|y = 135\l|width = 363\l|height = 214\l|index = 0\l|numberOfChildren = 8\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/12.0_270.0_738.0_698.0.png\l}"]
+	74	[label="{type = XCUIElementTypeStaticText\l|value = See All\l|name = See All\l|label = See All\l|enabled = true\l|visible = true\l|x = 306\l|y = 365\l|width = 49\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/612.0_730.0_710.0_766.0.png\l}"]
+	75	[label="{type = XCUIElementTypeOther\l|name = Bookmarks\l|label = Bookmarks\l|enabled = true\l|visible = true\l|x = 20\l|y = 394\l|width = 77\l|height = 94\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/40.0_788.0_194.0_976.0.png\l}"]
+	76	[label="{type = XCUIElementTypeOther\l|name = Reading List\l|label = Reading List\l|enabled = true\l|visible = true\l|x = 106\l|y = 394\l|width = 77\l|height = 94\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/212.0_788.0_366.0_976.0.png\l}"]
+	77	[label="{type = XCUIElementTypeOther\l|name = Downloads\l|label = Downloads\l|enabled = true\l|visible = true\l|x = 192\l|y = 394\l|width = 77\l|height = 94\l|index = 2\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/384.0_788.0_538.0_976.0.png\l}"]
+	78	[label="{type = XCUIElementTypeOther\l|name = Synced Tabs\l|label = Synced Tabs\l|enabled = true\l|visible = true\l|x = 279\l|y = 394\l|width = 76\l|height = 94\l|index = 3\l|numberOfChildren = 2\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/558.0_788.0_710.0_976.0.png\l}"]
+	79	[label="{type = XCUIElementTypeCell\l|name = TopSite\l|label = google\l|enabled = true\l|visible = true\l|x = 20\l|y = 135\l|width = 73\l|height = 93\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/40.0_270.0_186.0_456.0.png\l}"]
+	80	[label="{type = XCUIElementTypeCell\l|name = TopSite\l|label = wikipedia\l|enabled = true\l|visible = true\l|x = 107\l|y = 135\l|width = 73\l|height = 93\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/214.0_270.0_360.0_456.0.png\l}"]
+	81	[label="{type = XCUIElementTypeCell\l|name = TopSite\l|label = chess.com\l|enabled = true\l|visible = true\l|x = 194\l|y = 135\l|width = 73\l|height = 93\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/388.0_270.0_534.0_456.0.png\l}"]
+	82	[label="{type = XCUIElementTypeCell\l|name = TopSite\l|label = facebook\l|enabled = true\l|visible = true\l|x = 281\l|y = 135\l|width = 73\l|height = 93\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/562.0_270.0_708.0_456.0.png\l}"]
+	83	[label="{type = XCUIElementTypeCell\l|name = TopSite\l|label = youtube\l|enabled = true\l|visible = true\l|x = 20\l|y = 242\l|width = 73\l|height = 93\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/40.0_484.0_186.0_670.0.png\l}"]
+	84	[label="{type = XCUIElementTypeCell\l|name = TopSite\l|label = amazon\l|enabled = true\l|visible = true\l|x = 107\l|y = 242\l|width = 73\l|height = 93\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/214.0_484.0_360.0_670.0.png\l}"]
+	85	[label="{type = XCUIElementTypeCell\l|name = TopSite\l|label = twitter\l|enabled = true\l|visible = true\l|x = 194\l|y = 242\l|width = 73\l|height = 93\l|index = 6\l|numberOfChildren = 1\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/388.0_484.0_534.0_670.0.png\l}"]
+	86	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 281\l|y = 242\l|width = 73\l|height = 73\l|index = 7\l|numberOfChildren = 0\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/562.0_484.0_708.0_630.0.png\l}"]
+	87	[label="{type = XCUIElementTypeButton\l|name = menu Bookmark\l|label = menu Bookmark\l|enabled = true\l|visible = true\l|x = 27\l|y = 394\l|width = 62\l|height = 62\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/53.99999999999999_788.0_178.0_912.0.png\l}"]
+	88	[label="{type = XCUIElementTypeButton\l|name = menu panel ReadingList\l|label = menu panel ReadingList\l|enabled = true\l|visible = true\l|x = 114\l|y = 394\l|width = 61\l|height = 62\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/228.0_788.0_350.0_912.0.png\l}"]
+	89	[label="{type = XCUIElementTypeButton\l|name = menu panel Downloads\l|label = menu panel Downloads\l|enabled = true\l|visible = true\l|x = 200\l|y = 394\l|width = 62\l|height = 62\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/400.0_788.0_524.0_912.0.png\l}"]
+	90	[label="{type = XCUIElementTypeButton\l|name = menu sync\l|label = menu sync\l|enabled = true\l|visible = true\l|x = 286\l|y = 394\l|width = 62\l|height = 62\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/572.0_788.0_696.0_912.0.png\l}"]
+	91	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 135\l|width = 73\l|height = 93\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/40.0_270.0_186.0_456.0.png\l}"]
+	92	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 107\l|y = 135\l|width = 73\l|height = 93\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/214.0_270.0_360.0_456.0.png\l}"]
+	93	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 194\l|y = 135\l|width = 73\l|height = 93\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/388.0_270.0_534.0_456.0.png\l}"]
+	94	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 281\l|y = 135\l|width = 73\l|height = 93\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/562.0_270.0_708.0_456.0.png\l}"]
+	95	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 242\l|width = 73\l|height = 93\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/40.0_484.0_186.0_670.0.png\l}"]
+	96	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 107\l|y = 242\l|width = 73\l|height = 93\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/214.0_484.0_360.0_670.0.png\l}"]
+	97	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 194\l|y = 242\l|width = 73\l|height = 93\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/388.0_484.0_534.0_670.0.png\l}"]
+	98	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 135\l|width = 73\l|height = 73\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/40.0_270.0_186.0_416.0.png\l}"]
+	99	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 107\l|y = 135\l|width = 73\l|height = 73\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/214.0_270.0_360.0_416.0.png\l}"]
+	100	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 194\l|y = 135\l|width = 73\l|height = 73\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/388.0_270.0_534.0_416.0.png\l}"]
+	101	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 281\l|y = 135\l|width = 73\l|height = 73\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/562.0_270.0_708.0_416.0.png\l}"]
+	102	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 242\l|width = 73\l|height = 73\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/40.0_484.0_186.0_630.0.png\l}"]
+	103	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 107\l|y = 242\l|width = 73\l|height = 73\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/214.0_484.0_360.0_630.0.png\l}"]
+	104	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 194\l|y = 242\l|width = 73\l|height = 73\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/firefox-bookmark/S1/pngs/388.0_484.0_534.0_630.0.png\l}"]
+
+
+	0 -> 1
+	0 -> 2
+	1 -> 3
+	2 -> 4
+	3 -> 5
+	4 -> 6
+	5 -> 7
+	6 -> 8
+	7 -> 9
+	8 -> 10
+	9 -> 11
+	10 -> 12
+	11 -> 13
+	12 -> 14
+	13 -> 15
+	13 -> 16
+	14 -> 17
+	14 -> 18
+	14 -> 19
+	14 -> 20
+	14 -> 21
+	14 -> 22
+	14 -> 23
+	14 -> 24
+	14 -> 25
+	14 -> 26
+	14 -> 27
+	14 -> 28
+	14 -> 29
+	14 -> 30
+	14 -> 31
+	14 -> 32
+	14 -> 33
+	14 -> 34
+	14 -> 35
+	14 -> 36
+	14 -> 37
+	14 -> 38
+	14 -> 39
+	14 -> 40
+	14 -> 41
+	14 -> 42
+	14 -> 43
+	14 -> 44
+	14 -> 45
+	14 -> 46
+	14 -> 47
+	14 -> 48
+	14 -> 49
+	14 -> 50
+	15 -> 51
+	16 -> 52
+	51 -> 53
+	51 -> 54
+	51 -> 55
+	51 -> 56
+	52 -> 57
+	52 -> 58
+	52 -> 59
+	52 -> 60
+	52 -> 61
+	52 -> 62
+	52 -> 63
+	55 -> 64
+	55 -> 65
+	57 -> 66
+	58 -> 67
+	59 -> 68
+	60 -> 69
+	60 -> 70
+	61 -> 71
+	64 -> 72
+	67 -> 73
+	70 -> 74
+	71 -> 75
+	71 -> 76
+	71 -> 77
+	71 -> 78
+	73 -> 79
+	73 -> 80
+	73 -> 81
+	73 -> 82
+	73 -> 83
+	73 -> 84
+	73 -> 85
+	73 -> 86
+	75 -> 87
+	76 -> 88
+	77 -> 89
+	78 -> 90
+	79 -> 91
+	80 -> 92
+	81 -> 93
+	82 -> 94
+	83 -> 95
+	84 -> 96
+	85 -> 97
+	91 -> 98
+	92 -> 99
+	93 -> 100
+	94 -> 101
+	95 -> 102
+	96 -> 103
+	97 -> 104
+
+
+}

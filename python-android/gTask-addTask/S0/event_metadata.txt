@@ -1,0 +1,4 @@
+pathToElementImageCrop: gTask-addTask/S0/pngs/467_2110_614_2257.png;
+coords: {'x1': 467, 'y1': 2110, 'x2': 614, 'y2': 2257};
+text_identifier: { "content-desc" : "Create new task" , "resource-id" : "com.google.android.apps.tasks:id/tasks_fab" };
+event: click;

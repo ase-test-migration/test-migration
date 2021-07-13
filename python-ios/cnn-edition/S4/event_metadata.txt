@@ -1,0 +1,4 @@
+pathToElementImageCrop: cnn-edition/S4/pngs/216.0_1557.0_1026.0_1692.0.png;
+coords: {'x1': 216.0, 'y1': 1557.0, 'x2': 1026.0, 'y2': 1692.0};
+text_identifier: { "label" : "Accept" };
+event: click;

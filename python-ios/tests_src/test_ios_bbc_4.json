@@ -1,0 +1,38 @@
+
+{
+    "desiredCapabilities": {
+          "platformName": "iOS",
+          "platformVersion": "13.3.1",
+          "deviceName": "Someone's iPhone",
+          "udid": "auto",
+          "xcodeOrgId": "X9EN5J4J22",
+          "xcodeSigningId": "iPhone Developer"
+    },
+    "tests" : [
+        {
+            "name" : "testBBCTopPopularNews",
+            "events": [
+              {
+                  "event": "click",
+                  "tag": "(//XCUIElementTypeButton[@name=\"bn-ribbon-label\"])[3]",
+                  "type": "xPath"
+              },
+              {
+                  "event": "click",
+                  "tag": "(//XCUIElementTypeButton[@name=\"bn-cell-view\"])[5]",
+                  "type": "xPath"
+              },
+              {
+                  "event": "click",
+                  "tag": "uk.co.bbc.media.placeholder.button.play",
+                  "type": "accessibilityId"
+              }
+          ]
+
+
+
+
+
+    }
+    ]
+}

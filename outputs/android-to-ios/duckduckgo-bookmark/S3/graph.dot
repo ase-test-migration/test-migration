@@ -1,0 +1,142 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = DuckDuckGo\l|label = DuckDuckGo\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeSheet\l|enabled = true\l|visible = true\l|x = 8\l|y = 40\l|width = 359\l|height = 619\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_80.0_734.0_1318.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 40\l|width = 359\l|height = 619\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_80.0_734.0_1318.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 40\l|width = 359\l|height = 554\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_80.0_734.0_1188.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 602\l|width = 359\l|height = 57\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_1204.0_734.0_1318.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 40\l|width = 359\l|height = 554\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_80.0_734.0_1188.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 602\l|width = 359\l|height = 57\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_1204.0_734.0_1318.0.png\l}"]
+	9	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 8\l|y = 40\l|width = 359\l|height = 554\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_80.0_734.0_1188.0.png\l}"]
+	10	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 8\l|y = 602\l|width = 359\l|height = 57\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_1204.0_734.0_1318.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 40\l|width = 359\l|height = 575\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_80.0_734.0_1230.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 2 pages\l|label = Vertical scroll bar, 2 pages\l|enabled = true\l|visible = true\l|x = 334\l|y = 40\l|width = 30\l|height = 554\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/668.0_80.0_728.0_1188.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 8\l|y = 561\l|width = 359\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_1122.0_734.0_1182.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 602\l|width = 359\l|height = 57\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_1204.0_734.0_1318.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 8\l|y = 627\l|width = 359\l|height = 29\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_1254.0_734.0_1312.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 40\l|width = 359\l|height = 575\l|index = 0\l|numberOfChildren = 19\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_80.0_734.0_1230.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 602\l|width = 359\l|height = 57\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_1204.0_734.0_1318.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 40\l|width = 359\l|height = 57\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_80.0_734.0_194.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 97\l|width = 359\l|height = 1\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_194.0_734.0_196.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 97\l|width = 359\l|height = 58\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_194.0_734.0_310.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 154\l|width = 359\l|height = 1\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_308.0_734.0_310.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 155\l|width = 359\l|height = 57\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_310.0_734.0_424.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 212\l|width = 359\l|height = 1\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_424.0_734.0_426.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 212\l|width = 359\l|height = 58\l|index = 6\l|numberOfChildren = 1\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_424.0_734.0_540.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 269\l|width = 359\l|height = 1\l|index = 7\l|numberOfChildren = 1\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_538.0_734.0_540.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 270\l|width = 359\l|height = 57\l|index = 8\l|numberOfChildren = 1\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_540.0_734.0_654.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 327\l|width = 359\l|height = 1\l|index = 9\l|numberOfChildren = 1\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_654.0_734.0_656.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 327\l|width = 359\l|height = 58\l|index = 10\l|numberOfChildren = 1\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_654.0_734.0_770.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 384\l|width = 359\l|height = 1\l|index = 11\l|numberOfChildren = 1\l|numInParentLayout = 11\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_767.9999999999999_734.0_769.9999999999999.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 385\l|width = 359\l|height = 57\l|index = 12\l|numberOfChildren = 1\l|numInParentLayout = 12\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_770.0000000000001_734.0_884.0000000000001.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 442\l|width = 359\l|height = 1\l|index = 13\l|numberOfChildren = 1\l|numInParentLayout = 13\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_884.0_734.0_886.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 442\l|width = 359\l|height = 58\l|index = 14\l|numberOfChildren = 1\l|numInParentLayout = 14\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_884.0_734.0_1000.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 499\l|width = 359\l|height = 1\l|index = 15\l|numberOfChildren = 1\l|numInParentLayout = 15\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_998.0_734.0_1000.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 500\l|width = 359\l|height = 57\l|index = 16\l|numberOfChildren = 1\l|numInParentLayout = 16\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_999.9999999999999_734.0_1114.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 557\l|width = 359\l|height = 1\l|index = 17\l|numberOfChildren = 1\l|numInParentLayout = 17\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_1114.0_734.0_1116.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 557\l|width = 359\l|height = 58\l|index = 18\l|numberOfChildren = 1\l|numInParentLayout = 18\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_1114.0_734.0_1230.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 602\l|width = 359\l|height = 57\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_1204.0_734.0_1318.0.png\l}"]
+	38	[label="{type = XCUIElementTypeButton\l|name = New Tab\l|label = New Tab\l|enabled = true\l|visible = true\l|x = 8\l|y = 40\l|width = 359\l|height = 57\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_80.0_734.0_194.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 97\l|width = 359\l|height = 1\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_194.0_734.0_196.0.png\l}"]
+	40	[label="{type = XCUIElementTypeButton\l|name = Find in Page\l|label = Find in Page\l|enabled = true\l|visible = true\l|x = 8\l|y = 97\l|width = 359\l|height = 58\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_194.0_734.0_310.0.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 154\l|width = 359\l|height = 1\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_308.0_734.0_310.0.png\l}"]
+	42	[label="{type = XCUIElementTypeButton\l|name = Add to Bookmarks\l|label = Add to Bookmarks\l|enabled = true\l|visible = true\l|x = 8\l|y = 155\l|width = 359\l|height = 57\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_310.0_734.0_424.0.png\l}"]
+	43	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 212\l|width = 359\l|height = 1\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_424.0_734.0_426.0.png\l}"]
+	44	[label="{type = XCUIElementTypeButton\l|name = Add to Favorites\l|label = Add to Favorites\l|enabled = true\l|visible = true\l|x = 8\l|y = 212\l|width = 359\l|height = 58\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_424.0_734.0_540.0.png\l}"]
+	45	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 269\l|width = 359\l|height = 1\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_538.0_734.0_540.0.png\l}"]
+	46	[label="{type = XCUIElementTypeButton\l|name = Fireproof Website\l|label = Fireproof Website\l|enabled = true\l|visible = true\l|x = 8\l|y = 270\l|width = 359\l|height = 57\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_540.0_734.0_654.0.png\l}"]
+	47	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 327\l|width = 359\l|height = 1\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_654.0_734.0_656.0.png\l}"]
+	48	[label="{type = XCUIElementTypeButton\l|name = Share...\l|label = Share...\l|enabled = true\l|visible = true\l|x = 8\l|y = 327\l|width = 359\l|height = 58\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_654.0_734.0_770.0.png\l}"]
+	49	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 384\l|width = 359\l|height = 1\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_767.9999999999999_734.0_769.9999999999999.png\l}"]
+	50	[label="{type = XCUIElementTypeButton\l|name = Request Desktop Site\l|label = Request Desktop Site\l|enabled = true\l|visible = true\l|x = 8\l|y = 385\l|width = 359\l|height = 57\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_770.0000000000001_734.0_884.0000000000001.png\l}"]
+	51	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 442\l|width = 359\l|height = 1\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_884.0_734.0_886.0.png\l}"]
+	52	[label="{type = XCUIElementTypeButton\l|name = Disable Privacy Protection\l|label = Disable Privacy Protection\l|enabled = true\l|visible = true\l|x = 8\l|y = 442\l|width = 359\l|height = 58\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_884.0_734.0_1000.0.png\l}"]
+	53	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 499\l|width = 359\l|height = 1\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_998.0_734.0_1000.0.png\l}"]
+	54	[label="{type = XCUIElementTypeButton\l|name = Report Broken Site\l|label = Report Broken Site\l|enabled = true\l|visible = true\l|x = 8\l|y = 500\l|width = 359\l|height = 57\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_999.9999999999999_734.0_1114.0.png\l}"]
+	55	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 557\l|width = 359\l|height = 1\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_1114.0_734.0_1116.0.png\l}"]
+	56	[label="{type = XCUIElementTypeButton\l|name = Settings\l|label = Settings\l|enabled = true\l|visible = true\l|x = 8\l|y = 557\l|width = 359\l|height = 58\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_1114.0_734.0_1230.0.png\l}"]
+	57	[label="{type = XCUIElementTypeButton\l|name = Cancel\l|label = Cancel\l|enabled = true\l|visible = true\l|x = 8\l|y = 602\l|width = 359\l|height = 57\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_1204.0_734.0_1318.0.png\l}"]
+	58	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 97\l|width = 359\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_194.0_734.0_196.0.png\l}"]
+	59	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 154\l|width = 359\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_308.0_734.0_310.0.png\l}"]
+	60	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 212\l|width = 359\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_424.0_734.0_426.0.png\l}"]
+	61	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 269\l|width = 359\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_538.0_734.0_540.0.png\l}"]
+	62	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 327\l|width = 359\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_654.0_734.0_656.0.png\l}"]
+	63	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 384\l|width = 359\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_767.9999999999999_734.0_769.9999999999999.png\l}"]
+	64	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 442\l|width = 359\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_884.0_734.0_886.0.png\l}"]
+	65	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 499\l|width = 359\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_998.0_734.0_1000.0.png\l}"]
+	66	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 557\l|width = 359\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-bookmark/S3/pngs/16.0_1114.0_734.0_1116.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	5 -> 7
+	6 -> 8
+	7 -> 9
+	8 -> 10
+	9 -> 11
+	9 -> 12
+	9 -> 13
+	10 -> 14
+	10 -> 15
+	11 -> 16
+	14 -> 17
+	16 -> 18
+	16 -> 19
+	16 -> 20
+	16 -> 21
+	16 -> 22
+	16 -> 23
+	16 -> 24
+	16 -> 25
+	16 -> 26
+	16 -> 27
+	16 -> 28
+	16 -> 29
+	16 -> 30
+	16 -> 31
+	16 -> 32
+	16 -> 33
+	16 -> 34
+	16 -> 35
+	16 -> 36
+	17 -> 37
+	18 -> 38
+	19 -> 39
+	20 -> 40
+	21 -> 41
+	22 -> 42
+	23 -> 43
+	24 -> 44
+	25 -> 45
+	26 -> 46
+	27 -> 47
+	28 -> 48
+	29 -> 49
+	30 -> 50
+	31 -> 51
+	32 -> 52
+	33 -> 53
+	34 -> 54
+	35 -> 55
+	36 -> 56
+	37 -> 57
+	39 -> 58
+	41 -> 59
+	43 -> 60
+	45 -> 61
+	47 -> 62
+	49 -> 63
+	51 -> 64
+	53 -> 65
+	55 -> 66
+
+
+}

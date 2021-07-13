@@ -1,0 +1,56 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = AliExpress\l|label = AliExpress\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-delCart/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-delCart/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-delCart/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeAlert\l|name = Are you sure you want to remove the items selected?\l|label = Are you sure you want to remove the items selected?\l|enabled = true\l|visible = true\l|x = 52\l|y = 278\l|width = 271\l|height = 131\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-delCart/S3/pngs/104.0_556.0_646.0_818.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 52\l|y = 278\l|width = 271\l|height = 131\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-delCart/S3/pngs/104.0_556.0_646.0_818.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 52\l|y = 278\l|width = 271\l|height = 131\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-delCart/S3/pngs/104.0_556.0_646.0_818.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 52\l|y = 278\l|width = 271\l|height = 131\l|index = 1\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-delCart/S3/pngs/104.0_556.0_646.0_818.0.png\l}"]
+	7	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 52\l|y = 278\l|width = 271\l|height = 87\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-delCart/S3/pngs/104.0_556.0_646.0_730.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 52\l|y = 364\l|width = 271\l|height = 1\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-delCart/S3/pngs/104.0_727.9999999999999_646.0_729.9999999999999.png\l}"]
+	9	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 52\l|y = 365\l|width = 271\l|height = 44\l|index = 2\l|numberOfChildren = 3\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-delCart/S3/pngs/104.0_730.0_646.0_818.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 52\l|y = 278\l|width = 271\l|height = 87\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-delCart/S3/pngs/104.0_556.0_646.0_730.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 52\l|y = 364\l|width = 271\l|height = 1\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-delCart/S3/pngs/104.0_727.9999999999999_646.0_729.9999999999999.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 52\l|y = 365\l|width = 271\l|height = 44\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-delCart/S3/pngs/104.0_730.0_646.0_818.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 52\l|y = 384\l|width = 271\l|height = 22\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-delCart/S3/pngs/104.0_767.9999999999999_646.0_811.9999999999999.png\l}"]
+	14	[label="{type = XCUIElementTypeStaticText\l|value = Are you sure you want to remove the items selected?\l|name = Are you sure you want to remove the items selected?\l|label = Are you sure you want to remove the items selected?\l|enabled = true\l|visible = true\l|x = 68\l|y = 298\l|width = 239\l|height = 43\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-delCart/S3/pngs/136.0_596.0_614.0_682.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 52\l|y = 364\l|width = 271\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-delCart/S3/pngs/104.0_727.9999999999999_646.0_729.9999999999999.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 52\l|y = 365\l|width = 271\l|height = 44\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-delCart/S3/pngs/104.0_730.0_646.0_818.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 52\l|y = 365\l|width = 136\l|height = 44\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-delCart/S3/pngs/104.0_730.0_376.0_818.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 187\l|y = 365\l|width = 1\l|height = 44\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-delCart/S3/pngs/374.0_730.0_376.0_818.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 188\l|y = 365\l|width = 135\l|height = 44\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-delCart/S3/pngs/376.0_730.0_646.0_818.0.png\l}"]
+	20	[label="{type = XCUIElementTypeButton\l|name = Cancel\l|label = Cancel\l|enabled = true\l|visible = true\l|x = 52\l|y = 365\l|width = 136\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-delCart/S3/pngs/104.0_730.0_376.0_818.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 187\l|y = 365\l|width = 1\l|height = 44\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-delCart/S3/pngs/374.0_730.0_376.0_818.0.png\l}"]
+	22	[label="{type = XCUIElementTypeButton\l|name = Remove\l|label = Remove\l|enabled = true\l|visible = true\l|x = 188\l|y = 365\l|width = 135\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-delCart/S3/pngs/376.0_730.0_646.0_818.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 187\l|y = 365\l|width = 1\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-delCart/S3/pngs/374.0_730.0_376.0_818.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	6 -> 8
+	6 -> 9
+	7 -> 10
+	8 -> 11
+	9 -> 12
+	9 -> 13
+	10 -> 14
+	11 -> 15
+	12 -> 16
+	16 -> 17
+	16 -> 18
+	16 -> 19
+	17 -> 20
+	18 -> 21
+	19 -> 22
+	21 -> 23
+
+
+}

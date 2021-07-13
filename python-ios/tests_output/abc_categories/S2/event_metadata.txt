@@ -1,0 +1,4 @@
+pathToElementImageCrop: abc_categories/S2/pngs/16.0_40.0_86.0_128.0.png;
+coords: {'x1': 16.0, 'y1': 40.0, 'x2': 86.0, 'y2': 128.0};
+text_identifier: { "name" : "hamburger" };
+event: click;

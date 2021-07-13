@@ -1,0 +1,38 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "myTask-duedate",
+        "events": [
+            {
+                "type": "name",
+                "tag": "1 undone task",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "My Task",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "toolbar calendar",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "OK",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Fri",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "OK",
+                "event": "click"
+            }
+        ]
+    }
+}

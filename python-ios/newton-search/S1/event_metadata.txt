@@ -1,0 +1,5 @@
+pathToElementImageCrop: newton-search/S1/pngs/97.99999999999999_44.0_734.0_124.0.png;
+coords: {'x1': 97.99999999999999, 'y1': 44.0, 'x2': 734.0, 'y2': 124.0};
+text_identifier: { };
+event: send_keys;
+input: Testing 1;

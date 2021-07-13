@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "anydo-remove",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Mark as complete"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Delete task"
+                }
+            ]
+        }
+    ]
+}

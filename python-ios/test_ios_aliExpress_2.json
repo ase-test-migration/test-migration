@@ -1,0 +1,55 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "aliExpress-addCart",
+            "events": [
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeOther[@name=\"a1z65.home.searchbar.searchBar\"])[2]/XCUIElementTypeOther"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//XCUIElementTypeNavigationBar[@name=\"AEXSearchMainSearchDoorView\"]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeSearchField"
+                },
+                {
+                    "type": "xPath",
+                    "event": "send_keys_enter",
+                    "tag": "//XCUIElementTypeNavigationBar[@name=\"AEXSearchMainSearchDoorView\"]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeSearchField",
+                    "input": "xiaomi humidity sensor"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//XCUIElementTypeApplication[@name=\"AliExpress\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Add To Cart"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Continue"
+                },
+                {
+                    "tag": "1", 
+                    "type": "accessibilityId", 
+                    "event": "oracle",
+                    "oracle-type": "widget_exists"
+                }
+            ]
+        }
+    ]
+}

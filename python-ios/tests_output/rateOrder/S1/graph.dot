@@ -1,0 +1,150 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Uber Eats\l|label = Uber Eats\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 805\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_0.0_1242.0_2415.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 805\l|width = 414\l|height = 49\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_2415.0_1242.0_2562.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 805\l|width = 414\l|height = 91\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_2415.0_1242.0_2688.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 805\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_0.0_1242.0_2415.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 805\l|width = 414\l|height = 2\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_2415.0_1242.0_2421.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 2\l|y = 806\l|width = 100\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/6.0_2418.0_306.0_2562.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 106\l|y = 806\l|width = 99\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/318.00000000000006_2418.0_615.0_2562.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 209\l|y = 806\l|width = 100\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/627.0_2418.0_927.0_2562.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 313\l|y = 806\l|width = 99\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/939.0_2418.0_1236.0_2562.0.png\l}"]
+	16	[label="{type = XCUIElementTypeTabBar\l|enabled = true\l|visible = true\l|x = 0\l|y = 805\l|width = 414\l|height = 49\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_2415.0_1242.0_2562.0.png\l}"]
+	17	[label="{type = XCUIElementTypeNavigationBar\l|name = Order #B59F4\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 44\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_132.0_1242.0_264.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 805\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_0.0_1242.0_2415.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 2\l|y = 806\l|width = 100\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/6.0_2418.0_306.0_2562.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 106\l|y = 806\l|width = 99\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/318.00000000000006_2418.0_615.0_2562.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 209\l|y = 806\l|width = 100\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/627.0_2418.0_927.0_2562.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 313\l|y = 806\l|width = 99\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/939.0_2418.0_1236.0_2562.0.png\l}"]
+	23	[label="{type = XCUIElementTypeButton\l|name = Home\l|label = Home\l|enabled = true\l|visible = true\l|x = 2\l|y = 806\l|width = 100\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/6.0_2418.0_306.0_2562.0.png\l}"]
+	24	[label="{type = XCUIElementTypeButton\l|name = Search\l|label = Search\l|enabled = true\l|visible = true\l|x = 106\l|y = 806\l|width = 99\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/318.00000000000006_2418.0_615.0_2562.0.png\l}"]
+	25	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = Orders\l|label = Orders\l|enabled = true\l|visible = true\l|x = 209\l|y = 806\l|width = 100\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/627.0_2418.0_927.0_2562.0.png\l}"]
+	26	[label="{type = XCUIElementTypeButton\l|name = Account\l|label = Account\l|enabled = true\l|visible = true\l|x = 313\l|y = 806\l|width = 99\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/939.0_2418.0_1236.0_2562.0.png\l}"]
+	27	[label="{type = XCUIElementTypeButton\l|name = PlatformUI.ThemeableViewController.AccessibilityIdentifier.back\l|label = Back\l|enabled = true\l|visible = true\l|x = 12\l|y = 48\l|width = 40\l|height = 40\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/36.0_144.0_156.0_264.0.png\l}"]
+	28	[label="{type = XCUIElementTypeStaticText\l|value = Order #B59F4\l|name = Order #B59F4\l|label = Order #B59F4\l|enabled = true\l|visible = true\l|x = 148\l|y = 55\l|width = 119\l|height = 22\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/444.0_165.0_801.0_231.0.png\l}"]
+	29	[label="{type = XCUIElementTypeButton\l|name = Help\l|label = Help\l|enabled = true\l|visible = true\l|x = 356\l|y = 44\l|width = 46\l|height = 44\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/1068.0_132.0_1206.0_264.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 805\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_0.0_1242.0_2415.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 805\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_0.0_1242.0_2415.0.png\l}"]
+	32	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 805\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_0.0_1242.0_2415.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 861\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_264.0_1242.0_2847.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 144\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_264.0_1242.0_696.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 232\l|width = 414\l|height = 116\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_696.0000000000001_1242.0_1044.0000000000002.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 347\l|width = 414\l|height = 402\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_1041.0_1242.0_2247.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 748\l|width = 414\l|height = 201\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_2244.0_1242.0_2847.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 144\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_264.0_1242.0_696.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 232\l|width = 414\l|height = 116\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_696.0000000000001_1242.0_1044.0000000000002.png\l}"]
+	40	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 347\l|width = 414\l|height = 402\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_1041.0_1242.0_2247.0.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 748\l|width = 414\l|height = 201\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_2244.0_1242.0_2847.0.png\l}"]
+	42	[label="{type = XCUIElementTypeButton\l|name = View store\l|label = View store\l|enabled = true\l|visible = true\l|x = 297\l|y = 180\l|width = 101\l|height = 36\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/891.0_540.0_1194.0_648.0.png\l}"]
+	43	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 232\l|width = 414\l|height = 116\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_696.0000000000001_1242.0_1044.0000000000002.png\l}"]
+	44	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 355\l|width = 382\l|height = 37\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/48.0_1065.0_1194.0_1176.0.png\l}"]
+	45	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 399\l|width = 414\l|height = 134\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_1197.0_1242.0_1599.0.png\l}"]
+	46	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 532\l|width = 414\l|height = 217\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_1596.0_1242.0_2247.0.png\l}"]
+	47	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 764\l|width = 382\l|height = 169\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/48.0_2292.0_1194.0_2799.0.png\l}"]
+	48	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 232\l|width = 414\l|height = 116\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_696.0000000000001_1242.0_1044.0000000000002.png\l}"]
+	49	[label="{type = XCUIElementTypeStaticText\l|value = Your order\l|name = Your order\l|label = Your order\l|enabled = true\l|visible = true\l|x = 16\l|y = 359\l|width = 287\l|height = 29\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/48.0_1077.0_909.0_1164.0.png\l}"]
+	50	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 302\l|y = 355\l|width = 96\l|height = 37\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = true \l|screenshotPath = rateOrder/S1/pngs/906.0_1065.0_1194.0_1176.0.png\l}"]
+	51	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 399\l|width = 414\l|height = 134\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_1197.0_1242.0_1599.0.png\l}"]
+	52	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 532\l|width = 414\l|height = 217\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_1596.0_1242.0_2247.0.png\l}"]
+	53	[label="{type = XCUIElementTypeButton\l|name = Reorder\l|label = Reorder\l|enabled = true\l|visible = true\l|x = 16\l|y = 764\l|width = 382\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/48.0_2292.0_1194.0_2439.0.png\l}"]
+	54	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 232\l|width = 414\l|height = 116\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_696.0000000000001_1242.0_1044.0000000000002.png\l}"]
+	55	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 345\l|width = 414\l|height = 3\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_1035.0_1242.0_1044.0.png\l}"]
+	56	[label="{type = XCUIElementTypeButton\l|name = Rate food\l|label = Rate food\l|enabled = true\l|visible = true\l|x = 302\l|y = 355\l|width = 96\l|height = 37\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = rateOrder/S1/pngs/906.0_1065.0_1194.0_1176.0.png\l}"]
+	57	[label="{type = XCUIElementTypeOther\l|name = 1, Side Pita,  , \l|label = 1, Side Pita,  , \l|enabled = true\l|visible = true\l|x = 0\l|y = 399\l|width = 414\l|height = 57\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_1197.0_1242.0_1368.0.png\l}"]
+	58	[label="{type = XCUIElementTypeOther\l|name = 1, Grain Bowl,  , . Choose your grains: Full Portion. Choose a Grain: Brown Rice. Add some Dips & Spreads: Tzatziki, Crazy Feta, Harissa. Choose your proteins: Full Portion. Choose a Protein: Grilled Chicken. Add some Toppings: Shredded Romaine, Cabbage Slaw, Tomato & Onion, Crumbled Feta, Fresno Peppers. Drizzle on a Dressing: Lemon Herb Tahini, Tahini Caesar. Included: Included Pita\l|label = 1, Grain Bowl,  , . Choose your grains: Full Portion. Choose a Grain: Brown Rice. Add some Dips & Spreads: Tzatziki, Crazy Feta, Harissa. Choose your proteins: Full Portion. Choose a Protein: Grilled Chicken. Add some Toppings: Shredded Romaine, Cabbage Slaw, Tomato & Onion, Crumbled Feta, Fresno Peppers. Drizzle on a Dressing: Lemon Herb Tahini, Tahini Caesar. Included: Included Pita\l|enabled = true\l|visible = true\l|x = 0\l|y = 456\l|width = 414\l|height = 77\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_1368.0_1242.0_1599.0.png\l}"]
+	59	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 532\l|width = 414\l|height = 73\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_1596.0_1242.0_1815.0.png\l}"]
+	60	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 604\l|width = 414\l|height = 73\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_1812.0000000000002_1242.0_2031.0000000000002.png\l}"]
+	61	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 676\l|width = 414\l|height = 73\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_2028.0_1242.0_2247.0.png\l}"]
+	62	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 746\l|width = 414\l|height = 3\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_2238.0_1242.0_2247.0.png\l}"]
+	63	[label="{type = XCUIElementTypeStaticText\l|value = CAVA (3201 S Hoover St, Space 8-D1), Order completed • Oct 27, 2020 at 12:20 PM\l|name = PlatformUI.ListTableViewCell.AccessibilityIds.listContentView\l|label = CAVA (3201 S Hoover St, Space 8-D1), Order completed • Oct 27, 2020 at 12:20 PM\l|enabled = true\l|visible = true\l|x = 0\l|y = 232\l|width = 414\l|height = 116\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_696.0000000000001_1242.0_1044.0000000000002.png\l}"]
+	64	[label="{type = XCUIElementTypeStaticText\l|value = Your delivery by Fabrice\l|name = PlatformUI.ListTableViewCell.AccessibilityIds.listContentView\l|label = Your delivery by Fabrice\l|enabled = true\l|visible = true\l|x = 0\l|y = 532\l|width = 414\l|height = 73\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_1596.0_1242.0_1815.0.png\l}"]
+	65	[label="{type = XCUIElementTypeStaticText\l|value = Tip: $1.89\l|name = PlatformUI.ListTableViewCell.AccessibilityIds.listContentView\l|label = Tip: $1.89\l|enabled = true\l|visible = true\l|x = 0\l|y = 604\l|width = 414\l|height = 73\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_1812.0000000000002_1242.0_2031.0000000000002.png\l}"]
+	66	[label="{type = XCUIElementTypeStaticText\l|value = Total: $20.87\l|name = PlatformUI.ListTableViewCell.AccessibilityIds.listContentView\l|label = Total: $20.87\l|enabled = true\l|visible = true\l|x = 0\l|y = 676\l|width = 414\l|height = 73\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_2028.0_1242.0_2247.0.png\l}"]
+	67	[label="{type = XCUIElementTypeStaticText\l|value = CAVA (3201 S Hoover St, Space 8-D1), Order completed • Oct 27, 2020 at 12:20 PM\l|name = CAVA (3201 S Hoover St, Space 8-D1), Order completed • Oct 27, 2020 at 12:20 PM\l|label = CAVA (3201 S Hoover St, Space 8-D1), Order completed • Oct 27, 2020 at 12:20 PM\l|enabled = true\l|visible = true\l|x = 0\l|y = 232\l|width = 414\l|height = 116\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_696.0000000000001_1242.0_1044.0000000000002.png\l}"]
+	68	[label="{type = XCUIElementTypeStaticText\l|value = Your delivery by Fabrice\l|name = Your delivery by Fabrice\l|label = Your delivery by Fabrice\l|enabled = true\l|visible = true\l|x = 0\l|y = 532\l|width = 414\l|height = 73\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_1596.0_1242.0_1815.0.png\l}"]
+	69	[label="{type = XCUIElementTypeStaticText\l|value = Tip: $1.89\l|name = Tip: $1.89\l|label = Tip: $1.89\l|enabled = true\l|visible = true\l|x = 0\l|y = 604\l|width = 414\l|height = 73\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_1812.0000000000002_1242.0_2031.0000000000002.png\l}"]
+	70	[label="{type = XCUIElementTypeStaticText\l|value = Total: $20.87\l|name = Total: $20.87\l|label = Total: $20.87\l|enabled = true\l|visible = true\l|x = 0\l|y = 676\l|width = 414\l|height = 73\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = rateOrder/S1/pngs/0.0_2028.0_1242.0_2247.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	6 -> 8
+	6 -> 9
+	7 -> 10
+	8 -> 11
+	8 -> 12
+	8 -> 13
+	8 -> 14
+	8 -> 15
+	9 -> 16
+	10 -> 17
+	10 -> 18
+	12 -> 19
+	13 -> 20
+	14 -> 21
+	15 -> 22
+	16 -> 23
+	16 -> 24
+	16 -> 25
+	16 -> 26
+	17 -> 27
+	17 -> 28
+	17 -> 29
+	18 -> 30
+	30 -> 31
+	31 -> 32
+	32 -> 33
+	33 -> 34
+	33 -> 35
+	33 -> 36
+	33 -> 37
+	34 -> 38
+	35 -> 39
+	36 -> 40
+	37 -> 41
+	38 -> 42
+	39 -> 43
+	40 -> 44
+	40 -> 45
+	40 -> 46
+	41 -> 47
+	43 -> 48
+	44 -> 49
+	44 -> 50
+	45 -> 51
+	46 -> 52
+	47 -> 53
+	48 -> 54
+	48 -> 55
+	50 -> 56
+	51 -> 57
+	51 -> 58
+	52 -> 59
+	52 -> 60
+	52 -> 61
+	52 -> 62
+	54 -> 63
+	59 -> 64
+	60 -> 65
+	61 -> 66
+	63 -> 67
+	64 -> 68
+	65 -> 69
+	66 -> 70
+
+
+}

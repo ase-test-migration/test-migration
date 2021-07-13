@@ -1,0 +1,18 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "msToDo-edit",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "My Day, 0 tasks",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.microsoft.todos:id/create_list_text_view",
+                "event": "click"
+            }
+        ]
+    }
+}

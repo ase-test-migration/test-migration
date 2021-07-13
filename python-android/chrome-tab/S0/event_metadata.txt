@@ -1,0 +1,4 @@
+pathToElementImageCrop: chrome-tab/S0/pngs/816_171_948_325.png;
+coords: {'x1': 816, 'y1': 171, 'x2': 948, 'y2': 325};
+text_identifier: { "content-desc" : "1 open tab, tap to switch tabs" , "resource-id" : "com.android.chrome:id/tab_switcher_button" };
+event: click;

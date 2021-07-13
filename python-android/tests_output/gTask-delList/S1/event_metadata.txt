@@ -1,0 +1,4 @@
+pathToElementImageCrop: gTask-delList/S1/pngs/0_1730_1080_1865.png;
+coords: {'x1': 0, 'y1': 1730, 'x2': 1080, 'y2': 1865};
+text_identifier: { "resource-id" : "com.google.android.apps.tasks:id/delete_list_option" };
+event: click;

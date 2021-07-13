@@ -1,0 +1,4 @@
+pathToElementImageCrop: usa-mynews/S6/pngs/30.0_516.0_150.0_582.0.png;
+coords: {'x1': 30.0, 'y1': 516.0, 'x2': 150.0, 'y2': 582.0};
+text_identifier: { "label" : "Delete Coronavirus COVID-19" };
+event: click;

@@ -1,0 +1,51 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "myTask-edit",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.weekly.app:id/day_main_layout",
+                "event": "click"
+            },
+            {
+                "type": "id",
+                "event": "click",
+                "tag": "com.weekly.app:id/text_view_tasks_title"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.weekly.app:id/view_week_edit",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.weekly.app:id/edit_text_subtask",
+                "event": "send_keys_enter",
+                "input": "Edited Task"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.weekly.app:id/view_toolbar_date",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "android:id/date_picker_header_date",
+                "event": "oracle-assert_equal",
+                "attribute": "text",
+                "value": "Edited Task"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "Edited Task"
+            },
+            {
+                "event": "oracle",
+                "type": "text_invisible",
+                "input": "My Task"
+            }
+        ]
+    }
+}

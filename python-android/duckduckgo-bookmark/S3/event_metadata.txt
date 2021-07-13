@@ -1,0 +1,4 @@
+pathToElementImageCrop: duckduckgo-bookmark/S3/pngs/405_649_1050_786.png;
+coords: {'x1': 405, 'y1': 649, 'x2': 1050, 'y2': 786};
+text_identifier: { "resource-id" : "com.duckduckgo.mobile.android:id/addBookmarksPopupMenuItem" };
+event: click;

@@ -1,0 +1,4 @@
+pathToElementImageCrop: cnn_categories/S2/pngs/456.0_162.0_584.0_202.0.png;
+coords: {'x1': 456.0, 'y1': 162.0, 'x2': 584.0, 'y2': 202.0};
+text_identifier: { "name" : "Business" };
+event: click;

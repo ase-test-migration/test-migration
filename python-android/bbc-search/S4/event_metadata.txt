@@ -1,0 +1,4 @@
+pathToElementImageCrop: bbc-search/S4/pngs/48_857_1032_1022.png;
+coords: {'x1': 48, 'y1': 857, 'x2': 1032, 'y2': 1022};
+text_identifier: { "resource-id" : "bbc.mobile.news.uk:id/content_card_title" };
+event: click;

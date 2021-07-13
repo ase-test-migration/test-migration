@@ -1,0 +1,33 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "etsy-filter",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Search for anything on Etsy",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "moon landing keycap",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Filter",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Show results",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Space Keycap"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{"name" : "ABC News", "label" : "ABC News", "screenshotPath" : "abc-category/S1/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "ABCNewsMenuView", "screenshotPath" : "abc-category/S1/pngs/0.0_40.0_750.0_128.0.png"}
+{"value" : "Search Articles", "name" : "Search Articles", "label" : "Search Articles", "screenshotPath" : "abc-category/S1/pngs/114.0_176.0_694.0_204.0.png"}
+{"value" : "TOP STORIES", "name" : "TOP STORIES", "label" : "TOP STORIES", "screenshotPath" : "abc-category/S1/pngs/140.0_262.0_540.0_322.0.png"}
+{"value" : "SAVED ITEMS", "name" : "SAVED ITEMS", "label" : "SAVED ITEMS", "screenshotPath" : "abc-category/S1/pngs/140.0_362.0_540.0_422.0.png"}
+{"name" : "Reorder SAVED ITEMS", "label" : "Reorder SAVED ITEMS", "screenshotPath" : "abc-category/S1/pngs/646.0_340.0_698.0_440.0.png"}
+{"value" : "TRENDING", "name" : "TRENDING", "label" : "TRENDING", "screenshotPath" : "abc-category/S1/pngs/140.0_462.0_540.0_522.0.png"}
+{"name" : "Reorder TRENDING", "label" : "Reorder TRENDING", "screenshotPath" : "abc-category/S1/pngs/646.0_440.0_698.0_540.0.png"}
+{"value" : "VIDEO", "name" : "VIDEO", "label" : "VIDEO", "screenshotPath" : "abc-category/S1/pngs/140.0_562.0_540.0_622.0.png"}
+{"name" : "Reorder VIDEO", "label" : "Reorder VIDEO", "screenshotPath" : "abc-category/S1/pngs/646.0_540.0_698.0_640.0.png"}
+{"value" : "ELECTION 2020", "name" : "ELECTION 2020", "label" : "ELECTION 2020", "screenshotPath" : "abc-category/S1/pngs/140.0_662.0_540.0_722.0.png"}
+{"name" : "Reorder ELECTION 2020", "label" : "Reorder ELECTION 2020", "screenshotPath" : "abc-category/S1/pngs/646.0_640.0_698.0_740.0.png"}
+{"value" : "POLITICS", "name" : "POLITICS", "label" : "POLITICS", "screenshotPath" : "abc-category/S1/pngs/140.0_762.0_540.0_822.0.png"}
+{"name" : "Reorder POLITICS", "label" : "Reorder POLITICS", "screenshotPath" : "abc-category/S1/pngs/646.0_740.0_698.0_840.0.png"}
+{"value" : "U.S.", "name" : "U.S.", "label" : "U.S.", "screenshotPath" : "abc-category/S1/pngs/140.0_862.0_540.0_922.0.png"}
+{"name" : "Reorder U.S.", "label" : "Reorder U.S.", "screenshotPath" : "abc-category/S1/pngs/646.0_840.0_698.0_940.0.png"}
+{"value" : "WORLD", "name" : "WORLD", "label" : "WORLD", "screenshotPath" : "abc-category/S1/pngs/140.0_962.0_540.0_1022.0.png"}
+{"name" : "Reorder WORLD", "label" : "Reorder WORLD", "screenshotPath" : "abc-category/S1/pngs/646.0_940.0_698.0_1040.0.png"}
+{"value" : "ENTERTAINMENT", "name" : "ENTERTAINMENT", "label" : "ENTERTAINMENT", "screenshotPath" : "abc-category/S1/pngs/140.0_1062.0_540.0_1122.0.png"}
+{"name" : "Reorder ENTERTAINMENT", "label" : "Reorder ENTERTAINMENT", "screenshotPath" : "abc-category/S1/pngs/646.0_1040.0_698.0_1140.0.png"}
+{"value" : "HEALTH", "name" : "HEALTH", "label" : "HEALTH", "screenshotPath" : "abc-category/S1/pngs/140.0_1162.0_540.0_1222.0.png"}
+{"name" : "Reorder HEALTH", "label" : "Reorder HEALTH", "screenshotPath" : "abc-category/S1/pngs/646.0_1140.0_698.0_1240.0.png"}
+{"value" : "TECHNOLOGY", "name" : "TECHNOLOGY", "label" : "TECHNOLOGY", "screenshotPath" : "abc-category/S1/pngs/140.0_1262.0_540.0_1322.0.png"}
+{"name" : "Reorder TECHNOLOGY", "label" : "Reorder TECHNOLOGY", "screenshotPath" : "abc-category/S1/pngs/646.0_1240.0_698.0_1340.0.png"}

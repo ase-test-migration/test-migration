@@ -1,0 +1,4 @@
+pathToElementImageCrop: cnn-edition/S2/pngs/48_873_200_938.png;
+coords: {'x1': 48, 'y1': 873, 'x2': 200, 'y2': 938};
+text_identifier: { "resource-id" : "com.cnn.mobile.android.phone:id/locationTextView" };
+event: click;

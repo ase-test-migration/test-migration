@@ -1,0 +1,58 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "myTask-edit",
+            "events": [
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/androidx.viewpager.widget.ViewPager/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[2]/android.view.ViewGroup/android.widget.TextView[3]"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.weekly.app:id/text_view_tasks_title"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.weekly.app:id/view_week_edit"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys_enter",
+                    "tag": "com.weekly.app:id/edit_text_subtask",
+                    "input": "Edited Task"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.weekly.app:id/image_view_create_task_complete"
+                },
+                {
+                    "type": "id",
+                    "event": "oracle",
+                    "tag": "com.weekly.app:id/text_view_tasks_title",
+                    "oracle-type": "assert_equal",
+                    "attribute": "text",
+                    "value": "Edited Task"
+                },
+                {
+                    "event": "oracle",
+                    "oracle-type": "text_exists",
+                    "input": "Edited Task"
+                },
+                {
+                    "event": "oracle",
+                    "oracle-type": "text_invisible",
+                    "input": "My Task"
+                }
+            ]
+        }
+    ]
+}

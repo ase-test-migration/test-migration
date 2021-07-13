@@ -1,0 +1,4 @@
+pathToElementImageCrop: twobird-send/S0/pngs/608.0_1212.0_726.0_1310.0.png;
+coords: {'x1': 608.0, 'y1': 1212.0, 'x2': 726.0, 'y2': 1310.0};
+text_identifier: { "label" : "Horizontal scroll bar, 1 page" };
+event: click;

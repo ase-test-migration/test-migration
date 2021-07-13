@@ -1,0 +1,4 @@
+pathToElementImageCrop: poshmark-naviCat/S3/pngs/395_231_684_323.png;
+coords: {'x1': 395, 'y1': 231, 'x2': 684, 'y2': 323};
+text_identifier: { "resource-id" : "com.poshmark.app:id/followFollowingButtonContainer" , "resource-id" : "com.poshmark.app:id/followFollowingButtonLayout" , "resource-id" : "com.poshmark.app:id/followFollowingButton" };
+event: click;

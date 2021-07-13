@@ -1,0 +1,5 @@
+pathToElementImageCrop: msToDo-edit/S6/pngs/165_240_924_408.png;
+coords: {'x1': 165, 'y1': 240, 'x2': 924, 'y2': 408};
+text_identifier: { "resource-id" : "com.microsoft.todos:id/task_title_edit" };
+event: send_keys_enter;
+input: Editedtask;

@@ -1,0 +1,45 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "gtasks-edit",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.google.android.apps.tasks:id/task_data"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.google.android.apps.tasks:id/edit_title"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys_enter",
+                    "tag": "com.google.android.apps.tasks:id/edit_title",
+                    "input": "test"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Navigate up"
+                },
+                {
+                    "input": "test",
+                    "event": "oracle",
+                    "oracle-type": "text_exists"
+                },
+                {
+                    "input": "Edit",
+                    "event": "oracle",
+                    "oracle-type": "text_invisible"
+                }
+            ]
+        }
+    ]
+}

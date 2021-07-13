@@ -1,0 +1,4 @@
+pathToElementImageCrop: chrome-bookmark/S6/pngs/198_357_1080_416.png;
+coords: {'x1': 198, 'y1': 357, 'x2': 1080, 'y2': 416};
+text_identifier: { "resource-id" : "com.android.chrome:id/title" };
+event: click;

@@ -1,0 +1,42 @@
+{
+    "tests": [
+        {
+            "name": "search-removefavorite", 
+            "events": [
+                {
+                    "tag": "My Grubhub", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "1 saved restaurant", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Five Guys", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Saved", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Save",
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+          "platformName": "iOS",
+          "platformVersion": "13.3.1",
+          "deviceName": "Someone's iPhone",
+          "udid": "auto",
+          "xcodeOrgId": "X9EN5J4J22",
+          "xcodeSigningId": "iPhone Developer"
+    }
+}

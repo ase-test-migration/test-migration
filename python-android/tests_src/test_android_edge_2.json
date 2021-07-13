@@ -1,0 +1,29 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "edge-tab",
+            "events": [
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//android.widget.Button[@content-desc=\"1 open tab\"]/android.widget.TextView[2]"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "New tab button"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "2"
+                }
+            ]
+        }
+    ]
+}

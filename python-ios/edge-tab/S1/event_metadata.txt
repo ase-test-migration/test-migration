@@ -1,0 +1,4 @@
+pathToElementImageCrop: edge-tab/S1/pngs/320.0_1234.0_430.0_1338.0.png;
+coords: {'x1': 320.0, 'y1': 1234.0, 'x2': 430.0, 'y2': 1338.0};
+text_identifier: { "label" : "Open a new tab" };
+event: click;

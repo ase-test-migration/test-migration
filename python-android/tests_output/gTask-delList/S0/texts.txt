@@ -1,0 +1,4 @@
+{ "content-desc" : "Create new task" , "resource-id" : "com.google.android.apps.tasks:id/tasks_fab" , "screenshotPath" : "gTask-delList/S0/pngs/467_2110_614_2257.png"}
+{ "content-desc" : "Switch task lists or account" , "screenshotPath" : "gTask-delList/S0/pngs/0_2214_147_2287.png"}
+{ "content-desc" : "More options" , "resource-id" : "com.google.android.apps.tasks:id/action_more_options" , "screenshotPath" : "gTask-delList/S0/pngs/953_2224_1080_2287.png"}
+{ "resource-id" : "com.google.android.apps.tasks:id/tasks_refresh_empty_scrollable" , "screenshotPath" : "gTask-delList/S0/pngs/0_74_1080_2287.png"}

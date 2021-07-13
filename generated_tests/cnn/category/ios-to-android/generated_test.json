@@ -1,0 +1,18 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "cnn-category",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "World",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "type": "resource-id",
+                "tag": "com.cnn.mobile.android.phone:id/card_view"
+            }
+        ]
+    }
+}

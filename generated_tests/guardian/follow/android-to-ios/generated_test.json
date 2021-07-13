@@ -1,0 +1,34 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "guardian-follow",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Live: Washington tense as America awaits Derek Chauvin verdict",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Horizontal scroll bar, 1 page",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Washington tense as America awaits Derek Chauvin verdict \u2013 US politics live",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Horizontal scroll bar, 1 page",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "oracle-type": "widget_exists",
+                "type": "name",
+                "tag": "Washington tense as America awaits Derek Chauvin verdict \u2013 US politics live"
+            }
+        ]
+    }
+}

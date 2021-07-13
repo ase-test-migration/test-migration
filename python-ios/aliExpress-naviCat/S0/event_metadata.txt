@@ -1,0 +1,4 @@
+pathToElementImageCrop: aliExpress-naviCat/S0/pngs/0.0_128.0_134.0_288.0.png;
+coords: {'x1': 0.0, 'y1': 128.0, 'x2': 134.0, 'y2': 288.0};
+text_identifier: { "label" : "40" };
+event: click;

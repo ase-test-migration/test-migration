@@ -1,0 +1,17 @@
+{ "resource-id" : "com.readdle.spark:id/compose" , "screenshotPath" : "spark-send/S3/pngs/0_325_1080_1328.png"}
+{ "resource-id" : "com.readdle.spark:id/composer_spinner_from" , "screenshotPath" : "spark-send/S3/pngs/198_171_948_325.png"}
+{ "resource-id" : "com.readdle.spark:id/content" , "screenshotPath" : "spark-send/S3/pngs/0_325_1080_1328.png"}
+{ "resource-id" : "com.readdle.spark:id/composer_attach_button" , "screenshotPath" : "spark-send/S3/pngs/11_1331_143_1463.png"}
+{ "resource-id" : "com.readdle.spark:id/composer_apply_placeholder_toolbar_button" , "screenshotPath" : "spark-send/S3/pngs/196_1331_328_1463.png"}
+{ "resource-id" : "com.readdle.spark:id/composer_show_rich_text_toolbar_button" , "screenshotPath" : "spark-send/S3/pngs/381_1331_513_1463.png"}
+{ "resource-id" : "com.readdle.spark:id/composer_reminder_button" , "screenshotPath" : "spark-send/S3/pngs/567_1331_699_1463.png"}
+{ "resource-id" : "com.readdle.spark:id/composer_send_later_button" , "screenshotPath" : "spark-send/S3/pngs/752_1331_884_1463.png"}
+{ "resource-id" : "com.readdle.spark:id/composer_chat_sharing_button" , "screenshotPath" : "spark-send/S3/pngs/937_1331_1069_1463.png"}
+{ "content-desc" : "Send" , "resource-id" : "com.readdle.spark:id/composer_menu_send" , "screenshotPath" : "spark-send/S3/pngs/948_182_1080_314.png"}
+{ "resource-id" : "com.readdle.spark:id/subject_content" , "screenshotPath" : "spark-send/S3/pngs/0_485_1080_595.png"}
+{ "resource-id" : "com.readdle.spark:id/body_wrapper" , "screenshotPath" : "spark-send/S3/pngs/0_595_1080_1244.png"}
+{ "resource-id" : "com.readdle.spark:id/to_content" , "screenshotPath" : "spark-send/S3/pngs/0_325_1080_485.png"}
+{ "resource-id" : "com.readdle.spark:id/subject" , "screenshotPath" : "spark-send/S3/pngs/44_488_1036_591.png"}
+{ "content-desc" : "To:" , "resource-id" : "com.readdle.spark:id/to" , "screenshotPath" : "spark-send/S3/pngs/130_325_860_479.png"}
+{ "resource-id" : "com.readdle.spark:id/add_cc_bcc" , "screenshotPath" : "spark-send/S3/pngs/860_347_1058_456.png"}
+{ "resource-id" : "swiper-container" , "screenshotPath" : "spark-send/S3/pngs/55_908_940_1021.png"}

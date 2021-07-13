@@ -1,0 +1,35 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "msToDo-addTask",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "screenreader_task_add_task_field"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "send_keys",
+                    "tag": "screenreader_task_add_task_field",
+                    "input": "Test01"
+                },
+                {
+                    "type": "coordinate",
+                    "event": "click",
+                    "x": "331",
+                    "y": "47"
+                }
+            ]
+        }
+    ]
+}

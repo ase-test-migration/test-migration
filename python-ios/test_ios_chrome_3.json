@@ -1,0 +1,45 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "chrome-search",
+            "events": [
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeStaticText[@name=\"Search or type URL\"])[1]"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "send_keys_enter",
+                    "tag": "Address",
+                    "input": "google.com"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Address and search bar"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "send_keys_enter",
+                    "tag": "Address",
+                    "input": "chess.com"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Play Chess for Free"
+                }
+            ]
+        }
+    ]
+}

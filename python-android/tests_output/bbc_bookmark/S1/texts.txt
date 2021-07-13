@@ -1,0 +1,5 @@
+{ "resource-id" : "bbc.mobile.news.ww:id/multiArticlePager" , "screenshotPath" : "bbc_bookmark/S1/pngs/0_325_1080_1977.png"}
+{ "content-desc" : "Navigate up" , "screenshotPath" : "bbc_bookmark/S1/pngs/0_171_154_325.png"}
+{ "content-desc" : "Share story" , "resource-id" : "bbc.mobile.news.ww:id/article_ui_share" , "screenshotPath" : "bbc_bookmark/S1/pngs/948_182_1080_314.png"}
+{ "resource-id" : "bbc.mobile.news.ww:id/contentRecyclerView" , "screenshotPath" : "bbc_bookmark/S1/pngs/0_325_1080_1977.png"}
+{ "content-desc" : "Picture of Aung San Suu Kyi's face behind bars" , "resource-id" : "bbc.mobile.news.ww:id/image_item" , "screenshotPath" : "bbc_bookmark/S1/pngs/0_325_1080_931.png"}

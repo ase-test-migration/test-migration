@@ -1,0 +1,13 @@
+{ "content-desc" : "Navigate up" , "screenshotPath" : "usa-category/S2/pngs/0_171_154_325.png"}
+{ "content-desc" : "settings" , "resource-id" : "com.usatoday.android.news:id/settings_gear" , "screenshotPath" : "usa-category/S2/pngs/865_215_931_281.png"}
+{ "content-desc" : "Search for news and sections" , "resource-id" : "com.usatoday.android.news:id/search_the_app" , "screenshotPath" : "usa-category/S2/pngs/948_182_1080_314.png"}
+{ "content-desc" : "Top Stories" , "resource-id" : "com.usatoday.android.news:id/top_stories_tab" , "screenshotPath" : "usa-category/S2/pngs/0_1994_216_2148.png"}
+{ "content-desc" : "Popular" , "resource-id" : "com.usatoday.android.news:id/most_popular_tab" , "screenshotPath" : "usa-category/S2/pngs/216_1994_432_2148.png"}
+{ "content-desc" : "Sections" , "resource-id" : "com.usatoday.android.news:id/sections_tab" , "screenshotPath" : "usa-category/S2/pngs/432_1994_648_2148.png"}
+{ "content-desc" : "My Topics" , "resource-id" : "com.usatoday.android.news:id/alerts_tab" , "screenshotPath" : "usa-category/S2/pngs/648_1994_864_2148.png"}
+{ "content-desc" : "Saved" , "resource-id" : "com.usatoday.android.news:id/saved_articles_tab" , "screenshotPath" : "usa-category/S2/pngs/864_1994_1080_2148.png"}
+{ "resource-id" : "com.usatoday.android.news:id/subsection_tab_ribbon_recycler_view" , "screenshotPath" : "usa-category/S2/pngs/0_325_1080_465.png"}
+{ "resource-id" : "com.usatoday.android.news:id/section_pager" , "screenshotPath" : "usa-category/S2/pngs/0_468_1080_1977.png"}
+{ "resource-id" : "com.usatoday.android.news:id/list" , "screenshotPath" : "usa-category/S2/pngs/0_468_1080_1977.png"}
+{ "content-desc" : "Save unchecked For most vulnerable, these clinics are trusted, accessible and vital to vaccine rollout" , "resource-id" : "com.usatoday.android.news:id/icon_1" , "screenshotPath" : "usa-category/S2/pngs/55_1874_121_1940.png"}
+{ "content-desc" : "Share" , "resource-id" : "com.usatoday.android.news:id/icon_2" , "screenshotPath" : "usa-category/S2/pngs/184_1874_245_1935.png"}

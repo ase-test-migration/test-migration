@@ -1,0 +1,43 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "testGtransSettings",
+            "events": [
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//XCUIElementTypeCell[@name=\"Settings\"]"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Speech region"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeCell[@name=\"DialectSettings\"])[5]/XCUIElementTypeOther[1]/XCUIElementTypeOther"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//XCUIElementTypeCollectionView[@name=\"SettingsScrollView\"]/XCUIElementTypeCell[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "GOONavigationBarBackButtonAutomationIdentifier"
+                }
+            ]
+        }
+    ]
+}

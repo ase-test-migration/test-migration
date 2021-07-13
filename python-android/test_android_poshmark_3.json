@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "poshmark-delCart",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.poshmark.app:id/deleteFromBundleButton"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Add items to your Bundle and save!"
+                }
+            ]
+        }
+    ]
+}

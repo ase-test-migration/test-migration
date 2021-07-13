@@ -1,0 +1,77 @@
+{
+    "tests": [
+        {
+            "name": "todoist-edit", 
+            "events": [
+                {
+                    "tag": "QuickAddButton", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "input": "task1", 
+                    "tag": "quick-add-textview", 
+                    "type": "accessibilityId", 
+                    "event": "send_keys"
+                }, 
+                {
+                    "tag": "quick-add-submit-button", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "//XCUIElementTypeApplication[@name=\"to doist\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]", 
+                    "type": "xPath", 
+                    "event": "click"
+                },
+                {
+                    "input": "task1",
+                    "event": "oracle",
+                    "oracle-type": "text_exists"
+
+                },
+                {
+                    "tag": "item-cell-task1", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "item-details-action-more", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Edit Task", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                },
+                {
+                    "input": "edited name",
+                    "tag": "//XCUIElementTypeApplication[@name=\"to doist\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTable/XCUIElementTypeCell[1]", 
+                    "type": "xPath", 
+                    "event": "send_keys"
+                },
+                {
+                    "tag": "Save", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                },
+                {
+                    "input": "edited name",
+                    "event": "oracle",
+                    "oracle-type": "text_exists"
+
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "14.3", 
+        "platformName": "iOS"
+    }
+}

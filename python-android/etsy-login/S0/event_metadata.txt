@@ -1,0 +1,4 @@
+pathToElementImageCrop: etsy-login/S0/pngs/540_2214_810_2287.png;
+coords: {'x1': 540, 'y1': 2214, 'x2': 810, 'y2': 2361};
+text_identifier: { "content-desc" : "You tab, 3 of 4" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_you" };
+event: click;

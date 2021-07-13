@@ -1,0 +1,94 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = McDonald's\l|label = McDonald's\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeNavigationBar\l|name = Select Location\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeButton\l|name = slide_close\l|label = Close\l|enabled = true\l|visible = true\l|x = 8\l|y = 20\l|width = 37\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/16.0_40.0_90.0_128.0.png\l}"]
+	7	[label="{type = XCUIElementTypeStaticText\l|value = Store Selection Screen\l|name = Store Selection Screen\l|label = Store Selection Screen\l|enabled = true\l|visible = true\l|x = 129\l|y = 20\l|width = 118\l|height = 44\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/258.0_40.0_494.0_128.0.png\l}"]
+	8	[label="{type = XCUIElementTypeButton\l|name = toolbar_search\l|label = search\l|enabled = true\l|visible = true\l|x = 280\l|y = 20\l|width = 41\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/560.0_40.0_642.0_128.0.png\l}"]
+	9	[label="{type = XCUIElementTypeButton\l|name = toolbar_right_icon\l|label = List view\l|enabled = true\l|visible = true\l|x = 329\l|y = 20\l|width = 38\l|height = 44\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/658.0_40.0_734.0_128.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 400\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/0.0_128.0_750.0_928.0.png\l}"]
+	13	[label="{type = XCUIElementTypeButton\l|name = current_location\l|label = FindMeIcon\l|enabled = true\l|visible = true\l|x = 320\l|y = 411\l|width = 32\l|height = 33\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/640.0_821.9999999999999_704.0_887.9999999999999.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 463\l|width = 375\l|height = 604\l|index = 2\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/0.0_926.0_750.0_2134.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|name = location_map\l|label = Map view\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 400\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/0.0_128.0_750.0_928.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 463\l|width = 375\l|height = 52\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/0.0_926.0_750.0_1030.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 515\l|width = 375\l|height = 552\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/0.0_1030.0_750.0_2134.0.png\l}"]
+	18	[label="{type = XCUIElementTypeButton\l|name = drag_chevron_layout\l|label = View expanded store list.Double tap to select\l|enabled = true\l|visible = true\l|x = 175\l|y = 471\l|width = 25\l|height = 5\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/350.0_942.0_400.0_952.0.png\l}"]
+	19	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 479\l|width = 375\l|height = 34\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/0.0_958.0_750.0_1026.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 187\l|y = 513\l|width = 188\l|height = 2\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/374.0_1026.0_750.0_1030.0.png\l}"]
+	21	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 515\l|width = 375\l|height = 552\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/0.0_1030.0_750.0_2134.0.png\l}"]
+	22	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 479\l|width = 184\l|height = 34\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/0.0_958.0_368.0_1026.0.png\l}"]
+	23	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 191\l|y = 479\l|width = 184\l|height = 34\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/382.0_958.0_750.0_1026.0.png\l}"]
+	24	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 515\l|width = 375\l|height = 552\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/0.0_1030.0_750.0_2134.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 479\l|width = 184\l|height = 34\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/0.0_958.0_368.0_1026.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 191\l|y = 479\l|width = 184\l|height = 34\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/382.0_958.0_750.0_1026.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 515\l|width = 375\l|height = 552\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/0.0_1030.0_750.0_2134.0.png\l}"]
+	28	[label="{type = XCUIElementTypeStaticText\l|value = Nearby\l|name = Nearby\l|label = Nearby\l|enabled = true\l|visible = true\l|x = 5\l|y = 481\l|width = 174\l|height = 31\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/10.0_962.0_358.0_1024.0.png\l}"]
+	29	[label="{type = XCUIElementTypeStaticText\l|value = Favorites\l|name = Favorites\l|label = Favorites\l|enabled = true\l|visible = true\l|x = 196\l|y = 481\l|width = 174\l|height = 31\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/391.99999999999994_962.0_740.0_1024.0.png\l}"]
+	30	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 515\l|width = 375\l|height = 552\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/0.0_1030.0_750.0_2134.0.png\l}"]
+	31	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 515\l|width = 375\l|height = 153\l|index = 0\l|numberOfChildren = 13\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/0.0_1030.0_750.0_1336.0.png\l}"]
+	32	[label="{type = XCUIElementTypeStaticText\l|value = Hours: 05:30am-12:59am\l|name = store_time\l|label = Hours: 05:30am-12:59am\l|enabled = true\l|visible = true\l|x = 55\l|y = 599\l|width = 296\l|height = 21\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/110.0_1198.0_702.0_1240.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 515\l|width = 375\l|height = 153\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/0.0_1030.0_750.0_1336.0.png\l}"]
+	34	[label="{type = XCUIElementTypeButton\l|name = fav_icon\l|label = 1071 Martin Luther King Jr Blvd, favorited store\l|enabled = true\l|visible = true\l|x = 18\l|y = 535\l|width = 30\l|height = 30\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = true \l|screenshotPath = McD-removeFav/S3/pngs/36.0_1070.0_96.0_1130.0.png\l}"]
+	35	[label="{type = XCUIElementTypeStaticText\l|value = 1071 Martin Luther King Jr Blvd\l|name = store_address\l|label = 1071 Martin Luther King Jr Blvd\l|enabled = true\l|visible = true\l|x = 55\l|y = 541\l|width = 184\l|height = 16\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/110.0_1082.0_478.0_1114.0.png\l}"]
+	36	[label="{type = XCUIElementTypeStaticText\l|value = Los Angeles\l|name = store_city\l|label = Los Angeles\l|enabled = true\l|visible = true\l|x = 55\l|y = 558\l|width = 184\l|height = 16\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/110.0_1116.0_478.0_1148.0.png\l}"]
+	37	[label="{type = XCUIElementTypeStaticText\l|value = 1.0 miles away\l|name = store_distance\l|label = 1.0 miles away\l|enabled = true\l|visible = true\l|x = 55\l|y = 575\l|width = 184\l|height = 16\l|index = 7\l|numberOfChildren = 0\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/110.0_1150.0_478.0_1182.0.png\l}"]
+	38	[label="{type = XCUIElementTypeButton\l|name = store_view_details\l|label = View details,1071 Martin Luther King Jr Blvd\l|enabled = true\l|visible = true\l|x = 55\l|y = 627\l|width = 147\l|height = 17\l|index = 9\l|numberOfChildren = 1\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/110.0_1254.0_404.0_1288.0.png\l}"]
+	39	[label="{type = XCUIElementTypeButton\l|name = store_order_here\l|label = Order Here,1071 Martin Luther King Jr Blvd\l|enabled = true\l|visible = true\l|x = 263\l|y = 537\l|width = 88\l|height = 40\l|index = 11\l|numberOfChildren = 1\l|numInParentLayout = 11\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/526.0_1074.0_702.0_1154.0.png\l}"]
+	40	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 515\l|width = 375\l|height = 153\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/0.0_1030.0_750.0_1336.0.png\l}"]
+	41	[label="{type = XCUIElementTypeStaticText\l|value = View details\l|name = View details\l|label = View details\l|enabled = true\l|visible = true\l|x = 55\l|y = 626\l|width = 75\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/110.0_1252.0_260.0_1290.0.png\l}"]
+	42	[label="{type = XCUIElementTypeStaticText\l|value =    Order Here   \l|name =    Order Here   \l|label =    Order Here   \l|enabled = true\l|visible = true\l|x = 264\l|y = 548\l|width = 86\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = McD-removeFav/S3/pngs/528.0_1096.0_700.0_1132.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	3 -> 5
+	4 -> 6
+	4 -> 7
+	4 -> 8
+	4 -> 9
+	5 -> 10
+	10 -> 11
+	11 -> 12
+	11 -> 13
+	11 -> 14
+	12 -> 15
+	14 -> 16
+	14 -> 17
+	16 -> 18
+	16 -> 19
+	16 -> 20
+	17 -> 21
+	19 -> 22
+	19 -> 23
+	21 -> 24
+	22 -> 25
+	23 -> 26
+	24 -> 27
+	25 -> 28
+	26 -> 29
+	27 -> 30
+	30 -> 31
+	31 -> 32
+	31 -> 33
+	31 -> 34
+	31 -> 35
+	31 -> 36
+	31 -> 37
+	31 -> 38
+	31 -> 39
+	33 -> 40
+	38 -> 41
+	39 -> 42
+
+
+}

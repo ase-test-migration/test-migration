@@ -1,0 +1,5 @@
+pathToElementImageCrop: wish-Login/S2/pngs/48.0_526.0_702.0_608.0.png;
+coords: {'x1': 48.0, 'y1': 526.0, 'x2': 702.0, 'y2': 608.0};
+text_identifier: { "label" : "" };
+event: send_keys;
+input: Test.0123;

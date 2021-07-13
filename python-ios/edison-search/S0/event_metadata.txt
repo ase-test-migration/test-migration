@@ -1,0 +1,4 @@
+pathToElementImageCrop: edison-search/S0/pngs/32.0_234.0_718.0_306.0.png;
+coords: {'x1': 32.0, 'y1': 234.0, 'x2': 718.0, 'y2': 306.0};
+text_identifier: { "label" : "Search" };
+event: click;

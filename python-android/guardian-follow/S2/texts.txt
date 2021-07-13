@@ -1,0 +1,7 @@
+{ "content-desc" : "Open Menu" , "resource-id" : "com.guardian:id/iivBackButton" , "screenshotPath" : "guardian-follow/S2/pngs/11_204_121_314.png"}
+{ "resource-id" : "com.guardian:id/rvArticles" , "screenshotPath" : "guardian-follow/S2/pngs/0_336_1080_1977.png"}
+{ "resource-id" : "com.guardian:id/fblFollow" , "screenshotPath" : "guardian-follow/S2/pngs/22_737_487_869.png"}
+{ "content-desc" : "Customise your homepage" , "resource-id" : "com.guardian:id/ivAddHome" , "screenshotPath" : "guardian-follow/S2/pngs/970_369_1058_457.png"}
+{ "resource-id" : "com.guardian:id/tvListHeaderText" , "screenshotPath" : "guardian-follow/S2/pngs/215_528_1058_720.png"}
+{ "resource-id" : "com.guardian:id/gtvAdvertHide" , "screenshotPath" : "guardian-follow/S2/pngs/879_2122_972_2148.png"}
+{ "content-desc" : "Hide adverts" , "resource-id" : "com.guardian:id/itvAdvertHideButton" , "screenshotPath" : "guardian-follow/S2/pngs/972_2121_1015_2148.png"}

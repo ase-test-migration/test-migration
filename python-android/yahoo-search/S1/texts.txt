@@ -1,0 +1,5 @@
+{ "resource-id" : "com.yahoo.mobile.client.android.mail:id/include_toolbar_layout" , "screenshotPath" : "yahoo-search/S1/pngs/0_0_1080_325.png"}
+{ "resource-id" : "com.yahoo.mobile.client.android.mail:id/fragment_container" , "screenshotPath" : "yahoo-search/S1/pngs/0_325_1080_1463.png"}
+{ "content-desc" : "Back" , "resource-id" : "com.yahoo.mobile.client.android.mail:id/left_button" , "screenshotPath" : "yahoo-search/S1/pngs/0_171_154_325.png"}
+{ "resource-id" : "com.yahoo.mobile.client.android.mail:id/search_suggestion_view" , "screenshotPath" : "yahoo-search/S1/pngs/0_325_1080_1463.png"}
+{ "resource-id" : "com.yahoo.mobile.client.android.mail:id/search_edit_text" , "screenshotPath" : "yahoo-search/S1/pngs/182_171_1080_325.png"}

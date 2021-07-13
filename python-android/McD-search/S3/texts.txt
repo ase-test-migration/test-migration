@@ -1,0 +1,19 @@
+{ "resource-id" : "com.mcdonalds.app:id/content_view" , "screenshotPath" : "McD-search/S3/pngs/0_74_1080_2287.png"}
+{ "resource-id" : "com.mcdonalds.app:id/store_search_layout" , "screenshotPath" : "McD-search/S3/pngs/24_174_1056_339.png"}
+{ "resource-id" : "com.mcdonalds.app:id/toolbar" , "screenshotPath" : "McD-search/S3/pngs/0_74_1080_200.png"}
+{ "resource-id" : "com.mcdonalds.app:id/page_root" , "screenshotPath" : "McD-search/S3/pngs/0_200_1080_2287.png"}
+{ "resource-id" : "com.mcdonalds.app:id/toolbar" , "screenshotPath" : "McD-search/S3/pngs/0_74_1080_200.png"}
+{ "resource-id" : "com.mcdonalds.app:id/page_content_holder" , "screenshotPath" : "McD-search/S3/pngs/0_200_1080_2287.png"}
+{ "resource-id" : "com.mcdonalds.app:id/search_text" , "screenshotPath" : "McD-search/S3/pngs/63_243_770_291.png"}
+{ "content-desc" : "Filter button" , "resource-id" : "com.mcdonalds.app:id/filter" , "screenshotPath" : "McD-search/S3/pngs/933_243_1017_291.png"}
+{ "content-desc" : "Close" , "resource-id" : "com.mcdonalds.app:id/slide_back" , "screenshotPath" : "McD-search/S3/pngs/0_74_126_200.png"}
+{ "resource-id" : "com.mcdonalds.app:id/archus_header_container" , "screenshotPath" : "McD-search/S3/pngs/352_111_728_162.png"}
+{ "content-desc" : "Search icon" , "resource-id" : "com.mcdonalds.app:id/toolbar_search" , "screenshotPath" : "McD-search/S3/pngs/838_87_940_186.png"}
+{ "content-desc" : "Store Selection Screen" , "resource-id" : "com.mcdonalds.app:id/slide_handler_title" , "screenshotPath" : "McD-search/S3/pngs/352_111_728_162.png"}
+{ "content-desc" : "List view    Double tap to Activate" , "resource-id" : "com.mcdonalds.app:id/toolbar_right_icon" , "screenshotPath" : "McD-search/S3/pngs/956_95_1050_179.png"}
+{ "resource-id" : "com.mcdonalds.app:id/location_layout" , "screenshotPath" : "McD-search/S3/pngs/0_200_1080_2287.png"}
+{ "content-desc" : "Google Map" , "screenshotPath" : "McD-search/S3/pngs/0_200_1080_1829.png"}
+{ "content-desc" : "2810 South Figueroa St. 2810 South Figueroa St05:00 AM - 02:30 AM    1.3 miles away." , "screenshotPath" : "McD-search/S3/pngs/1051_402_1080_462.png"}
+{ "content-desc" : "Current Location. " , "screenshotPath" : "McD-search/S3/pngs/258_383_465_593.png"}
+{ "content-desc" : "1071 Martin Luther King Jr Blvd. 1071 Martin Luther King Jr Blvd05:30 AM - 12:59 AM    1 miles away." , "screenshotPath" : "McD-search/S3/pngs/487_863_592_1015.png"}
+{ "content-desc" : "4000 S Figueroa. 4000 S Figueroa04:00 AM - 01:59 AM    1.4 miles away." , "screenshotPath" : "McD-search/S3/pngs/895_971_937_1031.png"}

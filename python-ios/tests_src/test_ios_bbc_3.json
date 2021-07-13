@@ -1,0 +1,42 @@
+
+{
+    "desiredCapabilities": {
+          "platformName": "iOS",
+          "platformVersion": "13.3.1",
+          "deviceName": "Someone's iPhone",
+          "udid": "auto",
+          "xcodeOrgId": "X9EN5J4J22",
+          "xcodeSigningId": "iPhone Developer"
+    },
+    "tests" : [
+        {
+            "name" : "testBBCTopMenu",
+            "events": [
+              {
+                  "event": "click",
+                  "tag": "(//XCUIElementTypeButton[@name=\"bn-ribbon-label\"])[2]",
+                  "type": "xPath"
+              },
+              {
+                  "event": "click",
+                  "tag": "(//XCUIElementTypeButton[@name=\"bn-ribbon-label\"])[3]",
+                  "type": "xPath"
+              },
+              {
+                  "event": "click",
+                  "tag": "(//XCUIElementTypeButton[@name=\"bn-ribbon-label\"])[5]",
+                  "type": "xPath"
+              },
+              {
+                  "event": "click",
+                  "tag": "(//XCUIElementTypeButton[@name=\"bn-ribbon-label\"])[6]",
+                  "type": "xPath"
+              }
+          ]
+
+
+
+
+    }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "tests": [
+        {
+            "name": "msToDo-duedate", 
+            "events": [
+                {
+                    "tag": "//android.view.ViewGroup[@content-desc=\"My Day, 0 tasks\"]/android.widget.TextView", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Add a task", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "input": "Mytask", 
+                    "tag": "com.microsoft.todos:id/create_task_edit_text", 
+                    "type": "id", 
+                    "event": "send_keys_enter"
+                },
+                {
+                    "input": "Tomorrow",
+                    "event": "oracle",
+                    "oracle-type": "text_invisible"
+                },
+                {
+                    "tag": "com.microsoft.todos:id/task_title", 
+                    "type": "id", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Add due date", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ListView/android.widget.LinearLayout[2]/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.TextView", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Dismiss detail view", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "com.microsoft.todos:id/duedate_indicator", 
+                    "type": "id", 
+                    "event": "oracle",
+                    "oracle-type": "widget_exists"
+                },
+                {
+                    "input": "Tomorrow",
+                    "event": "oracle",
+                    "oracle-type": "text_exists"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "emulator-5554", 
+        "platformName": "Android", 
+        "newCommandTimeout": 0
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "dolphin-search",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "mobi.mgeek.TunnyBrowser:id/search_text",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "mobi.mgeek.TunnyBrowser:id/search_input",
+                "event": "send_keys_enter",
+                "input": "google.com"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "Google"
+            }
+        ]
+    }
+}

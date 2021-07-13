@@ -1,0 +1,4 @@
+pathToElementImageCrop: etsy-add-to-cart/S2/pngs/30.0_2043.0000000000002_1212.0_2169.0.png;
+coords: {'x1': 30.0, 'y1': 2043.0000000000002, 'x2': 1212.0, 'y2': 2169.0};
+text_identifier: { "name" : "Size, current selection: Select a size" };
+event: click;

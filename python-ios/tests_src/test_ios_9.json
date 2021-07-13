@@ -1,0 +1,32 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer"
+    },
+    "tests" : [
+        {
+            "name" : "testLiveAudio",
+            "events": [
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "Audio",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "xPath", 
+                    "tag" : "(//XCUIElementTypeCell[@name=\"NestedVideoRowCell\"])[1]/XCUIElementTypeOther",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "Pause",
+                    "event" : "click" 
+                }
+            ]
+        }
+    ]
+}

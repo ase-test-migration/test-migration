@@ -1,0 +1,49 @@
+{
+    "tests": [
+        {
+            "name": "ebay-add-to-cart", 
+            "events": [
+                {
+                    "tag": "Color", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "(//XCUIElementTypeButton[@name=\"msku_aspect_value_select_option\"])[2]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Quantity", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "stepper_button_increment", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "button_add_to_cart", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Go_to_cart", 
+                    "type": "accessibilityId", 
+                    "event": "oracle",
+                    "oracle-type": "widget_exists"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "Someone's iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "13.4.1", 
+        "platformName": "iOS"
+    }
+}

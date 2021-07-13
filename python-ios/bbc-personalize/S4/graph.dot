@@ -1,0 +1,290 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = BBC News\l|label = BBC News\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeTabBar\l|name = Tab Bar\l|label = Tab Bar\l|enabled = true\l|visible = true\l|x = 0\l|y = 618\l|width = 375\l|height = 49\l|index = 1\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_1236.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeButton\l|name = Top Stories\l|label = Top Stories\l|enabled = true\l|visible = true\l|x = 2\l|y = 619\l|width = 71\l|height = 48\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/4.0_1238.0_146.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeButton\l|name = My News\l|label = My News\l|enabled = true\l|visible = true\l|x = 77\l|y = 619\l|width = 71\l|height = 48\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = true \l|screenshotPath = bbc-personalize/S4/pngs/154.0_1238.0_296.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|name = Popular\l|label = Popular\l|enabled = true\l|visible = true\l|x = 152\l|y = 619\l|width = 71\l|height = 48\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/304.0_1238.0_446.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|name = Video\l|label = Video\l|enabled = true\l|visible = true\l|x = 227\l|y = 619\l|width = 71\l|height = 48\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/453.99999999999994_1238.0_596.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = Search\l|label = Search\l|enabled = true\l|visible = true\l|x = 302\l|y = 619\l|width = 71\l|height = 48\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/604.0_1238.0_746.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeNavigationBar\l|name = bn-navigation-bar\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 96\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_40.0_750.0_231.99999999999997.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	16	[label="{type = XCUIElementTypeButton\l|name = bn-navigation-menu-button\l|label = Menu\l|enabled = true\l|visible = true\l|x = 8\l|y = 20\l|width = 54\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/16.0_40.0_123.99999999999999_128.0.png\l}"]
+	17	[label="{type = XCUIElementTypeStaticText\l|value = Search\l|name = Search\l|label = Search\l|enabled = true\l|visible = true\l|x = 159\l|y = 32\l|width = 57\l|height = 21\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/318.0_64.0_432.0_106.0.png\l}"]
+	18	[label="{type = XCUIElementTypeSearchField\l|name = Search topics\l|label = Search topics\l|enabled = true\l|visible = true\l|x = 16\l|y = 65\l|width = 343\l|height = 36\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/32.0_130.0_718.0_202.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	21	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 116\l|width = 375\l|height = 502\l|index = 0\l|numberOfChildren = 7\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_232.0_750.0_1236.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 116\l|width = 375\l|height = 50\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_232.0_750.0_332.0.png\l}"]
+	23	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 166\l|width = 375\l|height = 79\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_332.0_750.0_490.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 265\l|width = 375\l|height = 50\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_530.0_750.0_630.0.png\l}"]
+	25	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 315\l|width = 375\l|height = 79\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_630.0_750.0_788.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 414\l|width = 375\l|height = 50\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_828.0_750.0_928.0.png\l}"]
+	27	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 464\l|width = 375\l|height = 302\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_928.0_750.0_1532.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 2 pages\l|label = Vertical scroll bar, 2 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 116\l|width = 30\l|height = 502\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/684.0_232.0_744.0_1236.0.png\l}"]
+	29	[label="{type = XCUIElementTypeStaticText\l|value = Based on What You've Read\l|name = Based on What You've Read\l|label = Based on What You've Read\l|enabled = true\l|visible = true\l|x = 20\l|y = 116\l|width = 211\l|height = 50\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_232.0_462.0_332.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 166\l|width = 375\l|height = 79\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_332.0_750.0_490.0.png\l}"]
+	31	[label="{type = XCUIElementTypeStaticText\l|value = Around the BBC\l|name = Around the BBC\l|label = Around the BBC\l|enabled = true\l|visible = true\l|x = 20\l|y = 265\l|width = 121\l|height = 50\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_530.0_282.0_630.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 315\l|width = 375\l|height = 79\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_630.0_750.0_788.0.png\l}"]
+	33	[label="{type = XCUIElementTypeStaticText\l|value = More Topics\l|name = More Topics\l|label = More Topics\l|enabled = true\l|visible = true\l|x = 20\l|y = 414\l|width = 91\l|height = 50\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_828.0_222.0_928.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 464\l|width = 375\l|height = 302\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_928.0_750.0_1532.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 166\l|width = 375\l|height = 79\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_332.0_750.0_490.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 315\l|width = 375\l|height = 79\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_630.0_750.0_788.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 464\l|width = 375\l|height = 302\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_928.0_750.0_1532.0.png\l}"]
+	38	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 166\l|width = 375\l|height = 79\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_332.0_750.0_490.0.png\l}"]
+	39	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 315\l|width = 375\l|height = 79\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_630.0_750.0_788.0.png\l}"]
+	40	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 464\l|width = 375\l|height = 302\l|index = 0\l|numberOfChildren = 21\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/0.0_928.0_750.0_1532.0.png\l}"]
+	41	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 20\l|y = 166\l|width = 114\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_332.0_268.0_402.0.png\l}"]
+	42	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 144\l|y = 166\l|width = 121\l|height = 35\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/288.0_332.0_530.0_402.0.png\l}"]
+	43	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 20\l|y = 210\l|width = 86\l|height = 35\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_420.0_212.0_490.0.png\l}"]
+	44	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 116\l|y = 210\l|width = 75\l|height = 35\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/232.0_420.0_382.0_490.0.png\l}"]
+	45	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 20\l|y = 315\l|width = 108\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_630.0_255.99999999999997_700.0.png\l}"]
+	46	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 138\l|y = 315\l|width = 104\l|height = 35\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/276.0_630.0_484.0_700.0.png\l}"]
+	47	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 20\l|y = 359\l|width = 120\l|height = 35\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_718.0_280.0_788.0.png\l}"]
+	48	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 20\l|y = 464\l|width = 66\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_928.0_172.0_998.0.png\l}"]
+	49	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 96\l|y = 464\l|width = 55\l|height = 35\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/192.0_928.0_302.0_998.0.png\l}"]
+	50	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 161\l|y = 464\l|width = 109\l|height = 35\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/322.0_928.0_540.0_998.0.png\l}"]
+	51	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 20\l|y = 508\l|width = 123\l|height = 35\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_1016.0_286.0_1086.0.png\l}"]
+	52	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 153\l|y = 508\l|width = 47\l|height = 35\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/306.0_1016.0_400.0_1086.0.png\l}"]
+	53	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 210\l|y = 508\l|width = 142\l|height = 35\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/420.00000000000006_1016.0_704.0_1086.0.png\l}"]
+	54	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 20\l|y = 553\l|width = 89\l|height = 35\l|index = 6\l|numberOfChildren = 1\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_1106.0_218.0_1176.0.png\l}"]
+	55	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 119\l|y = 553\l|width = 58\l|height = 35\l|index = 7\l|numberOfChildren = 1\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/238.00000000000003_1106.0_354.0_1176.0.png\l}"]
+	56	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 187\l|y = 553\l|width = 82\l|height = 35\l|index = 8\l|numberOfChildren = 1\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/374.0_1106.0_538.0_1176.0.png\l}"]
+	57	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 279\l|y = 553\l|width = 71\l|height = 35\l|index = 9\l|numberOfChildren = 1\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/558.0_1106.0_700.0_1176.0.png\l}"]
+	58	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 20\l|y = 597\l|width = 124\l|height = 35\l|index = 10\l|numberOfChildren = 1\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_1194.0_288.0_1264.0.png\l}"]
+	59	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 154\l|y = 597\l|width = 75\l|height = 35\l|index = 11\l|numberOfChildren = 1\l|numInParentLayout = 11\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/308.0_1194.0_458.0_1264.0.png\l}"]
+	60	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 239\l|y = 597\l|width = 64\l|height = 35\l|index = 12\l|numberOfChildren = 1\l|numInParentLayout = 12\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/478.0_1194.0_606.0_1264.0.png\l}"]
+	61	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 166\l|width = 114\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_332.0_268.0_402.0.png\l}"]
+	62	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 144\l|y = 166\l|width = 121\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/288.0_332.0_530.0_402.0.png\l}"]
+	63	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 210\l|width = 86\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_420.0_212.0_490.0.png\l}"]
+	64	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 116\l|y = 210\l|width = 75\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/232.0_420.0_382.0_490.0.png\l}"]
+	65	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 315\l|width = 108\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_630.0_255.99999999999997_700.0.png\l}"]
+	66	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 138\l|y = 315\l|width = 104\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/276.0_630.0_484.0_700.0.png\l}"]
+	67	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 359\l|width = 120\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_718.0_280.0_788.0.png\l}"]
+	68	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 464\l|width = 66\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_928.0_172.0_998.0.png\l}"]
+	69	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 96\l|y = 464\l|width = 55\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/192.0_928.0_302.0_998.0.png\l}"]
+	70	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 161\l|y = 464\l|width = 109\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/322.0_928.0_540.0_998.0.png\l}"]
+	71	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 508\l|width = 123\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_1016.0_286.0_1086.0.png\l}"]
+	72	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 153\l|y = 508\l|width = 47\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/306.0_1016.0_400.0_1086.0.png\l}"]
+	73	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 210\l|y = 508\l|width = 142\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/420.00000000000006_1016.0_704.0_1086.0.png\l}"]
+	74	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 553\l|width = 89\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_1106.0_218.0_1176.0.png\l}"]
+	75	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 119\l|y = 553\l|width = 58\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/238.00000000000003_1106.0_354.0_1176.0.png\l}"]
+	76	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 187\l|y = 553\l|width = 82\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/374.0_1106.0_538.0_1176.0.png\l}"]
+	77	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 279\l|y = 553\l|width = 71\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/558.0_1106.0_700.0_1176.0.png\l}"]
+	78	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 597\l|width = 124\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_1194.0_288.0_1264.0.png\l}"]
+	79	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 154\l|y = 597\l|width = 75\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/308.0_1194.0_458.0_1264.0.png\l}"]
+	80	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 239\l|y = 597\l|width = 64\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/478.0_1194.0_606.0_1264.0.png\l}"]
+	81	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 166\l|width = 114\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_332.0_268.0_402.0.png\l}"]
+	82	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 144\l|y = 166\l|width = 121\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/288.0_332.0_530.0_402.0.png\l}"]
+	83	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 210\l|width = 86\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_420.0_212.0_490.0.png\l}"]
+	84	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 116\l|y = 210\l|width = 75\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/232.0_420.0_382.0_490.0.png\l}"]
+	85	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 315\l|width = 108\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_630.0_255.99999999999997_700.0.png\l}"]
+	86	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 138\l|y = 315\l|width = 104\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/276.0_630.0_484.0_700.0.png\l}"]
+	87	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 359\l|width = 120\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_718.0_280.0_788.0.png\l}"]
+	88	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 464\l|width = 66\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_928.0_172.0_998.0.png\l}"]
+	89	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 96\l|y = 464\l|width = 55\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/192.0_928.0_302.0_998.0.png\l}"]
+	90	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 161\l|y = 464\l|width = 109\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/322.0_928.0_540.0_998.0.png\l}"]
+	91	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 508\l|width = 123\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_1016.0_286.0_1086.0.png\l}"]
+	92	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 153\l|y = 508\l|width = 47\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/306.0_1016.0_400.0_1086.0.png\l}"]
+	93	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 210\l|y = 508\l|width = 142\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/420.00000000000006_1016.0_704.0_1086.0.png\l}"]
+	94	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 553\l|width = 89\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_1106.0_218.0_1176.0.png\l}"]
+	95	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 119\l|y = 553\l|width = 58\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/238.00000000000003_1106.0_354.0_1176.0.png\l}"]
+	96	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 187\l|y = 553\l|width = 82\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/374.0_1106.0_538.0_1176.0.png\l}"]
+	97	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 279\l|y = 553\l|width = 71\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/558.0_1106.0_700.0_1176.0.png\l}"]
+	98	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 597\l|width = 124\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_1194.0_288.0_1264.0.png\l}"]
+	99	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 154\l|y = 597\l|width = 75\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/308.0_1194.0_458.0_1264.0.png\l}"]
+	100	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 239\l|y = 597\l|width = 64\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/478.0_1194.0_606.0_1264.0.png\l}"]
+	101	[label="{type = XCUIElementTypeButton\l|name = BBC Culture\l|label = BBC Culture\l|enabled = true\l|visible = true\l|x = 20\l|y = 166\l|width = 114\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_332.0_268.0_402.0.png\l}"]
+	102	[label="{type = XCUIElementTypeButton\l|name = US & Canada\l|label = US & Canada\l|enabled = true\l|visible = true\l|x = 144\l|y = 166\l|width = 121\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/288.0_332.0_530.0_402.0.png\l}"]
+	103	[label="{type = XCUIElementTypeButton\l|name = Australia\l|label = Australia\l|enabled = true\l|visible = true\l|x = 20\l|y = 210\l|width = 86\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_420.0_212.0_490.0.png\l}"]
+	104	[label="{type = XCUIElementTypeButton\l|name = Europe\l|label = Europe\l|enabled = true\l|visible = true\l|x = 116\l|y = 210\l|width = 75\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/232.0_420.0_382.0_490.0.png\l}"]
+	105	[label="{type = XCUIElementTypeButton\l|name = BBC Future\l|label = BBC Future\l|enabled = true\l|visible = true\l|x = 20\l|y = 315\l|width = 108\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_630.0_255.99999999999997_700.0.png\l}"]
+	106	[label="{type = XCUIElementTypeButton\l|name = BBC Travel\l|label = BBC Travel\l|enabled = true\l|visible = true\l|x = 138\l|y = 315\l|width = 104\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/276.0_630.0_484.0_700.0.png\l}"]
+	107	[label="{type = XCUIElementTypeButton\l|name = BBC Worklife\l|label = BBC Worklife\l|enabled = true\l|visible = true\l|x = 20\l|y = 359\l|width = 120\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_718.0_280.0_788.0.png\l}"]
+	108	[label="{type = XCUIElementTypeButton\l|name = Africa\l|label = Africa\l|enabled = true\l|visible = true\l|x = 20\l|y = 464\l|width = 66\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_928.0_172.0_998.0.png\l}"]
+	109	[label="{type = XCUIElementTypeButton\l|name = Asia\l|label = Asia\l|enabled = true\l|visible = true\l|x = 96\l|y = 464\l|width = 55\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/192.0_928.0_302.0_998.0.png\l}"]
+	110	[label="{type = XCUIElementTypeButton\l|name = Middle East\l|label = Middle East\l|enabled = true\l|visible = true\l|x = 161\l|y = 464\l|width = 109\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/322.0_928.0_540.0_998.0.png\l}"]
+	111	[label="{type = XCUIElementTypeButton\l|name = Latin America\l|label = Latin America\l|enabled = true\l|visible = true\l|x = 20\l|y = 508\l|width = 123\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_1016.0_286.0_1086.0.png\l}"]
+	112	[label="{type = XCUIElementTypeButton\l|name = UK\l|label = UK\l|enabled = true\l|visible = true\l|x = 153\l|y = 508\l|width = 47\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/306.0_1016.0_400.0_1086.0.png\l}"]
+	113	[label="{type = XCUIElementTypeButton\l|name = Paradise Papers\l|label = Paradise Papers\l|enabled = true\l|visible = true\l|x = 210\l|y = 508\l|width = 142\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/420.00000000000006_1016.0_704.0_1086.0.png\l}"]
+	114	[label="{type = XCUIElementTypeButton\l|name = Business\l|label = Business\l|enabled = true\l|visible = true\l|x = 20\l|y = 553\l|width = 89\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_1106.0_218.0_1176.0.png\l}"]
+	115	[label="{type = XCUIElementTypeButton\l|name = Tech\l|label = Tech\l|enabled = true\l|visible = true\l|x = 119\l|y = 553\l|width = 58\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/238.00000000000003_1106.0_354.0_1176.0.png\l}"]
+	116	[label="{type = XCUIElementTypeButton\l|name = Science\l|label = Science\l|enabled = true\l|visible = true\l|x = 187\l|y = 553\l|width = 82\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/374.0_1106.0_538.0_1176.0.png\l}"]
+	117	[label="{type = XCUIElementTypeButton\l|name = Health\l|label = Health\l|enabled = true\l|visible = true\l|x = 279\l|y = 553\l|width = 71\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/558.0_1106.0_700.0_1176.0.png\l}"]
+	118	[label="{type = XCUIElementTypeButton\l|name = Entertainment\l|label = Entertainment\l|enabled = true\l|visible = true\l|x = 20\l|y = 597\l|width = 124\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/40.0_1194.0_288.0_1264.0.png\l}"]
+	119	[label="{type = XCUIElementTypeButton\l|name = Stories\l|label = Stories\l|enabled = true\l|visible = true\l|x = 154\l|y = 597\l|width = 75\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/308.0_1194.0_458.0_1264.0.png\l}"]
+	120	[label="{type = XCUIElementTypeButton\l|name = Sport\l|label = Sport\l|enabled = true\l|visible = true\l|x = 239\l|y = 597\l|width = 64\l|height = 35\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/478.0_1194.0_606.0_1264.0.png\l}"]
+	121	[label="{type = XCUIElementTypeStaticText\l|value = BBC Culture\l|name = BBC Culture\l|label = BBC Culture\l|enabled = true\l|visible = true\l|x = 32\l|y = 173\l|width = 90\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/64.0_346.0_244.0_386.0.png\l}"]
+	122	[label="{type = XCUIElementTypeStaticText\l|value = US & Canada\l|name = US & Canada\l|label = US & Canada\l|enabled = true\l|visible = true\l|x = 156\l|y = 173\l|width = 97\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/312.0_346.0_506.0_386.0.png\l}"]
+	123	[label="{type = XCUIElementTypeStaticText\l|value = Australia\l|name = Australia\l|label = Australia\l|enabled = true\l|visible = true\l|x = 32\l|y = 218\l|width = 62\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/64.0_436.0_188.0_474.0.png\l}"]
+	124	[label="{type = XCUIElementTypeStaticText\l|value = Europe\l|name = Europe\l|label = Europe\l|enabled = true\l|visible = true\l|x = 128\l|y = 218\l|width = 51\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/256.0_436.0_358.0_474.0.png\l}"]
+	125	[label="{type = XCUIElementTypeStaticText\l|value = BBC Future\l|name = BBC Future\l|label = BBC Future\l|enabled = true\l|visible = true\l|x = 32\l|y = 322\l|width = 84\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/64.0_644.0_232.0_684.0.png\l}"]
+	126	[label="{type = XCUIElementTypeStaticText\l|value = BBC Travel\l|name = BBC Travel\l|label = BBC Travel\l|enabled = true\l|visible = true\l|x = 150\l|y = 322\l|width = 80\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/300.0_644.0_460.0_684.0.png\l}"]
+	127	[label="{type = XCUIElementTypeStaticText\l|value = BBC Worklife\l|name = BBC Worklife\l|label = BBC Worklife\l|enabled = true\l|visible = true\l|x = 32\l|y = 367\l|width = 96\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/64.0_734.0_256.0_772.0.png\l}"]
+	128	[label="{type = XCUIElementTypeStaticText\l|value = Africa\l|name = Africa\l|label = Africa\l|enabled = true\l|visible = true\l|x = 32\l|y = 471\l|width = 42\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/64.0_942.0_148.0_982.0.png\l}"]
+	129	[label="{type = XCUIElementTypeStaticText\l|value = Asia\l|name = Asia\l|label = Asia\l|enabled = true\l|visible = true\l|x = 108\l|y = 471\l|width = 31\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/215.99999999999997_942.0_278.0_982.0.png\l}"]
+	130	[label="{type = XCUIElementTypeStaticText\l|value = Middle East\l|name = Middle East\l|label = Middle East\l|enabled = true\l|visible = true\l|x = 173\l|y = 471\l|width = 85\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/346.0_942.0_516.0_982.0.png\l}"]
+	131	[label="{type = XCUIElementTypeStaticText\l|value = Latin America\l|name = Latin America\l|label = Latin America\l|enabled = true\l|visible = true\l|x = 32\l|y = 516\l|width = 99\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/64.0_1032.0_262.0_1070.0.png\l}"]
+	132	[label="{type = XCUIElementTypeStaticText\l|value = UK\l|name = UK\l|label = UK\l|enabled = true\l|visible = true\l|x = 165\l|y = 516\l|width = 23\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/330.0_1032.0_376.0_1070.0.png\l}"]
+	133	[label="{type = XCUIElementTypeStaticText\l|value = Paradise Papers\l|name = Paradise Papers\l|label = Paradise Papers\l|enabled = true\l|visible = true\l|x = 222\l|y = 516\l|width = 118\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/444.0_1032.0_680.0_1070.0.png\l}"]
+	134	[label="{type = XCUIElementTypeStaticText\l|value = Business\l|name = Business\l|label = Business\l|enabled = true\l|visible = true\l|x = 32\l|y = 560\l|width = 65\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/64.0_1120.0_194.0_1160.0.png\l}"]
+	135	[label="{type = XCUIElementTypeStaticText\l|value = Tech\l|name = Tech\l|label = Tech\l|enabled = true\l|visible = true\l|x = 131\l|y = 560\l|width = 34\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/262.0_1120.0_330.0_1160.0.png\l}"]
+	136	[label="{type = XCUIElementTypeStaticText\l|value = Science\l|name = Science\l|label = Science\l|enabled = true\l|visible = true\l|x = 199\l|y = 560\l|width = 58\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/397.99999999999994_1120.0_514.0_1160.0.png\l}"]
+	137	[label="{type = XCUIElementTypeStaticText\l|value = Health\l|name = Health\l|label = Health\l|enabled = true\l|visible = true\l|x = 291\l|y = 560\l|width = 47\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/582.0_1120.0_676.0_1160.0.png\l}"]
+	138	[label="{type = XCUIElementTypeStaticText\l|value = Entertainment\l|name = Entertainment\l|label = Entertainment\l|enabled = true\l|visible = true\l|x = 32\l|y = 605\l|width = 100\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/64.0_1210.0_264.0_1248.0.png\l}"]
+	139	[label="{type = XCUIElementTypeStaticText\l|value = Stories\l|name = Stories\l|label = Stories\l|enabled = true\l|visible = true\l|x = 166\l|y = 605\l|width = 51\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/332.0_1210.0_434.0_1248.0.png\l}"]
+	140	[label="{type = XCUIElementTypeStaticText\l|value = Sport\l|name = Sport\l|label = Sport\l|enabled = true\l|visible = true\l|x = 251\l|y = 605\l|width = 40\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-personalize/S4/pngs/502.0_1210.0_582.0_1248.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	5 -> 7
+	6 -> 8
+	6 -> 9
+	6 -> 10
+	6 -> 11
+	6 -> 12
+	7 -> 13
+	13 -> 14
+	13 -> 15
+	14 -> 16
+	14 -> 17
+	14 -> 18
+	15 -> 19
+	19 -> 20
+	20 -> 21
+	21 -> 22
+	21 -> 23
+	21 -> 24
+	21 -> 25
+	21 -> 26
+	21 -> 27
+	21 -> 28
+	22 -> 29
+	23 -> 30
+	24 -> 31
+	25 -> 32
+	26 -> 33
+	27 -> 34
+	30 -> 35
+	32 -> 36
+	34 -> 37
+	35 -> 38
+	36 -> 39
+	37 -> 40
+	38 -> 41
+	38 -> 42
+	38 -> 43
+	38 -> 44
+	39 -> 45
+	39 -> 46
+	39 -> 47
+	40 -> 48
+	40 -> 49
+	40 -> 50
+	40 -> 51
+	40 -> 52
+	40 -> 53
+	40 -> 54
+	40 -> 55
+	40 -> 56
+	40 -> 57
+	40 -> 58
+	40 -> 59
+	40 -> 60
+	41 -> 61
+	42 -> 62
+	43 -> 63
+	44 -> 64
+	45 -> 65
+	46 -> 66
+	47 -> 67
+	48 -> 68
+	49 -> 69
+	50 -> 70
+	51 -> 71
+	52 -> 72
+	53 -> 73
+	54 -> 74
+	55 -> 75
+	56 -> 76
+	57 -> 77
+	58 -> 78
+	59 -> 79
+	60 -> 80
+	61 -> 81
+	62 -> 82
+	63 -> 83
+	64 -> 84
+	65 -> 85
+	66 -> 86
+	67 -> 87
+	68 -> 88
+	69 -> 89
+	70 -> 90
+	71 -> 91
+	72 -> 92
+	73 -> 93
+	74 -> 94
+	75 -> 95
+	76 -> 96
+	77 -> 97
+	78 -> 98
+	79 -> 99
+	80 -> 100
+	81 -> 101
+	82 -> 102
+	83 -> 103
+	84 -> 104
+	85 -> 105
+	86 -> 106
+	87 -> 107
+	88 -> 108
+	89 -> 109
+	90 -> 110
+	91 -> 111
+	92 -> 112
+	93 -> 113
+	94 -> 114
+	95 -> 115
+	96 -> 116
+	97 -> 117
+	98 -> 118
+	99 -> 119
+	100 -> 120
+	101 -> 121
+	102 -> 122
+	103 -> 123
+	104 -> 124
+	105 -> 125
+	106 -> 126
+	107 -> 127
+	108 -> 128
+	109 -> 129
+	110 -> 130
+	111 -> 131
+	112 -> 132
+	113 -> 133
+	114 -> 134
+	115 -> 135
+	116 -> 136
+	117 -> 137
+	118 -> 138
+	119 -> 139
+	120 -> 140
+
+
+}

@@ -1,0 +1,30 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "dolphin-search",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "mobi.mgeek.TunnyBrowser:id/search_bg_view"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys_enter",
+                    "tag": "mobi.mgeek.TunnyBrowser:id/search_input",
+                    "input": "google.com"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Google"
+                }
+            ]
+        }
+    ]
+}

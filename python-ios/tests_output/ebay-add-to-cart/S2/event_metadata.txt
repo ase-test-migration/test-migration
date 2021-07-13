@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-add-to-cart/S2/pngs/0.0_1362.0_1242.0_1488.0.png;
+coords: {'x1': 0.0, 'y1': 1362.0, 'x2': 1242.0, 'y2': 1488.0};
+text_identifier: { "name" : "Quantity" };
+event: click;

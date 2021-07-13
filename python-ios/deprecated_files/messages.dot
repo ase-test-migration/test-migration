@@ -1,0 +1,62 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Messages\l|label = Messages\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 2\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 1\l|numInParentLayout = 0\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 1\l|numInParentLayout = 0\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 1\l|numInParentLayout = 0\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 1\l|numInParentLayout = 0\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 1\l|numInParentLayout = 0\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 2\l|numInParentLayout = 0\l}"]
+	7	[label="{type = XCUIElementTypeNavigationBar\l|name = Messages\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 148\l|numberOfChildren = 4\l|numInParentLayout = 0\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 1\l|numInParentLayout = 1\l}"]
+	9	[label="{type = XCUIElementTypeStaticText\l|value = Messages\l|name = Messages\l|label = Messages\l|enabled = true\l|visible = true\l|x = 25\l|y = 67\l|width = 163\l|height = 42\l|numberOfChildren = 0\l|numInParentLayout = 0\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|name = optionsButton\l|label = Messages More\l|enabled = true\l|visible = true\l|x = 275\l|y = 73\l|width = 30\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 1\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|name = composeButton\l|label = Messages Compose\l|enabled = true\l|visible = true\l|x = 329\l|y = 73\l|width = 30\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 2\l}"]
+	12	[label="{type = XCUIElementTypeSearchField\l|name = Search\l|label = Search\l|enabled = true\l|visible = true\l|x = 16\l|y = 117\l|width = 343\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 3\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 1\l|numInParentLayout = 0\l}"]
+	14	[label="{type = XCUIElementTypeButton\l|name = Dictate\l|label = Dictate\l|enabled = true\l|visible = true\l|x = 334\l|y = 124\l|width = 17\l|height = 22\l|numberOfChildren = 0\l|numInParentLayout = 0\l}"]
+	15	[label="{type = XCUIElementTypeTable\l|name = ConversationList\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 2\l|numInParentLayout = 0\l}"]
+	16	[label="{type = XCUIElementTypeCell\l|name = email@example.com, Attachment: 1 Image, 6/8/20 \l|label = email@example.com, Attachment: 1 Image, 6/8/20 \l|enabled = true\l|visible = true\l|x = 0\l|y = 168\l|width = 375\l|height = 76\l|numberOfChildren = 6\l|numInParentLayout = 0\l}"]
+	17	[label="{type = XCUIElementTypeCell\l|name = ‭+1 (213) 465-9357‬, Attachment: 1 Image, 5/11/20 \l|label = ‭+1 (213) 465-9357‬, Attachment: 1 Image, 5/11/20 \l|enabled = true\l|visible = true\l|x = 0\l|y = 244\l|width = 375\l|height = 76\l|numberOfChildren = 5\l|numInParentLayout = 1\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 28\l|y = 168\l|width = 347\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 28\l|y = 243\l|width = 347\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l}"]
+	20	[label="{type = XCUIElementTypeStaticText\l|value = email@example.com\l|name = email@example.com\l|label = email@example.com\l|enabled = true\l|visible = true\l|x = 83\l|y = 176\l|width = 206\l|height = 21\l|numberOfChildren = 0\l|numInParentLayout = 2\l}"]
+	21	[label="{type = XCUIElementTypeStaticText\l|value = Attachment: 1 Image\l|name = Attachment: 1 Image\l|label = Attachment: 1 Image\l|enabled = true\l|visible = true\l|x = 83\l|y = 185\l|width = 276\l|height = 43\l|numberOfChildren = 0\l|numInParentLayout = 3\l}"]
+	22	[label="{type = XCUIElementTypeStaticText\l|value = 6/8/20 \l|name = 6/8/20 \l|label = 6/8/20 \l|enabled = true\l|visible = true\l|x = 291\l|y = 177\l|width = 47\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 4\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 28\l|y = 319\l|width = 347\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l}"]
+	24	[label="{type = XCUIElementTypeStaticText\l|value = ‭+1 (213) 465-9357‬\l|name = ‭+1 (213) 465-9357‬\l|label = ‭+1 (213) 465-9357‬\l|enabled = true\l|visible = true\l|x = 83\l|y = 252\l|width = 202\l|height = 21\l|numberOfChildren = 0\l|numInParentLayout = 1\l}"]
+	25	[label="{type = XCUIElementTypeStaticText\l|value = Attachment: 1 Image\l|name = Attachment: 1 Image\l|label = Attachment: 1 Image\l|enabled = true\l|visible = true\l|x = 83\l|y = 261\l|width = 276\l|height = 43\l|numberOfChildren = 0\l|numInParentLayout = 2\l}"]
+	26	[label="{type = XCUIElementTypeStaticText\l|value = 5/11/20 \l|name = 5/11/20 \l|label = 5/11/20 \l|enabled = true\l|visible = true\l|x = 287\l|y = 253\l|width = 51\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 3\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	6 -> 8
+	7 -> 9
+	7 -> 10
+	7 -> 11
+	7 -> 12
+	8 -> 13
+	12 -> 14
+	13 -> 15
+	15 -> 16
+	15 -> 17
+	16 -> 18
+	16 -> 19
+	16 -> 20
+	16 -> 21
+	16 -> 22
+	17 -> 23
+	17 -> 24
+	17 -> 25
+	17 -> 26
+
+
+}

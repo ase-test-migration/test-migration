@@ -1,0 +1,10 @@
+{ "content-desc" : "Web View" , "screenshotPath" : "chrome-search/S3/pngs/0_171_1080_1977.png"}
+{ "resource-id" : "com.android.chrome:id/suggestions_url_view" , "screenshotPath" : "chrome-search/S3/pngs/0_325_1080_490.png"}
+{ "content-desc" : "Refine" , "screenshotPath" : "chrome-search/S3/pngs/948_658_1080_826.png"}
+{ "content-desc" : "Refine" , "screenshotPath" : "chrome-search/S3/pngs/948_826_1080_994.png"}
+{ "content-desc" : "Refine" , "screenshotPath" : "chrome-search/S3/pngs/948_994_1080_1162.png"}
+{ "content-desc" : "Share…" , "resource-id" : "com.android.chrome:id/url_share_icon" , "screenshotPath" : "chrome-search/S3/pngs/673_325_805_490.png"}
+{ "content-desc" : "Copy link" , "resource-id" : "com.android.chrome:id/url_copy_icon" , "screenshotPath" : "chrome-search/S3/pngs/805_325_937_490.png"}
+{ "content-desc" : "Edit" , "resource-id" : "com.android.chrome:id/url_edit_icon" , "screenshotPath" : "chrome-search/S3/pngs/937_325_1069_490.png"}
+{ "resource-id" : "com.android.chrome:id/url_bar" , "screenshotPath" : "chrome-search/S3/pngs/49_179_927_317.png"}
+{ "content-desc" : "Start voice search" , "resource-id" : "com.android.chrome:id/mic_button" , "screenshotPath" : "chrome-search/S3/pngs/927_171_1058_325.png"}

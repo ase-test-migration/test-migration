@@ -1,0 +1,30 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "gmail-search",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.google.android.gm:id/open_search_bar_text_view"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys_enter",
+                    "tag": "com.google.android.gm:id/open_search_view_edit_text",
+                    "input": "Testing 1"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Testing 1 search term"
+                }
+            ]
+        }
+    ]
+}

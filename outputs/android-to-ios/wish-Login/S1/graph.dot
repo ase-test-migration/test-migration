@@ -1,0 +1,106 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Wish\l|label = Wish\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 714\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/0.0_0.0_750.0_1427.9999999999998.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 136\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/0.0_0.0_750.0_272.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 136\l|width = 375\l|height = 502\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/0.0_272.0_750.0_1276.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 638\l|width = 375\l|height = 76\l|index = 2\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/0.0_1276.0_750.0_1428.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 136\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/0.0_0.0_750.0_272.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 136\l|width = 375\l|height = 502\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/0.0_272.0_750.0_1276.0.png\l}"]
+	15	[label="{type = XCUIElementTypeTextView\l|value = By clicking ‘Sign in’ or Facebook or Google or Apple you agree to the Wish Terms of Use and Privacy Policy\l|enabled = true\l|visible = true\l|x = 24\l|y = 638\l|width = 327\l|height = 42\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/48.0_1276.0_702.0_1360.0.png\l}"]
+	16	[label="{type = XCUIElementTypeStaticText\l|value = Shopping Made Fun\l|name = Shopping Made Fun\l|label = Shopping Made Fun\l|enabled = true\l|visible = true\l|x = 130\l|y = 98\l|width = 116\l|height = 16\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/260.0_196.00000000000003_492.0_228.00000000000003.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 136\l|width = 375\l|height = 502\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/0.0_272.0_750.0_1276.0.png\l}"]
+	18	[label="{type = XCUIElementTypeTextView\l|name = By clicking ‘Sign in’ or Facebook or Google or Apple you agree to the Wish Terms of Use and Privacy Policy\l|label = By clicking ‘Sign in’ or Facebook or Google or Apple you agree to the Wish Terms of Use and Privacy Policy\l|enabled = true\l|visible = true\l|x = 29\l|y = 638\l|width = 317\l|height = 27\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/58.0_1276.0_692.0_1330.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 136\l|width = 375\l|height = 502\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/0.0_272.0_750.0_1276.0.png\l}"]
+	20	[label="{type = XCUIElementTypeLink\l|name = Terms of Use\l|label = Terms of Use\l|enabled = true\l|visible = true\l|x = 133\l|y = 651\l|width = 64\l|height = 14\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/266.0_1302.0_394.0_1330.0.png\l}"]
+	21	[label="{type = XCUIElementTypeLink\l|name = Privacy Policy\l|label = Privacy Policy\l|enabled = true\l|visible = true\l|x = 220\l|y = 651\l|width = 67\l|height = 14\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/440.0_1302.0_574.0_1330.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 136\l|width = 375\l|height = 502\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/0.0_272.0_750.0_1276.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 136\l|width = 375\l|height = 502\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/0.0_272.0_750.0_1276.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 136\l|width = 375\l|height = 386\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/0.0_272.0_750.0_1044.0.png\l}"]
+	25	[label="{type = XCUIElementTypeStaticText\l|value = Sign In\l|name = signInPageTitle\l|label = Sign In\l|enabled = true\l|visible = true\l|x = 158\l|y = 160\l|width = 60\l|height = 24\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/316.0_320.0_436.0_368.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 24\l|y = 207\l|width = 327\l|height = 315\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/48.0_414.0_702.0_1044.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 24\l|y = 207\l|width = 327\l|height = 265\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/48.0_414.0_702.0_944.0.png\l}"]
+	28	[label="{type = XCUIElementTypeButton\l|name = signupButton\l|label = New to Wish? Sign up\l|enabled = true\l|visible = true\l|x = 24\l|y = 481\l|width = 327\l|height = 41\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/48.0_962.0_702.0_1044.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 24\l|y = 207\l|width = 327\l|height = 265\l|index = 0\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/48.0_414.0_702.0_944.0.png\l}"]
+	30	[label="{type = XCUIElementTypeStaticText\l|value = New to Wish? Sign up\l|name = New to Wish? Sign up\l|label = New to Wish? Sign up\l|enabled = true\l|visible = true\l|x = 113\l|y = 492\l|width = 149\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/226.0_984.0_524.0_1022.0.png\l}"]
+	31	[label="{type = XCUIElementTypeTextField\l|value = Email Address\l|name = email\l|label = \l|enabled = true\l|visible = true\l|x = 24\l|y = 215\l|width = 327\l|height = 41\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/48.0_430.0_702.0_512.0.png\l}"]
+	32	[label="{type = XCUIElementTypeSecureTextField\l|value = Password\l|name = password\l|label = \l|enabled = true\l|visible = true\l|x = 24\l|y = 263\l|width = 327\l|height = 41\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/48.0_526.0_702.0_608.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 24\l|y = 311\l|width = 327\l|height = 49\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/48.0_622.0_702.0_720.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 24\l|y = 367\l|width = 327\l|height = 29\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/48.0_734.0_702.0_792.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 24\l|y = 403\l|width = 327\l|height = 17\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/48.0_806.0_702.0_840.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 24\l|y = 427\l|width = 327\l|height = 45\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/48.0_854.0_702.0_944.0.png\l}"]
+	37	[label="{type = XCUIElementTypeButton\l|name = signInActionButton\l|label = Sign in\l|enabled = true\l|visible = true\l|x = 24\l|y = 319\l|width = 327\l|height = 41\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/48.0_638.0_702.0_720.0.png\l}"]
+	38	[label="{type = XCUIElementTypeButton\l|name = Forgot Password?\l|label = Forgot Password?\l|enabled = true\l|visible = true\l|x = 248\l|y = 367\l|width = 103\l|height = 29\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/496.0_734.0_702.0_792.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 24\l|y = 403\l|width = 327\l|height = 17\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/48.0_806.0_702.0_840.0.png\l}"]
+	40	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 24\l|y = 431\l|width = 327\l|height = 41\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/48.0_862.0_702.0_944.0.png\l}"]
+	41	[label="{type = XCUIElementTypeStaticText\l|value = Sign in\l|name = Sign in\l|label = Sign in\l|enabled = true\l|visible = true\l|x = 164\l|y = 330\l|width = 47\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/328.0_660.0_422.0_698.0.png\l}"]
+	42	[label="{type = XCUIElementTypeStaticText\l|value = Forgot Password?\l|name = Forgot Password?\l|label = Forgot Password?\l|enabled = true\l|visible = true\l|x = 248\l|y = 373\l|width = 103\l|height = 17\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/496.0_746.0_702.0_780.0.png\l}"]
+	43	[label="{type = XCUIElementTypeStaticText\l|value = or\l|name = or\l|label = or\l|enabled = true\l|visible = true\l|x = 163\l|y = 403\l|width = 49\l|height = 17\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/326.0_806.0_424.0_840.0.png\l}"]
+	44	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 24\l|y = 411\l|width = 140\l|height = 1\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/48.0_821.9999999999999_328.0_823.9999999999999.png\l}"]
+	45	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 211\l|y = 411\l|width = 140\l|height = 1\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/422.0_821.9999999999999_702.0_823.9999999999999.png\l}"]
+	46	[label="{type = XCUIElementTypeButton\l|name = facebookButton\l|enabled = true\l|visible = true\l|x = 24\l|y = 431\l|width = 104\l|height = 41\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/48.0_862.0_256.0_944.0.png\l}"]
+	47	[label="{type = XCUIElementTypeButton\l|name = googleButton\l|enabled = true\l|visible = true\l|x = 135\l|y = 431\l|width = 105\l|height = 41\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/270.0_862.0_480.0_944.0.png\l}"]
+	48	[label="{type = XCUIElementTypeButton\l|name = appleButton\l|enabled = true\l|visible = true\l|x = 247\l|y = 431\l|width = 104\l|height = 41\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-Login/S1/pngs/493.99999999999994_862.0_702.0_944.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	8 -> 9
+	9 -> 10
+	9 -> 11
+	9 -> 12
+	10 -> 13
+	11 -> 14
+	12 -> 15
+	13 -> 16
+	14 -> 17
+	15 -> 18
+	17 -> 19
+	18 -> 20
+	18 -> 21
+	19 -> 22
+	22 -> 23
+	23 -> 24
+	24 -> 25
+	24 -> 26
+	26 -> 27
+	26 -> 28
+	27 -> 29
+	28 -> 30
+	29 -> 31
+	29 -> 32
+	29 -> 33
+	29 -> 34
+	29 -> 35
+	29 -> 36
+	33 -> 37
+	34 -> 38
+	35 -> 39
+	36 -> 40
+	37 -> 41
+	38 -> 42
+	39 -> 43
+	39 -> 44
+	39 -> 45
+	40 -> 46
+	40 -> 47
+	40 -> 48
+
+
+}

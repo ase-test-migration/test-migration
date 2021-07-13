@@ -1,0 +1,5 @@
+pathToElementImageCrop: edison-send/S2/pngs/0_759_1080_908.png;
+coords: {'x1': 0, 'y1': 759, 'x2': 1080, 'y2': 908};
+text_identifier: { "resource-id" : "com.easilydo.mail:id/subject_field" };
+event: send_keys;
+input: Testing 2;

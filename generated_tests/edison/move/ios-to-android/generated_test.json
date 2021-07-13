@@ -1,0 +1,38 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "edison-move",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.easilydo.mail:id/email_list_top_layer",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "reply",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.easilydo.mail:id/subject_field",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "navigate up",
+                "event": "click"
+            },
+            {
+                "type": "xPath",
+                "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.widget.RelativeLayout/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/android.widget.ScrollView/android.widget.RelativeLayout/android.widget.RelativeLayout/android.view.ViewGroup[2]",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "type": "resource-id",
+                "tag": "com.easilydo.mail:id/verify_sender"
+            }
+        ]
+    }
+}

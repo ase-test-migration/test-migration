@@ -1,0 +1,4 @@
+pathToElementImageCrop: cnn-bookmark/S1/pngs/981_207_1058_284.png;
+coords: {'x1': 981, 'y1': 207, 'x2': 1058, 'y2': 284};
+text_identifier: { "content-desc" : "Bookmark" , "resource-id" : "com.cnn.mobile.android.phone:id/toolbar_save" };
+event: click;

@@ -1,0 +1,28 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "guardian-follow",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.guardian:id/rvArticles",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Joan E Greve",
+                "event": "click"
+            },
+            {
+                "type": "xPath",
+                "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[3]",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "type": "accessibilityId",
+                "tag": "Get alerts on this story"
+            }
+        ]
+    }
+}

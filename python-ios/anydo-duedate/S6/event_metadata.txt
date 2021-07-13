@@ -1,0 +1,4 @@
+pathToElementImageCrop: anydo-duedate/S6/pngs/1029.0_609.0_1179.0_654.0.png;
+coords: {'x1': 1029.0, 'y1': 609.0, 'x2': 1179.0, 'y2': 654.0};
+text_identifier: { "label" : "REMOVE" };
+event: click;

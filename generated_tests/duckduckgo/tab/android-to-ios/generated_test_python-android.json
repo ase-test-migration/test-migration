@@ -1,0 +1,23 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "python-android",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Tabs",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Add",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Search or enter address"
+            }
+        ]
+    }
+}

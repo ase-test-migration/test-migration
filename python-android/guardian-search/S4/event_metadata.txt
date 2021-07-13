@@ -1,0 +1,4 @@
+pathToElementImageCrop: guardian-search/S4/pngs/48_439_1032_566.png;
+coords: {'x1': 48, 'y1': 439, 'x2': 1032, 'y2': 566};
+text_identifier: { "resource-id" : "com.guardian:id/tvHeadline" };
+event: click;

@@ -1,0 +1,60 @@
+{
+    "tests": [
+        {
+            "name": "anydo-edit", 
+            "events": [
+                {
+                    "input": "Mytask", 
+                    "tag": "//XCUIElementTypeApplication[@name=\"Any.do\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeTextField", 
+                    "type": "xPath", 
+                    "event": "send_keys_enter"
+                },
+                {
+                    "input": "Mytask",
+                    "event": "oracle",
+                    "oracle-type": "text_exists"
+                },
+                {
+                    "tag": "//XCUIElementTypeCell[@name=\"Mytask_0_0\"]/XCUIElementTypeOther[1]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "//XCUIElementTypeOther[@name=\"mainView\"]/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeScrollView/XCUIElementTypeButton", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "input": "Editedtask", 
+                    "tag": "Mytask", 
+                    "type": "accessibilityId", 
+                    "event": "send_keys_enter"
+                },
+                {
+                    "tag": "//XCUIElementTypeStaticText[@name=\"Save\"]", 
+                    "type": "xPath", 
+                    "event": "click"
+                },
+                {
+                    "input": "Editedtask",
+                    "event": "oracle",
+                    "oracle-type": "text_exists"
+                },
+                {
+                    "input": "Mytask",
+                    "event": "oracle",
+                    "oracle-type": "text_invisible"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "14.3", 
+        "platformName": "iOS"
+    }
+}

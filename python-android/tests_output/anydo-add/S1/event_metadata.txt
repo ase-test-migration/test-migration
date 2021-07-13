@@ -1,0 +1,5 @@
+pathToElementImageCrop: anydo-add/S1/pngs/28_1336_919_1446.png;
+coords: {'x1': 28, 'y1': 1336, 'x2': 919, 'y2': 1446};
+text_identifier: { "resource-id" : "com.anydo:id/quick_add_input" };
+event: send_keys;
+input: testing;

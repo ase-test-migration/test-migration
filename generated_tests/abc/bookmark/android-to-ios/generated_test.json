@@ -1,0 +1,18 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "abc-bookmark",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Awkward moment as House Republican leaders clash over Trump speaking at CPAC",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Vertical scroll bar, 8 pages",
+                "event": "click"
+            }
+        ]
+    }
+}

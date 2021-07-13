@@ -1,0 +1,5 @@
+pathToElementImageCrop: brave-back/S3/pngs/154_179_932_317.png;
+coords: {'x1': 154, 'y1': 179, 'x2': 932, 'y2': 317};
+text_identifier: { "resource-id" : "com.brave.browser:id/url_bar" };
+event: send_keys_enter;
+input: wikipedia.org;

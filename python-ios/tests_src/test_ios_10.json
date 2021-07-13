@@ -1,0 +1,32 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer"
+    },
+    "tests" : [
+        {
+            "name" : "testNYTsubmenu",
+            "events": [
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "3rdTabBarButton",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "2ndTabBarButton",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "1stTabBarButton",
+                    "event" : "click" 
+                }
+            ]
+        }
+    ]
+}

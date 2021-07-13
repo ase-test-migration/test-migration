@@ -1,0 +1,23 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "duckduckgo-tab",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Refresh Page",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Refresh Page",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Search"
+            }
+        ]
+    }
+}

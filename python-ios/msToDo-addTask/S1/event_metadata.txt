@@ -1,0 +1,5 @@
+pathToElementImageCrop: msToDo-addTask/S1/pngs/16.0_678.0_734.0_786.0.png;
+coords: {'x1': 16.0, 'y1': 678.0, 'x2': 734.0, 'y2': 786.0};
+text_identifier: { "label" : "Add a task" };
+event: send_keys;
+input: Test01;

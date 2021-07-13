@@ -1,0 +1,5 @@
+pathToElementImageCrop: poshmark-Login/S1/pngs/220.0_198.0_750.0_284.0.png;
+coords: {'x1': 220.0, 'y1': 198.0, 'x2': 750.0, 'y2': 284.0};
+text_identifier: { "label" : "" };
+event: send_keys;
+input: TestUseri;

@@ -1,0 +1,28 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "guardian-bookmark",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Live: Biden signs order to protect US supply chains as Moderna announces progress on vaccine updates"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Save for later"
+                }
+            ]
+        }
+    ]
+}

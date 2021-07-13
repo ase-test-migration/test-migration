@@ -1,0 +1,23 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "python-ios",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "Tabs",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Add tab",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "Search or enter address"
+            }
+        ]
+    }
+}

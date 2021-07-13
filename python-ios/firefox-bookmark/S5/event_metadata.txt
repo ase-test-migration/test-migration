@@ -1,0 +1,4 @@
+pathToElementImageCrop: firefox-bookmark/S5/pngs/124.0_740.0_308.0_782.0.png;
+coords: {'x1': 124.0, 'y1': 740.0, 'x2': 308.0, 'y2': 782.0};
+text_identifier: { "label" : "Your Library" };
+event: click;

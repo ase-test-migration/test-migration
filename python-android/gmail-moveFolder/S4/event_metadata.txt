@@ -1,0 +1,4 @@
+pathToElementImageCrop: gmail-moveFolder/S4/pngs/42_95_189_226.png;
+coords: {'x1': 42, 'y1': 95, 'x2': 189, 'y2': 226};
+text_identifier: { "content-desc" : "Open navigation drawer" };
+event: click;

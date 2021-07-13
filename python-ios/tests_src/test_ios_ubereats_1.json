@@ -1,0 +1,38 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "testUbeBtmMenu",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Search"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Orders"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Account"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Home"
+                }
+            ]
+        }
+    ]
+}

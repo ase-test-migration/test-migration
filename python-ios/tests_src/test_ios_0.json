@@ -1,0 +1,37 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer"
+    },
+    "tests" : [
+        {
+            "name" : "testHealthSaveReadLater",
+            "events": [
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "Health",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "save",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "share",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "xPath",
+                    "tag" : "//XCUIElementTypeCell[@name=\"Copy\"]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther",
+                    "event" : "click"
+                }
+            ]
+        }
+    ]
+}

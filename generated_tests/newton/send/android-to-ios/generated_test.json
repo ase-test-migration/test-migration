@@ -1,0 +1,35 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "newton-send",
+        "events": [
+            {
+                "type": "name",
+                "tag": "14 Feb",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Testing 1 search term",
+                "event": "send_keys",
+                "input": "email@example.com"
+            },
+            {
+                "type": "name",
+                "tag": "Note to self",
+                "event": "send_keys",
+                "input": "Testing 2"
+            },
+            {
+                "type": "name",
+                "tag": "conversation forward",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Testing 2"
+            }
+        ]
+    }
+}

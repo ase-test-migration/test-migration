@@ -1,0 +1,30 @@
+{
+    "tests": [
+        {
+            "name": "ebay-remove-from-cart", 
+            "events": [
+                {
+                    "tag": "shopping cart", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Remove - Google Home Mini Smart Speaker with Google Assistant Charcoal Chalk Coral Aqua", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "com.ebay.mobile:id/empty_cart_message", 
+                    "type": "id", 
+                    "event": "oracle",
+                    "oracle-type": "widget_exists"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "emulator-5554", 
+        "platformName": "Android", 
+        "newCommandTimeout": 0
+    }
+}

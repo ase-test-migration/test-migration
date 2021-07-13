@@ -1,0 +1,34 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Wish\l|label = Wish\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|name = messageDialog\l|enabled = true\l|visible = true\l|x = 32\l|y = 206\l|width = 311\l|height = 256\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S3/pngs/64.0_412.00000000000006_686.0_924.0.png\l}"]
+	6	[label="{type = XCUIElementTypeButton\l|name = closeDialogButton\l|label = close\l|enabled = true\l|visible = true\l|x = 311\l|y = 214\l|width = 24\l|height = 24\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S3/pngs/622.0_428.0_670.0_476.0.png\l}"]
+	7	[label="{type = XCUIElementTypeStaticText\l|value = Remove this item from cart?\l|name = messageDialogHeaderLabel\l|label = Remove this item from cart?\l|enabled = true\l|visible = true\l|x = 56\l|y = 326\l|width = 263\l|height = 24\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S3/pngs/112.00000000000001_652.0_638.0_700.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 56\l|y = 365\l|width = 263\l|height = 73\l|index = 3\l|numberOfChildren = 2\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S3/pngs/112.00000000000001_730.0_638.0_876.0.png\l}"]
+	9	[label="{type = XCUIElementTypeButton\l|name = messageDialogRemoveItem\l|label = Remove item\l|enabled = true\l|visible = true\l|x = 56\l|y = 365\l|width = 263\l|height = 41\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S3/pngs/112.00000000000001_730.0_638.0_812.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|name = Save for later\l|label = Save for later\l|enabled = true\l|visible = true\l|x = 56\l|y = 421\l|width = 263\l|height = 17\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S3/pngs/112.00000000000001_842.0_638.0_876.0.png\l}"]
+	11	[label="{type = XCUIElementTypeStaticText\l|value = Remove item\l|name = Remove item\l|label = Remove item\l|enabled = true\l|visible = true\l|x = 143\l|y = 376\l|width = 89\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = wish-delCart/S3/pngs/286.0_752.0_464.0_790.0.png\l}"]
+	12	[label="{type = XCUIElementTypeStaticText\l|value = Save for later\l|name = Save for later\l|label = Save for later\l|enabled = true\l|visible = true\l|x = 143\l|y = 420\l|width = 89\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S3/pngs/286.0_840.0_464.0_878.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	5 -> 7
+	5 -> 8
+	8 -> 9
+	8 -> 10
+	9 -> 11
+	10 -> 12
+
+
+}

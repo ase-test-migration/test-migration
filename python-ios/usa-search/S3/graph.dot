@@ -1,0 +1,192 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = USA TODAY\l|label = USA TODAY\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = false\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = false\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	10	[label="{type = XCUIElementTypeNavigationBar\l|name = AppWatch.SearchResultView\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 56\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_132.0_1242.0_300.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	12	[label="{type = XCUIElementTypeStaticText\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 56\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_132.0_1242.0_300.0.png\l}"]
+	13	[label="{type = XCUIElementTypeButton\l|name = back\l|label = back\l|enabled = true\l|visible = true\l|x = 12\l|y = 50\l|width = 41\l|height = 44\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/36.0_150.0_159.0_282.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 56\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_132.0_1242.0_300.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	17	[label="{type = XCUIElementTypeSearchField\l|value = travel\l|name = Search for news and sections\l|label = Search for news and sections\l|enabled = true\l|visible = true\l|x = 61\l|y = 54\l|width = 333\l|height = 36\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/182.99999999999997_162.0_1182.0_270.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 100\l|width = 414\l|height = 796\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_300.0_1242.0_2688.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 100\l|width = 414\l|height = 44\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_300.0_1242.0_432.0.png\l}"]
+	20	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 144\l|width = 414\l|height = 752\l|numberOfChildren = 10\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_432.00000000000006_1242.0_2688.0.png\l}"]
+	21	[label="{type = XCUIElementTypeSegmentedControl\l|enabled = true\l|visible = true\l|x = 20\l|y = 106\l|width = 374\l|height = 33\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/60.0_318.0_1182.0_417.0.png\l}"]
+	22	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 145\l|width = 414\l|height = 92\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_435.0_1242.0_711.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 237\l|width = 414\l|height = 45\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_710.9999999999999_1242.0_845.9999999999999.png\l}"]
+	24	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 283\l|width = 414\l|height = 128\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_849.0_1242.0_1233.0.png\l}"]
+	25	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 412\l|width = 414\l|height = 128\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_1236.0_1242.0_1620.0.png\l}"]
+	26	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 541\l|width = 414\l|height = 128\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_1623.0000000000002_1242.0_2007.0000000000002.png\l}"]
+	27	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 670\l|width = 414\l|height = 128\l|numberOfChildren = 1\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_2009.9999999999998_1242.0_2394.0.png\l}"]
+	28	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 799\l|width = 414\l|height = 128\l|numberOfChildren = 1\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_2397.0_1242.0_2781.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 8 pages\l|label = Vertical scroll bar, 8 pages\l|enabled = true\l|visible = true\l|x = 381\l|y = 159\l|width = 30\l|height = 706\l|numberOfChildren = 0\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/1143.0_477.0_1233.0_2595.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 31\l|y = 863\l|width = 352\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/93.0_2589.0_1149.0_2679.0.png\l}"]
+	31	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = All Content\l|label = All Content\l|enabled = true\l|visible = true\l|x = 20\l|y = 106\l|width = 186\l|height = 33\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/60.0_318.0_618.0_417.0.png\l}"]
+	32	[label="{type = XCUIElementTypeButton\l|name = News Near You\l|label = News Near You\l|enabled = true\l|visible = true\l|x = 207\l|y = 106\l|width = 187\l|height = 33\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/621.0_318.0_1182.0_417.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 145\l|width = 414\l|height = 92\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_435.0_1242.0_711.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 238\l|width = 414\l|height = 44\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_714.0_1242.0_846.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 283\l|width = 414\l|height = 128\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_849.0_1242.0_1233.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 412\l|width = 414\l|height = 128\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_1236.0_1242.0_1620.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 541\l|width = 414\l|height = 128\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_1623.0000000000002_1242.0_2007.0000000000002.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 670\l|width = 414\l|height = 128\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_2009.9999999999998_1242.0_2394.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 799\l|width = 414\l|height = 128\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_2397.0_1242.0_2781.0.png\l}"]
+	40	[label="{type = XCUIElementTypeStaticText\l|value = SECTIONS\l|name = SECTIONS\l|label = SECTIONS\l|enabled = true\l|visible = true\l|x = 9\l|y = 160\l|width = 64\l|height = 14\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/27.0_480.0_219.0_522.0.png\l}"]
+	41	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 184\l|width = 414\l|height = 53\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_552.0_1242.0_711.0.png\l}"]
+	42	[label="{type = XCUIElementTypeStaticText\l|value = CONTENT\l|name = CONTENT\l|label = CONTENT\l|enabled = true\l|visible = true\l|x = 10\l|y = 251\l|width = 61\l|height = 18\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/30.0_752.9999999999999_212.99999999999997_806.9999999999999.png\l}"]
+	43	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 283\l|width = 414\l|height = 128\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_849.0_1242.0_1233.0.png\l}"]
+	44	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 412\l|width = 414\l|height = 128\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_1236.0_1242.0_1620.0.png\l}"]
+	45	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 541\l|width = 414\l|height = 128\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_1623.0000000000002_1242.0_2007.0000000000002.png\l}"]
+	46	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 670\l|width = 414\l|height = 128\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_2009.9999999999998_1242.0_2394.0.png\l}"]
+	47	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 799\l|width = 414\l|height = 128\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_2397.0_1242.0_2781.0.png\l}"]
+	48	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 10\l|y = 184\l|width = 76\l|height = 38\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/30.0_552.0_258.0_666.0.png\l}"]
+	49	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 283\l|width = 414\l|height = 128\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_849.0_1242.0_1233.0.png\l}"]
+	50	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 412\l|width = 414\l|height = 128\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_1236.0_1242.0_1620.0.png\l}"]
+	51	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 541\l|width = 414\l|height = 128\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_1623.0000000000002_1242.0_2007.0000000000002.png\l}"]
+	52	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 670\l|width = 414\l|height = 128\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_2009.9999999999998_1242.0_2394.0.png\l}"]
+	53	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 799\l|width = 414\l|height = 128\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/0.0_2397.0_1242.0_2781.0.png\l}"]
+	54	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 184\l|width = 76\l|height = 38\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/30.0_552.0_258.0_666.0.png\l}"]
+	55	[label="{type = XCUIElementTypeStaticText\l|value = EU sets out virus pass plan to allow free travel by summer\l|name = EU sets out virus pass plan to allow free travel by summer\l|label = EU sets out virus pass plan to allow free travel by summer\l|enabled = true\l|visible = true\l|x = 20\l|y = 311\l|width = 264\l|height = 46\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = true \l|screenshotPath = usa-search/S3/pngs/60.0_933.0_851.9999999999999_1071.0.png\l}"]
+	56	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 13\l|y = 371\l|width = 75\l|height = 30\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/39.0_1113.0_264.0_1203.0.png\l}"]
+	57	[label="{type = XCUIElementTypeStaticText\l|value = 2hour ago\l|name = 2hour ago\l|label = 2hour ago\l|enabled = true\l|visible = true\l|x = 107\l|y = 379\l|width = 121\l|height = 14\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/321.0_1137.0_684.0_1179.0.png\l}"]
+	58	[label="{type = XCUIElementTypeStaticText\l|value = Jokic, Nuggets beat travel-weary Pacers 121-106\l|name = Jokic, Nuggets beat travel-weary Pacers 121-106\l|label = Jokic, Nuggets beat travel-weary Pacers 121-106\l|enabled = true\l|visible = true\l|x = 20\l|y = 440\l|width = 264\l|height = 46\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/60.0_1320.0_851.9999999999999_1458.0.png\l}"]
+	59	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 13\l|y = 500\l|width = 75\l|height = 30\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/39.0_1500.0_264.0_1590.0.png\l}"]
+	60	[label="{type = XCUIElementTypeStaticText\l|value = 3/15/21\l|name = 3/15/21\l|label = 3/15/21\l|enabled = true\l|visible = true\l|x = 107\l|y = 508\l|width = 121\l|height = 14\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/321.0_1524.0_684.0_1566.0.png\l}"]
+	61	[label="{type = XCUIElementTypeStaticText\l|value = Hawaii sees busiest travel day since start of pandemic in US\l|name = Hawaii sees busiest travel day since start of pandemic in US\l|label = Hawaii sees busiest travel day since start of pandemic in US\l|enabled = true\l|visible = true\l|x = 20\l|y = 569\l|width = 264\l|height = 46\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/60.0_1707.0000000000002_851.9999999999999_1845.0000000000002.png\l}"]
+	62	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 13\l|y = 629\l|width = 75\l|height = 30\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/39.0_1887.0_264.0_1977.0.png\l}"]
+	63	[label="{type = XCUIElementTypeStaticText\l|value = 6hour ago\l|name = 6hour ago\l|label = 6hour ago\l|enabled = true\l|visible = true\l|x = 107\l|y = 637\l|width = 121\l|height = 14\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/321.0_1911.0_684.0_1953.0.png\l}"]
+	64	[label="{type = XCUIElementTypeStaticText\l|value = COLUMNIST\l|name = COLUMNIST\l|label = COLUMNIST\l|enabled = true\l|visible = true\l|x = 20\l|y = 698\l|width = 67\l|height = 14\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/60.0_2094.0_261.0_2136.0.png\l}"]
+	65	[label="{type = XCUIElementTypeStaticText\l|value = Ask the Captain: Frequently asked questions\l|name = Ask the Captain: Frequently asked questions\l|label = Ask the Captain: Frequently asked questions\l|enabled = true\l|visible = true\l|x = 20\l|y = 719\l|width = 264\l|height = 39\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/60.0_2157.0_851.9999999999999_2274.0.png\l}"]
+	66	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 293\l|y = 746\l|width = 39\l|height = 38\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/879.0_2238.0_996.0_2352.0.png\l}"]
+	67	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 13\l|y = 758\l|width = 75\l|height = 30\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/39.0_2274.0_264.0_2364.0.png\l}"]
+	68	[label="{type = XCUIElementTypeStaticText\l|value = 2hour ago\l|name = 2hour ago\l|label = 2hour ago\l|enabled = true\l|visible = true\l|x = 107\l|y = 766\l|width = 121\l|height = 14\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/321.0_2298.0_684.0_2340.0.png\l}"]
+	69	[label="{type = XCUIElementTypeStaticText\l|value = WH Task Force on vaccines, escalating travel\l|name = WH Task Force on vaccines, escalating travel\l|label = WH Task Force on vaccines, escalating travel\l|enabled = true\l|visible = true\l|x = 20\l|y = 827\l|width = 264\l|height = 46\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/60.0_2481.0_851.9999999999999_2619.0.png\l}"]
+	70	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 293\l|y = 875\l|width = 39\l|height = 38\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/879.0_2625.0_996.0_2739.0.png\l}"]
+	71	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 13\l|y = 887\l|width = 75\l|height = 30\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/39.0_2661.0_264.0_2751.0.png\l}"]
+	72	[label="{type = XCUIElementTypeStaticText\l|value = 3/15/21\l|name = 3/15/21\l|label = 3/15/21\l|enabled = true\l|visible = true\l|x = 107\l|y = 895\l|width = 121\l|height = 14\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/321.0_2685.0_684.0_2727.0.png\l}"]
+	73	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 184\l|width = 76\l|height = 38\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/30.0_552.0_258.0_666.0.png\l}"]
+	74	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 13\l|y = 371\l|width = 75\l|height = 30\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/39.0_1113.0_264.0_1203.0.png\l}"]
+	75	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 13\l|y = 500\l|width = 75\l|height = 30\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/39.0_1500.0_264.0_1590.0.png\l}"]
+	76	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 13\l|y = 629\l|width = 75\l|height = 30\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/39.0_1887.0_264.0_1977.0.png\l}"]
+	77	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 293\l|y = 746\l|width = 39\l|height = 38\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/879.0_2238.0_996.0_2352.0.png\l}"]
+	78	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 13\l|y = 758\l|width = 75\l|height = 30\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/39.0_2274.0_264.0_2364.0.png\l}"]
+	79	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 293\l|y = 875\l|width = 39\l|height = 38\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/879.0_2625.0_996.0_2739.0.png\l}"]
+	80	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 13\l|y = 887\l|width = 75\l|height = 30\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/39.0_2661.0_264.0_2751.0.png\l}"]
+	81	[label="{type = XCUIElementTypeStaticText\l|value = TRAVEL\l|name = TRAVEL\l|label = TRAVEL\l|enabled = true\l|visible = true\l|x = 25\l|y = 195\l|width = 46\l|height = 16\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/75.0_585.0_213.0_633.0.png\l}"]
+	82	[label="{type = XCUIElementTypeButton\l|name = Save.4736343001\l|label = Save\l|enabled = true\l|visible = true\l|x = 13\l|y = 371\l|width = 31\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/39.0_1113.0_132.0_1203.0.png\l}"]
+	83	[label="{type = XCUIElementTypeButton\l|name = Share.4736343001\l|label = Share\l|enabled = true\l|visible = true\l|x = 57\l|y = 371\l|width = 31\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/171.0_1113.0_264.0_1203.0.png\l}"]
+	84	[label="{type = XCUIElementTypeButton\l|name = Save.43466839\l|label = Save\l|enabled = true\l|visible = true\l|x = 13\l|y = 500\l|width = 31\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/39.0_1500.0_132.0_1590.0.png\l}"]
+	85	[label="{type = XCUIElementTypeButton\l|name = Share.43466839\l|label = Share\l|enabled = true\l|visible = true\l|x = 57\l|y = 500\l|width = 31\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/171.0_1500.0_264.0_1590.0.png\l}"]
+	86	[label="{type = XCUIElementTypeButton\l|name = Save.4723308001\l|label = Save\l|enabled = true\l|visible = true\l|x = 13\l|y = 629\l|width = 31\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/39.0_1887.0_132.0_1977.0.png\l}"]
+	87	[label="{type = XCUIElementTypeButton\l|name = Share.4723308001\l|label = Share\l|enabled = true\l|visible = true\l|x = 57\l|y = 629\l|width = 31\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/171.0_1887.0_264.0_1977.0.png\l}"]
+	88	[label="{type = XCUIElementTypeButton\l|name = Save.94662716\l|label = Save\l|enabled = true\l|visible = true\l|x = 13\l|y = 758\l|width = 31\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/39.0_2274.0_132.0_2364.0.png\l}"]
+	89	[label="{type = XCUIElementTypeButton\l|name = Share.94662716\l|label = Share\l|enabled = true\l|visible = true\l|x = 57\l|y = 758\l|width = 31\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/171.0_2274.0_264.0_2364.0.png\l}"]
+	90	[label="{type = XCUIElementTypeButton\l|name = Save.4704749001\l|label = Save\l|enabled = true\l|visible = true\l|x = 13\l|y = 887\l|width = 31\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/39.0_2661.0_132.0_2751.0.png\l}"]
+	91	[label="{type = XCUIElementTypeButton\l|name = Share.4704749001\l|label = Share\l|enabled = true\l|visible = true\l|x = 57\l|y = 887\l|width = 31\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-search/S3/pngs/171.0_2661.0_264.0_2751.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	8 -> 9
+	9 -> 10
+	9 -> 11
+	10 -> 12
+	10 -> 13
+	11 -> 14
+	12 -> 15
+	14 -> 16
+	15 -> 17
+	16 -> 18
+	18 -> 19
+	18 -> 20
+	19 -> 21
+	20 -> 22
+	20 -> 23
+	20 -> 24
+	20 -> 25
+	20 -> 26
+	20 -> 27
+	20 -> 28
+	20 -> 29
+	20 -> 30
+	21 -> 31
+	21 -> 32
+	22 -> 33
+	23 -> 34
+	24 -> 35
+	25 -> 36
+	26 -> 37
+	27 -> 38
+	28 -> 39
+	33 -> 40
+	33 -> 41
+	34 -> 42
+	35 -> 43
+	36 -> 44
+	37 -> 45
+	38 -> 46
+	39 -> 47
+	41 -> 48
+	43 -> 49
+	44 -> 50
+	45 -> 51
+	46 -> 52
+	47 -> 53
+	48 -> 54
+	49 -> 55
+	49 -> 56
+	49 -> 57
+	50 -> 58
+	50 -> 59
+	50 -> 60
+	51 -> 61
+	51 -> 62
+	51 -> 63
+	52 -> 64
+	52 -> 65
+	52 -> 66
+	52 -> 67
+	52 -> 68
+	53 -> 69
+	53 -> 70
+	53 -> 71
+	53 -> 72
+	54 -> 73
+	56 -> 74
+	59 -> 75
+	62 -> 76
+	66 -> 77
+	67 -> 78
+	70 -> 79
+	71 -> 80
+	73 -> 81
+	74 -> 82
+	74 -> 83
+	75 -> 84
+	75 -> 85
+	76 -> 86
+	76 -> 87
+	78 -> 88
+	78 -> 89
+	80 -> 90
+	80 -> 91
+
+
+}

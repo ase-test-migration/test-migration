@@ -1,0 +1,4 @@
+pathToElementImageCrop: wish-addCart/S1/pngs/486.0_1222.0_726.0_1302.0.png;
+coords: {'x1': 486.0, 'y1': 1222.0, 'x2': 726.0, 'y2': 1302.0};
+text_identifier: { "label" : "Buy" };
+event: click;

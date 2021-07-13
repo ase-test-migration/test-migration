@@ -1,0 +1,4 @@
+pathToElementImageCrop: bbc-my-news/S10/pngs/996.0_663.0_1218.0_795.0.png;
+coords: {'x1': 996.0, 'y1': 663.0, 'x2': 1218.0, 'y2': 795.0};
+text_identifier: { "label" : "Delete" };
+event: click;

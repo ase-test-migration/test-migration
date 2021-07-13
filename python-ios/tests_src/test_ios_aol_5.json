@@ -1,0 +1,37 @@
+{
+    "desiredCapabilities": {
+          "platformName": "iOS",
+          "platformVersion": "13.3.1",
+          "deviceName": "Someone's iPhone",
+          "udid": "auto",
+          "xcodeOrgId": "X9EN5J4J22",
+          "xcodeSigningId": "iPhone Developer"
+    },
+    "tests" : [
+        {
+            "name" : "testAOLFeed",
+            "events": [
+                {
+                    "event": "click",
+                    "tag": "News Tab bar button",
+                    "type": "accessibilityId"
+                },
+                {
+                    "event": "click",
+                    "tag": "Actress slashed outside restaurant",
+                    "type": "accessibilityId"
+                },
+                {
+                    "event": "click",
+                    "tag": "article textsize",
+                    "type": "accessibilityId"
+                }
+            ]
+
+
+
+
+
+    }
+    ]
+}

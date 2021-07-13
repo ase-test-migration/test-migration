@@ -1,0 +1,38 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "etsy-navi",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "You tab, 4 of 5",
+                "event": "click"
+            },
+            {
+                "type": "xPath",
+                "tag": "/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.view.ViewGroup/androidx.cardview.widget.CardView/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Favorites tab, 2 of 5",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.etsy.android:id/listing_matte",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.etsy.android:id/text_free_shipping_body",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "Shop"
+            }
+        ]
+    }
+}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: anydo-changedate/S5/pngs/463_563_616_733.png;
+coords: {'x1': 463, 'y1': 563, 'x2': 616, 'y2': 733};
+text_identifier: { "resource-id" : "com.anydo:id/ReminderTimeOptionTitle" };
+event: click;

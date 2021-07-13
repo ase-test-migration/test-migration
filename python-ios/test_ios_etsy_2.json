@@ -1,0 +1,43 @@
+{
+    "tests": [
+        {
+            "name": "etsy-add-to-cart", 
+            "events": [
+                {
+                    "tag": "moon landing keycap", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "(//XCUIElementTypeCell[@name=\"listing card\"])[1]/XCUIElementTypeOther/XCUIElementTypeOther", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Size, current selection: Select a size", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "2'6\"x13'1\" 80x400cm [$299.00]", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "//XCUIElementTypeButton[@name=\"Add to cart\"]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "Someone's iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "13.4.1", 
+        "platformName": "iOS"
+    }
+}

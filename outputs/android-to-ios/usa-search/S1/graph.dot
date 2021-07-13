@@ -1,0 +1,36 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = USA TODAY\l|label = USA TODAY\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-search/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-search/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-search/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-search/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-search/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-search/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-search/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	7	[label="{type = XCUIElementTypeButton\l|name = local promo close\l|label = local promo close\l|enabled = true\l|visible = true\l|x = 376\l|y = 64\l|width = 22\l|height = 22\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-search/S1/pngs/1128.0_192.0_1194.0_258.0.png\l}"]
+	8	[label="{type = XCUIElementTypeStaticText\l|value = Get Caught Up!\l|name = Get Caught Up!\l|label = Get Caught Up!\l|enabled = true\l|visible = true\l|x = 117\l|y = 98\l|width = 180\l|height = 41\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-search/S1/pngs/351.0_294.0_891.0_417.0.png\l}"]
+	9	[label="{type = XCUIElementTypeStaticText\l|value = Quickly catch up on some must-read headlines.\l|name = Quickly catch up on some must-read headlines.\l|label = Quickly catch up on some must-read headlines.\l|enabled = true\l|visible = true\l|x = 111\l|y = 143\l|width = 192\l|height = 54\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-search/S1/pngs/333.00000000000006_428.99999999999994_909.0_591.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|name = View Stories You Missed\l|label = View Stories You Missed\l|enabled = true\l|visible = true\l|x = 81\l|y = 591\l|width = 252\l|height = 40\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-search/S1/pngs/243.0_1773.0_999.0_1893.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|name = Go to Top Stories\l|label = Go to Top Stories\l|enabled = true\l|visible = true\l|x = 81\l|y = 647\l|width = 252\l|height = 40\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-search/S1/pngs/243.0_1941.0_999.0_2061.0.png\l}"]
+	12	[label="{type = XCUIElementTypeStaticText\l|value = View Stories You Missed\l|name = View Stories You Missed\l|label = View Stories You Missed\l|enabled = true\l|visible = true\l|x = 118\l|y = 601\l|width = 178\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-search/S1/pngs/354.0_1803.0_888.0_1863.0.png\l}"]
+	13	[label="{type = XCUIElementTypeStaticText\l|value = Go to Top Stories\l|name = Go to Top Stories\l|label = Go to Top Stories\l|enabled = true\l|visible = true\l|x = 144\l|y = 657\l|width = 127\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/usa-search/S1/pngs/432.0_1971.0_813.0_2031.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	6 -> 8
+	6 -> 9
+	6 -> 10
+	6 -> 11
+	10 -> 12
+	11 -> 13
+
+
+}

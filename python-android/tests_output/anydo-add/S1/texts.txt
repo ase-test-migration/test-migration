@@ -1,0 +1,22 @@
+{ "resource-id" : "com.anydo:id/quick_add_input_container" , "screenshotPath" : "anydo-add/S1/pngs/0_1319_1080_1463.png"}
+{ "resource-id" : "com.anydo:id/quickAddOptionScroll" , "screenshotPath" : "anydo-add/S1/pngs/28_1221_1052_1291.png"}
+{ "resource-id" : "com.anydo:id/quick_add_button_container" , "screenshotPath" : "anydo-add/S1/pngs/947_1338_1052_1443.png"}
+{ "resource-id" : "com.anydo:id/recycler" , "screenshotPath" : "anydo-add/S1/pngs/0_325_1080_1463.png"}
+{ "resource-id" : "com.anydo:id/quickAddOptionScroll" , "screenshotPath" : "anydo-add/S1/pngs/28_1221_1052_1291.png"}
+{ "resource-id" : "com.anydo:id/quick_add_input" , "screenshotPath" : "anydo-add/S1/pngs/28_1336_919_1446.png"}
+{ "content-desc" : "Lists" , "resource-id" : "com.anydo:id/backButton" , "screenshotPath" : "anydo-add/S1/pngs/41_198_140_297.png"}
+{ "resource-id" : "com.anydo:id/groceryListsButtonContainer" , "screenshotPath" : "anydo-add/S1/pngs/195_198_294_297.png"}
+{ "resource-id" : "com.anydo:id/category_title_container" , "screenshotPath" : "anydo-add/S1/pngs/294_194_786_301.png"}
+{ "content-desc" : "Smart Cards" , "resource-id" : "com.anydo:id/user_notifications_button" , "screenshotPath" : "anydo-add/S1/pngs/786_198_885_297.png"}
+{ "content-desc" : "Menu" , "resource-id" : "com.anydo:id/category_menu" , "screenshotPath" : "anydo-add/S1/pngs/940_198_1039_297.png"}
+{ "resource-id" : "com.anydo:id/listItemLayout" , "screenshotPath" : "anydo-add/S1/pngs/0_325_1080_459.png"}
+{ "resource-id" : "com.anydo:id/listItemLayout" , "screenshotPath" : "anydo-add/S1/pngs/0_459_1080_593.png"}
+{ "resource-id" : "com.anydo:id/listItemLayout" , "screenshotPath" : "anydo-add/S1/pngs/0_593_1080_727.png"}
+{ "resource-id" : "com.anydo:id/listItemLayout" , "screenshotPath" : "anydo-add/S1/pngs/0_727_1080_861.png"}
+{ "content-desc" : "Grocery lists" , "resource-id" : "com.anydo:id/groceryListsButton" , "screenshotPath" : "anydo-add/S1/pngs/195_198_294_297.png"}
+{ "resource-id" : "com.anydo:id/category_title_click_view" , "screenshotPath" : "anydo-add/S1/pngs/294_194_786_301.png"}
+{ "resource-id" : "com.anydo:id/category_title" , "screenshotPath" : "anydo-add/S1/pngs/419_194_661_301.png"}
+{ "resource-id" : "com.anydo:id/add_task" , "screenshotPath" : "anydo-add/S1/pngs/948_340_1052_444.png"}
+{ "resource-id" : "com.anydo:id/add_task" , "screenshotPath" : "anydo-add/S1/pngs/948_474_1052_578.png"}
+{ "resource-id" : "com.anydo:id/add_task" , "screenshotPath" : "anydo-add/S1/pngs/948_608_1052_712.png"}
+{ "resource-id" : "com.anydo:id/add_task" , "screenshotPath" : "anydo-add/S1/pngs/948_742_1052_846.png"}

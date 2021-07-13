@@ -1,0 +1,5 @@
+pathToElementImageCrop: bbc-category/S2/pngs/278.0_64.0_472.0_106.0.png;
+coords: {'x1': 278.0, 'y1': 64.0, 'x2': 472.0, 'y2': 106.0};
+text_identifier: { "label" : "Coronavirus" };
+event: oracle;
+oracle-type: widget_exists;

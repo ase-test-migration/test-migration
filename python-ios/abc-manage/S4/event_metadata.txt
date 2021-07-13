@@ -1,0 +1,4 @@
+pathToElementImageCrop: abc-manage/S4/pngs/1080.0_159.0_1182.0_237.0.png;
+coords: {'x1': 1080.0, 'y1': 159.0, 'x2': 1182.0, 'y2': 237.0};
+text_identifier: { "label" : "Done" };
+event: click;

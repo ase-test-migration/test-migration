@@ -1,0 +1,16 @@
+{ "content-desc" : "Main navigation, open" , "resource-id" : "com.ebay.mobile:id/home" , "screenshotPath" : "ebay-login/S0/pngs/0_72_168_240.png"}
+{ "content-desc" : "Cart button" , "resource-id" : "com.ebay.mobile:id/menu_cart" , "screenshotPath" : "ebay-login/S0/pngs/936_84_1080_228.png"}
+{ "content-desc" : "Search Keyword Search for anything" , "resource-id" : "com.ebay.mobile:id/search_box" , "screenshotPath" : "ebay-login/S0/pngs/48_240_744_384.png"}
+{ "content-desc" : "Voice search" , "resource-id" : "com.ebay.mobile:id/search_voice_btn" , "screenshotPath" : "ebay-login/S0/pngs/744_240_888_384.png"}
+{ "content-desc" : "Image search options" , "resource-id" : "com.ebay.mobile:id/search_image_btn" , "screenshotPath" : "ebay-login/S0/pngs/888_240_1032_384.png"}
+{ "resource-id" : "com.ebay.mobile:id/recycler_view_main" , "screenshotPath" : "ebay-login/S0/pngs/0_408_1080_1776.png"}
+{ "resource-id" : "com.ebay.mobile:id/home_personalized_event_container" , "screenshotPath" : "ebay-login/S0/pngs/0_1713_1080_1776.png"}
+{ "resource-id" : "com.ebay.mobile:id/recyclerview_items" , "screenshotPath" : "ebay-login/S0/pngs/0_444_1080_660.png"}
+{ "resource-id" : "com.ebay.mobile:id/button_register" , "screenshotPath" : "ebay-login/S0/pngs/48_857_528_1037.png"}
+{ "resource-id" : "com.ebay.mobile:id/button_sign_in" , "screenshotPath" : "ebay-login/S0/pngs/552_857_1032_1037.png"}
+{ "resource-id" : "com.ebay.mobile:id/home_pill" , "screenshotPath" : "ebay-login/S0/pngs/48_492_383_612.png"}
+{ "resource-id" : "com.ebay.mobile:id/home_pill" , "screenshotPath" : "ebay-login/S0/pngs/407_492_717_612.png"}
+{ "resource-id" : "com.ebay.mobile:id/home_pill" , "screenshotPath" : "ebay-login/S0/pngs/741_492_1080_612.png"}
+{ "content-desc" : "No fakes. No fraud. No doubt. Independent experts meticulously authenticate luxe watches. Learn more " , "resource-id" : "com.ebay.mobile:id/home_banner_heading_section" , "screenshotPath" : "ebay-login/S0/pngs/96_1133_984_1581.png"}
+{ "resource-id" : "com.ebay.mobile:id/home_banner_heading" , "screenshotPath" : "ebay-login/S0/pngs/96_1181_966_1260.png"}
+{ "resource-id" : "com.ebay.mobile:id/home_banner_call_to_action" , "screenshotPath" : "ebay-login/S0/pngs/96_1437_404_1581.png"}

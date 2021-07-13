@@ -1,0 +1,50 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "anydo-edit",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.anydo:id/quick_add_input",
+                "event": "send_keys_enter",
+                "input": "Mytask"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "Mytask"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.anydo:id/listItemLayout",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.anydo:id/taskTitle",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.anydo:id/taskTitle",
+                "event": "send_keys_enter",
+                "input": "Editedtask"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.anydo:id/btnSave",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "Editedtask"
+            },
+            {
+                "event": "oracle",
+                "type": "text_invisible",
+                "input": "Mytask"
+            }
+        ]
+    }
+}

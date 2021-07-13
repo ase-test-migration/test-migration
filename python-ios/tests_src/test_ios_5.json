@@ -1,0 +1,34 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer"
+    },
+    "tests" : [
+        {
+            
+            "name" : "testgeocorona",
+            "events": [
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "geocorona",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "xPath", 
+                    "tag" : "//XCUIElementTypeOther[@name=\"Coronavirus information and local resources: Search your area\"]/XCUIElementTypeTextField",
+                    "event" : "send_keys",
+                    "input" : "90007"
+                },
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "Get Information",
+                    "event" : "click" 
+                }                
+            ]
+        }
+    ]
+}

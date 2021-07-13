@@ -1,0 +1,4 @@
+pathToElementImageCrop: bbc-personalize/S1/pngs/40.0_332.0_172.0_402.0.png;
+coords: {'x1': 40.0, 'y1': 332.0, 'x2': 172.0, 'y2': 402.0};
+text_identifier: { "label" : "World" };
+event: click;

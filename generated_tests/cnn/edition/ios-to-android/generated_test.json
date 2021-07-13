@@ -1,0 +1,43 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "cnn-edition",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "Preferences",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.cnn.mobile.android.phone:id/layout_login",
+                "event": "oracle-assert_equal"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.cnn.mobile.android.phone:id/layout_login",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.cnn.mobile.android.phone:id/login_email_input",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.cnn.mobile.android.phone:id/login_button",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Back Button",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.cnn.mobile.android.phone:id/layout_login",
+                "event": "oracle-assert_equal"
+            }
+        ]
+    }
+}

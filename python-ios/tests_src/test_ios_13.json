@@ -1,0 +1,40 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer"
+    },
+    "tests" : [
+        {
+            "name" : "testNYTreadcomment",
+            "events": [
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "HeadlineLabel",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "coordinate", 
+                    "x" : 279,
+                    "y": 39,
+                    "event" : "click" 
+                },
+                {
+                    "type" : "coordinate", 
+                    "x" : 299,
+                    "y": 90,
+                    "event" : "click" 
+                },
+                {
+                    "type" : "coordinate", 
+                    "x" : 195,
+                    "y": 90,
+                    "event" : "click" 
+                }
+            ]
+        }
+    ]
+}

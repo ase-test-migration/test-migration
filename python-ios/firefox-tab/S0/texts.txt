@@ -1,0 +1,14 @@
+{"name" : "Firefox", "label" : "Firefox", "screenshotPath" : "firefox-tab/S0/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "contentView", "label" : "Web content", "screenshotPath" : "firefox-tab/S0/pngs/0.0_190.0_750.0_1242.0.png"}
+{"name" : "Navigation Toolbar", "label" : "Navigation Toolbar", "screenshotPath" : "firefox-tab/S0/pngs/0.0_1242.0_750.0_1334.0.png"}
+{"value" : "0%", "name" : "Vertical scroll bar, 3 pages", "label" : "Vertical scroll bar, 3 pages", "screenshotPath" : "firefox-tab/S0/pngs/684.0_190.0_744.0_1242.0.png"}
+{"value" : "0%", "name" : "Horizontal scroll bar, 1 page", "label" : "Horizontal scroll bar, 1 page", "screenshotPath" : "firefox-tab/S0/pngs/0.0_1176.0_750.0_1236.0.png"}
+{"name" : "TabToolbar.backButton", "label" : "Back", "screenshotPath" : "firefox-tab/S0/pngs/0.0_1242.0_150.0_1334.0.png"}
+{"name" : "TabToolbar.forwardButton", "label" : "Forward", "screenshotPath" : "firefox-tab/S0/pngs/150.0_1242.0_300.0_1334.0.png"}
+{"name" : "TabToolbar.multiStateButton", "label" : "Reload", "screenshotPath" : "firefox-tab/S0/pngs/300.0_1242.0_450.0_1334.0.png"}
+{"value" : "1", "name" : "TabToolbar.tabsButton", "label" : "Show Tabs", "screenshotPath" : "firefox-tab/S0/pngs/450.0_1242.0_600.0_1334.0.png"}
+{"name" : "TabToolbar.menuButton", "label" : "Menu", "screenshotPath" : "firefox-tab/S0/pngs/600.0_1242.0_750.0_1334.0.png"}
+{"value" : "www.wikipedia.org/", "name" : "url", "label" : "Address Bar", "screenshotPath" : "firefox-tab/S0/pngs/160.0_92.0_646.0_138.0.png"}
+{"name" : "TabLocationView.pageOptionsButton", "label" : "Page Options Menu", "screenshotPath" : "firefox-tab/S0/pngs/648.0_70.0_736.0_160.0.png"}
+{"name" : "TabLocationView.trackingProtectionButton", "label" : "tracking protection", "screenshotPath" : "firefox-tab/S0/pngs/14.000000000000002_70.0_102.0_160.0.png"}
+{"value" : "1", "name" : "1", "label" : "1", "screenshotPath" : "firefox-tab/S0/pngs/500.0_1264.0_550.0_1312.0.png"}

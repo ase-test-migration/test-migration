@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-login/S1/pngs/48_936_1032_1116.png;
+coords: {'x1': 48, 'y1': 936, 'x2': 1032, 'y2': 1116};
+text_identifier: { "resource-id" : "com.ebay.mobile:id/button_classic" };
+event: click;

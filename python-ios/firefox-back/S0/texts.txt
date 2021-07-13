@@ -1,0 +1,37 @@
+{"name" : "Firefox", "label" : "Firefox", "screenshotPath" : "firefox-back/S0/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "Navigation Toolbar", "label" : "Navigation Toolbar", "screenshotPath" : "firefox-back/S0/pngs/0.0_1242.0_750.0_1334.0.png"}
+{"name" : "TopSitesCell", "screenshotPath" : "firefox-back/S0/pngs/12.0_270.0_738.0_698.0.png"}
+{"value" : "0%", "name" : "Vertical scroll bar, 3 pages", "label" : "Vertical scroll bar, 3 pages", "screenshotPath" : "firefox-back/S0/pngs/684.0_190.0_744.0_1242.0.png"}
+{"value" : "0%", "name" : "Horizontal scroll bar, 1 page", "label" : "Horizontal scroll bar, 1 page", "screenshotPath" : "firefox-back/S0/pngs/0.0_1176.0_750.0_1236.0.png"}
+{"value" : "Top Sites", "name" : "topSitesTitle", "label" : "Top Sites", "screenshotPath" : "firefox-back/S0/pngs/82.0_198.0_222.0_262.0.png"}
+{"value" : "Your Library", "name" : "libraryTitle", "label" : "Your Library", "screenshotPath" : "firefox-back/S0/pngs/82.0_716.0000000000001_268.0_780.0000000000001.png"}
+{"name" : "libraryMoreButton", "label" : "See All", "screenshotPath" : "firefox-back/S0/pngs/278.0_716.0000000000001_710.0_780.0000000000001.png"}
+{"value" : "Trending on Pocket", "name" : "pocketTitle", "label" : "Trending on Pocket", "screenshotPath" : "firefox-back/S0/pngs/82.0_994.0_374.0_1058.0.png"}
+{"name" : "More", "label" : "More", "screenshotPath" : "firefox-back/S0/pngs/382.0_994.0_710.0_1058.0.png"}
+{"name" : "TabToolbar.backButton", "label" : "Back", "screenshotPath" : "firefox-back/S0/pngs/0.0_1242.0_150.0_1334.0.png"}
+{"name" : "TabToolbar.forwardButton", "label" : "Forward", "screenshotPath" : "firefox-back/S0/pngs/150.0_1242.0_300.0_1334.0.png"}
+{"name" : "TabToolbar.multiStateButton", "label" : "Search", "screenshotPath" : "firefox-back/S0/pngs/300.0_1242.0_450.0_1334.0.png"}
+{"value" : "1", "name" : "TabToolbar.tabsButton", "label" : "Show Tabs", "screenshotPath" : "firefox-back/S0/pngs/450.0_1242.0_600.0_1334.0.png"}
+{"name" : "TabToolbar.menuButton", "label" : "Menu", "screenshotPath" : "firefox-back/S0/pngs/600.0_1242.0_750.0_1334.0.png"}
+{"value" : "Search or enter address", "name" : "url", "label" : "Address Bar", "screenshotPath" : "firefox-back/S0/pngs/34.0_92.0_736.0_138.0.png"}
+{"value" : "See All", "name" : "See All", "label" : "See All", "screenshotPath" : "firefox-back/S0/pngs/612.0_730.0_710.0_766.0.png"}
+{"name" : "Bookmarks", "label" : "Bookmarks", "screenshotPath" : "firefox-back/S0/pngs/40.0_788.0_194.0_976.0.png"}
+{"name" : "Reading List", "label" : "Reading List", "screenshotPath" : "firefox-back/S0/pngs/212.0_788.0_366.0_976.0.png"}
+{"name" : "Downloads", "label" : "Downloads", "screenshotPath" : "firefox-back/S0/pngs/384.0_788.0_538.0_976.0.png"}
+{"name" : "Synced Tabs", "label" : "Synced Tabs", "screenshotPath" : "firefox-back/S0/pngs/558.0_788.0_710.0_976.0.png"}
+{"value" : "More", "name" : "More", "label" : "More", "screenshotPath" : "firefox-back/S0/pngs/636.0_1008.0_710.0_1044.0.png"}
+{"value" : "1", "name" : "1", "label" : "1", "screenshotPath" : "firefox-back/S0/pngs/500.0_1264.0_550.0_1312.0.png"}
+{"name" : "TopSite", "label" : "wikipedia", "screenshotPath" : "firefox-back/S0/pngs/40.0_270.0_186.0_456.0.png"}
+{"name" : "TopSite", "label" : "chess.com", "screenshotPath" : "firefox-back/S0/pngs/214.0_270.0_360.0_456.0.png"}
+{"name" : "TopSite", "label" : "facebook", "screenshotPath" : "firefox-back/S0/pngs/388.0_270.0_534.0_456.0.png"}
+{"name" : "TopSite", "label" : "youtube", "screenshotPath" : "firefox-back/S0/pngs/562.0_270.0_708.0_456.0.png"}
+{"name" : "TopSite", "label" : "amazon", "screenshotPath" : "firefox-back/S0/pngs/40.0_484.0_186.0_670.0.png"}
+{"name" : "TopSite", "label" : "twitter", "screenshotPath" : "firefox-back/S0/pngs/214.0_484.0_360.0_670.0.png"}
+{"name" : "menu Bookmark", "label" : "menu Bookmark", "screenshotPath" : "firefox-back/S0/pngs/53.99999999999999_788.0_178.0_912.0.png"}
+{"value" : "Bookmarks", "name" : "Bookmarks", "label" : "Bookmarks", "screenshotPath" : "firefox-back/S0/pngs/40.0_920.0000000000001_194.0_950.0000000000001.png"}
+{"name" : "menu panel ReadingList", "label" : "menu panel ReadingList", "screenshotPath" : "firefox-back/S0/pngs/228.0_788.0_350.0_912.0.png"}
+{"value" : "Reading List", "name" : "Reading List", "label" : "Reading List", "screenshotPath" : "firefox-back/S0/pngs/212.0_920.0000000000001_366.0_950.0000000000001.png"}
+{"name" : "menu panel Downloads", "label" : "menu panel Downloads", "screenshotPath" : "firefox-back/S0/pngs/400.0_788.0_524.0_912.0.png"}
+{"value" : "Downloads", "name" : "Downloads", "label" : "Downloads", "screenshotPath" : "firefox-back/S0/pngs/384.0_920.0000000000001_538.0_950.0000000000001.png"}
+{"name" : "menu sync", "label" : "menu sync", "screenshotPath" : "firefox-back/S0/pngs/572.0_788.0_696.0_912.0.png"}
+{"value" : "Synced Tabs", "name" : "Synced Tabs", "label" : "Synced Tabs", "screenshotPath" : "firefox-back/S0/pngs/558.0_920.0000000000001_710.0_950.0000000000001.png"}

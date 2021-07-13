@@ -1,0 +1,5 @@
+pathToElementImageCrop: McD-search/S3/pngs/48.0_152.0_618.0_218.0.png;
+coords: {'x1': 48.0, 'y1': 152.0, 'x2': 618.0, 'y2': 218.0};
+text_identifier: { "name" : "search" };
+event: send_keys_enter;
+input: 90007;

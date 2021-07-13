@@ -1,0 +1,5 @@
+pathToElementImageCrop: msToDo-duedate/S8/pngs/321_352_573_409.png;
+coords: {'x1': 321, 'y1': 352, 'x2': 573, 'y2': 409};
+text_identifier: { "resource-id" : "com.microsoft.todos:id/duedate_indicator" };
+event: oracle;
+oracle-type: widget_exists;

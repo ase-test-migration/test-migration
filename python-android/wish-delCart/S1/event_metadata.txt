@@ -1,0 +1,4 @@
+pathToElementImageCrop: wish-delCart/S1/pngs/874_649_1036_752.png;
+coords: {'x1': 874, 'y1': 649, 'x2': 1036, 'y2': 752};
+text_identifier: { "resource-id" : "com.contextlogic.wish:id/cart_fragment_cart_items_item_row_quantity_dropdown" , "resource-id" : "com.contextlogic.wish:id/quantity_dropdown_constraint_layout" };
+event: click;

@@ -1,0 +1,4 @@
+pathToElementImageCrop: msToDo-duedate/S5/pngs/216_1026_1056_1091.png;
+coords: {'x1': 216, 'y1': 1026, 'x2': 1056, 'y2': 1091};
+text_identifier: { "content-desc" : "Add due date" , "resource-id" : "com.microsoft.todos:id/duedate_textview" };
+event: click;

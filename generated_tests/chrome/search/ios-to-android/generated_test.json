@@ -1,0 +1,35 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "chrome-search",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.android.chrome:id/search_box_text",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.android.chrome:id/url_bar",
+                "event": "send_keys_enter",
+                "input": "google.com"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.android.chrome:id/url_bar",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.android.chrome:id/url_bar",
+                "event": "send_keys_enter",
+                "input": "chess.com"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "Play Chess for Free"
+            }
+        ]
+    }
+}

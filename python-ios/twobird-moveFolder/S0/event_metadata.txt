@@ -1,0 +1,4 @@
+pathToElementImageCrop: twobird-moveFolder/S0/pngs/0.0_282.0_750.0_434.0.png;
+coords: {'x1': 0.0, 'y1': 282.0, 'x2': 750.0, 'y2': 434.0};
+text_identifier: { "label" : "Thread TestUser, finish setting up your new Google Account" };
+event: click;

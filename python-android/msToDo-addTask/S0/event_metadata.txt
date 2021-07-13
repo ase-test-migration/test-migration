@@ -1,0 +1,4 @@
+pathToElementImageCrop: msToDo-addTask/S0/pngs/891_2172_1038_2287.png;
+coords: {'x1': 891, 'y1': 2172, 'x2': 1038, 'y2': 2361};
+text_identifier: { "content-desc" : "Add a task" , "resource-id" : "com.microsoft.todos:id/new_todo_fab" };
+event: click;

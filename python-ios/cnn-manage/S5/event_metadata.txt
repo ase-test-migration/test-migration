@@ -1,0 +1,6 @@
+pathToElementImageCrop: ;
+coords: ;
+text_identifier: Find your saved articles and videos here;
+event: oracle;
+oracle-type: text_exists;
+input: Find your saved articles and videos here;

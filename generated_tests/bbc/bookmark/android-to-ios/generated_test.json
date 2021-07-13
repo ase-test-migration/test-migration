@@ -1,0 +1,23 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "bbc-bookmark",
+        "events": [
+            {
+                "type": "name",
+                "tag": "bn-cell-view",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "bn-cell-view",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Vertical scroll bar, 1 page",
+                "event": "click"
+            }
+        ]
+    }
+}

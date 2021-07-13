@@ -1,0 +1,4 @@
+pathToElementImageCrop: wish-wishlist/S1/pngs/231_239_457_295.png;
+coords: {'x1': 231, 'y1': 239, 'x2': 457, 'y2': 295};
+text_identifier: { "resource-id" : "com.contextlogic.wish:id/menu_profile_subtitle" };
+event: click;

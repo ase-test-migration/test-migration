@@ -1,0 +1,5 @@
+pathToElementImageCrop: edison-search/S1/pngs/198_171_1014_314.png;
+coords: {'x1': 198, 'y1': 171, 'x2': 1014, 'y2': 314};
+text_identifier: { "resource-id" : "com.easilydo.mail:id/email_search_toolbar_edittext" };
+event: send_keys;
+input: Testing 1;

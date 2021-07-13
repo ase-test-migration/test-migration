@@ -1,0 +1,4 @@
+pathToElementImageCrop: guardian_categories/S2/pngs/26.0_417.99999999999994_536.0_463.99999999999994.png;
+coords: {'x1': 26.0, 'y1': 417.99999999999994, 'x2': 536.0, 'y2': 463.99999999999994};
+text_identifier: { "name" : "Europe" };
+event: click;

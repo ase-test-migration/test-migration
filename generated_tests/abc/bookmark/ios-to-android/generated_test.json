@@ -1,0 +1,18 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "abc-bookmark",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.abc.abcnews:id/cinematic_related_container_one",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.abc.abcnews:id/interest_follow_bar_add_interest_button",
+                "event": "click"
+            }
+        ]
+    }
+}

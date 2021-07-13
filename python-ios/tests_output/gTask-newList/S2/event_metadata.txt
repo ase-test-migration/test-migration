@@ -1,0 +1,5 @@
+pathToElementImageCrop: gTask-newList/S2/pngs/32.0_152.0_718.0_280.0.png;
+coords: {'x1': 32.0, 'y1': 152.0, 'x2': 718.0, 'y2': 280.0};
+text_identifier: { "name" : "Done" };
+event: send_keys;
+input: Sample List;

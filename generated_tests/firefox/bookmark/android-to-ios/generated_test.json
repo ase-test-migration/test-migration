@@ -1,0 +1,44 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "firefox-bookmark",
+        "events": [
+            {
+                "type": "name",
+                "tag": "TabToolbar.multiStateButton",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "address",
+                "event": "send_keys_enter",
+                "input": "google.com"
+            },
+            {
+                "type": "name",
+                "tag": "TabToolbar.menuButton",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Close",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "TabToolbar.menuButton",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "menu-Home",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Google"
+            }
+        ]
+    }
+}

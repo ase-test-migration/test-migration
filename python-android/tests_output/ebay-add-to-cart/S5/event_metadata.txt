@@ -1,0 +1,5 @@
+pathToElementImageCrop: ebay-add-to-cart/S5/pngs/24_1173_1056_1353.png;
+coords: {'x1': 24, 'y1': 1173, 'x2': 1056, 'y2': 1353};
+text_identifier: {  };
+event: oracle;
+oracle-type: widget_exists;

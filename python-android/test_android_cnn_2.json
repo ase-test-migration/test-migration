@@ -1,0 +1,25 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "cnn-category",
+            "events": [
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//androidx.appcompat.app.a.c[@content-desc=\"World\"]/android.widget.TextView"
+                },
+                {
+                    "type": "id",
+                    "event": "oracle",
+                    "oracle-type": "widget_exists",
+                    "tag": "com.cnn.mobile.android.phone:id/item_feed_article_headline"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: brave-tab/S1/pngs/463_2016_617_2148.png;
+coords: {'x1': 463, 'y1': 2016, 'x2': 617, 'y2': 2148};
+text_identifier: { "content-desc" : "New tab" , "resource-id" : "com.brave.browser:id/bottom_new_tab_button" };
+event: click;

@@ -1,0 +1,5 @@
+pathToElementImageCrop: edison-send/S1/pngs/32.0_156.0_74.0_192.0.png;
+coords: {'x1': 32.0, 'y1': 156.0, 'x2': 74.0, 'y2': 192.0};
+text_identifier: { "label" : "To:" };
+event: send_keys_enter;
+input: email@example.com;

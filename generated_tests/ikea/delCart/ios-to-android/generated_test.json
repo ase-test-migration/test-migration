@@ -1,0 +1,23 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "ikea-delCart",
+        "events": [
+            {
+                "type": "xPath",
+                "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[2]/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[5]",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Help",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.ingka.ikea.app:id/reassurance_part_recycler_view",
+                "event": "click"
+            }
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "aliExpress-addCart",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.alibaba.aliexpresshd:id/hint_action",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.alibaba.aliexpresshd:id/close_btn",
+                "event": "click"
+            }
+        ]
+    }
+}

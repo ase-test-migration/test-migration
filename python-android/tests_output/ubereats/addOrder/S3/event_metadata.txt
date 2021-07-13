@@ -1,0 +1,4 @@
+pathToElementImageCrop: addOrder/S3/pngs/0_960_1080_1128.png;
+coords: {'x1': 0, 'y1': 960, 'x2': 1080, 'y2': 1128};
+text_identifier: { "content-desc" : "9" Personal" };
+event: click;

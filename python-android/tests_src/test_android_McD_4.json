@@ -1,0 +1,39 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "testMcDStoreList",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Start Order button"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.mcdonalds.app:id/details_icon"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "List view    Double tap to Activate"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//android.widget.FrameLayout[@content-desc=\"1071 Martin Luther King Jr Blvd  unfavorited store\"]/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.ImageView"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//android.widget.FrameLayout[@content-desc=\"1800 S Western Avenue  unfavorited store\"]/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.ImageView"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{ "text" : "" , "content-desc" : "Main navigation, notification is pending, open" , "resource-id" : "com.ebay.mobile:id/home" , "screenshotPath" : "ebay-filter/S0/pngs/0_74_147_221.png"}
+{ "text" : "" , "content-desc" : "Cart, 1 item, button." , "resource-id" : "com.ebay.mobile:id/menu_cart" , "screenshotPath" : "ebay-filter/S0/pngs/954_84_1080_210.png"}
+{ "text" : "Search for anything" , "content-desc" : "Search Keyword Search for anything" , "resource-id" : "com.ebay.mobile:id/search_box" , "screenshotPath" : "ebay-filter/S0/pngs/42_221_785_347.png"}
+{ "text" : "" , "content-desc" : "Voice search" , "resource-id" : "com.ebay.mobile:id/search_voice_btn" , "screenshotPath" : "ebay-filter/S0/pngs/785_221_911_347.png"}
+{ "text" : "" , "content-desc" : "Image search options" , "resource-id" : "com.ebay.mobile:id/search_image_btn" , "screenshotPath" : "ebay-filter/S0/pngs/911_221_1038_347.png"}
+{ "text" : "" , "resource-id" : "com.ebay.mobile:id/recycler_view_main" , "screenshotPath" : "ebay-filter/S0/pngs/0_368_1080_2200.png"}
+{ "text" : "" , "resource-id" : "com.ebay.mobile:id/recyclerview_items" , "screenshotPath" : "ebay-filter/S0/pngs/0_400_1080_589.png"}
+{ "text" : "" , "content-desc" : "Your Recently Viewed Items - Carousel" , "resource-id" : "com.ebay.mobile:id/home_container_header" , "screenshotPath" : "ebay-filter/S0/pngs/42_1100_1069_1171.png"}
+{ "text" : "" , "resource-id" : "com.ebay.mobile:id/recyclerview_items" , "screenshotPath" : "ebay-filter/S0/pngs/0_1203_1080_1980.png"}
+{ "text" : "" , "content-desc" : "Your Watched Items - Carousel" , "resource-id" : "com.ebay.mobile:id/home_container_header" , "screenshotPath" : "ebay-filter/S0/pngs/42_2012_1069_2083.png"}
+{ "text" : "" , "resource-id" : "com.ebay.mobile:id/recyclerview_items" , "screenshotPath" : "ebay-filter/S0/pngs/0_2115_1080_2200.png"}
+{ "text" : "Selling" , "resource-id" : "com.ebay.mobile:id/home_pill" , "screenshotPath" : "ebay-filter/S0/pngs/42_442_334_547.png"}
+{ "text" : "Deals" , "resource-id" : "com.ebay.mobile:id/home_pill" , "screenshotPath" : "ebay-filter/S0/pngs/355_442_627_547.png"}
+{ "text" : "Categories" , "resource-id" : "com.ebay.mobile:id/home_pill" , "screenshotPath" : "ebay-filter/S0/pngs/648_442_1022_547.png"}
+{ "text" : "Saved" , "resource-id" : "com.ebay.mobile:id/home_pill" , "screenshotPath" : "ebay-filter/S0/pngs/1043_442_1080_547.png"}
+{ "text" : "" , "resource-id" : "com.ebay.mobile:id/item_card_container" , "screenshotPath" : "ebay-filter/S0/pngs/42_1214_452_1896.png"}
+{ "text" : "" , "resource-id" : "com.ebay.mobile:id/item_card_container" , "screenshotPath" : "ebay-filter/S0/pngs/473_1214_883_1896.png"}
+{ "text" : "" , "resource-id" : "com.ebay.mobile:id/item_card_container" , "screenshotPath" : "ebay-filter/S0/pngs/904_1214_1080_1896.png"}
+{ "text" : "" , "resource-id" : "com.ebay.mobile:id/item_card_container" , "screenshotPath" : "ebay-filter/S0/pngs/42_2126_452_2200.png"}
+{ "text" : "" , "resource-id" : "com.ebay.mobile:id/item_card_container" , "screenshotPath" : "ebay-filter/S0/pngs/473_2126_883_2200.png"}
+{ "text" : "" , "resource-id" : "com.ebay.mobile:id/item_card_container" , "screenshotPath" : "ebay-filter/S0/pngs/904_2126_1080_2200.png"}
+{ "text" : "" , "content-desc" : "Prep for off-road adventure Parts and accessories for every ride. Upgrade now " , "resource-id" : "com.ebay.mobile:id/home_banner_heading_section" , "screenshotPath" : "ebay-filter/S0/pngs/84_642_996_984.png"}
+{ "text" : "Prep for off-road adventure" , "resource-id" : "com.ebay.mobile:id/home_banner_heading" , "screenshotPath" : "ebay-filter/S0/pngs/84_684_810_754.png"}
+{ "text" : "Upgrade now" , "resource-id" : "com.ebay.mobile:id/home_banner_call_to_action" , "screenshotPath" : "ebay-filter/S0/pngs/84_858_392_984.png"}

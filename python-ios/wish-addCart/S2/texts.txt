@@ -1,0 +1,30 @@
+{"name" : "Wish", "label" : "Wish", "screenshotPath" : "wish-addCart/S2/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "Cart", "screenshotPath" : "wish-addCart/S2/pngs/0.0_40.0_750.0_128.0.png"}
+{"name" : "closeDialogButton", "label" : "closeDialogButton", "screenshotPath" : "wish-addCart/S2/pngs/32.0_53.99999999999999_92.0_114.0.png"}
+{"value" : "Cart", "name" : "pageTitle", "label" : "Cart", "screenshotPath" : "wish-addCart/S2/pngs/338.0_60.00000000000001_412.0_108.0.png"}
+{"name" : "cartItemCell", "screenshotPath" : "wish-addCart/S2/pngs/0.0_220.0_750.0_482.0.png"}
+{"name" : "checkoutButton", "label" : "Checkout", "screenshotPath" : "wish-addCart/S2/pngs/32.0_1222.0_718.0_1302.0.png"}
+{"value" : "Items in Cart", "name" : "Items in Cart", "label" : "Items in Cart", "screenshotPath" : "wish-addCart/S2/pngs/32.0_160.0_206.0_198.0.png"}
+{"value" : "$184.00", "name" : "cartItemCrossedOutPrice", "label" : "$184.00", "screenshotPath" : "wish-addCart/S2/pngs/612.0_306.0_718.0_344.0.png"}
+{"value" : "Purple", "name" : "cartItemSizeColor", "label" : "Purple", "screenshotPath" : "wish-addCart/S2/pngs/192.0_306.0_580.0_338.0.png"}
+{"value" : "Shipping:  $4.00", "name" : "cartItemShipping", "label" : "Shipping:  $4.00", "screenshotPath" : "wish-addCart/S2/pngs/192.0_346.0_580.0_378.0.png"}
+{"value" : "Estimated delivery by Mar 14 - Mar 30", "name" : "cartItemShippingDate", "label" : "Estimated delivery by Mar 14 - Mar 30", "screenshotPath" : "wish-addCart/S2/pngs/192.0_386.0_580.0_450.0.png"}
+{"name" : "cartItemImage", "screenshotPath" : "wish-addCart/S2/pngs/32.0_252.0_160.0_384.0.png"}
+{"value" : "1 Pcs Ht801 Non-Contact Forehead Temperature Tool High Precision Thermometer", "name" : "cartItemNames", "label" : "1 Pcs Ht801 Non-Contact Forehead Temperature Tool High Precision Thermometer", "screenshotPath" : "wish-addCart/S2/pngs/192.0_252.0_580.0_290.0.png"}
+{"value" : "$12.00", "name" : "cartItemPrice", "label" : "$12.00", "screenshotPath" : "wish-addCart/S2/pngs/612.0_252.0_718.0_290.0.png"}
+{"value" : "1", "name" : "cartQuantityDropDown", "label" : "1", "screenshotPath" : "wish-addCart/S2/pngs/630.0_386.0_658.0_450.0.png"}
+{"value" : "Order Summary", "name" : "Order Summary", "label" : "Order Summary", "screenshotPath" : "wish-addCart/S2/pngs/32.0_514.0_247.99999999999997_552.0.png"}
+{"value" : "30 Day Free Return and Refund", "name" : "cartRefundPolicy", "label" : "30 Day Free Return and Refund", "screenshotPath" : "wish-addCart/S2/pngs/80.0_1108.0_718.0_1142.0.png"}
+{"value" : "Apply Promo", "name" : "Apply Promo", "label" : "Apply Promo", "screenshotPath" : "wish-addCart/S2/pngs/32.0_606.0_226.0_650.0.png"}
+{"value" : "Item Total", "name" : "cartSummaryTitleItemTotal", "label" : "Item Total", "screenshotPath" : "wish-addCart/S2/pngs/32.0_713.9999999999999_160.0_751.9999999999999.png"}
+{"value" : "$12.00", "name" : "cartSummaryAmountItemTotal", "label" : "$12.00", "screenshotPath" : "wish-addCart/S2/pngs/628.0_713.9999999999999_718.0_751.9999999999999.png"}
+{"value" : "Shipping", "name" : "cartSummaryTitleShipping", "label" : "Shipping", "screenshotPath" : "wish-addCart/S2/pngs/32.0_766.0_148.0_804.0.png"}
+{"value" : "$4.00", "name" : "cartSummaryAmountShipping", "label" : "$4.00", "screenshotPath" : "wish-addCart/S2/pngs/638.0_766.0_718.0_804.0.png"}
+{"value" : "Order Total", "name" : "cartSummaryTitleOrderTotal", "label" : "Order Total", "screenshotPath" : "wish-addCart/S2/pngs/32.0_820.0_180.0_858.0.png"}
+{"value" : "$16.00", "name" : "cartSummaryAmountOrderTotal", "label" : "$16.00", "screenshotPath" : "wish-addCart/S2/pngs/628.0_820.0_718.0_858.0.png"}
+{"value" : "Taxes included where applicable", "name" : "Taxes included where applicable", "label" : "Taxes included where applicable", "screenshotPath" : "wish-addCart/S2/pngs/32.0_872.0_718.0_906.0.png"}
+{"value" : "By tapping 'Checkout', you agree to the Terms of Use and Privacy Policy", "screenshotPath" : "wish-addCart/S2/pngs/32.0_968.0_718.0_1066.0.png"}
+{"value" : "Checkout", "name" : "Checkout", "label" : "Checkout", "screenshotPath" : "wish-addCart/S2/pngs/300.0_1240.0_450.0_1284.0.png"}
+{"name" : "By tapping 'Checkout', you agree to the Terms of Use and Privacy Policy", "label" : "By tapping 'Checkout', you agree to the Terms of Use and Privacy Policy", "screenshotPath" : "wish-addCart/S2/pngs/32.0_968.0_718.0_1042.0.png"}
+{"name" : "Terms of Use", "label" : "Terms of Use", "screenshotPath" : "wish-addCart/S2/pngs/484.0_968.0_634.0_1010.0.png"}
+{"name" : "Privacy Policy", "label" : "Privacy Policy", "screenshotPath" : "wish-addCart/S2/pngs/32.0_1008.0_188.0_1042.0.png"}

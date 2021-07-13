@@ -1,0 +1,160 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = My tasks\l|label = My tasks\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 407\l|width = 375\l|height = 260\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/0.0_814.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeNavigationBar\l|name = Мои_Дела.TaskEditView\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 451\l|width = 375\l|height = 216\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/0.0_902.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 8\l|y = 20\l|width = 32\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/16.0_40.0_80.0_128.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 74\l|y = 20\l|width = 227\l|height = 44\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/148.0_40.0_602.0_128.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeKeyboard\l|enabled = true\l|visible = true\l|x = 0\l|y = 451\l|width = 375\l|height = 216\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/0.0_902.0_750.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 74\l|y = 20\l|width = 227\l|height = 44\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/148.0_40.0_602.0_128.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 451\l|width = 375\l|height = 216\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/0.0_902.0_750.0_1334.0.png\l}"]
+	17	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 74\l|y = 20\l|width = 227\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/148.0_40.0_602.0_128.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 129\l|y = 30\l|width = 117\l|height = 24\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/258.0_60.00000000000001_492.0_108.0.png\l}"]
+	19	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 451\l|width = 375\l|height = 216\l|index = 0\l|numberOfChildren = 33\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/0.0_902.0_750.0_1334.0.png\l}"]
+	21	[label="{type = XCUIElementTypeStaticText\l|value = 8 February\l|name = 8 February\l|label = 8 February\l|enabled = true\l|visible = true\l|x = 129\l|y = 30\l|width = 78\l|height = 24\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/258.0_60.00000000000001_414.0_108.0.png\l}"]
+	22	[label="{type = XCUIElementTypeStaticText\l|value = 2021\l|name = 2021\l|label = 2021\l|enabled = true\l|visible = true\l|x = 211\l|y = 30\l|width = 35\l|height = 24\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/422.0_60.00000000000001_492.0_108.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 600\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/0.0_128.0_750.0_1328.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 2 pages\l|label = Vertical scroll bar, 2 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 64\l|width = 30\l|height = 343\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/684.0_128.0_744.0_813.9999999999999.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 374\l|width = 375\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/0.0_748.0_750.0_808.0.png\l}"]
+	26	[label="{type = XCUIElementTypeKey\l|name = Q\l|label = Q\l|enabled = true\l|visible = true\l|x = 0\l|y = 458\l|width = 38\l|height = 46\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/0.0_916.0_76.0_1008.0.png\l}"]
+	27	[label="{type = XCUIElementTypeKey\l|name = W\l|label = W\l|enabled = true\l|visible = true\l|x = 37\l|y = 458\l|width = 38\l|height = 46\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/74.0_916.0_150.0_1008.0.png\l}"]
+	28	[label="{type = XCUIElementTypeKey\l|name = E\l|label = E\l|enabled = true\l|visible = true\l|x = 75\l|y = 458\l|width = 38\l|height = 46\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/150.0_916.0_226.0_1008.0.png\l}"]
+	29	[label="{type = XCUIElementTypeKey\l|name = R\l|label = R\l|enabled = true\l|visible = true\l|x = 112\l|y = 458\l|width = 38\l|height = 46\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/224.00000000000003_916.0_300.0_1008.0.png\l}"]
+	30	[label="{type = XCUIElementTypeKey\l|name = T\l|label = T\l|enabled = true\l|visible = true\l|x = 150\l|y = 458\l|width = 38\l|height = 46\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/300.0_916.0_376.0_1008.0.png\l}"]
+	31	[label="{type = XCUIElementTypeKey\l|name = Y\l|label = Y\l|enabled = true\l|visible = true\l|x = 187\l|y = 458\l|width = 38\l|height = 46\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/374.0_916.0_450.0_1008.0.png\l}"]
+	32	[label="{type = XCUIElementTypeKey\l|name = U\l|label = U\l|enabled = true\l|visible = true\l|x = 225\l|y = 458\l|width = 38\l|height = 46\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/450.0_916.0_526.0_1008.0.png\l}"]
+	33	[label="{type = XCUIElementTypeKey\l|name = I\l|label = I\l|enabled = true\l|visible = true\l|x = 262\l|y = 458\l|width = 38\l|height = 46\l|index = 7\l|numberOfChildren = 0\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/524.0_916.0_600.0_1008.0.png\l}"]
+	34	[label="{type = XCUIElementTypeKey\l|name = O\l|label = O\l|enabled = true\l|visible = true\l|x = 300\l|y = 458\l|width = 38\l|height = 46\l|index = 8\l|numberOfChildren = 0\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/600.0_916.0_676.0_1008.0.png\l}"]
+	35	[label="{type = XCUIElementTypeKey\l|name = P\l|label = P\l|enabled = true\l|visible = true\l|x = 337\l|y = 458\l|width = 38\l|height = 46\l|index = 9\l|numberOfChildren = 0\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/674.0_916.0_750.0_1008.0.png\l}"]
+	36	[label="{type = XCUIElementTypeKey\l|name = A\l|label = A\l|enabled = true\l|visible = true\l|x = 18\l|y = 512\l|width = 38\l|height = 46\l|index = 10\l|numberOfChildren = 0\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/36.0_1024.0_112.0_1116.0.png\l}"]
+	37	[label="{type = XCUIElementTypeKey\l|name = S\l|label = S\l|enabled = true\l|visible = true\l|x = 56\l|y = 512\l|width = 38\l|height = 46\l|index = 11\l|numberOfChildren = 0\l|numInParentLayout = 11\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/112.00000000000001_1024.0_188.0_1116.0.png\l}"]
+	38	[label="{type = XCUIElementTypeKey\l|name = D\l|label = D\l|enabled = true\l|visible = true\l|x = 93\l|y = 512\l|width = 38\l|height = 46\l|index = 12\l|numberOfChildren = 0\l|numInParentLayout = 12\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/186.0_1024.0_262.0_1116.0.png\l}"]
+	39	[label="{type = XCUIElementTypeKey\l|name = F\l|label = F\l|enabled = true\l|visible = true\l|x = 131\l|y = 512\l|width = 38\l|height = 46\l|index = 13\l|numberOfChildren = 0\l|numInParentLayout = 13\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/262.0_1024.0_338.0_1116.0.png\l}"]
+	40	[label="{type = XCUIElementTypeKey\l|name = G\l|label = G\l|enabled = true\l|visible = true\l|x = 169\l|y = 512\l|width = 38\l|height = 46\l|index = 14\l|numberOfChildren = 0\l|numInParentLayout = 14\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/338.0_1024.0_414.0_1116.0.png\l}"]
+	41	[label="{type = XCUIElementTypeKey\l|name = H\l|label = H\l|enabled = true\l|visible = true\l|x = 206\l|y = 512\l|width = 38\l|height = 46\l|index = 15\l|numberOfChildren = 0\l|numInParentLayout = 15\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/412.0_1024.0_488.0_1116.0.png\l}"]
+	42	[label="{type = XCUIElementTypeKey\l|name = J\l|label = J\l|enabled = true\l|visible = true\l|x = 244\l|y = 512\l|width = 38\l|height = 46\l|index = 16\l|numberOfChildren = 0\l|numInParentLayout = 16\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/487.99999999999994_1024.0_564.0_1116.0.png\l}"]
+	43	[label="{type = XCUIElementTypeKey\l|name = K\l|label = K\l|enabled = true\l|visible = true\l|x = 281\l|y = 512\l|width = 38\l|height = 46\l|index = 17\l|numberOfChildren = 0\l|numInParentLayout = 17\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/562.0_1024.0_638.0_1116.0.png\l}"]
+	44	[label="{type = XCUIElementTypeKey\l|name = L\l|label = L\l|enabled = true\l|visible = true\l|x = 319\l|y = 512\l|width = 38\l|height = 46\l|index = 18\l|numberOfChildren = 0\l|numInParentLayout = 18\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/638.0_1024.0_714.0_1116.0.png\l}"]
+	45	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = shift\l|label = shift\l|enabled = true\l|visible = true\l|x = 0\l|y = 566\l|width = 48\l|height = 46\l|index = 19\l|numberOfChildren = 0\l|numInParentLayout = 19\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/0.0_1132.0_96.0_1224.0.png\l}"]
+	46	[label="{type = XCUIElementTypeKey\l|name = Z\l|label = Z\l|enabled = true\l|visible = true\l|x = 56\l|y = 566\l|width = 38\l|height = 46\l|index = 20\l|numberOfChildren = 0\l|numInParentLayout = 20\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/112.00000000000001_1132.0_188.0_1224.0.png\l}"]
+	47	[label="{type = XCUIElementTypeKey\l|name = X\l|label = X\l|enabled = true\l|visible = true\l|x = 93\l|y = 566\l|width = 38\l|height = 46\l|index = 21\l|numberOfChildren = 0\l|numInParentLayout = 21\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/186.0_1132.0_262.0_1224.0.png\l}"]
+	48	[label="{type = XCUIElementTypeKey\l|name = C\l|label = C\l|enabled = true\l|visible = true\l|x = 131\l|y = 566\l|width = 38\l|height = 46\l|index = 22\l|numberOfChildren = 0\l|numInParentLayout = 22\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/262.0_1132.0_338.0_1224.0.png\l}"]
+	49	[label="{type = XCUIElementTypeKey\l|name = V\l|label = V\l|enabled = true\l|visible = true\l|x = 169\l|y = 566\l|width = 38\l|height = 46\l|index = 23\l|numberOfChildren = 0\l|numInParentLayout = 23\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/338.0_1132.0_414.0_1224.0.png\l}"]
+	50	[label="{type = XCUIElementTypeKey\l|name = B\l|label = B\l|enabled = true\l|visible = true\l|x = 206\l|y = 566\l|width = 38\l|height = 46\l|index = 24\l|numberOfChildren = 0\l|numInParentLayout = 24\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/412.0_1132.0_488.0_1224.0.png\l}"]
+	51	[label="{type = XCUIElementTypeKey\l|name = N\l|label = N\l|enabled = true\l|visible = true\l|x = 244\l|y = 566\l|width = 38\l|height = 46\l|index = 25\l|numberOfChildren = 0\l|numInParentLayout = 25\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/487.99999999999994_1132.0_564.0_1224.0.png\l}"]
+	52	[label="{type = XCUIElementTypeKey\l|name = M\l|label = M\l|enabled = true\l|visible = true\l|x = 281\l|y = 566\l|width = 38\l|height = 46\l|index = 26\l|numberOfChildren = 0\l|numInParentLayout = 26\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/562.0_1132.0_638.0_1224.0.png\l}"]
+	53	[label="{type = XCUIElementTypeKey\l|name = delete\l|label = delete\l|enabled = true\l|visible = true\l|x = 327\l|y = 566\l|width = 48\l|height = 46\l|index = 27\l|numberOfChildren = 0\l|numInParentLayout = 27\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/654.0_1132.0_750.0_1224.0.png\l}"]
+	54	[label="{type = XCUIElementTypeKey\l|name = more\l|label = numbers\l|enabled = true\l|visible = true\l|x = 0\l|y = 620\l|width = 47\l|height = 46\l|index = 28\l|numberOfChildren = 0\l|numInParentLayout = 28\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/0.0_1240.0_94.0_1332.0.png\l}"]
+	55	[label="{type = XCUIElementTypeButton\l|name = Emoji\l|label = Emoji\l|enabled = true\l|visible = true\l|x = 46\l|y = 620\l|width = 48\l|height = 46\l|index = 29\l|numberOfChildren = 0\l|numInParentLayout = 29\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/92.0_1240.0_188.0_1332.0.png\l}"]
+	56	[label="{type = XCUIElementTypeButton\l|name = dictation\l|label = Dictate\l|enabled = true\l|visible = true\l|x = 93\l|y = 620\l|width = 38\l|height = 46\l|index = 30\l|numberOfChildren = 0\l|numInParentLayout = 30\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/186.0_1240.0_262.0_1332.0.png\l}"]
+	57	[label="{type = XCUIElementTypeKey\l|name = space\l|label = space\l|enabled = true\l|visible = true\l|x = 131\l|y = 620\l|width = 151\l|height = 46\l|index = 31\l|numberOfChildren = 0\l|numInParentLayout = 31\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/262.0_1240.0_564.0_1332.0.png\l}"]
+	58	[label="{type = XCUIElementTypeButton\l|name = Return\l|label = return\l|enabled = true\l|visible = true\l|x = 281\l|y = 620\l|width = 94\l|height = 46\l|index = 32\l|numberOfChildren = 0\l|numInParentLayout = 32\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/562.0_1240.0_750.0_1332.0.png\l}"]
+	59	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 80\l|width = 359\l|height = 72\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/16.0_160.0_734.0_304.0.png\l}"]
+	60	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 167\l|width = 375\l|height = 181\l|index = 1\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/0.0_334.0_750.0_696.0.png\l}"]
+	61	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 50\l|y = 96\l|width = 266\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/100.0_191.99999999999997_632.0_272.0.png\l}"]
+	62	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 324\l|y = 95\l|width = 35\l|height = 36\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/648.0_190.0_718.0_262.0.png\l}"]
+	63	[label="{type = XCUIElementTypeButton\l|name = checkbox unselected single sca\l|label = checkbox unselected single sca\l|enabled = true\l|visible = true\l|x = 20\l|y = 104\l|width = 18\l|height = 18\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/40.0_208.0_76.0_244.0.png\l}"]
+	64	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 167\l|width = 375\l|height = 61\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/0.0_334.0_750.0_456.0.png\l}"]
+	65	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 227\l|width = 375\l|height = 61\l|index = 1\l|numberOfChildren = 4\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/0.0_454.0_750.0_576.0.png\l}"]
+	66	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 287\l|width = 375\l|height = 61\l|index = 2\l|numberOfChildren = 4\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/0.0_574.0_750.0_696.0.png\l}"]
+	67	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 50\l|y = 96\l|width = 266\l|height = 40\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/100.0_191.99999999999997_632.0_272.0.png\l}"]
+	68	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 0\l|y = 167\l|width = 375\l|height = 60\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/0.0_334.0_750.0_454.0.png\l}"]
+	69	[label="{type = XCUIElementTypeStaticText\l|value = Specify time\l|name = Specify time\l|label = Specify time\l|enabled = true\l|visible = true\l|x = 20\l|y = 187\l|width = 86\l|height = 21\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/40.0_374.0_212.0_416.0.png\l}"]
+	70	[label="{type = XCUIElementTypeSwitch\l|value = 0\l|enabled = true\l|visible = true\l|x = 306\l|y = 182\l|width = 51\l|height = 31\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/612.0_363.99999999999994_714.0_425.99999999999994.png\l}"]
+	71	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 226\l|width = 335\l|height = 2\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/40.0_451.99999999999994_710.0_455.99999999999994.png\l}"]
+	72	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 0\l|y = 227\l|width = 375\l|height = 60\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/0.0_454.0_750.0_574.0.png\l}"]
+	73	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 286\l|width = 335\l|height = 2\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/40.0_572.0_710.0_576.0.png\l}"]
+	74	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 0\l|y = 287\l|width = 375\l|height = 60\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/0.0_574.0_750.0_694.0.png\l}"]
+	75	[label="{type = XCUIElementTypeTextView\l|enabled = true\l|visible = true\l|x = 50\l|y = 96\l|width = 266\l|height = 40\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = mytasks-add/S1/pngs/100.0_191.99999999999997_632.0_272.0.png\l}"]
+
+
+	0 -> 1
+	0 -> 2
+	1 -> 3
+	2 -> 4
+	3 -> 5
+	4 -> 6
+	5 -> 7
+	5 -> 8
+	6 -> 9
+	7 -> 10
+	7 -> 11
+	8 -> 12
+	9 -> 13
+	11 -> 14
+	12 -> 15
+	13 -> 16
+	14 -> 17
+	14 -> 18
+	15 -> 19
+	16 -> 20
+	18 -> 21
+	18 -> 22
+	19 -> 23
+	19 -> 24
+	19 -> 25
+	20 -> 26
+	20 -> 27
+	20 -> 28
+	20 -> 29
+	20 -> 30
+	20 -> 31
+	20 -> 32
+	20 -> 33
+	20 -> 34
+	20 -> 35
+	20 -> 36
+	20 -> 37
+	20 -> 38
+	20 -> 39
+	20 -> 40
+	20 -> 41
+	20 -> 42
+	20 -> 43
+	20 -> 44
+	20 -> 45
+	20 -> 46
+	20 -> 47
+	20 -> 48
+	20 -> 49
+	20 -> 50
+	20 -> 51
+	20 -> 52
+	20 -> 53
+	20 -> 54
+	20 -> 55
+	20 -> 56
+	20 -> 57
+	20 -> 58
+	23 -> 59
+	23 -> 60
+	59 -> 61
+	59 -> 62
+	59 -> 63
+	60 -> 64
+	60 -> 65
+	60 -> 66
+	61 -> 67
+	64 -> 68
+	64 -> 69
+	64 -> 70
+	64 -> 71
+	65 -> 72
+	65 -> 73
+	66 -> 74
+	67 -> 75
+
+
+}

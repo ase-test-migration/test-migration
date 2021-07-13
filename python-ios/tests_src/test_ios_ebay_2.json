@@ -1,0 +1,27 @@
+{
+    "tests": [
+        {
+            "name": "testEbayBuy", 
+            "events": [
+                {
+                    "tag": "Antique Chinese Silver Coral Dangle Double Sided Bat Basket Pendant Chatelaine, $175.00, or Best Offer, $8.00 shipping", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "button_bin", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+          "platformName": "iOS",
+          "platformVersion": "13.3.1",
+          "deviceName": "Someone's iPhone",
+          "udid": "auto",
+          "xcodeOrgId": "X9EN5J4J22",
+          "xcodeSigningId": "iPhone Developer"
+    }
+}

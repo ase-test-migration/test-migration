@@ -1,0 +1,38 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Etsy\l|label = Etsy\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-login/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-login/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-login/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-login/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 343\l|width = 374\l|height = 210\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-login/S2/pngs/60.0_1029.0_1182.0_1659.0.png\l}"]
+	5	[label="{type = XCUIElementTypeStaticText\l|value = Sign into Etsy\l|name = Sign into Etsy\l|label = Sign into Etsy\l|enabled = true\l|visible = true\l|x = 50\l|y = 359\l|width = 314\l|height = 18\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-login/S2/pngs/150.0_1077.0_1092.0_1131.0.png\l}"]
+	6	[label="{type = XCUIElementTypeButton\l|name = Continue with Facebook\l|label = Continue with Facebook\l|enabled = true\l|visible = true\l|x = 32\l|y = 393\l|width = 350\l|height = 44\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-login/S2/pngs/96.0_1179.0_1146.0_1311.0.png\l}"]
+	7	[label="{type = XCUIElementTypeButton\l|name = Continue with Google\l|label = Continue with Google\l|enabled = true\l|visible = true\l|x = 32\l|y = 445\l|width = 350\l|height = 44\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-login/S2/pngs/96.0_1335.0_1146.0_1467.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 32\l|y = 497\l|width = 350\l|height = 44\l|numberOfChildren = 2\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-login/S2/pngs/96.0_1491.0_1146.0_1623.0.png\l}"]
+	9	[label="{type = XCUIElementTypeStaticText\l|value = Continue with Facebook\l|name = Continue with Facebook\l|label = Continue with Facebook\l|enabled = true\l|visible = true\l|x = 129\l|y = 406\l|width = 188\l|height = 18\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-login/S2/pngs/387.0_1218.0_951.0_1272.0.png\l}"]
+	10	[label="{type = XCUIElementTypeStaticText\l|value = Continue with Google\l|name = Continue with Google\l|label = Continue with Google\l|enabled = true\l|visible = true\l|x = 139\l|y = 458\l|width = 168\l|height = 18\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-login/S2/pngs/417.0_1374.0_921.0_1428.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|name = Register\l|label = Register\l|enabled = true\l|visible = true\l|x = 32\l|y = 497\l|width = 171\l|height = 44\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-login/S2/pngs/96.0_1491.0_609.0_1623.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|name = Sign In\l|label = Sign In\l|enabled = true\l|visible = true\l|x = 211\l|y = 497\l|width = 171\l|height = 44\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = true \l|screenshotPath = etsy-login/S2/pngs/633.0_1491.0_1146.0_1623.0.png\l}"]
+	13	[label="{type = XCUIElementTypeStaticText\l|value = Register\l|name = Register\l|label = Register\l|enabled = true\l|visible = true\l|x = 85\l|y = 510\l|width = 65\l|height = 18\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-login/S2/pngs/255.0_1530.0_450.0_1584.0.png\l}"]
+	14	[label="{type = XCUIElementTypeStaticText\l|value = Sign In\l|name = Sign In\l|label = Sign In\l|enabled = true\l|visible = true\l|x = 269\l|y = 510\l|width = 55\l|height = 18\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-login/S2/pngs/807.0_1530.0_972.0_1584.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	4 -> 7
+	4 -> 8
+	6 -> 9
+	7 -> 10
+	8 -> 11
+	8 -> 12
+	11 -> 13
+	12 -> 14
+
+
+}

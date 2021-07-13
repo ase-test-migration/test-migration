@@ -1,0 +1,8 @@
+{ "content-desc" : "Home" , "resource-id" : "com.cnn.mobile.android.phone:id/home_item_menu" , "screenshotPath" : "cnn-search/S1/pngs/0_1608_216_1776.png"}
+{ "content-desc" : "Audio" , "resource-id" : "com.cnn.mobile.android.phone:id/audio_item_menu" , "screenshotPath" : "cnn-search/S1/pngs/216_1608_432_1776.png"}
+{ "content-desc" : "Search" , "resource-id" : "com.cnn.mobile.android.phone:id/search_item_menu" , "screenshotPath" : "cnn-search/S1/pngs/432_1608_648_1776.png"}
+{ "content-desc" : "Saved Stories" , "resource-id" : "com.cnn.mobile.android.phone:id/saved_story_item_menu" , "screenshotPath" : "cnn-search/S1/pngs/648_1608_864_1776.png"}
+{ "content-desc" : "Preferences" , "resource-id" : "com.cnn.mobile.android.phone:id/settings_item_menu" , "screenshotPath" : "cnn-search/S1/pngs/864_1608_1080_1776.png"}
+{ "content-desc" : "Cancel" , "screenshotPath" : "cnn-search/S1/pngs/867_286_1050_351.png"}
+{ "content-desc" : " 
+ search text input" , "screenshotPath" : "cnn-search/S1/pngs/135_264_846_372.png"}

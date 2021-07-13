@@ -1,0 +1,11 @@
+{ "content-desc" : "Up navigation button" , "resource-id" : "com.usatoday.android.news:id/image_search_back" , "screenshotPath" : "usa-search/S3/pngs/0_75_144_243.png"}
+{ "resource-id" : "com.usatoday.android.news:id/edit_text_search" , "screenshotPath" : "usa-search/S3/pngs/144_75_936_243.png"}
+{ "content-desc" : "Cancel" , "resource-id" : "com.usatoday.android.news:id/clear_search" , "screenshotPath" : "usa-search/S3/pngs/936_75_1080_243.png"}
+{ "resource-id" : "com.usatoday.android.news:id/search_results" , "screenshotPath" : "usa-search/S3/pngs/0_243_1080_1773.png"}
+{ "resource-id" : "com.usatoday.android.news:id/section_tabs_recycler" , "screenshotPath" : "usa-search/S3/pngs/0_349_1080_522.png"}
+{ "content-desc" : "Save unchecked EU sets out virus pass plan to allow free travel by summer" , "resource-id" : "com.usatoday.android.news:id/icon_1" , "screenshotPath" : "usa-search/S3/pngs/60_950_132_1022.png"}
+{ "content-desc" : "Share" , "resource-id" : "com.usatoday.android.news:id/icon_2" , "screenshotPath" : "usa-search/S3/pngs/201_950_267_1016.png"}
+{ "content-desc" : "Save unchecked Jokic, Nuggets beat travel-weary Pacers 121-106" , "resource-id" : "com.usatoday.android.news:id/icon_1" , "screenshotPath" : "usa-search/S3/pngs/60_1335_132_1407.png"}
+{ "content-desc" : "Share" , "resource-id" : "com.usatoday.android.news:id/icon_2" , "screenshotPath" : "usa-search/S3/pngs/201_1335_267_1401.png"}
+{ "content-desc" : "Save unchecked Hawaii sees busiest travel day since start of pandemic in US" , "resource-id" : "com.usatoday.android.news:id/icon_1" , "screenshotPath" : "usa-search/S3/pngs/60_1720_132_1773.png"}
+{ "content-desc" : "Share" , "resource-id" : "com.usatoday.android.news:id/icon_2" , "screenshotPath" : "usa-search/S3/pngs/201_1720_267_1773.png"}

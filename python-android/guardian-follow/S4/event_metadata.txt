@@ -1,0 +1,5 @@
+pathToElementImageCrop: guardian-follow/S4/pngs/99_778_509_827.png;
+coords: {'x1': 99, 'y1': 778, 'x2': 509, 'y2': 827};
+text_identifier: { "resource-id" : "com.guardian:id/tvFollowText" };
+event: oracle;
+oracle-type: widget_exists;

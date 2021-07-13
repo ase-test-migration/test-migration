@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-bid/S4/pngs/63_858_399_962.png;
+coords: {'x1': 63, 'y1': 858, 'x2': 399, 'y2': 962};
+text_identifier: { "resource-id" : "com.ebay.mobile:id/textview_item_title" };
+event: click;

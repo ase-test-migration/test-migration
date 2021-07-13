@@ -1,0 +1,4 @@
+pathToElementImageCrop: rateOrder/S0/pngs/540_1608_810_1776.png;
+coords: {'x1': 540, 'y1': 1608, 'x2': 810, 'y2': 1848};
+text_identifier: { "content-desc" : "Orders" };
+event: click;

@@ -1,0 +1,5 @@
+pathToElementImageCrop: etsy-login/S3/pngs/48.0_390.00000000000006_1194.0_531.0.png;
+coords: {'x1': 48.0, 'y1': 390.00000000000006, 'x2': 1194.0, 'y2': 531.0};
+text_identifier: { "name" : "Don't have an account? Sign up" };
+event: send_keys;
+input: email@example.com;

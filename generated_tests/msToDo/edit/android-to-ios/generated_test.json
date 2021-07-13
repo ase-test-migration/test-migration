@@ -1,0 +1,59 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "msToDo-edit",
+        "events": [
+            {
+                "type": "name",
+                "tag": "My Day, Smart list, 1 of 5, 0 uncompleted tasks",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "screenreader_task_add_task_field",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "screenreader_task_add_task_field",
+                "event": "send_keys_enter",
+                "input": "Mytask"
+            },
+            {
+                "type": "name",
+                "tag": "screenreader_task_add_task_field",
+                "event": "oracle-assert_equal",
+                "attribute": "label",
+                "value": "Mytask"
+            },
+            {
+                "type": "name",
+                "tag": "screenreader_task_add_task_field",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "screenreader_task_add_task_field",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "screenreader_task_add_task_field",
+                "event": "send_keys_enter",
+                "input": "Editedtask"
+            },
+            {
+                "type": "name",
+                "tag": "Remind me",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Keep track of everything",
+                "event": "oracle-assert_equal",
+                "attribute": "label",
+                "value": "Editedtask"
+            }
+        ]
+    }
+}

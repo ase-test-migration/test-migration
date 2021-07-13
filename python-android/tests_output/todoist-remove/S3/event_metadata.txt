@@ -1,0 +1,4 @@
+pathToElementImageCrop: todoist-remove/S3/pngs/788_1159_964_1291.png;
+coords: {'x1': 788, 'y1': 1159, 'x2': 964, 'y2': 1291};
+text_identifier: { "resource-id" : "android:id/button1" };
+event: click;

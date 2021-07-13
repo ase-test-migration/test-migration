@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "msToDo-addTask",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "Add a task",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.microsoft.todos:id/create_task_edit_text",
+                "event": "send_keys",
+                "input": "Test01"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.microsoft.todos:id/tasks_recycler_view",
+                "event": "click"
+            }
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = CNN\l|label = CNN\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 2\l|screenshotPath = pngs/search_cnn_0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 1\l|numInParentLayout = 0\l|screenshotPath = pngs/search_cnn_0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 1\l|numInParentLayout = 0\l|screenshotPath = pngs/search_cnn_0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 1\l|numInParentLayout = 0\l|screenshotPath = pngs/search_cnn_0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 5\l|numInParentLayout = 0\l|screenshotPath = pngs/search_cnn_0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 407\l|height = 366\l|numberOfChildren = 0\l|numInParentLayout = 3\l|screenshotPath = pngs/search_cnn_0.0_0.0_814.0_732.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 1\l|numInParentLayout = 4\l|screenshotPath = pngs/search_cnn_0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 1\l|numInParentLayout = 0\l|screenshotPath = pngs/search_cnn_0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 2\l|numInParentLayout = 0\l|screenshotPath = pngs/search_cnn_0.0_0.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 1\l|numInParentLayout = 0\l|screenshotPath = pngs/search_cnn_0.0_0.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeTabBar\l|enabled = true\l|visible = true\l|x = 0\l|y = 618\l|width = 375\l|height = 49\l|numberOfChildren = 4\l|numInParentLayout = 1\l|screenshotPath = pngs/search_cnn_0.0_1236.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 1\l|numInParentLayout = 0\l|screenshotPath = pngs/search_cnn_0.0_0.0_750.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|name = Home\l|label = Home\l|enabled = true\l|visible = true\l|x = 2\l|y = 619\l|width = 90\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 0\l|screenshotPath = pngs/search_cnn_4.0_1238.0_184.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = Search\l|label = Search\l|enabled = true\l|visible = true\l|x = 96\l|y = 619\l|width = 90\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 1\l|screenshotPath = pngs/search_cnn_192.0_1238.0_372.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeButton\l|name = Saved Stories\l|label = Saved Stories\l|enabled = true\l|visible = true\l|x = 190\l|y = 619\l|width = 89\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 2\l|screenshotPath = pngs/search_cnn_380.00000000000006_1238.0_558.0_1334.0.png\l}"]
+	15	[label="{type = XCUIElementTypeButton\l|name = Settings\l|label = Settings\l|enabled = true\l|visible = true\l|x = 283\l|y = 619\l|width = 90\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 3\l|screenshotPath = pngs/search_cnn_566.0_1238.0_746.0_1334.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 2\l|numInParentLayout = 0\l|screenshotPath = pngs/search_cnn_0.0_0.0_750.0_1334.0.png\l}"]
+	17	[label="{type = XCUIElementTypeNavigationBar\l|name = Search\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|numberOfChildren = 2\l|numInParentLayout = 0\l|screenshotPath = pngs/search_cnn_0.0_40.0_750.0_128.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 1\l|numInParentLayout = 1\l|screenshotPath = pngs/search_cnn_0.0_0.0_750.0_1334.0.png\l}"]
+	19	[label="{type = XCUIElementTypeButton\l|name = Cast\l|label = Cast\l|enabled = true\l|visible = true\l|x = 16\l|y = 30\l|width = 24\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 0\l|screenshotPath = pngs/search_cnn_32.0_60.00000000000001_80.0_108.0.png\l}"]
+	20	[label="{type = XCUIElementTypeStaticText\l|value = Search\l|name = Search\l|label = Search\l|enabled = true\l|visible = true\l|x = 157\l|y = 30\l|width = 61\l|height = 25\l|numberOfChildren = 0\l|numInParentLayout = 1\l|screenshotPath = pngs/search_cnn_314.0_60.00000000000001_436.0_110.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 1\l|numInParentLayout = 0\l|screenshotPath = pngs/search_cnn_0.0_0.0_750.0_1334.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 554\l|numberOfChildren = 1\l|numInParentLayout = 0\l|screenshotPath = pngs/search_cnn_0.0_128.0_750.0_1236.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|name =    search text input Cancel Recent Searches Clear Recent Searches qqwereq   search result Hdhjdt   search result Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|label =    search text input Cancel Recent Searches Clear Recent Searches qqwereq   search result Hdhjdt   search result Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 554\l|numberOfChildren = 1\l|numInParentLayout = 0\l|screenshotPath = pngs/search_cnn_0.0_128.0_750.0_1236.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|name =    search text input Cancel Recent Searches Clear Recent Searches qqwereq   search result Hdhjdt   search result Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|label =    search text input Cancel Recent Searches Clear Recent Searches qqwereq   search result Hdhjdt   search result Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 554\l|numberOfChildren = 1\l|numInParentLayout = 0\l|screenshotPath = pngs/search_cnn_0.0_128.0_750.0_1236.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|name =    search text input Cancel Recent Searches Clear Recent Searches qqwereq   search result Hdhjdt   search result Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|label =    search text input Cancel Recent Searches Clear Recent Searches qqwereq   search result Hdhjdt   search result Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 554\l|numberOfChildren = 1\l|numInParentLayout = 0\l|screenshotPath = pngs/search_cnn_0.0_128.0_750.0_1236.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|name =    search text input Cancel Recent Searches Clear Recent Searches qqwereq   search result Hdhjdt   search result Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|label =    search text input Cancel Recent Searches Clear Recent Searches qqwereq   search result Hdhjdt   search result Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 554\l|numberOfChildren = 2\l|numInParentLayout = 0\l|screenshotPath = pngs/search_cnn_0.0_128.0_750.0_1236.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|name =    search text input Cancel\l|label =    search text input Cancel\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 56\l|numberOfChildren = 2\l|numInParentLayout = 0\l|screenshotPath = pngs/search_cnn_0.0_128.0_750.0_240.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|name = Recent Searches Clear Recent Searches qqwereq   search result Hdhjdt   search result Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|label = Recent Searches Clear Recent Searches qqwereq   search result Hdhjdt   search result Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 120\l|width = 375\l|height = 498\l|numberOfChildren = 2\l|numInParentLayout = 1\l|screenshotPath = pngs/search_cnn_0.0_240.00000000000003_750.0_1236.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|name =    search text input\l|label =    search text input\l|enabled = true\l|visible = true\l|x = 17\l|y = 74\l|width = 284\l|height = 36\l|numberOfChildren = 2\l|numInParentLayout = 0\l|screenshotPath = pngs/search_cnn_34.0_148.0_602.0_220.0.png\l}"]
+	30	[label="{type = XCUIElementTypeButton\l|name = cancel\l|label = Cancel\l|enabled = true\l|visible = true\l|x = 301\l|y = 80\l|width = 64\l|height = 24\l|numberOfChildren = 0\l|numInParentLayout = 1\l|screenshotPath = pngs/search_cnn_602.0_160.0_730.0_208.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|name = Recent Searches Clear Recent Searches\l|label = Recent Searches Clear Recent Searches\l|enabled = true\l|visible = true\l|x = 0\l|y = 120\l|width = 375\l|height = 43\l|numberOfChildren = 2\l|numInParentLayout = 0\l|screenshotPath = pngs/search_cnn_0.0_240.00000000000003_750.0_326.00000000000006.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|name = qqwereq   search result Hdhjdt   search result Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|label = qqwereq   search result Hdhjdt   search result Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 162\l|width = 375\l|height = 456\l|numberOfChildren = 1\l|numInParentLayout = 1\l|screenshotPath = pngs/search_cnn_0.0_324.0_750.0_1236.0.png\l}"]
+	33	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 24\l|y = 84\l|width = 16\l|height = 16\l|numberOfChildren = 0\l|numInParentLayout = 0\l|screenshotPath = pngs/search_cnn_48.0_168.0_80.0_200.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|name =    search text input\l|label =    search text input\l|enabled = true\l|visible = true\l|x = 45\l|y = 82\l|width = 249\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 1\l|screenshotPath = pngs/search_cnn_90.0_164.0_588.0_204.0.png\l}"]
+	35	[label="{type = XCUIElementTypeStaticText\l|value = Recent Searches\l|name = title\l|label = Recent Searches\l|enabled = true\l|visible = true\l|x = 18\l|y = 132\l|width = 232\l|height = 21\l|numberOfChildren = 0\l|numInParentLayout = 0\l|screenshotPath = pngs/search_cnn_36.0_264.0_500.0_306.0.png\l}"]
+	36	[label="{type = XCUIElementTypeButton\l|name = Clear Recent Searches\l|label = Clear Recent Searches\l|enabled = true\l|visible = true\l|x = 249\l|y = 130\l|width = 116\l|height = 23\l|numberOfChildren = 0\l|numInParentLayout = 1\l|screenshotPath = pngs/search_cnn_498.0_260.0_730.0_306.0.png\l}"]
+	37	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 162\l|width = 375\l|height = 456\l|numberOfChildren = 3\l|numInParentLayout = 0\l|screenshotPath = pngs/search_cnn_0.0_324.0_750.0_1236.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|name = qqwereq   search result Hdhjdt   search result\l|label = qqwereq   search result Hdhjdt   search result\l|enabled = true\l|visible = true\l|x = 0\l|y = 162\l|width = 375\l|height = 89\l|numberOfChildren = 2\l|numInParentLayout = 0\l|screenshotPath = pngs/search_cnn_0.0_324.0_750.0_502.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|name = qqwereq   search result\l|label = qqwereq   search result\l|enabled = true\l|visible = true\l|x = 0\l|y = 162\l|width = 375\l|height = 45\l|numberOfChildren = 1\l|numInParentLayout = 0\l|screenshotPath = pngs/search_cnn_0.0_324.0_750.0_414.0.png\l}"]
+	40	[label="{type = XCUIElementTypeOther\l|name = Hdhjdt   search result\l|label = Hdhjdt   search result\l|enabled = true\l|visible = true\l|x = 0\l|y = 206\l|width = 375\l|height = 45\l|numberOfChildren = 1\l|numInParentLayout = 1\l|screenshotPath = pngs/search_cnn_0.0_412.00000000000006_750.0_502.00000000000006.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|name = qqwereq   search result\l|label = qqwereq   search result\l|enabled = true\l|visible = true\l|x = 0\l|y = 162\l|width = 375\l|height = 45\l|numberOfChildren = 0\l|numInParentLayout = 0\l|screenshotPath = pngs/search_cnn_0.0_324.0_750.0_414.0.png\l}"]
+	42	[label="{type = XCUIElementTypeOther\l|name = Hdhjdt   search result\l|label = Hdhjdt   search result\l|enabled = true\l|visible = true\l|x = 0\l|y = 206\l|width = 375\l|height = 45\l|numberOfChildren = 0\l|numInParentLayout = 0\l|screenshotPath = pngs/search_cnn_0.0_412.00000000000006_750.0_502.00000000000006.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	6 -> 7
+	7 -> 8
+	8 -> 9
+	8 -> 10
+	9 -> 11
+	10 -> 12
+	10 -> 13
+	10 -> 14
+	10 -> 15
+	11 -> 16
+	16 -> 17
+	16 -> 18
+	17 -> 19
+	17 -> 20
+	18 -> 21
+	21 -> 22
+	22 -> 23
+	23 -> 24
+	24 -> 25
+	25 -> 26
+	26 -> 27
+	26 -> 28
+	27 -> 29
+	27 -> 30
+	28 -> 31
+	28 -> 32
+	29 -> 33
+	29 -> 34
+	31 -> 35
+	31 -> 36
+	32 -> 37
+	37 -> 38
+	38 -> 39
+	38 -> 40
+	39 -> 41
+	40 -> 42
+
+
+}

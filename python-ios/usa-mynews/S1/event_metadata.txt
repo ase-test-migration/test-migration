@@ -1,0 +1,4 @@
+pathToElementImageCrop: usa-mynews/S1/pngs/429.0_2283.0_813.0_2370.0.png;
+coords: {'x1': 429.0, 'y1': 2283.0, 'x2': 813.0, 'y2': 2370.0};
+text_identifier: { "label" : "See Suggested Topics" };
+event: click;

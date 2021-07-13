@@ -1,0 +1,39 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "gtasks-edit",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Edit, Not starred",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Task title",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Task title",
+                "event": "send_keys_enter",
+                "input": "test"
+            },
+            {
+                "type": "name",
+                "tag": "back_bar_button",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "test"
+            },
+            {
+                "event": "oracle",
+                "type": "text_invisible",
+                "input": "Edit"
+            }
+        ]
+    }
+}

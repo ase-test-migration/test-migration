@@ -1,0 +1,4 @@
+pathToElementImageCrop: gtasks-dueDate/S3/pngs/705_1561_947_1693.png;
+coords: {'x1': 705, 'y1': 1561, 'x2': 947, 'y2': 1693};
+text_identifier: { "resource-id" : "android:id/button1" };
+event: click;

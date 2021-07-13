@@ -1,0 +1,4 @@
+pathToElementImageCrop: guardian-follow/S2/pngs/99_778_454_827.png;
+coords: {'x1': 99, 'y1': 778, 'x2': 454, 'y2': 827};
+text_identifier: { "resource-id" : "com.guardian:id/tvFollowText" };
+event: click;

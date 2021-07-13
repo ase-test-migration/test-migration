@@ -1,0 +1,4 @@
+pathToElementImageCrop: duckduckgo-tab/S0/pngs/882_215_948_281.png;
+coords: {'x1': 882, 'y1': 215, 'x2': 948, 'y2': 281};
+text_identifier: { "resource-id" : "com.duckduckgo.mobile.android:id/tabCount" };
+event: click;

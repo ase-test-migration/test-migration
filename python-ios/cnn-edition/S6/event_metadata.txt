@@ -1,0 +1,7 @@
+pathToElementImageCrop: cnn-edition/S6/pngs/846.0_386.99999999999994_1143.0_455.99999999999994.png;
+coords: {'x1': 846.0, 'y1': 386.99999999999994, 'x2': 1143.0, 'y2': 455.99999999999994};
+text_identifier: { "label" : "International" };
+event: oracle;
+oracle-type: assert_equal;
+attribute: label;
+value: International;

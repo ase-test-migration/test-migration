@@ -1,0 +1,23 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "python-android",
+        "events": [
+            {
+                "type": "name",
+                "tag": "kToolbarStackButtonIdentifier",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Create new tab.",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Google"
+            }
+        ]
+    }
+}

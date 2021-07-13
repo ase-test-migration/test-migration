@@ -1,0 +1,164 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Spark\l|label = Spark\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 334\l|height = 667\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/0.0_0.0_668.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 334\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/0.0_0.0_668.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 334\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/0.0_0.0_668.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 4\l|y = 0\l|width = 326\l|height = 615\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_0.0_660.0_1230.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|name = Settings\l|enabled = true\l|visible = true\l|x = 0\l|y = 615\l|width = 334\l|height = 52\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/0.0_1230.0_668.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 4\l|y = 0\l|width = 326\l|height = 615\l|index = 0\l|numberOfChildren = 14\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_0.0_660.0_1230.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 615\l|width = 334\l|height = 51\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/0.0_1230.0_668.0_1332.0.png\l}"]
+	15	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 4\l|y = 0\l|width = 326\l|height = 21\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_0.0_660.0_42.0.png\l}"]
+	16	[label="{type = XCUIElementTypeCell\l|name = Inbox\l|enabled = true\l|visible = true\l|x = 4\l|y = 21\l|width = 326\l|height = 52\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_42.0_660.0_146.0.png\l}"]
+	17	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 4\l|y = 73\l|width = 326\l|height = 40\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_146.0_660.0_226.0.png\l}"]
+	18	[label="{type = XCUIElementTypeCell\l|name = Sent\l|enabled = true\l|visible = true\l|x = 4\l|y = 113\l|width = 326\l|height = 48\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_225.99999999999997_660.0_321.99999999999994.png\l}"]
+	19	[label="{type = XCUIElementTypeCell\l|name = Drafts\l|enabled = true\l|visible = true\l|x = 4\l|y = 161\l|width = 326\l|height = 48\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_322.0_660.0_418.0.png\l}"]
+	20	[label="{type = XCUIElementTypeCell\l|name = Pins\l|enabled = true\l|visible = true\l|x = 4\l|y = 209\l|width = 326\l|height = 48\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_417.99999999999994_660.0_513.9999999999999.png\l}"]
+	21	[label="{type = XCUIElementTypeCell\l|name = Archive\l|enabled = true\l|visible = true\l|x = 4\l|y = 257\l|width = 326\l|height = 48\l|index = 6\l|numberOfChildren = 1\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_514.0_660.0_610.0.png\l}"]
+	22	[label="{type = XCUIElementTypeCell\l|name = Trash\l|enabled = true\l|visible = true\l|x = 4\l|y = 305\l|width = 326\l|height = 48\l|index = 7\l|numberOfChildren = 1\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_610.0_660.0_706.0.png\l}"]
+	23	[label="{type = XCUIElementTypeCell\l|name = Important\l|enabled = true\l|visible = true\l|x = 4\l|y = 353\l|width = 326\l|height = 48\l|index = 8\l|numberOfChildren = 1\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_706.0_660.0_802.0.png\l}"]
+	24	[label="{type = XCUIElementTypeCell\l|name = edit-sidebar-list\l|enabled = true\l|visible = true\l|x = 4\l|y = 401\l|width = 326\l|height = 48\l|index = 9\l|numberOfChildren = 1\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_802.0_660.0_898.0.png\l}"]
+	25	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 4\l|y = 449\l|width = 326\l|height = 28\l|index = 10\l|numberOfChildren = 1\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_898.0_660.0_954.0.png\l}"]
+	26	[label="{type = XCUIElementTypeCell\l|name = email@example.com\l|enabled = true\l|visible = true\l|x = 4\l|y = 477\l|width = 326\l|height = 52\l|index = 11\l|numberOfChildren = 1\l|numInParentLayout = 11\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_954.0_660.0_1058.0.png\l}"]
+	27	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 4\l|y = 529\l|width = 326\l|height = 32\l|index = 12\l|numberOfChildren = 1\l|numInParentLayout = 12\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_1058.0_660.0_1122.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 4\l|y = 582\l|width = 326\l|height = 30\l|index = 13\l|numberOfChildren = 0\l|numInParentLayout = 13\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_1164.0_660.0_1224.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 615\l|width = 32\l|height = 51\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/24.0_1230.0_88.0_1332.0.png\l}"]
+	30	[label="{type = XCUIElementTypeStaticText\l|value = Settings\l|name = Settings\l|label = Settings\l|enabled = true\l|visible = true\l|x = 52\l|y = 631\l|width = 290\l|height = 20\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/104.0_1262.0_684.0_1302.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 4\l|y = 0\l|width = 326\l|height = 21\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_0.0_660.0_42.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 4\l|y = 21\l|width = 326\l|height = 52\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_42.0_660.0_146.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 4\l|y = 73\l|width = 326\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_146.0_660.0_226.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 4\l|y = 113\l|width = 326\l|height = 48\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_225.99999999999997_660.0_321.99999999999994.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 4\l|y = 161\l|width = 326\l|height = 48\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_322.0_660.0_418.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 4\l|y = 209\l|width = 326\l|height = 48\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_417.99999999999994_660.0_513.9999999999999.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 4\l|y = 257\l|width = 326\l|height = 48\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_514.0_660.0_610.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 4\l|y = 305\l|width = 326\l|height = 48\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_610.0_660.0_706.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 4\l|y = 353\l|width = 326\l|height = 48\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_706.0_660.0_802.0.png\l}"]
+	40	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 4\l|y = 401\l|width = 326\l|height = 48\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_802.0_660.0_898.0.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 4\l|y = 449\l|width = 326\l|height = 28\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_898.0_660.0_954.0.png\l}"]
+	42	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 4\l|y = 477\l|width = 326\l|height = 52\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_954.0_660.0_1058.0.png\l}"]
+	43	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 4\l|y = 529\l|width = 326\l|height = 32\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/8.0_1058.0_660.0_1122.0.png\l}"]
+	44	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 2\l|width = 282\l|height = 17\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/24.0_4.0_588.0_38.0.png\l}"]
+	45	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 23\l|width = 282\l|height = 48\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/24.0_46.0_588.0_142.0.png\l}"]
+	46	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 75\l|width = 282\l|height = 36\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/24.0_150.0_588.0_222.0.png\l}"]
+	47	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 115\l|width = 282\l|height = 44\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/24.0_230.00000000000003_588.0_318.0.png\l}"]
+	48	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 163\l|width = 282\l|height = 44\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/24.0_326.0_588.0_414.0.png\l}"]
+	49	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 211\l|width = 282\l|height = 44\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/24.0_422.0_588.0_510.0.png\l}"]
+	50	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 259\l|width = 282\l|height = 44\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/24.0_518.0_588.0_606.0.png\l}"]
+	51	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 307\l|width = 282\l|height = 44\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/24.0_614.0_588.0_702.0.png\l}"]
+	52	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 355\l|width = 282\l|height = 44\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = spark-move/S5/pngs/24.0_710.0_588.0_798.0.png\l}"]
+	53	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 44\l|y = 403\l|width = 250\l|height = 44\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/88.0_806.0_588.0_894.0.png\l}"]
+	54	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 451\l|width = 282\l|height = 24\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/24.0_902.0_588.0_950.0.png\l}"]
+	55	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 479\l|width = 282\l|height = 48\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/24.0_958.0_588.0_1054.0.png\l}"]
+	56	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 294\l|y = 477\l|width = 32\l|height = 52\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/588.0_954.0_652.0_1058.0.png\l}"]
+	57	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 531\l|width = 282\l|height = 28\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/24.0_1062.0_588.0_1118.0.png\l}"]
+	58	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 23\l|width = 32\l|height = 48\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/24.0_46.0_88.0_142.0.png\l}"]
+	59	[label="{type = XCUIElementTypeStaticText\l|value = Inbox\l|name = Inbox\l|label = Inbox\l|enabled = true\l|visible = true\l|x = 52\l|y = 30\l|width = 250\l|height = 20\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/104.0_60.00000000000001_604.0_100.0.png\l}"]
+	60	[label="{type = XCUIElementTypeStaticText\l|value = email@example.com\l|name = email@example.com\l|label = email@example.com\l|enabled = true\l|visible = true\l|x = 52\l|y = 49\l|width = 242\l|height = 17\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/104.0_98.00000000000001_588.0_132.0.png\l}"]
+	61	[label="{type = XCUIElementTypeStaticText\l|value = Folders\l|name = Folders\l|label = Folders\l|enabled = true\l|visible = true\l|x = 16\l|y = 90\l|width = 266\l|height = 16\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/32.0_180.0_564.0_212.0.png\l}"]
+	62	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 115\l|width = 32\l|height = 44\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/24.0_230.00000000000003_88.0_318.0.png\l}"]
+	63	[label="{type = XCUIElementTypeStaticText\l|value = Sent\l|name = Sent\l|label = Sent\l|enabled = true\l|visible = true\l|x = 52\l|y = 128\l|width = 242\l|height = 20\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/104.0_256.0_588.0_296.0.png\l}"]
+	64	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 163\l|width = 32\l|height = 44\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/24.0_326.0_88.0_414.0.png\l}"]
+	65	[label="{type = XCUIElementTypeStaticText\l|value = Drafts\l|name = Drafts\l|label = Drafts\l|enabled = true\l|visible = true\l|x = 52\l|y = 176\l|width = 242\l|height = 20\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/104.0_352.0_588.0_392.0.png\l}"]
+	66	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 211\l|width = 32\l|height = 44\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/24.0_422.0_88.0_510.0.png\l}"]
+	67	[label="{type = XCUIElementTypeStaticText\l|value = Pins\l|name = Pins\l|label = Pins\l|enabled = true\l|visible = true\l|x = 52\l|y = 224\l|width = 242\l|height = 20\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/104.0_448.0_588.0_488.0.png\l}"]
+	68	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 259\l|width = 32\l|height = 44\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/24.0_518.0_88.0_606.0.png\l}"]
+	69	[label="{type = XCUIElementTypeStaticText\l|value = Archive\l|name = Archive\l|label = Archive\l|enabled = true\l|visible = true\l|x = 52\l|y = 272\l|width = 242\l|height = 20\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/104.0_544.0_588.0_584.0.png\l}"]
+	70	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 307\l|width = 32\l|height = 44\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/24.0_614.0_88.0_702.0.png\l}"]
+	71	[label="{type = XCUIElementTypeStaticText\l|value = Trash\l|name = Trash\l|label = Trash\l|enabled = true\l|visible = true\l|x = 52\l|y = 320\l|width = 242\l|height = 20\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/104.0_640.0_588.0_680.0.png\l}"]
+	72	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 355\l|width = 32\l|height = 44\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/24.0_710.0_88.0_798.0.png\l}"]
+	73	[label="{type = XCUIElementTypeStaticText\l|value = Important\l|name = Important\l|label = Important\l|enabled = true\l|visible = true\l|x = 52\l|y = 368\l|width = 242\l|height = 20\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/104.0_736.0_588.0_776.0.png\l}"]
+	74	[label="{type = XCUIElementTypeStaticText\l|value = Edit list\l|name = Edit list\l|label = Edit list\l|enabled = true\l|visible = true\l|x = 52\l|y = 416\l|width = 242\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/104.0_832.0_588.0_872.0.png\l}"]
+	75	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 479\l|width = 32\l|height = 48\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/24.0_958.0_88.0_1054.0.png\l}"]
+	76	[label="{type = XCUIElementTypeStaticText\l|value = email@example.com\l|name = email@example.com\l|label = email@example.com\l|enabled = true\l|visible = true\l|x = 52\l|y = 486\l|width = 242\l|height = 20\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/104.0_971.9999999999999_588.0_1011.9999999999999.png\l}"]
+	77	[label="{type = XCUIElementTypeStaticText\l|value = email@example.com\l|name = email@example.com\l|label = email@example.com\l|enabled = true\l|visible = true\l|x = 52\l|y = 505\l|width = 234\l|height = 17\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S5/pngs/104.0_1010.0_572.0_1044.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	6 -> 8
+	8 -> 9
+	9 -> 10
+	10 -> 11
+	10 -> 12
+	11 -> 13
+	12 -> 14
+	13 -> 15
+	13 -> 16
+	13 -> 17
+	13 -> 18
+	13 -> 19
+	13 -> 20
+	13 -> 21
+	13 -> 22
+	13 -> 23
+	13 -> 24
+	13 -> 25
+	13 -> 26
+	13 -> 27
+	13 -> 28
+	14 -> 29
+	14 -> 30
+	15 -> 31
+	16 -> 32
+	17 -> 33
+	18 -> 34
+	19 -> 35
+	20 -> 36
+	21 -> 37
+	22 -> 38
+	23 -> 39
+	24 -> 40
+	25 -> 41
+	26 -> 42
+	27 -> 43
+	31 -> 44
+	32 -> 45
+	33 -> 46
+	34 -> 47
+	35 -> 48
+	36 -> 49
+	37 -> 50
+	38 -> 51
+	39 -> 52
+	40 -> 53
+	41 -> 54
+	42 -> 55
+	42 -> 56
+	43 -> 57
+	45 -> 58
+	45 -> 59
+	45 -> 60
+	46 -> 61
+	47 -> 62
+	47 -> 63
+	48 -> 64
+	48 -> 65
+	49 -> 66
+	49 -> 67
+	50 -> 68
+	50 -> 69
+	51 -> 70
+	51 -> 71
+	52 -> 72
+	52 -> 73
+	53 -> 74
+	55 -> 75
+	55 -> 76
+	55 -> 77
+
+
+}

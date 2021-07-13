@@ -1,0 +1,80 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Tasks\l|label = Tasks\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeScrollView\l|name = kMDCBottomDrawerScrollViewAccessibilityIdentifier\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 373\l|width = 375\l|height = 42\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/0.0_746.0_750.0_830.0.png\l}"]
+	7	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 415\l|width = 375\l|height = 665\l|index = 1\l|numberOfChildren = 8\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/0.0_830.0_750.0_2160.0.png\l}"]
+	8	[label="{type = XCUIElementTypeStaticText\l|value = Sort by\l|name = Sort by\l|label = Sort by\l|enabled = true\l|visible = true\l|x = 16\l|y = 385\l|width = 49\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/32.0_770.0000000000001_130.0_806.0000000000001.png\l}"]
+	9	[label="{type = XCUIElementTypeCell\l|name = Sort by my order\l|label = Sort by my order\l|enabled = true\l|visible = true\l|x = 0\l|y = 415\l|width = 375\l|height = 42\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/0.0_830.0_750.0_914.0.png\l}"]
+	10	[label="{type = XCUIElementTypeCell\l|name = Sort by date\l|label = Sort by date\l|enabled = true\l|visible = true\l|x = 0\l|y = 457\l|width = 375\l|height = 42\l|index = 1\l|numberOfChildren = 4\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/0.0_914.0_750.0_998.0.png\l}"]
+	11	[label="{type = XCUIElementTypeCell\l|name = Rename list\l|label = Rename list\l|enabled = true\l|visible = true\l|x = 0\l|y = 499\l|width = 375\l|height = 42\l|index = 2\l|numberOfChildren = 3\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/0.0_998.0_750.0_1082.0.png\l}"]
+	12	[label="{type = XCUIElementTypeCell\l|name = Delete list\l|label = Delete list\l|enabled = true\l|visible = true\l|x = 0\l|y = 541\l|width = 375\l|height = 42\l|index = 3\l|numberOfChildren = 3\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/0.0_1082.0_750.0_1166.0.png\l}"]
+	13	[label="{type = XCUIElementTypeCell\l|name = Delete all completed tasks\l|label = Delete all completed tasks\l|enabled = false\l|visible = true\l|x = 0\l|y = 583\l|width = 375\l|height = 42\l|index = 4\l|numberOfChildren = 3\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/0.0_1166.0_750.0_1250.0.png\l}"]
+	14	[label="{type = XCUIElementTypeCell\l|name = Copy reminders to Tasks\l|label = Copy reminders to Tasks\l|enabled = true\l|visible = true\l|x = 0\l|y = 625\l|width = 375\l|height = 42\l|index = 5\l|numberOfChildren = 3\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/0.0_1250.0_750.0_1334.0.png\l}"]
+	15	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 0\l|y = 415\l|width = 375\l|height = 42\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/0.0_830.0_750.0_914.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 415\l|width = 335\l|height = 42\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/0.0_830.0_670.0_914.0.png\l}"]
+	17	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 0\l|y = 457\l|width = 375\l|height = 42\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/0.0_914.0_750.0_998.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 457\l|width = 375\l|height = 42\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/0.0_914.0_750.0_998.0.png\l}"]
+	19	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 0\l|y = 499\l|width = 375\l|height = 42\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/0.0_998.0_750.0_1082.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 499\l|width = 375\l|height = 42\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/0.0_998.0_750.0_1082.0.png\l}"]
+	21	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 0\l|y = 541\l|width = 375\l|height = 42\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/0.0_1082.0_750.0_1166.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 541\l|width = 375\l|height = 42\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/0.0_1082.0_750.0_1166.0.png\l}"]
+	23	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 0\l|y = 583\l|width = 375\l|height = 42\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/0.0_1166.0_750.0_1250.0.png\l}"]
+	24	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 0\l|y = 625\l|width = 375\l|height = 42\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/0.0_1250.0_750.0_1334.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 625\l|width = 375\l|height = 42\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/0.0_1250.0_750.0_1334.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 415\l|width = 303\l|height = 42\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/32.0_830.0_638.0_914.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 457\l|width = 343\l|height = 42\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/32.0_914.0_718.0_998.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 499\l|width = 343\l|height = 42\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/32.0_998.0_718.0_1082.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 541\l|width = 343\l|height = 42\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/32.0_1082.0_718.0_1166.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 625\l|width = 343\l|height = 42\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/32.0_1250.0_718.0_1334.0.png\l}"]
+	31	[label="{type = XCUIElementTypeStaticText\l|value = My order\l|name = My order\l|label = My order\l|enabled = true\l|visible = true\l|x = 16\l|y = 427\l|width = 303\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/32.0_854.0_638.0_890.0.png\l}"]
+	32	[label="{type = XCUIElementTypeStaticText\l|value = Date\l|name = Date\l|label = Date\l|enabled = true\l|visible = true\l|x = 16\l|y = 469\l|width = 343\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/32.0_938.0_718.0_974.0.png\l}"]
+	33	[label="{type = XCUIElementTypeStaticText\l|value = Rename list\l|name = Rename list\l|label = Rename list\l|enabled = true\l|visible = true\l|x = 16\l|y = 511\l|width = 343\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/32.0_1022.0_718.0_1058.0.png\l}"]
+	34	[label="{type = XCUIElementTypeStaticText\l|value = Delete list\l|name = Delete list\l|label = Delete list\l|enabled = true\l|visible = true\l|x = 16\l|y = 553\l|width = 343\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = gTask-delList/S1/pngs/32.0_1106.0_718.0_1142.0.png\l}"]
+	35	[label="{type = XCUIElementTypeStaticText\l|value = Copy reminders to Tasks\l|name = Copy reminders to Tasks\l|label = Copy reminders to Tasks\l|enabled = true\l|visible = true\l|x = 16\l|y = 637\l|width = 343\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gTask-delList/S1/pngs/32.0_1274.0_718.0_1310.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	5 -> 7
+	6 -> 8
+	7 -> 9
+	7 -> 10
+	7 -> 11
+	7 -> 12
+	7 -> 13
+	7 -> 14
+	9 -> 15
+	9 -> 16
+	10 -> 17
+	10 -> 18
+	11 -> 19
+	11 -> 20
+	12 -> 21
+	12 -> 22
+	13 -> 23
+	14 -> 24
+	14 -> 25
+	16 -> 26
+	18 -> 27
+	20 -> 28
+	22 -> 29
+	25 -> 30
+	26 -> 31
+	27 -> 32
+	28 -> 33
+	29 -> 34
+	30 -> 35
+
+
+}

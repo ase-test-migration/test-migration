@@ -1,0 +1,4 @@
+pathToElementImageCrop: usa_categories/S1/pngs/58.0_438.0_138.0_474.0.png;
+coords: {'x1': 58.0, 'y1': 438.0, 'x2': 138.0, 'y2': 474.0};
+text_identifier: { "name" : "WORLD SUBSECTION" };
+event: click;

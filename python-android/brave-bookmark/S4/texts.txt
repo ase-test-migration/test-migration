@@ -1,0 +1,7 @@
+{ "resource-id" : "com.brave.browser:id/app_menu_list" , "screenshotPath" : "brave-bookmark/S4/pngs/321_308_1031_1892.png"}
+{ "content-desc" : "Turn on Request desktop site" , "resource-id" : "com.brave.browser:id/title" , "screenshotPath" : "brave-bookmark/S4/pngs/321_1364_877_1496.png"}
+{ "resource-id" : "com.brave.browser:id/checkbox" , "screenshotPath" : "brave-bookmark/S4/pngs/877_1364_1031_1496.png"}
+{ "content-desc" : "Go forward" , "resource-id" : "com.brave.browser:id/forward_menu_id" , "screenshotPath" : "brave-bookmark/S4/pngs/321_1895_498_1977.png"}
+{ "content-desc" : "Download page" , "resource-id" : "com.brave.browser:id/offline_page_id" , "screenshotPath" : "brave-bookmark/S4/pngs/498_1895_675_1977.png"}
+{ "content-desc" : "Share" , "resource-id" : "com.brave.browser:id/info_menu_id" , "screenshotPath" : "brave-bookmark/S4/pngs/675_1895_853_1977.png"}
+{ "content-desc" : "Refresh page" , "resource-id" : "com.brave.browser:id/reload_menu_id" , "screenshotPath" : "brave-bookmark/S4/pngs/853_1895_1031_1977.png"}

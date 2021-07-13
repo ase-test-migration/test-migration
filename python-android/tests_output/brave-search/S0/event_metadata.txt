@@ -1,0 +1,4 @@
+pathToElementImageCrop: brave-search/S0/pngs/55_179_1036_317.png;
+coords: {'x1': 55, 'y1': 179, 'x2': 1036, 'y2': 317};
+text_identifier: { "resource-id" : "com.brave.browser:id/url_bar" };
+event: click;

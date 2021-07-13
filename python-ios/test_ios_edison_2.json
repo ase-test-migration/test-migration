@@ -1,0 +1,45 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "edison-send",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "compose button"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "send_keys_enter",
+                    "tag": "To:",
+                    "input": "email@example.com"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "send_keys",
+                    "tag": "Subject:",
+                    "input": "Testing 2"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//XCUIElementTypeNavigationBar[@name=\"Mail.EdoComposeView\"]/XCUIElementTypeButton[2]"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Testing 2"
+                }
+            ]
+        }
+    ]
+}

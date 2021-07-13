@@ -1,0 +1,50 @@
+{
+    "tests": [
+        {
+            "name": "removefavorite", 
+            "events": [
+                {
+                    "tag": "Profile", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Favorites", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "com.postmates.android:id/layout_multiple_row_carousel_item", 
+                    "type": "id", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "See merchant more options", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                },
+                {
+                    "input": "Remove from favorites",
+                    "type": "text_exists",
+                    "event": "oracle"
+                },
+                {
+                    "tag": "com.postmates.android:id/layout_favorite", 
+                    "type": "id", 
+                    "event": "click"
+                },
+                {
+                    "input": "Add to favorites",
+                    "type": "text_exists",
+                    "event": "oracle"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+          "platformName": "Android",
+          "platformVersion": "9",
+          "deviceName": "Nexus_5_API_28",
+          "newCommandTimeout": 1000
+    }
+}

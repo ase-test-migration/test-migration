@@ -1,0 +1,33 @@
+{
+    "tests": [
+        {
+            "name": "ebay-login", 
+            "events": [
+                {
+                    "tag": "Sign In", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "sign_in_username_button", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Sign in"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "Someone's iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "13.4.1", 
+        "platformName": "iOS"
+    }
+}

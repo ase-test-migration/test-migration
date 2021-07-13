@@ -1,0 +1,4 @@
+pathToElementImageCrop: etsy-add-to-cart/S1/pngs/60_1588_492_1608.png;
+coords: {'x1': 60, 'y1': 1588, 'x2': 492, 'y2': 1608};
+text_identifier: { "content-desc" : "ZAHRA | Antique Persian Heriz Pattern Oriental Rug, Hand-knotted texture, Traditional decor, Mid-century Modern, Navy blue, Red, Area Rugs Button" , "resource-id" : "com.etsy.android:id/listing_title" };
+event: click;

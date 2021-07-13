@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-filter/S1/pngs/168_431_1080_557.png;
+coords: {'x1': 168, 'y1': 431, 'x2': 1080, 'y2': 557};
+text_identifier: { "text" : "xiaomi thermometer" , "content-desc" : "Keyword search xiaomi thermometer:" , "resource-id" : "com.ebay.mobile:id/text_recent_entry" };
+event: click;

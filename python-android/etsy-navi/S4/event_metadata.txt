@@ -1,0 +1,4 @@
+pathToElementImageCrop: etsy-navi/S4/pngs/158_251_831_289.png;
+coords: {'x1': 158, 'y1': 251, 'x2': 831, 'y2': 289};
+text_identifier: { "resource-id" : "com.etsy.android:id/shop_header_name" };
+event: click;

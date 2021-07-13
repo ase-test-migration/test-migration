@@ -1,0 +1,33 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "abc-manage",
+        "events": [
+            {
+                "type": "xPath",
+                "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.HorizontalScrollView/android.widget.LinearLayout/android.widget.LinearLayout[2]",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.abc.abcnews:id/button_container",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.abc.abcnews:id/manage_interests_switch",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.abc.abcnews:id/manage_interests_interest_sort_button",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.abc.abcnews:id/manage_interests_remove_button",
+                "event": "click"
+            }
+        ]
+    }
+}

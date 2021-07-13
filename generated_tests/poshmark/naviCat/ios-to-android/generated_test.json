@@ -1,0 +1,33 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "poshmark-naviCat",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "Women",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Kids",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "adidas",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.poshmark.app:id/followFollowingButton",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "Following"
+            }
+        ]
+    }
+}

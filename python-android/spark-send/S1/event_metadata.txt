@@ -1,0 +1,5 @@
+pathToElementImageCrop: spark-send/S1/pngs/130_325_860_479.png;
+coords: {'x1': 130, 'y1': 325, 'x2': 860, 'y2': 479};
+text_identifier: { "content-desc" : "To:" , "resource-id" : "com.readdle.spark:id/to" };
+event: send_keys;
+input: email@example.com;

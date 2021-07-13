@@ -1,0 +1,53 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "todoist-changedate",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Todoist.ItemsView",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "assert_equal",
+                "attribute": "label ",
+                "value": " My Task,Today"
+            },
+            {
+                "type": "name",
+                "tag": "Today",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "This Weekend",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "assert_equal",
+                "attribute": "label ",
+                "value": " Saturday",
+                "type": "name",
+                "tag": "Saturday"
+            },
+            {
+                "type": "name",
+                "tag": "Fri",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Tomorrow",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "assert_equal",
+                "attribute": "label ",
+                "value": " Monday,19"
+            }
+        ]
+    }
+}

@@ -1,0 +1,5 @@
+pathToElementImageCrop: wish-addCart/S2/pngs/44_1934_1036_2044.png;
+coords: {'x1': 44, 'y1': 1934, 'x2': 1036, 'y2': 2044};
+text_identifier: { "resource-id" : "com.contextlogic.wish:id/cart_fragment_cart_items_checkout_button" };
+event: oracle;
+oracle-type: widget_exists;

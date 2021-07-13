@@ -1,0 +1,31 @@
+{
+    "tests": [
+        {
+            "name": "search", 
+            "events": [
+                {
+                    "tag": "Search Places and Items", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "input": "panda",
+                    "tag": "com.postmates.android:id/search_src_text", 
+                    "type": "id", 
+                    "event": "send_keys"
+                },
+                {
+                    "input": "Panda Express",
+                    "type": "text_exists",
+                    "event": "oracle"
+                }
+            ]
+        }
+    ],
+    "desiredCapabilities": {
+          "platformName": "Android",
+          "platformVersion": "9",
+          "deviceName": "Nexus_5_API_28",
+          "newCommandTimeout": 1000
+        }
+}

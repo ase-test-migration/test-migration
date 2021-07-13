@@ -1,0 +1,4 @@
+pathToElementImageCrop: msToDo-duedate/S7/pngs/0_72_168_240.png;
+coords: {'x1': 0, 'y1': 72, 'x2': 168, 'y2': 240};
+text_identifier: { "content-desc" : "Dismiss detail view" , "resource-id" : "com.microsoft.todos:id/back" };
+event: click;

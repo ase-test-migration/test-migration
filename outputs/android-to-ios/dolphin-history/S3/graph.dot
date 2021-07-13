@@ -1,0 +1,58 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Dolphin\l|label = Dolphin\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-history/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-history/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-history/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-history/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-history/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-history/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-history/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-history/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 3\l|numberOfChildren = 3\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-history/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-history/S3/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-history/S3/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeTextField\l|value = Type a URL or Search\l|label = \l|enabled = true\l|visible = true\l|x = 17\l|y = 26\l|width = 291\l|height = 32\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-history/S3/pngs/34.0_52.0_616.0_116.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|name = Cancel\l|label = Cancel\l|enabled = true\l|visible = true\l|x = 308\l|y = 26\l|width = 67\l|height = 30\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-history/S3/pngs/616.0_52.0_750.0_112.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 47\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-history/S3/pngs/0.0_128.0_750.0_222.0.png\l}"]
+	14	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 111\l|width = 375\l|height = 556\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-history/S3/pngs/0.0_222.0_750.0_1334.0.png\l}"]
+	15	[label="{type = XCUIElementTypeStaticText\l|value = Cancel\l|name = Cancel\l|label = Cancel\l|enabled = true\l|visible = true\l|x = 313\l|y = 30\l|width = 57\l|height = 22\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-history/S3/pngs/626.0_60.00000000000001_740.0_104.0.png\l}"]
+	16	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 47\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-history/S3/pngs/0.0_128.0_750.0_222.0.png\l}"]
+	17	[label="{type = XCUIElementTypeTable\l|name = Empty list\l|label = Empty list\l|enabled = true\l|visible = true\l|x = 0\l|y = 111\l|width = 375\l|height = 556\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-history/S3/pngs/0.0_222.0_750.0_1334.0.png\l}"]
+	18	[label="{type = XCUIElementTypeButton\l|name = History\l|label = History\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 125\l|height = 45\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-history/S3/pngs/0.0_128.0_250.0_218.0.png\l}"]
+	19	[label="{type = XCUIElementTypeButton\l|name = Bookmarks\l|label = Bookmarks\l|enabled = true\l|visible = true\l|x = 125\l|y = 64\l|width = 125\l|height = 45\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-history/S3/pngs/250.0_128.0_500.0_218.0.png\l}"]
+	20	[label="{type = XCUIElementTypeButton\l|name = Most Visited\l|label = Most Visited\l|enabled = true\l|visible = true\l|x = 250\l|y = 64\l|width = 125\l|height = 45\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-history/S3/pngs/500.0_128.0_750.0_218.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 125\l|y = 109\l|width = 125\l|height = 2\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-history/S3/pngs/250.0_218.0_500.0_222.0.png\l}"]
+	22	[label="{type = XCUIElementTypeStaticText\l|value = History\l|name = History\l|label = History\l|enabled = true\l|visible = true\l|x = 33\l|y = 75\l|width = 59\l|height = 23\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-history/S3/pngs/66.0_150.0_184.0_196.0.png\l}"]
+	23	[label="{type = XCUIElementTypeStaticText\l|value = Bookmarks\l|name = Bookmarks\l|label = Bookmarks\l|enabled = true\l|visible = true\l|x = 142\l|y = 75\l|width = 91\l|height = 23\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-history/S3/pngs/284.0_150.0_466.0_196.0.png\l}"]
+	24	[label="{type = XCUIElementTypeStaticText\l|value = Most Visited\l|name = Most Visited\l|label = Most Visited\l|enabled = true\l|visible = true\l|x = 262\l|y = 75\l|width = 101\l|height = 23\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-history/S3/pngs/524.0_150.0_726.0_196.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	8 -> 9
+	8 -> 10
+	9 -> 11
+	9 -> 12
+	10 -> 13
+	10 -> 14
+	12 -> 15
+	13 -> 16
+	14 -> 17
+	16 -> 18
+	16 -> 19
+	16 -> 20
+	16 -> 21
+	18 -> 22
+	19 -> 23
+	20 -> 24
+
+
+}

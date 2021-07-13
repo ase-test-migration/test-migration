@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-bid/S4/pngs/32.0_436.0_300.0_706.0.png;
+coords: {'x1': 32.0, 'y1': 436.0, 'x2': 300.0, 'y2': 706.0};
+text_identifier: { "label" : "Roman" };
+event: click;

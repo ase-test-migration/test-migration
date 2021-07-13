@@ -1,0 +1,29 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "python-android",
+        "events": [
+            {
+                "type": "name",
+                "tag": "add task light single scale",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "tabs calendar",
+                "event": "send_keys",
+                "input": "testing"
+            },
+            {
+                "type": "name",
+                "tag": "arrow right calendar",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "testing"
+            }
+        ]
+    }
+}

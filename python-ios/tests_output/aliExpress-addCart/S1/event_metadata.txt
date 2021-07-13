@@ -1,0 +1,4 @@
+pathToElementImageCrop: aliExpress-addCart/S1/pngs/104.0_47.99999999999999_534.0_120.0.png;
+coords: {'x1': 104.0, 'y1': 47.99999999999999, 'x2': 534.0, 'y2': 120.0};
+text_identifier: { "label" : "search" };
+event: click;

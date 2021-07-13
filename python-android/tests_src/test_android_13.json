@@ -1,0 +1,34 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "R3CN30038ME",
+        "newCommandTimeout":0
+    },
+    "tests" : [
+        {
+            "name" : "testNYTreadcomment",
+            "events": [
+                {
+                    "type" : "id", 
+                    "tag" : "com.nytimes.android:id/header",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "id", 
+                    "tag" : "com.nytimes.android:id/action_comments",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "xPath", 
+                    "tag" : "/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.TabHost/android.widget.RelativeLayout/android.widget.TabWidget/android.widget.RelativeLayout[2]",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "xPath", 
+                    "tag" : "/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.TabHost/android.widget.RelativeLayout/android.widget.TabWidget/android.widget.RelativeLayout[3]",
+                    "event" : "click" 
+                }
+            ]
+        }
+    ]
+}

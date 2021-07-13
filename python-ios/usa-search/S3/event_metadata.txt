@@ -1,0 +1,4 @@
+pathToElementImageCrop: usa-search/S3/pngs/60.0_933.0_851.9999999999999_1071.0.png;
+coords: {'x1': 60.0, 'y1': 933.0, 'x2': 851.9999999999999, 'y2': 1071.0};
+text_identifier: { "label" : "EU sets out virus pass plan to allow free travel by summer" };
+event: click;

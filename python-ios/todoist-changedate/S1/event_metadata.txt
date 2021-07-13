@@ -1,0 +1,7 @@
+pathToElementImageCrop: todoist-changedate/S1/pngs/150.0_1551.0_405.0_1677.0.png;
+coords: {'x1': 150.0, 'y1': 1551.0, 'x2': 405.0, 'y2': 1677.0};
+text_identifier: { "label" : "Today" };
+event: oracle;
+oracle-type: assert_equal;
+attribute: label;
+value: Today;

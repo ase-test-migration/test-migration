@@ -1,0 +1,5 @@
+pathToElementImageCrop: aliExpress-addCart/S1/pngs/158_100_558_195.png;
+coords: {'x1': 158, 'y1': 100, 'x2': 558, 'y2': 195};
+text_identifier: { "content-desc" : "Search query" , "resource-id" : "com.alibaba.aliexpresshd:id/abs__search_src_text" };
+event: send_keys;
+input: AA battery;

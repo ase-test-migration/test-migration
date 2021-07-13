@@ -1,0 +1,4 @@
+pathToElementImageCrop: cnn-unbookmark/S1/pngs/0.0_128.0_750.0_356.0.png;
+coords: {'x1': 0.0, 'y1': 128.0, 'x2': 750.0, 'y2': 356.0};
+text_identifier: { "name" : "Lead Image" };
+event: click;

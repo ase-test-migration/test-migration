@@ -1,0 +1,6 @@
+pathToElementImageCrop: ;
+coords: ;
+text_identifier: Play Chess for Free;
+event: oracle;
+oracle-type: text_exists;
+input: Play Chess for Free;

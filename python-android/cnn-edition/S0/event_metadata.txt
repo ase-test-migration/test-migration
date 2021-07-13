@@ -1,0 +1,4 @@
+pathToElementImageCrop: cnn-edition/S0/pngs/864_1608_1080_1776.png;
+coords: {'x1': 864, 'y1': 1608, 'x2': 1080, 'y2': 1848};
+text_identifier: { "content-desc" : "Preferences" , "resource-id" : "com.cnn.mobile.android.phone:id/settings_item_menu" };
+event: click;

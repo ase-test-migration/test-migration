@@ -1,0 +1,10 @@
+{ "content-desc" : "Open Menu" , "screenshotPath" : "wish-wishlist/S0/pngs/0_74_147_221.png"}
+{ "resource-id" : "com.contextlogic.wish:id/action_id_show_cart" , "screenshotPath" : "wish-wishlist/S0/pngs/678_101_805_193.png"}
+{ "content-desc" : "Filter" , "resource-id" : "com.contextlogic.wish:id/action_id_showroom" , "screenshotPath" : "wish-wishlist/S0/pngs/805_84_932_210.png"}
+{ "content-desc" : "Filter" , "resource-id" : "com.contextlogic.wish:id/action_id_show_filter" , "screenshotPath" : "wish-wishlist/S0/pngs/932_84_1080_210.png"}
+{ "resource-id" : "com.contextlogic.wish:id/pager" , "screenshotPath" : "wish-wishlist/S0/pngs/0_347_1080_2287.png"}
+{ "resource-id" : "com.contextlogic.wish:id/tab_strip" , "screenshotPath" : "wish-wishlist/S0/pngs/0_221_1080_347.png"}
+{ "resource-id" : "com.contextlogic.wish:id/tab_bar_active_icon_container" , "screenshotPath" : "wish-wishlist/S0/pngs/965_221_1080_347.png"}
+{ "resource-id" : "com.contextlogic.wish:id/tab_bar_active_icon_image" , "screenshotPath" : "wish-wishlist/S0/pngs/1028_221_1080_347.png"}
+{ "resource-id" : "com.contextlogic.wish:id/recycler" , "screenshotPath" : "wish-wishlist/S0/pngs/0_347_1080_2287.png"}
+{ "resource-id" : "com.contextlogic.wish:id/pager" , "screenshotPath" : "wish-wishlist/S0/pngs/0_347_1080_768.png"}

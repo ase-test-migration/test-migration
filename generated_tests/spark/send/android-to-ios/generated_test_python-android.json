@@ -1,0 +1,35 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "python-android",
+        "events": [
+            {
+                "type": "name",
+                "tag": "cardActionView-People",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Seen",
+                "event": "send_keys",
+                "input": "email@example.com"
+            },
+            {
+                "type": "name",
+                "tag": "bulkCounterButton",
+                "event": "send_keys",
+                "input": "Testing 2"
+            },
+            {
+                "type": "name",
+                "tag": "bulkCounterButton",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Testing 2"
+            }
+        ]
+    }
+}

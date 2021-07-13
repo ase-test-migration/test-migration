@@ -1,0 +1,4 @@
+pathToElementImageCrop: removefavorite/S5/pngs/0_1008_1080_1200.png;
+coords: {'x1': 0, 'y1': 1008, 'x2': 1080, 'y2': 1200};
+text_identifier: { "resource-id" : "com.postmates.android:id/layout_favorite" };
+event: click;

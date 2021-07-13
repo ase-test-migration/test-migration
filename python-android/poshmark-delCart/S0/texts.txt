@@ -1,0 +1,20 @@
+{ "resource-id" : "com.poshmark.app:id/leftNavButton" , "screenshotPath" : "poshmark-delCart/S0/pngs/32_100_137_195.png"}
+{ "content-desc" : "rightNavButton1" , "resource-id" : "com.poshmark.app:id/customButton" , "screenshotPath" : "poshmark-delCart/S0/pngs/932_100_1048_195.png"}
+{ "resource-id" : "com.poshmark.app:id/poshbox_recyclerview" , "screenshotPath" : "poshmark-delCart/S0/pngs/0_221_1080_2214.png"}
+{ "resource-id" : "com.poshmark.app:id/listing_system_msg_container" , "screenshotPath" : "poshmark-delCart/S0/pngs/0_1026_1080_1158.png"}
+{ "resource-id" : "com.poshmark.app:id/listing_system_msg_container" , "screenshotPath" : "poshmark-delCart/S0/pngs/0_1158_1080_1289.png"}
+{ "resource-id" : "com.poshmark.app:id/commentHolderLayout" , "screenshotPath" : "poshmark-delCart/S0/pngs/0_1315_1080_1559.png"}
+{ "resource-id" : "com.poshmark.app:id/offer_button" , "screenshotPath" : "poshmark-delCart/S0/pngs/531_2227_750_2287.png"}
+{ "resource-id" : "com.poshmark.app:id/buy_button" , "screenshotPath" : "poshmark-delCart/S0/pngs/763_2224_1080_2287.png"}
+{ "resource-id" : "com.poshmark.app:id/deleteFromBundleButton" , "screenshotPath" : "poshmark-delCart/S0/pngs/367_677_488_725.png"}
+{ "resource-id" : "com.poshmark.app:id/comment_container" , "screenshotPath" : "poshmark-delCart/S0/pngs/32_793_1048_888.png"}
+{ "resource-id" : "com.poshmark.app:id/user_image" , "screenshotPath" : "poshmark-delCart/S0/pngs/26_263_131_368.png"}
+{ "resource-id" : "com.poshmark.app:id/covershot" , "screenshotPath" : "poshmark-delCart/S0/pngs/26_410_341_725.png"}
+{ "resource-id" : "com.poshmark.app:id/size_layout" , "screenshotPath" : "poshmark-delCart/S0/pngs/367_583_478_636.png"}
+{ "resource-id" : "com.poshmark.app:id/comment_icon" , "screenshotPath" : "poshmark-delCart/S0/pngs/428_819_470_861.png"}
+{ "resource-id" : "com.poshmark.app:id/covershotView" , "screenshotPath" : "poshmark-delCart/S0/pngs/21_1689_519_2187.png"}
+{ "resource-id" : "com.poshmark.app:id/user_name" , "screenshotPath" : "poshmark-delCart/S0/pngs/173_263_398_316.png"}
+{ "resource-id" : "com.poshmark.app:id/infoImageView" , "screenshotPath" : "poshmark-delCart/S0/pngs/26_1073_89_1136.png"}
+{ "resource-id" : "com.poshmark.app:id/rightIcon" , "screenshotPath" : "poshmark-delCart/S0/pngs/1001_1083_1043_1125.png"}
+{ "resource-id" : "com.poshmark.app:id/infoImageView" , "screenshotPath" : "poshmark-delCart/S0/pngs/26_1205_89_1268.png"}
+{ "resource-id" : "com.poshmark.app:id/rightIcon" , "screenshotPath" : "poshmark-delCart/S0/pngs/1001_1215_1043_1257.png"}

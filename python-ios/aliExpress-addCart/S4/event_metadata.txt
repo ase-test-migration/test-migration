@@ -1,0 +1,4 @@
+pathToElementImageCrop: aliExpress-addCart/S4/pngs/220.0_1230.0_486.0_1334.0.png;
+coords: {'x1': 220.0, 'y1': 1230.0, 'x2': 486.0, 'y2': 1334.0};
+text_identifier: { "label" : "Add To Cart" };
+event: click;

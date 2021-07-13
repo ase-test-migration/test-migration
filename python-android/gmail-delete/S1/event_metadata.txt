@@ -1,0 +1,4 @@
+pathToElementImageCrop: gmail-delete/S1/pngs/705_182_837_314.png;
+coords: {'x1': 705, 'y1': 182, 'x2': 837, 'y2': 314};
+text_identifier: { "content-desc" : "Delete" , "resource-id" : "com.google.android.gm:id/delete" };
+event: click;

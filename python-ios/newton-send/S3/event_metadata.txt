@@ -1,0 +1,4 @@
+pathToElementImageCrop: newton-send/S3/pngs/594.0_808.0_750.0_882.0.png;
+coords: {'x1': 594.0, 'y1': 808.0, 'x2': 750.0, 'y2': 882.0};
+text_identifier: { "label" : "SEND" };
+event: click;

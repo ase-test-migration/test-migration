@@ -1,0 +1,4 @@
+pathToElementImageCrop: search-removefavorite/S2/pngs/84.0_672.0_300.0_747.0.png;
+coords: {'x1': 84.0, 'y1': 672.0, 'x2': 300.0, 'y2': 747.0};
+text_identifier: { "name" : "Five Guys" };
+event: click;

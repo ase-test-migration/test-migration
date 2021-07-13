@@ -1,0 +1,30 @@
+{
+    "tests": [
+        {
+            "name": "testEbaySignin", 
+            "events": [
+                {
+                    "tag": "com.ebay.mobile:id/button_sign_in", 
+                    "type": "id", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "com.ebay.mobile:id/button_classic", 
+                    "type": "id", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Close", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+      "platformName": "Android",
+      "platformVersion": "9",
+      "deviceName": "Nexus_5_API_28",
+      "newCommandTimeout": 1000
+    }
+}

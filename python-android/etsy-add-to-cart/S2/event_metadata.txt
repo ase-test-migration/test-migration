@@ -1,0 +1,4 @@
+pathToElementImageCrop: etsy-add-to-cart/S2/pngs/42_2052_1038_2178.png;
+coords: {'x1': 42, 'y1': 2052, 'x2': 1038, 'y2': 2178};
+text_identifier: { "resource-id" : "com.etsy.android:id/redesigned_variation_selector_1_container" , "resource-id" : "com.etsy.android:id/redesigned_variation_selector_1" };
+event: click;

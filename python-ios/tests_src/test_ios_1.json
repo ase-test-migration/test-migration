@@ -1,0 +1,33 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer"
+    },
+    
+    "tests" : [
+        {
+            "name" : "testBusiness",
+            "events": [
+                {
+                    "event": "click",
+                    "tag": "Business",
+                    "type": "accessibilityId"
+                },
+                {
+                    "event": "click",
+                    "tag": "//XCUIElementTypeApplication[@name=\"CNN\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[1]/XCUIElementTypeOther/XCUIElementTypeOther",
+                    "type": "xPath"
+                },
+                {
+                    "event": "click",
+                    "tag": "Back",
+                    "type": "accessibilityId"
+                }
+            ]
+        }
+    ]
+}

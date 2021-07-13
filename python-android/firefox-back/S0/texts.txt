@@ -1,0 +1,12 @@
+{ "resource-id" : "org.mozilla.firefox:id/sessionControlRecyclerView" , "screenshotPath" : "firefox-back/S0/pngs/0_419_1080_1977.png"}
+{ "content-desc" : "Search or enter address" , "resource-id" : "org.mozilla.firefox:id/toolbar_wrapper" , "screenshotPath" : "firefox-back/S0/pngs/22_2016_849_2126.png"}
+{ "resource-id" : "org.mozilla.firefox:id/tab_button" , "screenshotPath" : "firefox-back/S0/pngs/849_2005_981_2137.png"}
+{ "resource-id" : "org.mozilla.firefox:id/menuButton" , "screenshotPath" : "firefox-back/S0/pngs/981_2005_1080_2137.png"}
+{ "content-desc" : "Enable private browsing" , "resource-id" : "org.mozilla.firefox:id/privateBrowsingButton" , "screenshotPath" : "firefox-back/S0/pngs/915_210_1047_342.png"}
+{ "resource-id" : "org.mozilla.firefox:id/top_sites_list" , "screenshotPath" : "firefox-back/S0/pngs/44_463_1036_925.png"}
+{ "resource-id" : "org.mozilla.firefox:id/top_site_item" , "screenshotPath" : "firefox-back/S0/pngs/44_485_292_661.png"}
+{ "resource-id" : "org.mozilla.firefox:id/top_site_item" , "screenshotPath" : "firefox-back/S0/pngs/292_485_540_661.png"}
+{ "resource-id" : "org.mozilla.firefox:id/top_site_item" , "screenshotPath" : "firefox-back/S0/pngs/540_485_788_661.png"}
+{ "resource-id" : "org.mozilla.firefox:id/top_site_item" , "screenshotPath" : "firefox-back/S0/pngs/788_485_1036_661.png"}
+{ "resource-id" : "org.mozilla.firefox:id/top_site_item" , "screenshotPath" : "firefox-back/S0/pngs/44_716_292_892.png"}
+{ "resource-id" : "org.mozilla.firefox:id/top_site_item" , "screenshotPath" : "firefox-back/S0/pngs/292_716_540_892.png"}

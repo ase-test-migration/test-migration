@@ -1,0 +1,4 @@
+pathToElementImageCrop: abc-bookmark/S1/pngs/576.0_40.0_640.0_128.0.png;
+coords: {'x1': 576.0, 'y1': 40.0, 'x2': 640.0, 'y2': 128.0};
+text_identifier: { "label" : "  Top Stories" };
+event: click;

@@ -1,0 +1,19 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "spark-send",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.readdle.spark:id/fab",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.readdle.spark:id/subject",
+                "event": "send_keys_enter",
+                "input": "email@example.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: duckduckgo-tab/S1/pngs/658.0_1246.0_750.0_1334.0.png;
+coords: {'x1': 658.0, 'y1': 1246.0, 'x2': 750.0, 'y2': 1334.0};
+text_identifier: { "label" : "New Tab" };
+event: click;

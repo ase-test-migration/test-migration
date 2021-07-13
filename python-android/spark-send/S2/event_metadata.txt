@@ -1,0 +1,5 @@
+pathToElementImageCrop: spark-send/S2/pngs/44_488_1036_591.png;
+coords: {'x1': 44, 'y1': 488, 'x2': 1036, 'y2': 591};
+text_identifier: { "resource-id" : "com.readdle.spark:id/subject" };
+event: send_keys;
+input: Testing 2;

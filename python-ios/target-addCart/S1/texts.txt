@@ -1,0 +1,32 @@
+{"name" : "Target", "label" : "Target", "screenshotPath" : "target-addCart/S1/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "Tab Bar", "label" : "Tab Bar", "screenshotPath" : "target-addCart/S1/pngs/0.0_1236.0_750.0_1334.0.png"}
+{"value" : "1", "name" : "discover_tab_button", "label" : "Discover", "screenshotPath" : "target-addCart/S1/pngs/4.0_1238.0_146.0_1334.0.png"}
+{"name" : "to_go_tab_button", "label" : "To Go", "screenshotPath" : "target-addCart/S1/pngs/154.0_1238.0_296.0_1334.0.png"}
+{"name" : "wallet_tab_button", "label" : "Wallet", "screenshotPath" : "target-addCart/S1/pngs/304.0_1238.0_446.0_1334.0.png"}
+{"name" : "cart_tab_button_item", "label" : "Cart, empty", "screenshotPath" : "target-addCart/S1/pngs/453.99999999999994_1238.0_596.0_1334.0.png"}
+{"name" : "account_tab_button_item", "label" : "TestUser", "screenshotPath" : "target-addCart/S1/pngs/604.0_1238.0_746.0_1334.0.png"}
+{"name" : "PLP.ProductListView", "screenshotPath" : "target-addCart/S1/pngs/0.0_40.0_750.0_128.0.png"}
+{"name" : "Discover", "label" : "Discover", "screenshotPath" : "target-addCart/S1/pngs/0.0_40.0_88.0_128.0.png"}
+{"name" : "search_bar", "screenshotPath" : "target-addCart/S1/pngs/106.0_40.0_728.0_128.0.png"}
+{"name" : "product_list_view_controller_root_view", "screenshotPath" : "target-addCart/S1/pngs/0.0_128.0_750.0_1236.0.png"}
+{"value" : "cola", "name" : "search_field", "label" : "", "screenshotPath" : "target-addCart/S1/pngs/164.0_60.00000000000001_606.0_108.0.png"}
+{"name" : "product_list_view_controller_collection_view", "screenshotPath" : "target-addCart/S1/pngs/0.0_128.0_750.0_1236.0.png"}
+{"value" : "0%", "name" : "Vertical scroll bar, 9 pages", "label" : "Vertical scroll bar, 9 pages", "screenshotPath" : "target-addCart/S1/pngs/684.0_240.00000000000003_744.0_1236.0.png"}
+{"value" : "0%", "name" : "Horizontal scroll bar, 1 page", "label" : "Horizontal scroll bar, 1 page", "screenshotPath" : "target-addCart/S1/pngs/0.0_1170.0_750.0_1230.0.png"}
+{"name" : "Filter", "label" : "Filter", "screenshotPath" : "target-addCart/S1/pngs/24.0_154.0_158.0_218.0.png"}
+{"name" : "fulfillment_bar_item_item", "label" : "Filter by Pickup", "screenshotPath" : "target-addCart/S1/pngs/174.0_154.0_332.0_218.0.png"}
+{"name" : "fulfillment_bar_item_item", "label" : "Filter by Delivery", "screenshotPath" : "target-addCart/S1/pngs/346.0_154.0_520.0_218.0.png"}
+{"name" : "fulfillment_bar_item_item", "label" : "Filter by Shipping", "screenshotPath" : "target-addCart/S1/pngs/536.0_154.0_720.0_218.0.png"}
+{"name" : "fulfillment_bar_item_item", "label" : "Filter by My store", "screenshotPath" : "target-addCart/S1/pngs/734.0_154.0_918.0_218.0.png"}
+{"name" : "product_listing", "screenshotPath" : "target-addCart/S1/pngs/0.0_392.00000000000006_750.0_864.0.png"}
+{"name" : "product_listing", "screenshotPath" : "target-addCart/S1/pngs/0.0_894.0_750.0_1366.0.png"}
+{"name" : "Inspired by recent activity", "label" : "Inspired by recent activity", "screenshotPath" : "target-addCart/S1/pngs/0.0_272.0_750.0_392.0.png"}
+{"name" : "Coca-Cola - 12pk/12 fl oz Cans $5.19 at LA Central", "label" : "Coca-Cola - 12pk/12 fl oz Cans $5.19 at LA Central", "screenshotPath" : "target-addCart/S1/pngs/0.0_392.00000000000006_750.0_864.0.png"}
+{"name" : "Coca-Cola - 12pk/12 fl oz Cans $5.19 at LA Central", "label" : "Coca-Cola - 12pk/12 fl oz Cans $5.19 at LA Central", "screenshotPath" : "target-addCart/S1/pngs/0.0_894.0_750.0_1366.0.png"}
+{"name" : "Show all for Inspired by recent activity", "label" : "Show all for Inspired by recent activity", "screenshotPath" : "target-addCart/S1/pngs/596.0_304.0_718.0_360.0.png"}
+{"value" : "Show all", "name" : "Show all", "label" : "Show all", "screenshotPath" : "target-addCart/S1/pngs/596.0_312.0_718.0_352.0.png"}
+{"value" : "Buy 3 for $13 with same-day order services", "name" : "elastic_product_view_hero_promo_text_label", "label" : "Buy 3 for $13 with same-day order services", "screenshotPath" : "target-addCart/S1/pngs/344.0_658.0_718.0_728.0.png"}
+{"value" : "Buy 3 for $13 with same-day order services", "name" : "elastic_product_view_hero_promo_text_label", "label" : "Buy 3 for $13 with same-day order services", "screenshotPath" : "target-addCart/S1/pngs/344.0_1160.0_718.0_1230.0.png"}
+{"name" : "elastic_product_view_favorite_button", "label" : "Favorite this item", "screenshotPath" : "target-addCart/S1/pngs/630.0_742.0000000000001_718.0_832.0000000000001.png"}
+{"name" : "elastic_product_view_rating_view", "label" : "Average customer rating is 4.6 out of 5 stars with 5881 reviews.", "screenshotPath" : "target-addCart/S1/pngs/344.0_614.0_472.0_640.0.png"}
+{"name" : "elastic_product_view_rating_view", "label" : "Average customer rating is 4.6 out of 5 stars with 5881 reviews.", "screenshotPath" : "target-addCart/S1/pngs/344.0_1118.0_472.0_1142.0.png"}

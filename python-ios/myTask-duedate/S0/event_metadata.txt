@@ -1,0 +1,4 @@
+pathToElementImageCrop: myTask-duedate/S0/pngs/258.0_1059.0_969.0_1125.0.png;
+coords: {'x1': 258.0, 'y1': 1059.0, 'x2': 969.0, 'y2': 1125.0};
+text_identifier: { "label" : "1 undone task" };
+event: click;

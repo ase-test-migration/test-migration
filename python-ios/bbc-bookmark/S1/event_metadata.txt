@@ -1,0 +1,4 @@
+pathToElementImageCrop: bbc-bookmark/S1/pngs/0.0_767.9999999999999_750.0_855.9999999999999.png;
+coords: {'x1': 0.0, 'y1': 767.9999999999999, 'x2': 750.0, 'y2': 855.9999999999999};
+text_identifier: { "label" : "1 hour ago  .  US & Canada" };
+event: click;

@@ -1,0 +1,43 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "usa-mynews",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "My Topics",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.usatoday.android.news:id/suggested_link",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Follow Topic Checkbox",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.usatoday.android.news:id/suggested_topic_name",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Follow Topic Checkbox",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "type": "accessibilityId",
+                "tag": "Follow Topic Checkbox"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Save unchecked 'Finally taking action'",
+                "event": "click"
+            }
+        ]
+    }
+}

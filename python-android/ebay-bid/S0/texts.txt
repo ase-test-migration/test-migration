@@ -1,0 +1,24 @@
+{ "content-desc" : "Main navigation, open" , "resource-id" : "com.ebay.mobile:id/home" , "screenshotPath" : "ebay-bid/S0/pngs/0_74_147_221.png"}
+{ "content-desc" : "Cart, 1 item, button." , "resource-id" : "com.ebay.mobile:id/menu_cart" , "screenshotPath" : "ebay-bid/S0/pngs/954_84_1080_210.png"}
+{ "content-desc" : "Search Keyword Search for anything" , "resource-id" : "com.ebay.mobile:id/search_box" , "screenshotPath" : "ebay-bid/S0/pngs/42_221_785_347.png"}
+{ "content-desc" : "Voice search" , "resource-id" : "com.ebay.mobile:id/search_voice_btn" , "screenshotPath" : "ebay-bid/S0/pngs/785_221_911_347.png"}
+{ "content-desc" : "Image search options" , "resource-id" : "com.ebay.mobile:id/search_image_btn" , "screenshotPath" : "ebay-bid/S0/pngs/911_221_1038_347.png"}
+{ "resource-id" : "com.ebay.mobile:id/recycler_view_main" , "screenshotPath" : "ebay-bid/S0/pngs/0_368_1080_2287.png"}
+{ "resource-id" : "com.ebay.mobile:id/recyclerview_items" , "screenshotPath" : "ebay-bid/S0/pngs/0_400_1080_589.png"}
+{ "content-desc" : "Your Recently Viewed Items - Carousel" , "resource-id" : "com.ebay.mobile:id/home_container_header" , "screenshotPath" : "ebay-bid/S0/pngs/42_1100_1069_1171.png"}
+{ "resource-id" : "com.ebay.mobile:id/recyclerview_items" , "screenshotPath" : "ebay-bid/S0/pngs/0_1203_1080_1980.png"}
+{ "content-desc" : "Your Watched Items - Carousel" , "resource-id" : "com.ebay.mobile:id/home_container_header" , "screenshotPath" : "ebay-bid/S0/pngs/42_2012_1069_2083.png"}
+{ "resource-id" : "com.ebay.mobile:id/recyclerview_items" , "screenshotPath" : "ebay-bid/S0/pngs/0_2115_1080_2287.png"}
+{ "resource-id" : "com.ebay.mobile:id/home_pill" , "screenshotPath" : "ebay-bid/S0/pngs/42_442_334_547.png"}
+{ "resource-id" : "com.ebay.mobile:id/home_pill" , "screenshotPath" : "ebay-bid/S0/pngs/355_442_627_547.png"}
+{ "resource-id" : "com.ebay.mobile:id/home_pill" , "screenshotPath" : "ebay-bid/S0/pngs/648_442_1022_547.png"}
+{ "resource-id" : "com.ebay.mobile:id/home_pill" , "screenshotPath" : "ebay-bid/S0/pngs/1043_442_1080_547.png"}
+{ "resource-id" : "com.ebay.mobile:id/item_card_container" , "screenshotPath" : "ebay-bid/S0/pngs/42_1214_452_1896.png"}
+{ "resource-id" : "com.ebay.mobile:id/item_card_container" , "screenshotPath" : "ebay-bid/S0/pngs/473_1214_883_1896.png"}
+{ "resource-id" : "com.ebay.mobile:id/item_card_container" , "screenshotPath" : "ebay-bid/S0/pngs/904_1214_1080_1896.png"}
+{ "resource-id" : "com.ebay.mobile:id/item_card_container" , "screenshotPath" : "ebay-bid/S0/pngs/42_2126_452_2287.png"}
+{ "resource-id" : "com.ebay.mobile:id/item_card_container" , "screenshotPath" : "ebay-bid/S0/pngs/473_2126_883_2287.png"}
+{ "resource-id" : "com.ebay.mobile:id/item_card_container" , "screenshotPath" : "ebay-bid/S0/pngs/904_2126_1080_2287.png"}
+{ "content-desc" : "Free listings? Jackpot! Your first 200 are free every month. Restrictions apply. Start listing " , "resource-id" : "com.ebay.mobile:id/home_banner_heading_section" , "screenshotPath" : "ebay-bid/S0/pngs/84_642_996_984.png"}
+{ "resource-id" : "com.ebay.mobile:id/home_banner_heading" , "screenshotPath" : "ebay-bid/S0/pngs/84_684_676_754.png"}
+{ "resource-id" : "com.ebay.mobile:id/home_banner_call_to_action" , "screenshotPath" : "ebay-bid/S0/pngs/84_858_360_984.png"}

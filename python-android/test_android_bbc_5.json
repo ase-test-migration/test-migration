@@ -1,0 +1,49 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "bbc-personalize",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Search"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/androidx.recyclerview.widget.RecyclerView[2]/android.widget.TextView[1]"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Add topic"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Navigate up"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Back"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//android.widget.LinearLayout[@content-desc=\"My News\"]/android.widget.TextView"
+                },
+                {
+                    "input": "World",
+                    "event": "oracle",
+                    "oracle-type": "text_invisible"
+                }
+            ]
+        }
+    ]
+}

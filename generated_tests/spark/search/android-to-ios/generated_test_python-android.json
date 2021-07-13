@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "python-android",
+        "events": [
+            {
+                "type": "name",
+                "tag": "search_button",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "searchInputField",
+                "event": "send_keys_enter",
+                "input": "Testing 1"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Testing 1 search term"
+            }
+        ]
+    }
+}

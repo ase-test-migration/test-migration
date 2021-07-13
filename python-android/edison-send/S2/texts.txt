@@ -1,0 +1,15 @@
+{ "resource-id" : "com.easilydo.mail:id/nested_scroll_view" , "screenshotPath" : "edison-send/S2/pngs/0_314_1080_1463.png"}
+{ "content-desc" : "edit email to" , "resource-id" : "com.easilydo.mail:id/contacts_to_field" , "screenshotPath" : "edison-send/S2/pngs/0_314_1080_459.png"}
+{ "content-desc" : "show recommended contacts" , "resource-id" : "com.easilydo.mail:id/expand_to_cb" , "screenshotPath" : "edison-send/S2/pngs/970_332_1080_441.png"}
+{ "resource-id" : "com.easilydo.mail:id/recommend_to_contacts" , "screenshotPath" : "edison-send/S2/pngs/0_459_1080_614.png"}
+{ "content-desc" : "edit email cc" , "resource-id" : "com.easilydo.mail:id/contacts_cc_field" , "screenshotPath" : "edison-send/S2/pngs/0_614_1080_759.png"}
+{ "resource-id" : "com.easilydo.mail:id/subject_field" , "screenshotPath" : "edison-send/S2/pngs/0_759_1080_908.png"}
+{ "content-desc" : "navigate up" , "resource-id" : "com.easilydo.mail:id/back_arrow" , "screenshotPath" : "edison-send/S2/pngs/44_209_110_275.png"}
+{ "resource-id" : "com.easilydo.mail:id/sender_spinner" , "screenshotPath" : "edison-send/S2/pngs/132_209_662_275.png"}
+{ "content-desc" : "Add Attachment" , "resource-id" : "com.easilydo.mail:id/action_add_attachment" , "screenshotPath" : "edison-send/S2/pngs/662_176_794_308.png"}
+{ "content-desc" : "Add Inline" , "resource-id" : "com.easilydo.mail:id/action_add_inline" , "screenshotPath" : "edison-send/S2/pngs/794_176_926_308.png"}
+{ "content-desc" : "Send Email" , "resource-id" : "com.easilydo.mail:id/action_send_email" , "screenshotPath" : "edison-send/S2/pngs/926_176_1058_308.png"}
+{ "content-desc" : "Some User" , "resource-id" : "com.easilydo.mail:id/recommend_contacts_layout" , "screenshotPath" : "edison-send/S2/pngs/55_487_451_586.png"}
+{ "content-desc" : "email@example.com" , "resource-id" : "com.easilydo.mail:id/recommend_contacts_layout" , "screenshotPath" : "edison-send/S2/pngs/468_487_1009_586.png"}
+{ "content-desc" : "Google" , "resource-id" : "com.easilydo.mail:id/recommend_contacts_layout" , "screenshotPath" : "edison-send/S2/pngs/1026_487_1080_586.png"}
+{ "resource-id" : "edo-container" , "screenshotPath" : "edison-send/S2/pngs/44_952_1039_1152.png"}

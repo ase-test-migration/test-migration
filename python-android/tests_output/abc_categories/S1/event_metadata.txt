@@ -1,0 +1,4 @@
+pathToElementImageCrop: abc_categories/S1/pngs/155_1331_756_1463.png;
+coords: {'x1': 155, 'y1': 1331, 'x2': 756, 'y2': 1463};
+text_identifier: { "resource-id" : "com.abc.abcnews:id/drawer_item_textview" };
+event: click;

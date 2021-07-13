@@ -1,0 +1,10 @@
+# accessibility id=cartIcon
+Click Element    accessibility id=cartIcon
+# accessibility id=1
+Click Element    accessibility id=1
+# accessibility id=0
+Click Element    accessibility id=0
+# xpath=//XCUIElementTypeButton[@name="Remove item"]
+Click Element    xpath=//XCUIElementTypeButton[@name="Remove item"]
+# xpath=//XCUIElementTypeButton[@name="Continue Shopping"]
+Click Element    xpath=//XCUIElementTypeButton[@name="Continue Shopping"]

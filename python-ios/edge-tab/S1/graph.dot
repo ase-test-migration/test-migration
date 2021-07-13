@@ -1,0 +1,84 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Edge\l|label = Edge\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 66\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/0.0_0.0_750.0_132.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 65\l|width = 375\l|height = 602\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/0.0_130.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 619\l|width = 375\l|height = 48\l|index = 2\l|numberOfChildren = 3\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/0.0_1238.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 66\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/0.0_0.0_750.0_132.0.png\l}"]
+	10	[label="{type = XCUIElementTypeCollectionView\l|name = TabCenterCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 65\l|width = 375\l|height = 602\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/0.0_130.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 619\l|width = 375\l|height = 48\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/0.0_1238.0_750.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 20\l|width = 343\l|height = 45\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/32.0_40.0_718.0_130.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 65\l|width = 375\l|height = 1\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/0.0_130.0_750.0_132.0.png\l}"]
+	14	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 10\l|y = 75\l|width = 176\l|height = 177\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/20.0_150.0_372.0_504.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 1 page\l|label = Vertical scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 342\l|y = 65\l|width = 30\l|height = 602\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/684.0_130.0_744.0_1334.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 634\l|width = 375\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/0.0_1268.0_750.0_1328.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 619\l|width = 375\l|height = 48\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/0.0_1238.0_750.0_1334.0.png\l}"]
+	18	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 16\l|y = 20\l|width = 343\l|height = 45\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/32.0_40.0_718.0_130.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 75\l|width = 176\l|height = 177\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/20.0_150.0_372.0_504.0.png\l}"]
+	20	[label="{type = XCUIElementTypeButton\l|name = TabCenterCloseAllButton\l|label = Close all\l|enabled = true\l|visible = true\l|x = 16\l|y = 628\l|width = 58\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/32.0_1256.0_148.0_1316.0.png\l}"]
+	21	[label="{type = XCUIElementTypeButton\l|name = TabCenterNewTabButton\l|label = Open a new tab\l|enabled = true\l|visible = true\l|x = 160\l|y = 617\l|width = 55\l|height = 52\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = true \l|screenshotPath = edge-tab/S1/pngs/320.0_1234.0_430.0_1338.0.png\l}"]
+	22	[label="{type = XCUIElementTypeButton\l|name = Done\l|label = Done\l|enabled = true\l|visible = true\l|x = 322\l|y = 628\l|width = 37\l|height = 30\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/644.0_1256.0_718.0_1316.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 20\l|width = 343\l|height = 45\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/32.0_40.0_718.0_130.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 14\l|y = 79\l|width = 168\l|height = 169\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/28.000000000000004_158.0_364.0_496.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 18\l|y = 83\l|width = 160\l|height = 161\l|index = 2\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/36.0_166.0_356.0_488.0.png\l}"]
+	26	[label="{type = XCUIElementTypeButton\l|name = TabCenterCellCloseButton\l|label = Close tab New tab\l|enabled = true\l|visible = true\l|x = 136\l|y = 201\l|width = 48\l|height = 49\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/272.0_402.0_368.0_500.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 20\l|width = 343\l|height = 43\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/32.0_40.0_718.0_126.00000000000001.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 63\l|width = 104\l|height = 2\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/32.0_126.0_240.0_130.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 18\l|y = 207\l|width = 160\l|height = 37\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/36.0_414.0_356.0_488.0.png\l}"]
+	30	[label="{type = XCUIElementTypeButton\l|name = NormalModeBrowsingButton\l|label = Selected, Current Tabs tab, tab 1 of 3\l|enabled = true\l|visible = true\l|x = 16\l|y = 20\l|width = 104\l|height = 43\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/32.0_40.0_240.0_126.00000000000001.png\l}"]
+	31	[label="{type = XCUIElementTypeButton\l|name = PrivateModeBrowsingButton\l|label = Unselected, InPrivate tab, tab 2 of 3\l|enabled = true\l|visible = true\l|x = 135\l|y = 20\l|width = 105\l|height = 43\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/270.0_40.0_480.0_126.00000000000001.png\l}"]
+	32	[label="{type = XCUIElementTypeButton\l|name = SyncedTabButton\l|label = Unselected, Recent Tabs tab, tab 3 of 3\l|enabled = true\l|visible = true\l|x = 255\l|y = 20\l|width = 104\l|height = 43\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/510.00000000000006_40.0_718.0_126.00000000000001.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 18\l|y = 207\l|width = 160\l|height = 37\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/36.0_414.0_356.0_488.0.png\l}"]
+	34	[label="{type = XCUIElementTypeStaticText\l|value = Tabs\l|name = Tabs\l|label = Tabs\l|enabled = true\l|visible = true\l|x = 51\l|y = 32\l|width = 34\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/102.00000000000001_64.0_170.0_102.0.png\l}"]
+	35	[label="{type = XCUIElementTypeStaticText\l|value = InPrivate\l|name = InPrivate\l|label = InPrivate\l|enabled = true\l|visible = true\l|x = 157\l|y = 32\l|width = 61\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/314.0_64.0_436.0_102.0.png\l}"]
+	36	[label="{type = XCUIElementTypeStaticText\l|value = Recent Tabs\l|name = Recent Tabs\l|label = Recent Tabs\l|enabled = true\l|visible = true\l|x = 265\l|y = 32\l|width = 85\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/530.0_64.0_700.0_102.0.png\l}"]
+	37	[label="{type = XCUIElementTypeStaticText\l|value = Tab 1 of 1 is New tab\l|name = Tab 1 of 1 is New tab\l|label = Tab 1 of 1 is New tab\l|enabled = true\l|visible = true\l|x = 28\l|y = 207\l|width = 108\l|height = 37\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edge-tab/S1/pngs/56.00000000000001_414.0_272.0_488.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	5 -> 7
+	5 -> 8
+	6 -> 9
+	7 -> 10
+	8 -> 11
+	9 -> 12
+	9 -> 13
+	10 -> 14
+	10 -> 15
+	10 -> 16
+	11 -> 17
+	12 -> 18
+	14 -> 19
+	17 -> 20
+	17 -> 21
+	17 -> 22
+	18 -> 23
+	19 -> 24
+	19 -> 25
+	19 -> 26
+	23 -> 27
+	23 -> 28
+	25 -> 29
+	27 -> 30
+	27 -> 31
+	27 -> 32
+	29 -> 33
+	30 -> 34
+	31 -> 35
+	32 -> 36
+	33 -> 37
+
+
+}

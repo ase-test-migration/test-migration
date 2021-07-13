@@ -1,0 +1,18 @@
+{ "resource-id" : "com.postmates.android:id/one_feed_view_pager" , "screenshotPath" : "removefavorite/S0/pngs/0_72_1080_1776.png"}
+{ "resource-id" : "com.postmates.android:id/recyclerview_bento_feed" , "screenshotPath" : "removefavorite/S0/pngs/0_288_1080_1776.png"}
+{ "resource-id" : "com.postmates.android:id/recyclerview_horizontal_carousel" , "screenshotPath" : "removefavorite/S0/pngs/0_288_1080_869.png"}
+{ "resource-id" : "com.postmates.android:id/recyclerview_horizontal_carousel" , "screenshotPath" : "removefavorite/S0/pngs/0_1172_1080_1776.png"}
+{ "resource-id" : "com.postmates.android:id/constraintlayout_root" , "screenshotPath" : "removefavorite/S0/pngs/60_288_1020_773.png"}
+{ "resource-id" : "com.postmates.android:id/constraintlayout_root" , "screenshotPath" : "removefavorite/S0/pngs/1044_288_1080_773.png"}
+{ "resource-id" : "com.postmates.android:id/layout_feed_category_header_root" , "screenshotPath" : "removefavorite/S0/pngs/0_871_1080_1082.png"}
+{ "resource-id" : "com.postmates.android:id/layout_feed_card_root" , "screenshotPath" : "removefavorite/S0/pngs/60_1172_996_1776.png"}
+{ "resource-id" : "com.postmates.android:id/layout_feed_card_root" , "screenshotPath" : "removefavorite/S0/pngs/1020_1172_1080_1776.png"}
+{ "resource-id" : "com.postmates.android:id/tablayout_feed_primary_tabs" , "screenshotPath" : "removefavorite/S0/pngs/60_98_179_263.png"}
+{ "resource-id" : "com.postmates.android:id/textview_feed_toolbar_title" , "screenshotPath" : "removefavorite/S0/pngs/461_114_936_247.png"}
+{ "content-desc" : "Change Address" , "resource-id" : "com.postmates.android:id/imageview_feed_expand_button" , "screenshotPath" : "removefavorite/S0/pngs/936_157_1020_205.png"}
+{ "content-desc" : "Set place as favorite" , "resource-id" : "com.postmates.android:id/imagebutton_feed_favorite" , "screenshotPath" : "removefavorite/S0/pngs/840_1172_996_1340.png"}
+{ "content-desc" : "Profile" , "resource-id" : "com.postmates.android:id/imageview_feed_toolbar_avatar" , "screenshotPath" : "removefavorite/S0/pngs/0_72_216_288.png"}
+{ "resource-id" : "com.postmates.android:id/layout_feed_collapsed_address" , "screenshotPath" : "removefavorite/S0/pngs/272_122_807_238.png"}
+{ "content-desc" : "Referral" , "resource-id" : "com.postmates.android:id/imagebutton_feed_referral" , "screenshotPath" : "removefavorite/S0/pngs/831_138_915_222.png"}
+{ "content-desc" : "Search Places and Items" , "resource-id" : "com.postmates.android:id/imageview_feed_search" , "screenshotPath" : "removefavorite/S0/pngs/915_97_1080_262.png"}
+{ "content-desc" : "Food" , "screenshotPath" : "removefavorite/S0/pngs/60_98_155_263.png"}

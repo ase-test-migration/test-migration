@@ -1,0 +1,5 @@
+pathToElementImageCrop: newton-send/S1/pngs/104_368_961_431.png;
+coords: {'x1': 104, 'y1': 368, 'x2': 961, 'y2': 431};
+text_identifier: { "resource-id" : "com.cloudmagic.mail:id/multiAutoCompleteTextView" };
+event: send_keys;
+input: email@example.com;

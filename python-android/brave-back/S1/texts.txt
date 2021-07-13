@@ -1,0 +1,6 @@
+{ "content-desc" : "New tab" , "screenshotPath" : "brave-back/S1/pngs/0_171_1080_1977.png"}
+{ "resource-id" : "com.brave.browser:id/url_bar" , "screenshotPath" : "brave-back/S1/pngs/154_179_932_317.png"}
+{ "resource-id" : "com.brave.browser:id/location_bar_status_icon" , "screenshotPath" : "brave-back/S1/pngs/44_171_110_325.png"}
+{ "content-desc" : "Start voice search" , "resource-id" : "com.brave.browser:id/mic_button" , "screenshotPath" : "brave-back/S1/pngs/932_171_1058_325.png"}
+{ "resource-id" : "com.brave.browser:id/ntp_widget_view_pager" , "screenshotPath" : "brave-back/S1/pngs/33_358_1047_743.png"}
+{ "resource-id" : "com.brave.browser:id/widget_more_option" , "screenshotPath" : "brave-back/S1/pngs/937_402_1003_468.png"}

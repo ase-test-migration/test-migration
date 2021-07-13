@@ -1,0 +1,4 @@
+pathToElementImageCrop: usa-mynews/S2/pngs/687_343_1005_415.png;
+coords: {'x1': 687, 'y1': 343, 'x2': 1005, 'y2': 415};
+text_identifier: { "text" : "Add Topic" , "content-desc" : "Follow Topic Checkbox" , "resource-id" : "com.usatoday.android.news:id/suggested_topic_follow_button" };
+event: click;

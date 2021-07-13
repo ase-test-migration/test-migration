@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "cnn-bookmark",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Image"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Bookmark"
+                }
+            ]
+        }
+    ]
+}

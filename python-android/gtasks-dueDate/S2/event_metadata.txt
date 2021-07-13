@@ -1,0 +1,4 @@
+pathToElementImageCrop: gtasks-dueDate/S2/pngs/265_1442_925_1539.png;
+coords: {'x1': 265, 'y1': 1442, 'x2': 925, 'y2': 1539};
+text_identifier: { "resource-id" : "com.google.android.apps.tasks:id/dtp_time_label" };
+event: click;

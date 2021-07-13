@@ -1,0 +1,45 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "poshmark-Login",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "tapToLoginButton"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "send_keys",
+                    "tag": "usernameTextEdit",
+                    "input": "TestUseri"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "send_keys",
+                    "tag": "passwordTextEdit",
+                    "input": "Test.0123"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "rightNavButton1"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "@TestUseri"
+                }
+            ]
+        }
+    ]
+}

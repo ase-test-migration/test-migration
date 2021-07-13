@@ -1,0 +1,74 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = USA TODAY\l|label = USA TODAY\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeNavigationBar\l|name = Manage Topics\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 44\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/0.0_132.0_1242.0_264.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeStaticText\l|value = Manage Topics\l|name = Manage Topics\l|label = Manage Topics\l|enabled = true\l|visible = true\l|x = 149\l|y = 55\l|width = 116\l|height = 21\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/447.0_165.0_795.0_228.0.png\l}"]
+	7	[label="{type = XCUIElementTypeButton\l|name = Done\l|label = Done\l|enabled = true\l|visible = true\l|x = 353\l|y = 44\l|width = 49\l|height = 44\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/1059.0_132.0_1206.0_264.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 726\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/0.0_264.0_1242.0_2442.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 814\l|width = 414\l|height = 98\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/0.0_2442.0_1242.0_2736.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 726\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/0.0_264.0_1242.0_2442.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 814\l|width = 414\l|height = 98\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/0.0_2442.0_1242.0_2736.0.png\l}"]
+	14	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 726\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/0.0_264.0_1242.0_2442.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 814\l|width = 414\l|height = 48\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/0.0_2442.0_1242.0_2586.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|name = Toggle topic notifications ON/OFF. Tap the X to remove a topic.\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 70\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/0.0_264.0_1242.0_474.0.png\l}"]
+	17	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 158\l|width = 414\l|height = 50\l|numberOfChildren = 6\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/0.0_474.00000000000006_1242.0_624.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|name = Want to add topics? \l|enabled = true\l|visible = true\l|x = 0\l|y = 208\l|width = 414\l|height = 85\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/0.0_624.0_1242.0_879.0.png\l}"]
+	19	[label="{type = XCUIElementTypeButton\l|name = See Suggested Topics\l|label = See Suggested Topics\l|enabled = true\l|visible = true\l|x = 143\l|y = 233\l|width = 128\l|height = 29\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/429.0_699.0_813.0_786.0.png\l}"]
+	20	[label="{type = XCUIElementTypeStaticText\l|value = Schedule Quiet Time\l|name = Schedule Quiet Time\l|label = Schedule Quiet Time\l|enabled = true\l|visible = true\l|x = 20\l|y = 829\l|width = 138\l|height = 18\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/60.0_2487.0_474.0_2541.0.png\l}"]
+	21	[label="{type = XCUIElementTypeSwitch\l|value = 0\l|name = Turn on quiet time\l|label = Turn on quiet time\l|enabled = true\l|visible = true\l|x = 345\l|y = 822\l|width = 51\l|height = 32\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/1035.0_2466.0_1188.0_2562.0.png\l}"]
+	22	[label="{type = XCUIElementTypeStaticText\l|value = Toggle topic notifications ON/OFF. Tap the X to remove a topic.\l|name = Toggle topic notifications ON/OFF. Tap the X to remove a topic.\l|label = Toggle topic notifications ON/OFF. Tap the X to remove a topic.\l|enabled = true\l|visible = true\l|x = 20\l|y = 115\l|width = 374\l|height = 16\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/60.0_344.99999999999994_1182.0_392.99999999999994.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 158\l|width = 414\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/0.0_474.00000000000006_1242.0_477.00000000000006.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 207\l|width = 414\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/0.0_621.0_1242.0_624.0.png\l}"]
+	25	[label="{type = XCUIElementTypeButton\l|name = Delete Coronavirus COVID-19\l|label = Delete Coronavirus COVID-19\l|enabled = true\l|visible = true\l|x = 10\l|y = 172\l|width = 40\l|height = 22\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/30.0_516.0_150.0_582.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 207\l|width = 360\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/45.0_621.0_1125.0_624.0.png\l}"]
+	27	[label="{type = XCUIElementTypeStaticText\l|value = Coronavirus COVID-19\l|name = Coronavirus COVID-19\l|label = Coronavirus COVID-19\l|enabled = true\l|visible = true\l|x = 55\l|y = 166\l|width = 282\l|height = 34\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = true \l|screenshotPath = usa-mynews/S5/pngs/165.0_498.0_1011.0_600.0.png\l}"]
+	28	[label="{type = XCUIElementTypeSwitch\l|value = 1\l|name = Turn off notification for Coronavirus COVID-19\l|label = Turn off notification for Coronavirus COVID-19\l|enabled = true\l|visible = true\l|x = 345\l|y = 167\l|width = 51\l|height = 32\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/1035.0_501.0_1188.0_597.0.png\l}"]
+	29	[label="{type = XCUIElementTypeStaticText\l|value = Want to add topics? \l|name = Want to add topics? \l|label = Want to add topics? \l|enabled = true\l|visible = true\l|x = 149\l|y = 216\l|width = 116\l|height = 16\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/447.0_648.0_795.0_696.0.png\l}"]
+	30	[label="{type = XCUIElementTypeButton\l|name = See Suggested Topics\l|label = See Suggested Topics\l|enabled = true\l|visible = true\l|x = 143\l|y = 233\l|width = 128\l|height = 29\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/429.0_699.0_813.0_786.0.png\l}"]
+	31	[label="{type = XCUIElementTypeStaticText\l|value = See Suggested Topics\l|name = See Suggested Topics\l|label = See Suggested Topics\l|enabled = true\l|visible = true\l|x = 143\l|y = 239\l|width = 128\l|height = 17\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/429.0_717.0000000000001_813.0_768.0000000000001.png\l}"]
+	32	[label="{type = XCUIElementTypeStaticText\l|value = See Suggested Topics\l|name = See Suggested Topics\l|label = See Suggested Topics\l|enabled = true\l|visible = true\l|x = 143\l|y = 239\l|width = 128\l|height = 17\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-mynews/S5/pngs/429.0_717.0000000000001_813.0_768.0000000000001.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	3 -> 5
+	4 -> 6
+	4 -> 7
+	5 -> 8
+	8 -> 9
+	9 -> 10
+	9 -> 11
+	10 -> 12
+	11 -> 13
+	12 -> 14
+	13 -> 15
+	14 -> 16
+	14 -> 17
+	14 -> 18
+	14 -> 19
+	15 -> 20
+	15 -> 21
+	16 -> 22
+	17 -> 23
+	17 -> 24
+	17 -> 25
+	17 -> 26
+	17 -> 27
+	17 -> 28
+	18 -> 29
+	18 -> 30
+	19 -> 31
+	30 -> 32
+
+
+}

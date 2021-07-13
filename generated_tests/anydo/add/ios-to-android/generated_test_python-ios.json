@@ -1,0 +1,29 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "python-ios",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.anydo:id/quick_add_input",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.anydo:id/quick_add_input",
+                "event": "send_keys",
+                "input": "testing"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.anydo:id/quick_add_button_container",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "testing"
+            }
+        ]
+    }
+}

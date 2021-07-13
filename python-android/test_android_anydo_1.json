@@ -1,0 +1,56 @@
+{
+    "tests": [
+        {
+            "name": "anydo-edit", 
+            "events": [
+                {
+                    "input": "Mytask", 
+                    "tag": "com.anydo:id/quick_add_input", 
+                    "type": "id", 
+                    "event": "send_keys_enter"
+                },
+                {
+                    "input": "Mytask",
+                    "event": "oracle",
+                    "oracle-type": "text_exists"
+                },
+                {
+                    "tag": "com.anydo:id/title", 
+                    "type": "id", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "com.anydo:id/taskTitle", 
+                    "type": "id", 
+                    "event": "click"
+                }, 
+                {
+                    "input": "Editedtask", 
+                    "tag": "com.anydo:id/taskTitle", 
+                    "type": "id", 
+                    "event": "send_keys_enter"
+                }, 
+                {
+                    "tag": "com.anydo:id/btnSave", 
+                    "type": "id", 
+                    "event": "click"
+                },
+                {
+                    "input": "Editedtask",
+                    "event": "oracle",
+                    "oracle-type": "text_exists"
+                },
+                {
+                    "input": "Mytask",
+                    "event": "oracle",
+                    "oracle-type": "text_invisible"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "emulator-5554", 
+        "platformName": "Android", 
+        "newCommandTimeout": 0
+    }
+}

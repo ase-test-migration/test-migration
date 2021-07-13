@@ -1,0 +1,4 @@
+pathToElementImageCrop: grubhub-search/S0/pngs/12.0_423.0_873.0_555.0.png;
+coords: {'x1': 12.0, 'y1': 423.0, 'x2': 873.0, 'y2': 555.0};
+text_identifier: { "name" : "Find Restaurants" };
+event: click;

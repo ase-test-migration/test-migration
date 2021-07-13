@@ -1,0 +1,6 @@
+pathToElementImageCrop: ;
+coords: ;
+text_identifier: { Roman Antiquities };
+event: oracle;
+oracle-type: text_exists;
+input: Roman Antiquities;

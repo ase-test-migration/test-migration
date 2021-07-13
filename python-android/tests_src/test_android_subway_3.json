@@ -1,0 +1,34 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "testSubwayRewardCode",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Subway Myway Rewards Program"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Tap to select Activity"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Tap to select your rewards"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Tap to scan at register"
+                }
+            ]
+        }
+    ]
+}

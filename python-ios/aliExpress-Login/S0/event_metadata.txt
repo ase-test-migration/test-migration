@@ -1,0 +1,4 @@
+pathToElementImageCrop: aliExpress-Login/S0/pngs/592.0_1168.0_702.0_1218.0.png;
+coords: {'x1': 592.0, 'y1': 1168.0, 'x2': 702.0, 'y2': 1218.0};
+text_identifier: { "label" : "Sign in" };
+event: click;

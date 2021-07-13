@@ -1,0 +1,18 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "poshmark-delCart",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.poshmark.app:id/deleteFromBundleButton",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "Bundle empty. Add items and save!"
+            }
+        ]
+    }
+}

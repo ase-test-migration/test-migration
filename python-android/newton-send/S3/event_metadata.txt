@@ -1,0 +1,4 @@
+pathToElementImageCrop: newton-send/S3/pngs/924_1355_1036_1414.png;
+coords: {'x1': 924, 'y1': 1355, 'x2': 1036, 'y2': 1414};
+text_identifier: { "resource-id" : "com.cloudmagic.mail:id/send_mail_text" };
+event: click;

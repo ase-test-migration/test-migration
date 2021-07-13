@@ -1,0 +1,13 @@
+{ "resource-id" : "com.todoist:id/touch_outside" , "screenshotPath" : "todoist-remove/S1/pngs/0_171_1080_1977.png"}
+{ "resource-id" : "com.todoist:id/item_scroll_view" , "screenshotPath" : "todoist-remove/S1/pngs/0_1160_1080_1977.png"}
+{ "resource-id" : "com.todoist:id/item_parent" , "screenshotPath" : "todoist-remove/S1/pngs/55_1204_1014_1263.png"}
+{ "content-desc" : "Complete" , "resource-id" : "com.todoist:id/item_checkmark" , "screenshotPath" : "todoist-remove/S1/pngs/39_1285_116_1362.png"}
+{ "resource-id" : "com.todoist:id/item_content" , "screenshotPath" : "todoist-remove/S1/pngs/144_1296_1080_1360.png"}
+{ "resource-id" : "com.todoist:id/item_due" , "screenshotPath" : "todoist-remove/S1/pngs/144_1393_348_1492.png"}
+{ "content-desc" : "Label" , "resource-id" : "com.todoist:id/item_label" , "screenshotPath" : "todoist-remove/S1/pngs/144_1525_221_1613.png"}
+{ "content-desc" : "Priority" , "resource-id" : "com.todoist:id/item_priority" , "screenshotPath" : "todoist-remove/S1/pngs/276_1525_364_1613.png"}
+{ "content-desc" : "Reminders" , "resource-id" : "com.todoist:id/item_reminder" , "screenshotPath" : "todoist-remove/S1/pngs/419_1525_507_1613.png"}
+{ "content-desc" : "Comments" , "resource-id" : "com.todoist:id/item_note" , "screenshotPath" : "todoist-remove/S1/pngs/562_1525_650_1613.png"}
+{ "content-desc" : "Overflow menu" , "resource-id" : "com.todoist:id/item_overflow" , "screenshotPath" : "todoist-remove/S1/pngs/959_1525_1036_1613.png"}
+{ "resource-id" : "com.todoist:id/item_subtasks" , "screenshotPath" : "todoist-remove/S1/pngs/44_1649_1080_1847.png"}
+{ "resource-id" : "android:id/text1" , "screenshotPath" : "todoist-remove/S1/pngs/143_1671_1080_1737.png"}

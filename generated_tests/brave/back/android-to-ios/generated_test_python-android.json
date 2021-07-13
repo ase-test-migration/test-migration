@@ -1,0 +1,40 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "python-android",
+        "events": [
+            {
+                "type": "name",
+                "tag": "url",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "address",
+                "event": "send_keys_enter",
+                "input": "google.com"
+            },
+            {
+                "type": "name",
+                "tag": "url",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "address",
+                "event": "send_keys_enter",
+                "input": "wikipedia.org"
+            },
+            {
+                "type": "name",
+                "tag": "TabToolbar.backButton",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Google"
+            }
+        ]
+    }
+}

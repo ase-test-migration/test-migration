@@ -1,0 +1,4 @@
+pathToElementImageCrop: msToDo-duedate/S5/pngs/192.0_1029.0_1080.0_1149.0.png;
+coords: {'x1': 192.0, 'y1': 1029.0, 'x2': 1080.0, 'y2': 1149.0};
+text_identifier: { "label" : "S" };
+event: click;

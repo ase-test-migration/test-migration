@@ -1,0 +1,21 @@
+{ "resource-id" : "org.mozilla.firefox:id/toolbar" , "screenshotPath" : "firefox-tab/S0/pngs/0_1994_1080_2148.png"}
+{ "resource-id" : "www-wikipedia-org" , "screenshotPath" : "firefox-tab/S0/pngs/0_171_1080_1977.png"}
+{ "content-desc" : "Tracking Protection is on" , "resource-id" : "org.mozilla.firefox:id/mozac_browser_toolbar_tracking_protection_indicator" , "screenshotPath" : "firefox-tab/S0/pngs/22_2016_132_2126.png"}
+{ "content-desc" : "Site information" , "resource-id" : "org.mozilla.firefox:id/mozac_browser_toolbar_security_indicator" , "screenshotPath" : "firefox-tab/S0/pngs/135_2016_245_2126.png"}
+{ "resource-id" : "org.mozilla.firefox:id/mozac_browser_toolbar_menu" , "screenshotPath" : "firefox-tab/S0/pngs/981_2005_1080_2137.png"}
+{ "resource-id" : "org.mozilla.firefox:id/mozac_browser_toolbar_url_view" , "screenshotPath" : "firefox-tab/S0/pngs/267_2016_849_2126.png"}
+{ "content-desc" : "Tabs" , "screenshotPath" : "firefox-tab/S0/pngs/849_2005_981_2137.png"}
+{ "resource-id" : "js-lang-list-button" , "screenshotPath" : "firefox-tab/S0/pngs/150_1480_930_1577.png"}
+{ "content-desc" : "Wikimedia Foundation" , "screenshotPath" : "firefox-tab/S0/pngs/475_1856_826_1898.png"}
+{ "content-desc" : "English 6 245 000+ articles" , "resource-id" : "js-link-box-en" , "screenshotPath" : "firefox-tab/S0/pngs/44_607_313_778.png"}
+{ "content-desc" : "日本語 1 252 000+ 記事" , "resource-id" : "js-link-box-ja" , "screenshotPath" : "firefox-tab/S0/pngs/400_607_669_733.png"}
+{ "content-desc" : "Deutsch 2 534 000+ Artikel" , "resource-id" : "js-link-box-de" , "screenshotPath" : "firefox-tab/S0/pngs/756_607_1025_778.png"}
+{ "content-desc" : "Español 1 659 000+ artículos" , "resource-id" : "js-link-box-es" , "screenshotPath" : "firefox-tab/S0/pngs/44_826_313_996.png"}
+{ "content-desc" : "Русский 1 697 000+ статей" , "resource-id" : "js-link-box-ru" , "screenshotPath" : "firefox-tab/S0/pngs/400_826_669_996.png"}
+{ "content-desc" : "Français 2 296 000+ articles" , "resource-id" : "js-link-box-fr" , "screenshotPath" : "firefox-tab/S0/pngs/756_826_1025_996.png"}
+{ "content-desc" : "Italiano 1 672 000+ voci" , "resource-id" : "js-link-box-it" , "screenshotPath" : "firefox-tab/S0/pngs/44_1044_313_1169.png"}
+{ "content-desc" : "中文 1 175 000+ 條目" , "resource-id" : "js-link-box-zh" , "screenshotPath" : "firefox-tab/S0/pngs/400_1044_669_1169.png"}
+{ "content-desc" : "Polski 1 454 000+ haseł" , "resource-id" : "js-link-box-pl" , "screenshotPath" : "firefox-tab/S0/pngs/756_1044_1025_1214.png"}
+{ "content-desc" : "Português 1 055 000+ artigos" , "resource-id" : "js-link-box-pt" , "screenshotPath" : "firefox-tab/S0/pngs/44_1262_313_1432.png"}
+{ "resource-id" : "searchInput" , "screenshotPath" : "firefox-tab/S0/pngs/27_448_900_568.png"}
+{ "resource-id" : "jsLangLabel" , "screenshotPath" : "firefox-tab/S0/pngs/756_475_802_541.png"}

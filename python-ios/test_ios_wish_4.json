@@ -1,0 +1,44 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "wish-wishlist",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "wishListBarButton"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//XCUIElementTypeButton[@name=\"Create New Wishlist\"]"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "send_keys",
+                    "tag": "wishlistTextField",
+                    "input": "Favorites"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "createWishlistButton"
+                },
+                {
+                    "event": "oracle",
+                    "oracle-type": "text_invisible",
+                    "input": "Create New Wishlist"
+                }
+            ]
+        }
+    ]
+}

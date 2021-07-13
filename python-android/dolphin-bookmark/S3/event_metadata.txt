@@ -1,0 +1,4 @@
+pathToElementImageCrop: dolphin-bookmark/S3/pngs/44_2030_856_2148.png;
+coords: {'x1': 44, 'y1': 2030, 'x2': 856, 'y2': 2148};
+text_identifier: { "resource-id" : "mobi.mgeek.TunnyBrowser:id/add_bookmark" };
+event: click;

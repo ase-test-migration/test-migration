@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "testMeNotify",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Me"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.yelp.android:id/content"
+                }
+            ]
+        }
+    ]
+}

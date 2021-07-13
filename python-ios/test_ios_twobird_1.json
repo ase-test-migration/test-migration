@@ -1,0 +1,45 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "twobird-send",
+            "events": [
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeOther[@name=\"Inbox Last Week Thread Testing 1 search term Thread Testing 1 search term Thread Something else Vertical scroll bar, 1 page Horizontal scroll bar, 1 page\"])[6]/XCUIElementTypeOther[3]/XCUIElementTypeOther/XCUIElementTypeOther[3]"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "send_keys",
+                    "tag": "To",
+                    "input": "email@example.com"
+                },
+                {
+                    "type": "xPath",
+                    "event": "send_keys",
+                    "tag": "(//XCUIElementTypeOther[@name=\"Subject\"])[2]/XCUIElementTypeTextField",
+                    "input": "Testing 2"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Send"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Testing 2"
+                }
+            ]
+        }
+    ]
+}

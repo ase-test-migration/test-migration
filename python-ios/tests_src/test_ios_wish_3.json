@@ -1,0 +1,29 @@
+
+{
+    "desiredCapabilities": {
+          "platformName": "iOS",
+          "platformVersion": "13.3.1",
+          "deviceName": "Someone's iPhone",
+          "udid": "auto",
+          "xcodeOrgId": "X9EN5J4J22",
+          "xcodeSigningId": "iPhone Developer"
+    },
+    "tests" : [
+        {
+            "name" : "testWishBuy",
+            "events": [
+                {
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeCell[@name=\"productCell\"])[1]/XCUIElementTypeOther[1]",
+                    "type": "xPath"
+                },
+                {
+                    "event": "click",
+                    "tag": "Buy",
+                    "type": "accessibilityId"
+                }
+            ]
+
+    }
+    ]
+}

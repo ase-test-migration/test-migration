@@ -1,0 +1,52 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Poshmark\l|label = Poshmark\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/poshmark-Login/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/poshmark-Login/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/poshmark-Login/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/poshmark-Login/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/poshmark-Login/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/poshmark-Login/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/poshmark-Login/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 333\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/poshmark-Login/S0/pngs/0.0_0.0_750.0_666.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 380\l|width = 375\l|height = 277\l|index = 1\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/poshmark-Login/S0/pngs/0.0_760.0_750.0_1314.0.png\l}"]
+	9	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 333\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/poshmark-Login/S0/pngs/0.0_0.0_750.0_666.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|name = Login with Facebook\l|label = Login with Facebook\l|enabled = true\l|visible = true\l|x = 57\l|y = 380\l|width = 261\l|height = 50\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/poshmark-Login/S0/pngs/114.0_760.0_636.0_860.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|name = Sign in with Apple\l|label = Sign in with Apple\l|enabled = true\l|visible = true\l|x = 57\l|y = 443\l|width = 261\l|height = 50\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/poshmark-Login/S0/pngs/114.0_886.0_636.0_986.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|name = Sign up with Email\l|label = Sign up with Email\l|enabled = true\l|visible = true\l|x = 57\l|y = 506\l|width = 261\l|height = 50\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/poshmark-Login/S0/pngs/114.0_1012.0_636.0_1112.0.png\l}"]
+	13	[label="{type = XCUIElementTypeButton\l|name = tapToLoginButton\l|label = Already have an account? Tap to login!\l|enabled = true\l|visible = true\l|x = 15\l|y = 563\l|width = 345\l|height = 30\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/poshmark-Login/S0/pngs/30.0_1126.0_720.0_1186.0.png\l}"]
+	14	[label="{type = XCUIElementTypeButton\l|name = Privacy Policy\l|label = Privacy Policy\l|enabled = true\l|visible = true\l|x = 145\l|y = 627\l|width = 85\l|height = 18\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/poshmark-Login/S0/pngs/290.0_1254.0_460.0_1290.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 313\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/poshmark-Login/S0/pngs/0.0_40.0_750.0_666.0.png\l}"]
+	16	[label="{type = XCUIElementTypeStaticText\l|value = Login with Facebook\l|name = Login with Facebook\l|label = Login with Facebook\l|enabled = true\l|visible = true\l|x = 126\l|y = 394\l|width = 160\l|height = 22\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/poshmark-Login/S0/pngs/252.00000000000003_788.0_572.0_832.0.png\l}"]
+	17	[label="{type = XCUIElementTypeStaticText\l|value = Sign in with Apple\l|name = Sign in with Apple\l|label = Sign in with Apple\l|enabled = true\l|visible = true\l|x = 128\l|y = 457\l|width = 140\l|height = 22\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/poshmark-Login/S0/pngs/256.0_914.0_536.0_958.0.png\l}"]
+	18	[label="{type = XCUIElementTypeStaticText\l|value = Sign up with Email\l|name = Sign up with Email\l|label = Sign up with Email\l|enabled = true\l|visible = true\l|x = 136\l|y = 520\l|width = 143\l|height = 22\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/poshmark-Login/S0/pngs/272.0_1040.0_558.0_1084.0.png\l}"]
+	19	[label="{type = XCUIElementTypeStaticText\l|value = Already have an account? Tap to login!\l|name = Already have an account? Tap to login!\l|label = Already have an account? Tap to login!\l|enabled = true\l|visible = true\l|x = 52\l|y = 568\l|width = 271\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/poshmark-Login/S0/pngs/104.0_1136.0_646.0_1176.0.png\l}"]
+	20	[label="{type = XCUIElementTypeStaticText\l|value = Privacy Policy\l|name = Privacy Policy\l|label = Privacy Policy\l|enabled = true\l|visible = true\l|x = 145\l|y = 627\l|width = 85\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/poshmark-Login/S0/pngs/290.0_1254.0_460.0_1290.0.png\l}"]
+	21	[label="{type = XCUIElementTypeStaticText\l|value = Poshmark is the #1 way to buy and sell fashion. Join our community today!\l|name = Poshmark is the #1 way to buy and sell fashion. Join our community today!\l|label = Poshmark is the #1 way to buy and sell fashion. Join our community today!\l|enabled = true\l|visible = true\l|x = 57\l|y = 145\l|width = 261\l|height = 63\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/poshmark-Login/S0/pngs/114.0_290.0_636.0_416.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	6 -> 8
+	7 -> 9
+	8 -> 10
+	8 -> 11
+	8 -> 12
+	8 -> 13
+	8 -> 14
+	9 -> 15
+	10 -> 16
+	11 -> 17
+	12 -> 18
+	13 -> 19
+	14 -> 20
+	15 -> 21
+
+
+}

@@ -1,0 +1,13 @@
+{ "resource-id" : "com.google.android.gm:id/compose" , "screenshotPath" : "gmail-reply/S3/pngs/0_333_1080_1463.png"}
+{ "content-desc" : "Navigate up" , "screenshotPath" : "gmail-reply/S3/pngs/0_171_154_325.png"}
+{ "content-desc" : "Attach file" , "resource-id" : "com.google.android.gm:id/add_attachment" , "screenshotPath" : "gmail-reply/S3/pngs/705_182_837_314.png"}
+{ "content-desc" : "Send" , "resource-id" : "com.google.android.gm:id/send" , "screenshotPath" : "gmail-reply/S3/pngs/837_182_969_314.png"}
+{ "content-desc" : "More options" , "screenshotPath" : "gmail-reply/S3/pngs/969_182_1080_314.png"}
+{ "resource-id" : "com.google.android.gm:id/body_wrapper" , "screenshotPath" : "gmail-reply/S3/pngs/0_799_1080_953.png"}
+{ "resource-id" : "com.google.android.gm:id/composearea_tap_trap_bottom" , "screenshotPath" : "gmail-reply/S3/pngs/0_1085_1080_1463.png"}
+{ "resource-id" : "com.google.android.gm:id/wc_respond_inline_button" , "screenshotPath" : "gmail-reply/S3/pngs/0_953_132_1085.png"}
+{ "content-desc" : "From" , "resource-id" : "com.google.android.gm:id/from_label" , "screenshotPath" : "gmail-reply/S3/pngs/44_333_198_487.png"}
+{ "resource-id" : "com.google.android.gm:id/subject" , "screenshotPath" : "gmail-reply/S3/pngs/44_643_1036_798.png"}
+{ "content-desc" : "To" , "resource-id" : "com.google.android.gm:id/to_heading" , "screenshotPath" : "gmail-reply/S3/pngs/44_488_198_642.png"}
+{ "resource-id" : "com.google.android.gm:id/to" , "screenshotPath" : "gmail-reply/S3/pngs/198_488_904_642.png"}
+{ "content-desc" : "Add Cc/Bcc" , "resource-id" : "com.google.android.gm:id/add_cc_bcc" , "screenshotPath" : "gmail-reply/S3/pngs/926_488_1080_642.png"}

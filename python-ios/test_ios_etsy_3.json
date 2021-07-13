@@ -1,0 +1,34 @@
+{
+    "tests": [
+        {
+            "name": "etsy-remove-from-cart", 
+            "events": [
+                {
+                    "tag": "Cart", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "//XCUIElementTypeStaticText[@name=\"Remove\"]", 
+                    "type": "xPath", 
+                    "event": "click"
+                },
+                {
+                    "tag": "//XCUIElementTypeButton[@name=\"See trending items\"]", 
+                    "type": "xPath",
+                    "event": "oracle",
+                    "oracle-type": "widget_exists"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "Someone's iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "13.4.1", 
+        "platformName": "iOS"
+    }
+}

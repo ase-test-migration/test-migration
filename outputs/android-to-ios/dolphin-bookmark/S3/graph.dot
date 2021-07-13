@@ -1,0 +1,106 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Dolphin\l|label = Dolphin\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 0\l|numberOfChildren = 7\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 2\l|numberOfChildren = 6\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	12	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 559\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_128.0_750.0_1246.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 375\l|height = 44\l|index = 6\l|numberOfChildren = 7\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_1246.0_750.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 10\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_40.0_750.0_60.0.png\l}"]
+	15	[label="{type = XCUIElementTypeButton\l|name = address bar ic bookmark top ta\l|label = address bar ic bookmark top ta\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 43\l|height = 44\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_40.0_86.0_128.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 44\l|y = 25\l|width = 322\l|height = 34\l|index = 5\l|numberOfChildren = 2\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/88.0_50.0_732.0_118.0.png\l}"]
+	17	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 559\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_128.0_750.0_1246.0.png\l}"]
+	18	[label="{type = XCUIElementTypeButton\l|name = default bottom bar back normal\l|label = default bottom bar back normal\l|enabled = true\l|visible = true\l|x = 21\l|y = 623\l|width = 44\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/42.0_1246.0_130.0_1334.0.png\l}"]
+	19	[label="{type = XCUIElementTypeButton\l|name = default bottom bar forward nor\l|label = default bottom bar forward nor\l|enabled = false\l|visible = true\l|x = 93\l|y = 623\l|width = 45\l|height = 44\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/186.0_1246.0_276.0_1334.0.png\l}"]
+	20	[label="{type = XCUIElementTypeButton\l|name = default bottom bar dolphin nor\l|label = default bottom bar dolphin nor\l|enabled = true\l|visible = true\l|x = 165\l|y = 623\l|width = 45\l|height = 44\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/330.0_1246.0_420.0_1334.0.png\l}"]
+	21	[label="{type = XCUIElementTypeButton\l|name = address bar ic homepage top ta\l|label = address bar ic homepage top ta\l|enabled = true\l|visible = true\l|x = 237\l|y = 623\l|width = 45\l|height = 44\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/474.0_1246.0_564.0_1334.0.png\l}"]
+	22	[label="{type = XCUIElementTypeButton\l|name = 1\l|label = 1\l|enabled = true\l|visible = true\l|x = 310\l|y = 623\l|width = 44\l|height = 44\l|index = 6\l|numberOfChildren = 1\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/620.0_1246.0_708.0_1334.0.png\l}"]
+	23	[label="{type = XCUIElementTypeButton\l|name = address bar ic refresh top tab\l|label = address bar ic refresh top tab\l|enabled = true\l|visible = true\l|x = 327\l|y = 20\l|width = 44\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/654.0_40.0_742.0_128.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 48\l|y = 33\l|width = 286\l|height = 26\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/96.0_66.0_668.0_118.0.png\l}"]
+	25	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 559\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_128.0_750.0_1246.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 2 pages\l|label = Vertical scroll bar, 2 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 64\l|width = 30\l|height = 559\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/684.0_128.0_744.0_1246.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 590\l|width = 375\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_1180.0_750.0_1240.0.png\l}"]
+	28	[label="{type = XCUIElementTypeStaticText\l|value = 1\l|name = 1\l|label = 1\l|enabled = true\l|visible = true\l|x = 332\l|y = 643\l|width = 7\l|height = 14\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/664.0_1286.0_678.0_1314.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 559\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_128.0_750.0_1246.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|name = Google\l|label = Google\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 650\l|index = 0\l|numberOfChildren = 10\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_128.0_750.0_1428.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|name = banner\l|label = banner\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 559\l|index = 1\l|numberOfChildren = 6\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_128.0_750.0_1246.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|name = search\l|label = search\l|enabled = true\l|visible = true\l|x = 8\l|y = 258\l|width = 359\l|height = 40\l|index = 3\l|numberOfChildren = 4\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/16.0_516.0_734.0_596.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 322\l|width = 375\l|height = 28\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_644.0_750.0_700.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 567\l|width = 375\l|height = 56\l|index = 6\l|numberOfChildren = 4\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_1134.0_750.0_1246.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 559\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_128.0_750.0_1246.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|name = Фиока за навигацију\l|label = Фиока за навигацију\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 250\l|height = 574\l|index = 0\l|numberOfChildren = 10\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_128.0_500.0_1276.0.png\l}"]
+	39	[label="{type = XCUIElementTypeMenuItem\l|name = Затвори фиоку\l|label = Затвори фиоку\l|enabled = true\l|visible = true\l|x = 15\l|y = 79\l|width = 92\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/30.0_158.0_214.0_246.0.png\l}"]
+	40	[label="{type = XCUIElementTypeMenuItem\l|name = Почетна\l|label = Почетна\l|enabled = true\l|visible = true\l|x = 0\l|y = 123\l|width = 250\l|height = 48\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_246.0_500.0_342.0.png\l}"]
+	41	[label="{type = XCUIElementTypeMenuItem\l|name = Историја претраге\l|label = Историја претраге\l|enabled = true\l|visible = true\l|x = 0\l|y = 171\l|width = 250\l|height = 48\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_342.0_500.0_438.0.png\l}"]
+	42	[label="{type = XCUIElementTypeMenuItem\l|name = Колекције\l|label = Колекције\l|enabled = true\l|visible = true\l|x = 0\l|y = 219\l|width = 250\l|height = 48\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_438.0_500.0_534.0.png\l}"]
+	43	[label="{type = XCUIElementTypeMenuItem\l|name = Подешавања\l|label = Подешавања\l|enabled = true\l|visible = true\l|x = 0\l|y = 278\l|width = 250\l|height = 48\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_556.0_500.0_652.0.png\l}"]
+	44	[label="{type = XCUIElementTypeMenuItem\l|name = Ваши подаци у Претрази\l|label = Ваши подаци у Претрази\l|enabled = true\l|visible = true\l|x = 0\l|y = 326\l|width = 250\l|height = 48\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_652.0_500.0_748.0.png\l}"]
+	45	[label="{type = XCUIElementTypeMenuItem\l|name = Сакривање експлицитних резултата: искључено\l|label = Сакривање експлицитних резултата: искључено\l|enabled = true\l|visible = true\l|x = 0\l|y = 374\l|width = 250\l|height = 48\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_748.0_500.0_844.0.png\l}"]
+	46	[label="{type = XCUIElementTypeMenuItem\l|name = Како ради Претрага\l|label = Како ради Претрага\l|enabled = true\l|visible = true\l|x = 0\l|y = 422\l|width = 250\l|height = 48\l|index = 7\l|numberOfChildren = 0\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_844.0_500.0_940.0.png\l}"]
+	47	[label="{type = XCUIElementTypeMenuItem\l|name = Помоћ\l|label = Помоћ\l|enabled = true\l|visible = true\l|x = 0\l|y = 470\l|width = 250\l|height = 48\l|index = 8\l|numberOfChildren = 0\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_940.0_500.0_1036.0.png\l}"]
+	48	[label="{type = XCUIElementTypeMenuItem\l|name = Пошаљите повратне информације\l|label = Пошаљите повратне информације\l|enabled = true\l|visible = true\l|x = 0\l|y = 518\l|width = 250\l|height = 48\l|index = 9\l|numberOfChildren = 0\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/dolphin-bookmark/S3/pngs/0.0_1036.0_500.0_1132.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	8 -> 9
+	9 -> 10
+	10 -> 11
+	10 -> 12
+	10 -> 13
+	11 -> 14
+	11 -> 15
+	11 -> 16
+	12 -> 17
+	13 -> 18
+	13 -> 19
+	13 -> 20
+	13 -> 21
+	13 -> 22
+	16 -> 23
+	16 -> 24
+	17 -> 25
+	17 -> 26
+	17 -> 27
+	22 -> 28
+	25 -> 29
+	29 -> 30
+	30 -> 31
+	31 -> 32
+	32 -> 33
+	32 -> 34
+	32 -> 35
+	32 -> 36
+	33 -> 37
+	37 -> 38
+	38 -> 39
+	38 -> 40
+	38 -> 41
+	38 -> 42
+	38 -> 43
+	38 -> 44
+	38 -> 45
+	38 -> 46
+	38 -> 47
+	38 -> 48
+
+
+}

@@ -1,0 +1,38 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "bbc-personalize",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "Search",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "bbc.mobile.news.ww:id/chip_item",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Add topic",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Navigate up",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "bbc.mobile.news.ww:id/chip_item",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_invisible",
+                "input": "World"
+            }
+        ]
+    }
+}

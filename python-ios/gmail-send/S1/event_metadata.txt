@@ -1,0 +1,5 @@
+pathToElementImageCrop: gmail-send/S1/pngs/32.0_178.0_64.0_214.0.png;
+coords: {'x1': 32.0, 'y1': 178.0, 'x2': 64.0, 'y2': 214.0};
+text_identifier: {  };
+event: send_keys_enter;
+input: email@example.com;

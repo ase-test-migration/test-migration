@@ -1,0 +1,64 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "brave-bookmark",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "url"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "send_keys_enter",
+                    "tag": "url",
+                    "input": "google.com"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Menu"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Add Bookmark"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Save"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Menu"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Bookmarks"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Mobile Bookmarks"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Google"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{ "resource-id" : "com.todoist:id/touch_outside" , "screenshotPath" : "todoist-edit/S7/pngs/0_72_1080_1776.png"}
+{ "resource-id" : "com.todoist:id/edit" , "screenshotPath" : "todoist-edit/S7/pngs/0_859_1080_1039.png"}
+{ "resource-id" : "com.todoist:id/move" , "screenshotPath" : "todoist-edit/S7/pngs/0_1039_1080_1219.png"}
+{ "resource-id" : "com.todoist:id/duplicate" , "screenshotPath" : "todoist-edit/S7/pngs/0_1219_1080_1399.png"}
+{ "resource-id" : "com.todoist:id/copy_link" , "screenshotPath" : "todoist-edit/S7/pngs/0_1399_1080_1579.png"}
+{ "resource-id" : "com.todoist:id/toggle_archived" , "screenshotPath" : "todoist-edit/S7/pngs/0_1579_1080_1759.png"}
+{ "resource-id" : "com.todoist:id/delete" , "screenshotPath" : "todoist-edit/S7/pngs/0_1759_1080_1776.png"}

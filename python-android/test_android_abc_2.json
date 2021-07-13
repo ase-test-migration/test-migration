@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "abc-bookmark",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.abc.abcnews:id/cinematic_title"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Save"
+                }
+            ]
+        }
+    ]
+}

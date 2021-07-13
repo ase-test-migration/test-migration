@@ -1,0 +1,4 @@
+pathToElementImageCrop: firefox-bookmark/S4/pngs/600.0_1242.0_750.0_1334.0.png;
+coords: {'x1': 600.0, 'y1': 1242.0, 'x2': 750.0, 'y2': 1334.0};
+text_identifier: { "label" : "Menu" };
+event: click;

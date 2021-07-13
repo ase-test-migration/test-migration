@@ -1,0 +1,34 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "wish-delCart",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Recently Viewed",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Brands",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Recently Viewed",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Brands",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "oracle-type": "widget_exists",
+                "type": "name",
+                "tag": "Recently Viewed"
+            }
+        ]
+    }
+}

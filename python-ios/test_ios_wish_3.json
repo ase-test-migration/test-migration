@@ -1,0 +1,44 @@
+{
+    "tests": [
+        {
+            "name": "wish-delCart", 
+            "events": [
+                {
+                    "tag": "cartBarButton", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "cartQuantityDropDown", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "0", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                },
+                {
+                    "tag": "Remove item",
+                    "type": "accessibilityId",
+                    "event": "click"
+                },
+                {
+                    "tag": "cartIsEmptyLabel", 
+                    "type": "accessibilityId",
+                    "event": "oracle",
+                    "oracle-type": "widget_exists"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "Someone's iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "13.4.1", 
+        "platformName": "iOS"
+    }
+}

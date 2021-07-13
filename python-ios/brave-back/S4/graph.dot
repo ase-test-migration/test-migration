@@ -1,0 +1,78 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Brave\l|label = Brave\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 559\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/0.0_128.0_750.0_1246.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 375\l|height = 44\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/0.0_1246.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	12	[label="{type = XCUIElementTypeWebView\l|name = contentView\l|label = Web content\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 559\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/0.0_128.0_750.0_1246.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|name = Navigation Toolbar\l|label = Navigation Toolbar\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/0.0_1246.0_750.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 20\l|width = 355\l|height = 44\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/20.0_40.0_730.0_128.0.png\l}"]
+	15	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 559\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/0.0_128.0_750.0_1246.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/0.0_1246.0_750.0_1334.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 25\l|width = 355\l|height = 34\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/20.0_50.0_730.0_118.0.png\l}"]
+	18	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 559\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/0.0_128.0_750.0_1246.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 3 pages\l|label = Vertical scroll bar, 3 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 64\l|width = 30\l|height = 559\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/684.0_128.0_744.0_1246.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 590\l|width = 375\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/0.0_1180.0_750.0_1240.0.png\l}"]
+	21	[label="{type = XCUIElementTypeButton\l|name = TabToolbar.backButton\l|label = Back\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 75\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = brave-back/S4/pngs/0.0_1246.0_150.0_1334.0.png\l}"]
+	22	[label="{type = XCUIElementTypeButton\l|name = TabToolbar.forwardButton\l|label = Forward\l|enabled = false\l|visible = true\l|x = 75\l|y = 623\l|width = 75\l|height = 44\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/150.0_1246.0_300.0_1334.0.png\l}"]
+	23	[label="{type = XCUIElementTypeButton\l|name = TabToolbar.addTabButton\l|label = Add Tab\l|enabled = true\l|visible = true\l|x = 150\l|y = 623\l|width = 75\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/300.0_1246.0_450.0_1334.0.png\l}"]
+	24	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = TabToolbar.tabsButton\l|label = Show Tabs\l|enabled = true\l|visible = true\l|x = 225\l|y = 623\l|width = 75\l|height = 44\l|index = 3\l|numberOfChildren = 2\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/450.0_1246.0_600.0_1334.0.png\l}"]
+	25	[label="{type = XCUIElementTypeButton\l|name = Menu\l|label = Menu\l|enabled = true\l|visible = true\l|x = 300\l|y = 623\l|width = 75\l|height = 44\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/600.0_1246.0_750.0_1334.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 25\l|width = 355\l|height = 34\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/20.0_50.0_730.0_118.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	28	[label="{type = XCUIElementTypeStaticText\l|value = 1\l|name = 1\l|label = 1\l|enabled = true\l|visible = true\l|x = 253\l|y = 635\l|width = 19\l|height = 20\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/506.0_1270.0_544.0_1310.0.png\l}"]
+	29	[label="{type = XCUIElementTypeImage\l|name = Secure connection\l|label = Secure connection\l|enabled = true\l|visible = true\l|x = 18\l|y = 35\l|width = 12\l|height = 14\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/36.0_70.0_60.0_98.0.png\l}"]
+	30	[label="{type = XCUIElementTypeTextField\l|value = wikipedia.org\l|name = url\l|label = \l|enabled = true\l|visible = true\l|x = 40\l|y = 31\l|width = 213\l|height = 22\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/80.0_62.0_505.99999999999994_106.0.png\l}"]
+	31	[label="{type = XCUIElementTypeButton\l|name = TabToolbar.stopReloadButton\l|label = Reload\l|enabled = true\l|visible = true\l|x = 258\l|y = 25\l|width = 28\l|height = 34\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/516.0_50.0_572.0_118.0.png\l}"]
+	32	[label="{type = XCUIElementTypeButton\l|name = urlBar-shieldsButton\l|label = Brave Panel\l|enabled = true\l|visible = true\l|x = 291\l|y = 25\l|width = 34\l|height = 34\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/582.0_50.0_650.0_118.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 559\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = brave-back/S4/pngs/0.0_128.0_750.0_1246.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	7 -> 9
+	7 -> 10
+	8 -> 11
+	9 -> 12
+	10 -> 13
+	11 -> 14
+	12 -> 15
+	13 -> 16
+	14 -> 17
+	15 -> 18
+	15 -> 19
+	15 -> 20
+	16 -> 21
+	16 -> 22
+	16 -> 23
+	16 -> 24
+	16 -> 25
+	17 -> 26
+	18 -> 27
+	24 -> 28
+	26 -> 29
+	26 -> 30
+	26 -> 31
+	26 -> 32
+	27 -> 33
+	33 -> 34
+
+
+}

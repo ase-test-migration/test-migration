@@ -1,0 +1,4 @@
+pathToElementImageCrop: msToDo-delList/S0/pngs/112.00000000000001_814.0_294.0_856.0.png;
+coords: {'x1': 112.00000000000001, 'y1': 814.0, 'x2': 294.0, 'y2': 856.0};
+text_identifier: { "name" : "Sample List" };
+event: click;

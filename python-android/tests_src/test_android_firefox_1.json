@@ -1,0 +1,30 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "firefox-search",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "org.mozilla.firefox:id/toolbar"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys",
+                    "tag": "org.mozilla.firefox:id/mozac_browser_toolbar_edit_url_view",
+                    "input": "chess.com"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Solve Chess Puzzles"
+                }
+            ]
+        }
+    ]
+}

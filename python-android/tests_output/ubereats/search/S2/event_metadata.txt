@@ -1,0 +1,4 @@
+pathToElementImageCrop: search/S2/pngs/0_468_1080_756.png;
+coords: {'x1': 0, 'y1': 468, 'x2': 1080, 'y2': 756};
+text_identifier: { "resource-id" : "com.ubercab.eats:id/ub__store_slim_row_container" };
+event: click;

@@ -1,0 +1,10 @@
+{ "resource-id" : "com.easilydo.mail:id/nested_scroll_view" , "screenshotPath" : "edison-send/S3/pngs/0_314_1080_1463.png"}
+{ "content-desc" : "edit email to" , "resource-id" : "com.easilydo.mail:id/contacts_to_field" , "screenshotPath" : "edison-send/S3/pngs/0_314_1080_459.png"}
+{ "content-desc" : "edit email cc" , "resource-id" : "com.easilydo.mail:id/contacts_cc_field" , "screenshotPath" : "edison-send/S3/pngs/0_459_1080_604.png"}
+{ "resource-id" : "com.easilydo.mail:id/subject_field" , "screenshotPath" : "edison-send/S3/pngs/0_604_1080_753.png"}
+{ "content-desc" : "navigate up" , "resource-id" : "com.easilydo.mail:id/back_arrow" , "screenshotPath" : "edison-send/S3/pngs/44_209_110_275.png"}
+{ "resource-id" : "com.easilydo.mail:id/sender_spinner" , "screenshotPath" : "edison-send/S3/pngs/132_209_662_275.png"}
+{ "content-desc" : "Add Attachment" , "resource-id" : "com.easilydo.mail:id/action_add_attachment" , "screenshotPath" : "edison-send/S3/pngs/662_176_794_308.png"}
+{ "content-desc" : "Add Inline" , "resource-id" : "com.easilydo.mail:id/action_add_inline" , "screenshotPath" : "edison-send/S3/pngs/794_176_926_308.png"}
+{ "content-desc" : "Send Email" , "resource-id" : "com.easilydo.mail:id/action_send_email" , "screenshotPath" : "edison-send/S3/pngs/926_176_1058_308.png"}
+{ "resource-id" : "edo-container" , "screenshotPath" : "edison-send/S3/pngs/44_797_1039_997.png"}

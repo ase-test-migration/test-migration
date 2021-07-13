@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-bid/S3/pngs/538.0_524.0_750.0_612.0.png;
+coords: {'x1': 538.0, 'y1': 524.0, 'x2': 750.0, 'y2': 612.0};
+text_identifier: { "label" : "See All" };
+event: click;

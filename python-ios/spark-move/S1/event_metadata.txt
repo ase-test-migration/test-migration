@@ -1,0 +1,4 @@
+pathToElementImageCrop: spark-move/S1/pngs/610.0_1252.0_702.0_1316.0.png;
+coords: {'x1': 610.0, 'y1': 1252.0, 'x2': 702.0, 'y2': 1316.0};
+text_identifier: { "label" : "smi general icon more" };
+event: click;

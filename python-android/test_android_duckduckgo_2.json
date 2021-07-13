@@ -1,0 +1,44 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "duckduckgo-back",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.duckduckgo.mobile.android:id/omnibarTextInput"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys_enter",
+                    "tag": "com.duckduckgo.mobile.android:id/omnibarTextInput",
+                    "input": "google.com"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.duckduckgo.mobile.android:id/omnibarTextInput"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys_enter",
+                    "tag": "com.duckduckgo.mobile.android:id/omnibarTextInput",
+                    "input": "wikipedia.org"
+                },
+                {
+                    "event": "back"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Google"
+                }
+            ]
+        }
+    ]
+}

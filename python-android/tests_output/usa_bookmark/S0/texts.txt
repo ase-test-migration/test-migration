@@ -1,0 +1,10 @@
+{ "content-desc" : "settings" , "resource-id" : "com.usatoday.android.news:id/settings_gear" , "screenshotPath" : "usa_bookmark/S0/pngs/865_110_931_176.png"}
+{ "content-desc" : "Search for news and sections" , "resource-id" : "com.usatoday.android.news:id/search_the_app" , "screenshotPath" : "usa_bookmark/S0/pngs/948_77_1080_209.png"}
+{ "content-desc" : "Top Stories" , "resource-id" : "com.usatoday.android.news:id/top_stories_tab" , "screenshotPath" : "usa_bookmark/S0/pngs/0_1874_216_2028.png"}
+{ "content-desc" : "Popular" , "resource-id" : "com.usatoday.android.news:id/most_popular_tab" , "screenshotPath" : "usa_bookmark/S0/pngs/216_1874_432_2028.png"}
+{ "content-desc" : "Sections" , "resource-id" : "com.usatoday.android.news:id/sections_tab" , "screenshotPath" : "usa_bookmark/S0/pngs/432_1874_648_2028.png"}
+{ "content-desc" : "My Topics" , "resource-id" : "com.usatoday.android.news:id/alerts_tab" , "screenshotPath" : "usa_bookmark/S0/pngs/648_1874_864_2028.png"}
+{ "content-desc" : "Saved" , "resource-id" : "com.usatoday.android.news:id/saved_articles_tab" , "screenshotPath" : "usa_bookmark/S0/pngs/864_1874_1080_2028.png"}
+{ "resource-id" : "com.usatoday.android.news:id/list" , "screenshotPath" : "usa_bookmark/S0/pngs/0_223_1080_1874.png"}
+{ "content-desc" : "Save unchecked COVID variants spur FDA to prep for 'all eventualities' on vaccines" , "resource-id" : "com.usatoday.android.news:id/icon_1" , "screenshotPath" : "usa_bookmark/S0/pngs/55_1546_121_1612.png"}
+{ "content-desc" : "Share" , "resource-id" : "com.usatoday.android.news:id/icon_2" , "screenshotPath" : "usa_bookmark/S0/pngs/184_1546_245_1607.png"}

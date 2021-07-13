@@ -1,0 +1,69 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{class = hierarchy\l|rotation = 0\l|width = 1080\l|height = 1776\l|numberOfChildren = 1\l|eventGeneratedOnElement = false \l}"]
+	1	[label="{class = android.widget.FrameLayout\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,0][1080,1776]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	2	[label="{class = android.widget.LinearLayout\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,0][1080,1776]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	3	[label="{class = android.widget.FrameLayout\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,72][1080,1029]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	4	[label="{class = android.widget.LinearLayout\l|text = \l|resource-id = com.weekly.app:id/action_bar_root\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,72][1080,1029]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	5	[label="{class = android.widget.FrameLayout\l|text = \l|resource-id = android:id/content\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,72][1080,1029]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	6	[label="{class = android.view.ViewGroup\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,72][1080,1029]\l|displayed = true\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	7	[label="{class = android.view.ViewGroup\l|text = \l|resource-id = com.weekly.app:id/task_toolbar\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,72][1080,240]\l|displayed = true\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	8	[label="{class = android.widget.ScrollView\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = true\l|selected = false\l|bounds = [0,240][1080,1029]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = myTask-edit/S4/pngs/0_240_1080_1029.png\l}"]
+	9	[label="{class = android.widget.ImageButton\l|text = \l|resource-id = com.weekly.app:id/btnMic\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [900,849][1035,984]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = myTask-edit/S4/pngs/900_849_1035_984.png\l}"]
+	10	[label="{class = android.widget.ImageButton\l|text = \l|content-desc = Navigate up\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,72][168,240]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = myTask-edit/S4/pngs/0_72_168_240.png\l}"]
+	11	[label="{class = android.view.ViewGroup\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [216,109][1080,202]\l|displayed = true\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l}"]
+	12	[label="{class = android.view.ViewGroup\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,240][1080,1029]\l|displayed = true\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	13	[label="{class = android.view.ViewGroup\l|text = \l|resource-id = com.weekly.app:id/view_toolbar_date\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [216,120][629,192]\l|displayed = true\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = myTask-edit/S4/pngs/216_120_629_192.png\l}"]
+	14	[label="{class = android.widget.ImageView\l|text = \l|resource-id = com.weekly.app:id/image_view_create_task_complete\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [936,109][1050,202]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = true \l|screenshotPath = myTask-edit/S4/pngs/936_109_1050_202.png\l}"]
+	15	[label="{class = android.widget.FrameLayout\l|text = \l|resource-id = com.weekly.app:id/edit_text_task_frame\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [12,270][1068,596]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	16	[label="{class = android.widget.FrameLayout\l|text = \l|resource-id = com.weekly.app:id/frame_color\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [30,288][150,566]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = myTask-edit/S4/pngs/30_288_150_566.png\l}"]
+	17	[label="{class = android.widget.ImageView\l|text = \l|resource-id = com.weekly.app:id/contact_book\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [891,343][1071,523]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = myTask-edit/S4/pngs/891_343_1071_523.png\l}"]
+	18	[label="{class = android.view.ViewGroup\l|text = \l|resource-id = com.weekly.app:id/layout_time\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,620][1080,836]\l|displayed = true\l|numberOfChildren = 3\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = myTask-edit/S4/pngs/0_620_1080_836.png\l}"]
+	19	[label="{class = android.view.ViewGroup\l|text = \l|resource-id = com.weekly.app:id/layout_repeat_task\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,836][1080,1029]\l|displayed = true\l|numberOfChildren = 2\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = myTask-edit/S4/pngs/0_836_1080_1029.png\l}"]
+	20	[label="{class = android.widget.TextView\l|text = 13 April\l|resource-id = com.weekly.app:id/text_view_toolbar_month_and_day\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [228,120][413,192]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	21	[label="{class = android.widget.TextView\l|text = 2021\l|resource-id = com.weekly.app:id/text_view_toolbar_year\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [425,120][545,192]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l}"]
+	22	[label="{class = android.widget.ImageView\l|text = \l|resource-id = com.weekly.app:id/image_view_expand\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [557,120][629,192]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l}"]
+	23	[label="{class = android.widget.EditText\l|text = Edited Task
+\l|resource-id = com.weekly.app:id/edit_text_subtask\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = true\l|long-clickable = true\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [29,303][1051,545]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = myTask-edit/S4/pngs/29_303_1051_545.png\l}"]
+	24	[label="{class = android.view.View\l|text = \l|resource-id = com.weekly.app:id/view_color\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [72,394][138,460]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	25	[label="{class = android.widget.Switch\l|text = OFF\l|resource-id = com.weekly.app:id/switch_time\l|checkable = true\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [24,620][1056,836]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = myTask-edit/S4/pngs/24_620_1056_836.png\l}"]
+	26	[label="{class = android.widget.TextView\l|text = Specify time\l|resource-id = com.weekly.app:id/tv_time\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [24,682][540,775]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l}"]
+	27	[label="{class = android.widget.ImageView\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [54,835][1026,836]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l}"]
+	28	[label="{class = android.widget.Switch\l|text = OFF\l|resource-id = com.weekly.app:id/switch_repeat_task\l|checkable = true\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [24,836][1056,1029]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = myTask-edit/S4/pngs/24_836_1056_1029.png\l}"]
+	29	[label="{class = android.widget.TextView\l|text = Repeat Task\l|resource-id = com.weekly.app:id/tv_repeat_task\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [24,910][540,979]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	6 -> 8
+	6 -> 9
+	7 -> 10
+	7 -> 11
+	8 -> 12
+	11 -> 13
+	11 -> 14
+	12 -> 15
+	12 -> 16
+	12 -> 17
+	12 -> 18
+	12 -> 19
+	13 -> 20
+	13 -> 21
+	13 -> 22
+	15 -> 23
+	16 -> 24
+	18 -> 25
+	18 -> 26
+	18 -> 27
+	19 -> 28
+	19 -> 29
+
+
+}

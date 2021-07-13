@@ -1,0 +1,4 @@
+pathToElementImageCrop: wish-login/S0/pngs/48_1559_1032_1679.png;
+coords: {'x1': 48, 'y1': 1559, 'x2': 1032, 'y2': 1679};
+text_identifier: { "resource-id" : "com.contextlogic.wish:id/signInButton" };
+event: click;

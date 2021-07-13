@@ -1,0 +1,5 @@
+pathToElementImageCrop: yahoo-search/S1/pngs/128.0_112.0_626.0_192.0.png;
+coords: {'x1': 128.0, 'y1': 112.0, 'x2': 626.0, 'y2': 192.0};
+text_identifier: { "label" : "Search mail" };
+event: send_keys_enter;
+input: Testing 1;

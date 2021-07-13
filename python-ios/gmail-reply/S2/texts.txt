@@ -1,0 +1,20 @@
+{"name" : "Gmail", "label" : "Gmail", "screenshotPath" : "gmail-reply/S2/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "ComposeView", "screenshotPath" : "gmail-reply/S2/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "Emailing a friend? Allow suggestions from contacts", "label" : "Emailing a friend? Allow suggestions from contacts", "screenshotPath" : "gmail-reply/S2/pngs/0.0_1214.0_670.0_1334.0.png"}
+{"name" : "Close", "label" : "Close", "screenshotPath" : "gmail-reply/S2/pngs/666.0_1228.0_754.0_1318.0.png"}
+{"name" : "ComposeEditor", "label" : "Message", "screenshotPath" : "gmail-reply/S2/pngs/0.0_152.0_750.0_1216.0.png"}
+{"name" : "Compose body scroll view", "screenshotPath" : "gmail-reply/S2/pngs/0.0_152.0_750.0_1216.0.png"}
+{"name" : "Back", "label" : "Close", "screenshotPath" : "gmail-reply/S2/pngs/0.0_40.0_112.00000000000001_152.0.png"}
+{"name" : "Add attachment button", "label" : "Attach", "screenshotPath" : "gmail-reply/S2/pngs/446.0_40.0_550.0_152.0.png"}
+{"name" : "Send button", "label" : "Send", "screenshotPath" : "gmail-reply/S2/pngs/550.0_40.0_646.0_152.0.png"}
+{"name" : "MoreActions", "label" : "More actions", "screenshotPath" : "gmail-reply/S2/pngs/646.0_40.0_750.0_152.0.png"}
+{"value" : "0%", "name" : "Horizontal scroll bar, 1 page", "label" : "Horizontal scroll bar, 1 page", "screenshotPath" : "gmail-reply/S2/pngs/0.0_1148.0_750.0_1210.0.png"}
+{"name" : "Reply", "label" : "Reply", "screenshotPath" : "gmail-reply/S2/pngs/32.0_152.0_124.0_240.0.png"}
+{"value" : "Some User", "name" : "Recipient summary", "label" : "Recipient summary", "screenshotPath" : "gmail-reply/S2/pngs/124.0_152.0_718.0_240.0.png"}
+{"name" : "Select from address", "screenshotPath" : "gmail-reply/S2/pngs/0.0_240.00000000000003_750.0_328.0.png"}
+{"value" : "Re: Testing", "name" : "Email subject", "label" : "Subject", "screenshotPath" : "gmail-reply/S2/pngs/0.0_328.0_750.0_416.0.png"}
+{"value" : "Reply", "name" : "Reply", "label" : "Reply", "screenshotPath" : "gmail-reply/S2/pngs/96.0_178.0_170.0_214.0.png"}
+{"value" : "email@example.com", "name" : "From", "label" : "From", "screenshotPath" : "gmail-reply/S2/pngs/121.99999999999999_240.00000000000003_686.0_328.0.png"}
+{"value" : "  On Sun, Apr 18, 2021 at 9:41 PM Some User <email@example.com> wrote: ", "screenshotPath" : "gmail-reply/S2/pngs/32.0_416.0_718.0_1216.0.png"}
+{"value" : "On Sun, Apr 18, 2021 at 9:41 PM Some User <email@example.com> wrote:", "name" : "On Sun, Apr 18, 2021 at 9:41 PM Some User <email@example.com> wrote:", "label" : "On Sun, Apr 18, 2021 at 9:41 PM Some User <email@example.com> wrote:", "screenshotPath" : "gmail-reply/S2/pngs/32.0_520.0_718.0_600.0.png"}
+{"value" : "On Sun, Apr 18, 2021 at 9:41 PM Some User <email@example.com> wrote:", "name" : "On Sun, Apr 18, 2021 at 9:41 PM Some User <email@example.com> wrote:", "label" : "On Sun, Apr 18, 2021 at 9:41 PM Some User <email@example.com> wrote:", "screenshotPath" : "gmail-reply/S2/pngs/32.0_520.0_718.0_600.0.png"}

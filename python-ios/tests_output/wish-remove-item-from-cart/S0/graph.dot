@@ -1,0 +1,154 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Wish\l|label = Wish\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeTabBar\l|enabled = true\l|visible = true\l|x = 0\l|y = 813\l|width = 414\l|height = 83\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_2439.0_1242.0_2688.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	8	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = homeBarButton\l|enabled = true\l|visible = true\l|x = 2\l|y = 814\l|width = 80\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/6.0_2442.0_246.0_2586.0.png\l}"]
+	9	[label="{type = XCUIElementTypeButton\l|name = wishListBarButton\l|enabled = true\l|visible = true\l|x = 85\l|y = 814\l|width = 80\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/255.0_2442.0_495.0_2586.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|name = categoriesBarButton\l|enabled = true\l|visible = true\l|x = 168\l|y = 814\l|width = 78\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/504.00000000000006_2442.0_738.0_2586.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = cartBarButton\l|enabled = true\l|visible = true\l|x = 249\l|y = 814\l|width = 80\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = true \l|screenshotPath = remove-item-from-cart/S0/pngs/747.0_2442.0_987.0_2586.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|name = moreBarButton\l|enabled = true\l|visible = true\l|x = 332\l|y = 814\l|width = 80\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/996.0_2442.0_1236.0_2586.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	14	[label="{type = XCUIElementTypeNavigationBar\l|name = Wish.BrowseView\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 44\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_132.0_1242.0_264.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	16	[label="{type = XCUIElementTypeStaticText\l|enabled = true\l|visible = true\l|x = 12\l|y = 44\l|width = 346\l|height = 44\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/36.0_132.0_1074.0_264.0.png\l}"]
+	17	[label="{type = XCUIElementTypeButton\l|name = filterButton\l|label = ic nav filter dark\l|enabled = true\l|visible = true\l|x = 364\l|y = 51\l|width = 30\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/1092.0_153.0_1182.0_243.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|name = wishSearchBar\l|enabled = true\l|visible = true\l|x = 12\l|y = 44\l|width = 346\l|height = 44\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/36.0_132.0_1074.0_264.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 808\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_264.0_1242.0_2688.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 44\l|width = 346\l|height = 44\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/36.0_132.0_1074.0_264.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 8\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_264.0_1242.0_288.0.png\l}"]
+	23	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 808\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_264.0_1242.0_2688.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 96\l|width = 414\l|height = 79\l|numberOfChildren = 2\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_288.0_1242.0_525.0.png\l}"]
+	25	[label="{type = XCUIElementTypeSearchField\l|name = Search\l|label = Search\l|enabled = true\l|visible = true\l|x = 12\l|y = 48\l|width = 346\l|height = 36\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/36.0_144.0_1074.0_252.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|name = popularFeedView\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 808\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_264.0_1242.0_2688.0.png\l}"]
+	27	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 96\l|width = 414\l|height = 44\l|numberOfChildren = 24\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_288.0_1242.0_420.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 140\l|width = 414\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_420.0_1242.0_525.0.png\l}"]
+	29	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 808\l|numberOfChildren = 7\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_264.0_1242.0_2688.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 96\l|width = 83\l|height = 42\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_288.0_249.0_414.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 83\l|y = 96\l|width = 64\l|height = 42\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/249.0_288.0_441.0_414.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 147\l|y = 96\l|width = 64\l|height = 42\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/441.0_288.0_633.0_414.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 211\l|y = 96\l|width = 64\l|height = 42\l|numberOfChildren = 2\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/633.0_288.0_825.0_414.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 275\l|y = 96\l|width = 57\l|height = 42\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/824.9999999999999_288.0_995.9999999999999_414.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 332\l|y = 96\l|width = 79\l|height = 42\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/996.0_288.0_1233.0_414.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 411\l|y = 96\l|width = 143\l|height = 42\l|numberOfChildren = 1\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/1233.0_288.0_1662.0_414.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 138\l|width = 83\l|height = 2\l|numberOfChildren = 0\l|numInParentLayout = 23\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_414.0_249.0_420.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 140\l|width = 414\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_420.0_1242.0_525.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 140\l|width = 414\l|height = 180\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_420.0_1242.0_960.0.png\l}"]
+	40	[label="{type = XCUIElementTypeCell\l|name = productCell_5fad4bb7b2423994b340b9cb\l|enabled = true\l|visible = true\l|x = 0\l|y = 330\l|width = 202\l|height = 258\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_990.0000000000001_606.0_1764.0.png\l}"]
+	41	[label="{type = XCUIElementTypeCell\l|name = productCell_5fdad3139b59395be63b722e\l|enabled = true\l|visible = true\l|x = 212\l|y = 330\l|width = 202\l|height = 258\l|numberOfChildren = 6\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/636.0000000000001_990.0000000000001_1242.0_1764.0.png\l}"]
+	42	[label="{type = XCUIElementTypeCell\l|name = productCell_5fdb08facd4080e63e167ff7\l|enabled = true\l|visible = true\l|x = 0\l|y = 598\l|width = 202\l|height = 258\l|numberOfChildren = 6\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_1794.0_606.0_2568.0.png\l}"]
+	43	[label="{type = XCUIElementTypeCell\l|name = productCell_5e5dcafcce1d4a2397d4ff8e\l|enabled = true\l|visible = true\l|x = 212\l|y = 598\l|width = 202\l|height = 258\l|numberOfChildren = 6\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/636.0000000000001_1794.0_1242.0_2568.0.png\l}"]
+	44	[label="{type = XCUIElementTypeButton\l|value = selected\l|name = Popular\l|label = Popular\l|enabled = true\l|visible = true\l|x = 0\l|y = 96\l|width = 83\l|height = 42\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_288.0_249.0_414.0.png\l}"]
+	45	[label="{type = XCUIElementTypeButton\l|name = express category\l|label = express category\l|enabled = true\l|visible = true\l|x = 83\l|y = 96\l|width = 64\l|height = 42\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/249.0_288.0_441.0_414.0.png\l}"]
+	46	[label="{type = XCUIElementTypeButton\l|name = pickup icon tab\l|label = pickup icon tab\l|enabled = true\l|visible = true\l|x = 147\l|y = 96\l|width = 64\l|height = 42\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/441.0_288.0_633.0_414.0.png\l}"]
+	47	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 195\l|y = 101\l|width = 6\l|height = 6\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/585.0_303.0_603.0_321.0.png\l}"]
+	48	[label="{type = XCUIElementTypeButton\l|name = blitzbuy category\l|label = blitzbuy category\l|enabled = true\l|visible = true\l|x = 211\l|y = 96\l|width = 64\l|height = 42\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/633.0_288.0_825.0_414.0.png\l}"]
+	49	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 259\l|y = 101\l|width = 6\l|height = 6\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/777.0_303.0_795.0_321.0.png\l}"]
+	50	[label="{type = XCUIElementTypeButton\l|name = flash sale icon\l|label = flash sale icon\l|enabled = true\l|visible = true\l|x = 275\l|y = 96\l|width = 57\l|height = 42\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/824.9999999999999_288.0_995.9999999999999_414.0.png\l}"]
+	51	[label="{type = XCUIElementTypeButton\l|name = Brands\l|label = Brands\l|enabled = true\l|visible = true\l|x = 332\l|y = 96\l|width = 79\l|height = 42\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/996.0_288.0_1233.0_414.0.png\l}"]
+	52	[label="{type = XCUIElementTypeButton\l|name = Recently Viewed\l|label = Recently Viewed\l|enabled = true\l|visible = true\l|x = 411\l|y = 96\l|width = 143\l|height = 42\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/1233.0_288.0_1662.0_414.0.png\l}"]
+	53	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 140\l|width = 414\l|height = 180\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_420.0_1242.0_960.0.png\l}"]
+	54	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 330\l|width = 202\l|height = 258\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_990.0000000000001_606.0_1764.0.png\l}"]
+	55	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 212\l|y = 330\l|width = 202\l|height = 258\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/636.0000000000001_990.0000000000001_1242.0_1764.0.png\l}"]
+	56	[label="{type = XCUIElementTypeStaticText\l|value = Almost Gone!\l|name = Almost Gone!\l|label = Almost Gone!\l|enabled = true\l|visible = true\l|x = 322\l|y = 510\l|width = 92\l|height = 22\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/966.0_1530.0_1242.0_1596.0.png\l}"]
+	57	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 598\l|width = 202\l|height = 258\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_1794.0_606.0_2568.0.png\l}"]
+	58	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 212\l|y = 598\l|width = 202\l|height = 258\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/636.0000000000001_1794.0_1242.0_2568.0.png\l}"]
+	59	[label="{type = XCUIElementTypeStaticText\l|value = Popular\l|name = Popular\l|label = Popular\l|enabled = true\l|visible = true\l|x = 15\l|y = 107\l|width = 53\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/45.0_321.0_204.00000000000003_381.0.png\l}"]
+	60	[label="{type = XCUIElementTypeStaticText\l|value = Brands\l|name = Brands\l|label = Brands\l|enabled = true\l|visible = true\l|x = 348\l|y = 107\l|width = 47\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/1044.0_321.0_1185.0_381.0.png\l}"]
+	61	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 140\l|width = 414\l|height = 180\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_420.0_1242.0_960.0.png\l}"]
+	62	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 140\l|width = 414\l|height = 180\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_420.0_1242.0_960.0.png\l}"]
+	63	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 140\l|width = 414\l|height = 180\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_420.0_1242.0_960.0.png\l}"]
+	64	[label="{type = XCUIElementTypePageIndicator\l|value = page 1 of 4\l|enabled = true\l|visible = true\l|x = 179\l|y = 298\l|width = 56\l|height = 12\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/537.0_894.0_705.0_930.0.png\l}"]
+	65	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 140\l|width = 414\l|height = 180\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_420.0_1242.0_960.0.png\l}"]
+	66	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 4 pages\l|label = Vertical scroll bar, 4 pages\l|enabled = true\l|visible = true\l|x = 381\l|y = 140\l|width = 30\l|height = 180\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/1143.0_420.0_1233.0_960.0.png\l}"]
+	67	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 140\l|width = 414\l|height = 180\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_420.0_1242.0_960.0.png\l}"]
+	68	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 170\l|width = 414\l|height = 150\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/0.0_510.0_1242.0_960.0.png\l}"]
+	69	[label="{type = XCUIElementTypeStaticText\l|value = Essential brands  at great prices\l|name = Essential brands  at great prices\l|label = Essential brands  at great prices\l|enabled = true\l|visible = true\l|x = 8\l|y = 170\l|width = 398\l|height = 64\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/24.0_510.0_1218.0_702.0.png\l}"]
+	70	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 253\l|width = 398\l|height = 17\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/24.0_759.0000000000001_1218.0_810.0000000000001.png\l}"]
+	71	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 253\l|width = 398\l|height = 17\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/24.0_759.0000000000001_1218.0_810.0000000000001.png\l}"]
+	72	[label="{type = XCUIElementTypeStaticText\l|value = Shop Now\l|name = Shop Now\l|label = Shop Now\l|enabled = true\l|visible = true\l|x = 8\l|y = 253\l|width = 385\l|height = 17\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S0/pngs/24.0_759.0000000000001_1179.0_810.0000000000001.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	5 -> 7
+	6 -> 8
+	6 -> 9
+	6 -> 10
+	6 -> 11
+	6 -> 12
+	7 -> 13
+	13 -> 14
+	13 -> 15
+	14 -> 16
+	14 -> 17
+	15 -> 18
+	16 -> 19
+	18 -> 20
+	19 -> 21
+	20 -> 22
+	20 -> 23
+	20 -> 24
+	21 -> 25
+	23 -> 26
+	24 -> 27
+	24 -> 28
+	26 -> 29
+	27 -> 30
+	27 -> 31
+	27 -> 32
+	27 -> 33
+	27 -> 34
+	27 -> 35
+	27 -> 36
+	27 -> 37
+	28 -> 38
+	29 -> 39
+	29 -> 40
+	29 -> 41
+	29 -> 42
+	29 -> 43
+	30 -> 44
+	31 -> 45
+	32 -> 46
+	32 -> 47
+	33 -> 48
+	33 -> 49
+	34 -> 50
+	35 -> 51
+	36 -> 52
+	39 -> 53
+	40 -> 54
+	41 -> 55
+	41 -> 56
+	42 -> 57
+	43 -> 58
+	44 -> 59
+	51 -> 60
+	53 -> 61
+	61 -> 62
+	62 -> 63
+	62 -> 64
+	63 -> 65
+	63 -> 66
+	65 -> 67
+	67 -> 68
+	68 -> 69
+	68 -> 70
+	70 -> 71
+	71 -> 72
+
+
+}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: anydo-remove/S1/pngs/650.0_702.0000000000001_730.0_784.0000000000001.png;
+coords: {'x1': 650.0, 'y1': 702.0000000000001, 'x2': 730.0, 'y2': 784.0000000000001};
+text_identifier: { "label" : "deleteIcon" };
+event: click;

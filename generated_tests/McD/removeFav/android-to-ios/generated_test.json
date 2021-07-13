@@ -1,0 +1,28 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "McD-removeFav",
+        "events": [
+            {
+                "type": "name",
+                "tag": "ORDER",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "changeAddressOrLocation",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "   Order Here   ",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "HOME",
+                "event": "click"
+            }
+        ]
+    }
+}

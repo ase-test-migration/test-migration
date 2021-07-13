@@ -1,0 +1,5 @@
+pathToElementImageCrop: wish-wishlist/S2/pngs/112.00000000000001_450.0_638.0_530.0.png;
+coords: {'x1': 112.00000000000001, 'y1': 450.0, 'x2': 638.0, 'y2': 530.0};
+text_identifier: { "label" : "" };
+event: send_keys;
+input: Favorites;

@@ -1,0 +1,4 @@
+pathToElementImageCrop: twobird-moveFolder/S2/pngs/42_111_137_205.png;
+coords: {'x1': 42, 'y1': 111, 'x2': 137, 'y2': 205};
+text_identifier: {  };
+event: click;

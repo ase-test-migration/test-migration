@@ -1,0 +1,23 @@
+{"name" : "Gmail", "label" : "Gmail", "screenshotPath" : "gmail-delete/S1/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "ConversationScrollView", "screenshotPath" : "gmail-delete/S1/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "DetailScrollView", "screenshotPath" : "gmail-delete/S1/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "Back", "label" : "Close", "screenshotPath" : "gmail-delete/S1/pngs/0.0_40.0_112.00000000000001_152.0.png"}
+{"name" : "CVNavBarArchive", "label" : "Archive", "screenshotPath" : "gmail-delete/S1/pngs/350.0_40.0_454.0_152.0.png"}
+{"name" : "CVNavbarDelete", "label" : "Delete", "screenshotPath" : "gmail-delete/S1/pngs/453.99999999999994_40.0_550.0_152.0.png"}
+{"name" : "CVNavBarMarkAsUnread", "label" : "Mark as unread", "screenshotPath" : "gmail-delete/S1/pngs/550.0_40.0_646.0_152.0.png"}
+{"name" : "MoreActions", "label" : "More actions", "screenshotPath" : "gmail-delete/S1/pngs/646.0_40.0_750.0_152.0.png"}
+{"name" : "Reply", "label" : "Reply", "screenshotPath" : "gmail-delete/S1/pngs/32.0_1230.0_368.0_1302.0.png"}
+{"name" : "Forward", "label" : "Forward", "screenshotPath" : "gmail-delete/S1/pngs/382.0_1230.0_718.0_1302.0.png"}
+{"name" : "Message details", "label" : "Message details", "screenshotPath" : "gmail-delete/S1/pngs/0.0_256.0_750.0_400.0.png"}
+{"value" : "Reply", "name" : "Reply", "label" : "Reply", "screenshotPath" : "gmail-delete/S1/pngs/190.00000000000003_1248.0_262.0_1284.0.png"}
+{"value" : "Forward", "name" : "Forward", "label" : "Forward", "screenshotPath" : "gmail-delete/S1/pngs/522.0_1248.0_632.0_1284.0.png"}
+{"value" : "Testing", "name" : "Email subject", "label" : "Subject", "screenshotPath" : "gmail-delete/S1/pngs/32.0_164.0_634.0_220.0.png"}
+{"name" : "CVStar", "label" : "Star", "screenshotPath" : "gmail-delete/S1/pngs/650.0_160.0_738.0_248.0.png"}
+{"value" : "1", "name" : "From me. 2:58 PM. to me. ", "label" : "From me. 2:58 PM. to me. ", "screenshotPath" : "gmail-delete/S1/pngs/0.0_256.0_750.0_400.0.png"}
+{"name" : "MessageDetailsButton", "label" : "to me. ", "screenshotPath" : "gmail-delete/S1/pngs/132.0_332.0_242.0_364.0.png"}
+{"name" : "ShowContactSheetButton", "label" : "More info about Some User", "screenshotPath" : "gmail-delete/S1/pngs/28.000000000000004_284.0_116.0_372.0.png"}
+{"name" : "Reply", "label" : "Reply", "screenshotPath" : "gmail-delete/S1/pngs/562.0_256.0_650.0_368.0.png"}
+{"name" : "More menu", "label" : "More menu", "screenshotPath" : "gmail-delete/S1/pngs/650.0_256.0_738.0_368.0.png"}
+{"name" : "Testing", "label" : "Testing", "screenshotPath" : "gmail-delete/S1/pngs/32.0_164.0_176.0_220.0.png"}
+{"value" : "0%", "name" : "Horizontal scroll bar, 1 page", "label" : "Horizontal scroll bar, 1 page", "screenshotPath" : "gmail-delete/S1/pngs/0.0_404.0_750.0_414.0.png"}
+{"value" : "0%", "name" : "Vertical scroll bar, 1 page", "label" : "Vertical scroll bar, 1 page", "screenshotPath" : "gmail-delete/S1/pngs/684.0_400.0_744.0_420.0.png"}

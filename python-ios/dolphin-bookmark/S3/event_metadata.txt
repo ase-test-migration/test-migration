@@ -1,0 +1,4 @@
+pathToElementImageCrop: dolphin-bookmark/S3/pngs/70.0_1250.0_454.0_1334.0.png;
+coords: {'x1': 70.0, 'y1': 1250.0, 'x2': 454.0, 'y2': 1334.0};
+text_identifier: { "label" : "Add Bookmark" };
+event: click;

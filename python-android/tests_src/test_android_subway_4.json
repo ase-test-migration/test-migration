@@ -1,0 +1,29 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "testSubwayDeals",
+            "events": [
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//android.widget.FrameLayout[@content-desc=\"DEALS\"]/android.widget.ImageView"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.RelativeLayout/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[2]/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.Button"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.subway.mobile.subwayapp03:id/promo_button_left"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: wish-wishlist/S0/pngs/0_74_147_221.png;
+coords: {'x1': 0, 'y1': 74, 'x2': 147, 'y2': 221};
+text_identifier: { "content-desc" : "Open Menu" };
+event: click;

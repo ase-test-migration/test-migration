@@ -1,0 +1,104 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = McDonald's\l|label = McDonald's\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeTabBar\l|name = Tab Bar\l|label = Tab Bar\l|enabled = true\l|visible = true\l|x = 0\l|y = 611\l|width = 375\l|height = 56\l|index = 1\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_1222.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = HOME\l|label = Home\l|enabled = true\l|visible = true\l|x = 2\l|y = 612\l|width = 71\l|height = 55\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/4.0_1224.0_146.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeButton\l|name = ORDER\l|label = Order\l|enabled = true\l|visible = true\l|x = 77\l|y = 612\l|width = 71\l|height = 55\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/154.0_1224.0_296.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|name = DEALS\l|label = Deals\l|enabled = true\l|visible = true\l|x = 152\l|y = 612\l|width = 71\l|height = 55\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/304.0_1224.0_446.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|name = RECENTFAVES\l|label = Recents\l|enabled = true\l|visible = true\l|x = 227\l|y = 612\l|width = 71\l|height = 55\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/453.99999999999994_1224.0_596.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|name = MORE\l|label = More\l|enabled = true\l|visible = true\l|x = 302\l|y = 612\l|width = 71\l|height = 55\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/604.0_1224.0_746.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeNavigationBar\l|name =  \l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	16	[label="{type = XCUIElementTypeImage\l|name =  \l|label =  \l|enabled = true\l|visible = true\l|x = 171\l|y = 28\l|width = 33\l|height = 28\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/342.0_56.0_408.0_112.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|name = HomeBase\l|label = HomeBase\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 611\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_0.0_750.0_1222.0.png\l}"]
+	21	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 547\l|index = 0\l|numberOfChildren = 27\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_128.0_750.0_1222.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_128.0_750.0_130.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 1\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_128.0_750.0_130.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 1\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_128.0_750.0_130.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 1\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_128.0_750.0_130.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 1\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_128.0_750.0_130.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 1\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_128.0_750.0_130.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 1\l|index = 7\l|numberOfChildren = 0\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_128.0_750.0_130.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 1\l|index = 9\l|numberOfChildren = 0\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_128.0_750.0_130.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 1\l|index = 10\l|numberOfChildren = 0\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_128.0_750.0_130.0.png\l}"]
+	31	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 231\l|index = 11\l|numberOfChildren = 2\l|numInParentLayout = 11\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_128.0_750.0_590.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 294\l|width = 375\l|height = 1\l|index = 12\l|numberOfChildren = 0\l|numInParentLayout = 12\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_588.0_750.0_590.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 294\l|width = 375\l|height = 2\l|index = 13\l|numberOfChildren = 0\l|numInParentLayout = 13\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_588.0_750.0_592.0.png\l}"]
+	34	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 295\l|width = 375\l|height = 319\l|index = 14\l|numberOfChildren = 2\l|numInParentLayout = 14\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_590.0_750.0_1228.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 610\l|width = 375\l|height = 1\l|index = 15\l|numberOfChildren = 0\l|numInParentLayout = 15\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_1220.0_750.0_1222.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 231\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_128.0_750.0_590.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 295\l|width = 375\l|height = 319\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_590.0_750.0_1228.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 500\l|width = 305\l|height = 2\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/30.0_999.9999999999999_640.0_1003.9999999999999.png\l}"]
+	39	[label="{type = XCUIElementTypeImage\l|name = /var/mobile/Containers/Data/Application/4FAAB63A-6405-4117-913C-58D2C2D1CD63/Documents/hero_ft_freefriesfriday_Feb2021.jpg\l|label = Fresh and golden medium fries.\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 185\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/0.0_128.0_750.0_498.0.png\l}"]
+	40	[label="{type = XCUIElementTypeStaticText\l|value = Free fries taste better.\l|name = header\l|label = Free fries taste better.\l|enabled = true\l|visible = true\l|x = 24\l|y = 87\l|width = 221\l|height = 66\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/48.0_174.0_490.00000000000006_306.0.png\l}"]
+	41	[label="{type = XCUIElementTypeStaticText\l|value = Especially when they're all yours.\l|name = sub_header\l|label = Especially when they're all yours.\l|enabled = true\l|visible = true\l|x = 24\l|y = 152\l|width = 221\l|height = 17\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/48.0_304.0_490.00000000000006_338.0.png\l}"]
+	42	[label="{type = XCUIElementTypeButton\l|name = left_button\l|label = Get free fries\l|enabled = true\l|visible = true\l|x = 24\l|y = 188\l|width = 153\l|height = 41\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/48.0_376.0_354.0_458.0.png\l}"]
+	43	[label="{type = XCUIElementTypeStaticText\l|value = Get free medium fries with minimum $1 Mobile Order and Pay purchase, tax excluded. Valid 1 time every Friday through June 27th, 2021 at participating McDonald's. Mobile Order and Pay at participating McDonald's. App registration required.\l|name = legal_text\l|label = Get free medium fries with minimum $1 Mobile Order and Pay purchase, tax excluded. Valid 1 time every Friday through June 27th, 2021 at participating McDonald's. Mobile Order and Pay at participating McDonald's. App registration required.\l|enabled = true\l|visible = true\l|x = 25\l|y = 252\l|width = 325\l|height = 42\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/50.0_504.0_700.0_588.0.png\l}"]
+	44	[label="{type = XCUIElementTypeStaticText\l|value = Your McCafé® Rewards\l|name = table_cell_deal_header_text\l|label = Your McCafé® Rewards\l|enabled = true\l|visible = true\l|x = 24\l|y = 350\l|width = 327\l|height = 26\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/48.0_699.9999999999999_702.0_751.9999999999999.png\l}"]
+	45	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 24\l|y = 387\l|width = 327\l|height = 207\l|index = 1\l|numberOfChildren = 4\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/48.0_774.0_702.0_1188.0.png\l}"]
+	46	[label="{type = XCUIElementTypeImage\l|name = earning_mccafe_punchcard_backgroundImageView\l|label = Get a free McCafé® Buy 5 McCafé drinks get 1 free . 1 of 5 purchases completed\l|enabled = true\l|visible = true\l|x = 24\l|y = 387\l|width = 327\l|height = 171\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/48.0_774.0_702.0_1116.0.png\l}"]
+	47	[label="{type = XCUIElementTypeStaticText\l|value = *Punch expires 60 days from earn.  Your earliest punch expires 06/27/2021\l|name = earning_mccafe_punchcard_offerValidAndExpiryLabel\l|label = *Punch expires 60 days from earn.  Your earliest punch expires 06/27/2021\l|enabled = true\l|visible = true\l|x = 24\l|y = 559\l|width = 165\l|height = 33\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/McD-search/S0/pngs/48.0_1118.0_378.0_1184.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	5 -> 7
+	6 -> 8
+	6 -> 9
+	6 -> 10
+	6 -> 11
+	6 -> 12
+	7 -> 13
+	13 -> 14
+	13 -> 15
+	14 -> 16
+	15 -> 17
+	17 -> 18
+	18 -> 19
+	19 -> 20
+	20 -> 21
+	21 -> 22
+	21 -> 23
+	21 -> 24
+	21 -> 25
+	21 -> 26
+	21 -> 27
+	21 -> 28
+	21 -> 29
+	21 -> 30
+	21 -> 31
+	21 -> 32
+	21 -> 33
+	21 -> 34
+	21 -> 35
+	31 -> 36
+	34 -> 37
+	34 -> 38
+	36 -> 39
+	36 -> 40
+	36 -> 41
+	36 -> 42
+	36 -> 43
+	37 -> 44
+	37 -> 45
+	45 -> 46
+	45 -> 47
+
+
+}

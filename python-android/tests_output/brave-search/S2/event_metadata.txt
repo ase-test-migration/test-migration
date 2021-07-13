@@ -1,0 +1,6 @@
+pathToElementImageCrop: ;
+coords: ;
+text_identifier: { Solve Chess Puzzles };
+event: oracle;
+oracle-type: text_exists;
+input: Solve Chess Puzzles;

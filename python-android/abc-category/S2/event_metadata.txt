@@ -1,0 +1,5 @@
+pathToElementImageCrop: abc-category/S2/pngs/56_973_1052_1092.png;
+coords: {'x1': 56, 'y1': 973, 'x2': 1052, 'y2': 1092};
+text_identifier: { "resource-id" : "com.abc.abcnews:id/featured_content_title" };
+event: oracle;
+oracle-type: widget_exists;

@@ -1,0 +1,4 @@
+pathToElementImageCrop: spark-move/S2/pngs/328_1315_493_1480.png;
+coords: {'x1': 328, 'y1': 1315, 'x2': 493, 'y2': 1480};
+text_identifier: { "resource-id" : "com.readdle.spark:id/thread_action_icon" };
+event: click;

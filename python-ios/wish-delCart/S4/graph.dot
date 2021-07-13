@@ -1,0 +1,108 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Wish\l|label = Wish\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeNavigationBar\l|name = Cart\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeButton\l|name = closeDialogButton\l|label = closeDialogButton\l|enabled = true\l|visible = true\l|x = 16\l|y = 27\l|width = 30\l|height = 30\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/32.0_53.99999999999999_92.0_114.0.png\l}"]
+	7	[label="{type = XCUIElementTypeStaticText\l|value = Cart\l|name = pageTitle\l|label = Cart\l|enabled = true\l|visible = true\l|x = 169\l|y = 30\l|width = 37\l|height = 24\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/338.0_60.00000000000001_412.0_108.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 1\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 464\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/0.0_128.0_750.0_1056.0.png\l}"]
+	16	[label="{type = XCUIElementTypeCell\l|name = productCell_5d233af72662411e96959610\l|enabled = true\l|visible = true\l|x = 0\l|y = 537\l|width = 182\l|height = 239\l|index = 1\l|numberOfChildren = 6\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/0.0_1074.0_364.0_1552.0.png\l}"]
+	17	[label="{type = XCUIElementTypeCell\l|name = productCell_5aeae0b03b527c12c63440d5\l|enabled = true\l|visible = true\l|x = 193\l|y = 537\l|width = 182\l|height = 239\l|index = 2\l|numberOfChildren = 5\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/386.00000000000006_1074.0_750.0_1552.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 464\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/0.0_128.0_750.0_1056.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 537\l|width = 182\l|height = 239\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/0.0_1074.0_364.0_1552.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 193\l|y = 537\l|width = 182\l|height = 239\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/386.00000000000006_1074.0_750.0_1552.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 199\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/0.0_128.0_750.0_526.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 262\l|width = 375\l|height = 229\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/0.0_524.0_750.0_982.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 490\l|width = 375\l|height = 38\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/0.0_980.0_750.0_1056.0.png\l}"]
+	24	[label="{type = XCUIElementTypeStaticText\l|value = Your cart is empty!\l|name = cartIsEmptyLabel\l|label = Your cart is empty!\l|enabled = true\l|visible = true\l|x = 124\l|y = 152\l|width = 127\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = wish-delCart/S4/pngs/248.0_304.0_502.0_342.0.png\l}"]
+	25	[label="{type = XCUIElementTypeButton\l|name = Continue Shopping\l|label = Continue Shopping\l|enabled = true\l|visible = true\l|x = 32\l|y = 198\l|width = 311\l|height = 41\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/64.0_396.0_686.0_478.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 262\l|width = 375\l|height = 229\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/0.0_524.0_750.0_982.0.png\l}"]
+	27	[label="{type = XCUIElementTypeStaticText\l|value = You might like...\l|name = You might like...\l|label = You might like...\l|enabled = true\l|visible = true\l|x = 16\l|y = 506\l|width = 122\l|height = 22\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/32.0_1012.0_276.0_1056.0.png\l}"]
+	28	[label="{type = XCUIElementTypeStaticText\l|value = Continue Shopping\l|name = Continue Shopping\l|label = Continue Shopping\l|enabled = true\l|visible = true\l|x = 121\l|y = 209\l|width = 133\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/242.0_417.99999999999994_508.0_455.99999999999994.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 262\l|width = 375\l|height = 54\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/0.0_524.0_750.0_632.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 315\l|width = 375\l|height = 176\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/0.0_630.0_750.0_982.0.png\l}"]
+	31	[label="{type = XCUIElementTypeStaticText\l|value = Recently Viewed\l|name = Recently Viewed\l|label = Recently Viewed\l|enabled = true\l|visible = true\l|x = 16\l|y = 278\l|width = 129\l|height = 22\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/32.0_556.0_290.0_600.0.png\l}"]
+	32	[label="{type = XCUIElementTypeButton\l|name = View All\l|label = View All\l|enabled = true\l|visible = true\l|x = 302\l|y = 273\l|width = 57\l|height = 32\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/604.0_546.0_718.0_610.0.png\l}"]
+	33	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 315\l|width = 375\l|height = 176\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/0.0_630.0_750.0_982.0.png\l}"]
+	34	[label="{type = XCUIElementTypeStaticText\l|value = View All\l|name = View All\l|label = View All\l|enabled = true\l|visible = true\l|x = 302\l|y = 279\l|width = 57\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/604.0_558.0_718.0_598.0.png\l}"]
+	35	[label="{type = XCUIElementTypeCell\l|name = simpleProductCell\l|enabled = true\l|visible = true\l|x = 16\l|y = 315\l|width = 125\l|height = 176\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/32.0_630.0_282.0_982.0.png\l}"]
+	36	[label="{type = XCUIElementTypeCell\l|name = simpleProductCell\l|enabled = true\l|visible = true\l|x = 149\l|y = 315\l|width = 125\l|height = 176\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/298.0_630.0_548.0_982.0.png\l}"]
+	37	[label="{type = XCUIElementTypeCell\l|name = simpleProductCell\l|enabled = true\l|visible = true\l|x = 282\l|y = 315\l|width = 125\l|height = 176\l|index = 2\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/564.0_630.0_814.0_982.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 4 pages\l|label = Vertical scroll bar, 4 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 315\l|width = 30\l|height = 176\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/684.0_630.0_744.0_982.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 446\l|width = 125\l|height = 20\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/32.0_892.0000000000001_282.0_932.0000000000001.png\l}"]
+	40	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 149\l|y = 446\l|width = 125\l|height = 20\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/298.0_892.0000000000001_548.0_932.0000000000001.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 282\l|y = 446\l|width = 125\l|height = 20\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/564.0_892.0000000000001_814.0_932.0000000000001.png\l}"]
+	42	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 446\l|width = 59\l|height = 20\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/32.0_892.0000000000001_150.0_932.0000000000001.png\l}"]
+	43	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 149\l|y = 446\l|width = 21\l|height = 20\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/298.0_892.0000000000001_340.0_932.0000000000001.png\l}"]
+	44	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 282\l|y = 446\l|width = 54\l|height = 20\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/564.0_892.0000000000001_672.0_932.0000000000001.png\l}"]
+	45	[label="{type = XCUIElementTypeStaticText\l|value = $184\l|name = productFeedSubPrice\l|label = $184\l|enabled = true\l|visible = true\l|x = 16\l|y = 446\l|width = 33\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/32.0_892.0000000000001_98.0_932.0000000000001.png\l}"]
+	46	[label="{type = XCUIElementTypeStaticText\l|value = $12\l|name = productFeedViewPrice\l|label = $12\l|enabled = true\l|visible = true\l|x = 50\l|y = 446\l|width = 25\l|height = 20\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/100.0_892.0000000000001_150.0_932.0000000000001.png\l}"]
+	47	[label="{type = XCUIElementTypeStaticText\l|value = $11\l|name = productFeedViewPrice\l|label = $11\l|enabled = true\l|visible = true\l|x = 149\l|y = 446\l|width = 21\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/298.0_892.0000000000001_340.0_932.0000000000001.png\l}"]
+	48	[label="{type = XCUIElementTypeStaticText\l|value = $120\l|name = productFeedSubPrice\l|label = $120\l|enabled = true\l|visible = true\l|x = 282\l|y = 446\l|width = 33\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/564.0_892.0000000000001_630.0_932.0000000000001.png\l}"]
+	49	[label="{type = XCUIElementTypeStaticText\l|value = $9\l|name = productFeedViewPrice\l|label = $9\l|enabled = true\l|visible = true\l|x = 317\l|y = 446\l|width = 19\l|height = 20\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-delCart/S4/pngs/634.0_892.0000000000001_672.0_932.0000000000001.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	3 -> 5
+	4 -> 6
+	4 -> 7
+	5 -> 8
+	8 -> 9
+	9 -> 10
+	10 -> 11
+	11 -> 12
+	12 -> 13
+	13 -> 14
+	14 -> 15
+	14 -> 16
+	14 -> 17
+	15 -> 18
+	16 -> 19
+	17 -> 20
+	18 -> 21
+	18 -> 22
+	18 -> 23
+	21 -> 24
+	21 -> 25
+	22 -> 26
+	23 -> 27
+	25 -> 28
+	26 -> 29
+	26 -> 30
+	29 -> 31
+	29 -> 32
+	30 -> 33
+	32 -> 34
+	33 -> 35
+	33 -> 36
+	33 -> 37
+	33 -> 38
+	35 -> 39
+	36 -> 40
+	37 -> 41
+	39 -> 42
+	40 -> 43
+	41 -> 44
+	42 -> 45
+	42 -> 46
+	43 -> 47
+	44 -> 48
+	44 -> 49
+
+
+}

@@ -1,0 +1,40 @@
+{
+    "tests": [
+        {
+            "name": "wish-delCart", 
+            "events": [
+                {
+                    "tag": "com.contextlogic.wish:id/action_id_show_cart", 
+                    "type": "id", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "com.contextlogic.wish:id/quantity_dropdown_constraint_layout",
+                    "type": "id", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[1]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.Button", 
+                    "type": "xPath", 
+                    "event": "click"
+                },
+                {
+                    "tag": "com.contextlogic.wish:id/empty_message", 
+                    "type": "id",
+                    "event": "oracle",
+                    "oracle-type": "widget_exists"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "emulator-5554", 
+        "platformName": "Android", 
+        "newCommandTimeout": 0
+    }
+}

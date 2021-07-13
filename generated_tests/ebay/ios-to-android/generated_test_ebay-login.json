@@ -1,0 +1,23 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "ebay-login",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.ebay.mobile:id/button_sign_in",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.ebay.mobile:id/button_classic",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "Sign in"
+            }
+        ]
+    }
+}

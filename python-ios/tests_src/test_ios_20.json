@@ -1,0 +1,38 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer"
+    },
+    "tests" : [
+        {
+            "name" : "testSMNMorningTime",
+            "events": [
+                {
+                    "event": "click",
+                    "tag": "Settings",
+                    "type": "accessibilityId"
+                },
+                {
+                    "event": "click",
+                    "tag": "crui_settingsView_pushSettingsCell",
+                    "type": "accessibilityId"
+                },
+                {
+                    "event": "click",
+                    "tag": "//XCUIElementTypeApplication[@name=\"SmartNews\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTable/XCUIElementTypeCell[1]",
+                    "type": "xPath"
+                },
+                {
+                    "event": "click",
+                    "tag": "4:30 AM",
+                    "type": "accessibilityId"
+                }
+            ]
+            
+    }
+    ]
+}

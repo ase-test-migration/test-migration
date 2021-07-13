@@ -1,0 +1,18 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "gmail-reply",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "Signed in as Some User email@example.com. Open account menu",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.google.android.gm:id/og_privacy_policy_button",
+                "event": "click"
+            }
+        ]
+    }
+}

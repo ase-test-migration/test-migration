@@ -1,0 +1,33 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer"
+    },
+    "tests" : [
+        {
+            "name" : "test_accuw_addcity",
+            "events":[
+                {
+                    "event": "click",
+                    "tag": "CenterNavigationButton",
+                    "type": "accessibilityId"
+                },
+                {
+                    "event": "send_keys",
+                    "tag": "LocationSelectorLocationSearchField",
+                    "input": "94103",
+                    "type": "accessibilityId"
+                },
+                {
+                    "event": "click",
+                    "tag": "//XCUIElementTypeApplication[@name=\"AccuWeather\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTable/XCUIElementTypeCell[1]/XCUIElementTypeButton[1]",
+                    "type": "xPath"
+                }
+            ]
+    }
+    ]
+}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-add-to-cart/S0/pngs/0.0_1203.0_1242.0_1329.0.png;
+coords: {'x1': 0.0, 'y1': 1203.0, 'x2': 1242.0, 'y2': 1329.0};
+text_identifier: { "name" : "Color" };
+event: click;

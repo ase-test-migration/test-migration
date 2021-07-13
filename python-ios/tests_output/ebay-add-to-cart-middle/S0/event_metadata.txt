@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-add-to-cart-middle/S0/pngs/48.0_1875.0000000000002_1194.0_2022.0000000000002.png;
+coords: {'x1': 48.0, 'y1': 1875.0000000000002, 'x2': 1194.0, 'y2': 2022.0000000000002};
+text_identifier: { "name" : "button_add_to_cart" };
+event: click;

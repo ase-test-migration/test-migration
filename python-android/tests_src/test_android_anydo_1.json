@@ -1,0 +1,35 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "anydo-add",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.anydo:id/quick_add_input"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys",
+                    "tag": "com.anydo:id/quick_add_input",
+                    "input": "testing"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.anydo:id/quick_add_button_container"
+                },
+                {
+                    "event": "oracle",
+                    "oracle-type": "text_exists",
+                    "input": "testing"
+                }
+            ]
+        }
+    ]
+}

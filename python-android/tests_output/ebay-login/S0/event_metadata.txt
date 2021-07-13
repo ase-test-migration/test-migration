@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-login/S0/pngs/552_857_1032_1037.png;
+coords: {'x1': 552, 'y1': 857, 'x2': 1032, 'y2': 1037};
+text_identifier: { "resource-id" : "com.ebay.mobile:id/button_sign_in" };
+event: click;

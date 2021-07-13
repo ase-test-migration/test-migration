@@ -1,0 +1,4 @@
+pathToElementImageCrop: bbc-my-news/S3/pngs/144_750_1056_863.png;
+coords: {'x1': 144, 'y1': 750, 'x2': 1056, 'y2': 863};
+text_identifier: { "resource-id" : "bbc.mobile.news.uk:id/text" };
+event: click;

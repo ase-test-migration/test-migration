@@ -1,0 +1,200 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = DuckDuckGo\l|label = DuckDuckGo\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 451\l|width = 375\l|height = 216\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_902.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 451\l|width = 375\l|height = 216\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_902.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 52\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_40.0_750.0_144.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 69\l|width = 375\l|height = 3\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_138.0_750.0_144.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 546\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_144.0_750.0_1236.0.png\l}"]
+	12	[label="{type = XCUIElementTypeKeyboard\l|enabled = true\l|visible = true\l|x = 0\l|y = 451\l|width = 375\l|height = 216\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_902.0_750.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 52\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_40.0_750.0_144.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 546\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_144.0_750.0_1236.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 451\l|width = 375\l|height = 216\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_902.0_750.0_1334.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 26\l|width = 275\l|height = 40\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/16.0_52.0_566.0_132.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 297\l|y = 34\l|width = 64\l|height = 24\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/594.0_68.0_722.0_116.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 546\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_144.0_750.0_1236.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 451\l|width = 375\l|height = 216\l|index = 0\l|numberOfChildren = 34\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_902.0_750.0_1334.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 26\l|width = 275\l|height = 40\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/16.0_52.0_566.0_132.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 14\l|y = 26\l|width = 263\l|height = 40\l|index = 1\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/28.000000000000004_52.0_554.0_132.0.png\l}"]
+	22	[label="{type = XCUIElementTypeButton\l|name = Cancel\l|label = Cancel\l|enabled = true\l|visible = true\l|x = 297\l|y = 34\l|width = 64\l|height = 24\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/594.0_68.0_722.0_116.0.png\l}"]
+	23	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 546\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_144.0_750.0_1236.0.png\l}"]
+	24	[label="{type = XCUIElementTypeKey\l|name = q\l|label = q\l|enabled = true\l|visible = true\l|x = 0\l|y = 458\l|width = 38\l|height = 46\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_916.0_76.0_1008.0.png\l}"]
+	25	[label="{type = XCUIElementTypeKey\l|name = w\l|label = w\l|enabled = true\l|visible = true\l|x = 37\l|y = 458\l|width = 38\l|height = 46\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/74.0_916.0_150.0_1008.0.png\l}"]
+	26	[label="{type = XCUIElementTypeKey\l|name = e\l|label = e\l|enabled = true\l|visible = true\l|x = 75\l|y = 458\l|width = 38\l|height = 46\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/150.0_916.0_226.0_1008.0.png\l}"]
+	27	[label="{type = XCUIElementTypeKey\l|name = r\l|label = r\l|enabled = true\l|visible = true\l|x = 112\l|y = 458\l|width = 38\l|height = 46\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/224.00000000000003_916.0_300.0_1008.0.png\l}"]
+	28	[label="{type = XCUIElementTypeKey\l|name = t\l|label = t\l|enabled = true\l|visible = true\l|x = 150\l|y = 458\l|width = 38\l|height = 46\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/300.0_916.0_376.0_1008.0.png\l}"]
+	29	[label="{type = XCUIElementTypeKey\l|name = y\l|label = y\l|enabled = true\l|visible = true\l|x = 187\l|y = 458\l|width = 38\l|height = 46\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/374.0_916.0_450.0_1008.0.png\l}"]
+	30	[label="{type = XCUIElementTypeKey\l|name = u\l|label = u\l|enabled = true\l|visible = true\l|x = 225\l|y = 458\l|width = 38\l|height = 46\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/450.0_916.0_526.0_1008.0.png\l}"]
+	31	[label="{type = XCUIElementTypeKey\l|name = i\l|label = i\l|enabled = true\l|visible = true\l|x = 262\l|y = 458\l|width = 38\l|height = 46\l|index = 7\l|numberOfChildren = 0\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/524.0_916.0_600.0_1008.0.png\l}"]
+	32	[label="{type = XCUIElementTypeKey\l|name = o\l|label = o\l|enabled = true\l|visible = true\l|x = 300\l|y = 458\l|width = 38\l|height = 46\l|index = 8\l|numberOfChildren = 0\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/600.0_916.0_676.0_1008.0.png\l}"]
+	33	[label="{type = XCUIElementTypeKey\l|name = p\l|label = p\l|enabled = true\l|visible = true\l|x = 337\l|y = 458\l|width = 38\l|height = 46\l|index = 9\l|numberOfChildren = 0\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/674.0_916.0_750.0_1008.0.png\l}"]
+	34	[label="{type = XCUIElementTypeKey\l|name = a\l|label = a\l|enabled = true\l|visible = true\l|x = 18\l|y = 512\l|width = 38\l|height = 46\l|index = 10\l|numberOfChildren = 0\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/36.0_1024.0_112.0_1116.0.png\l}"]
+	35	[label="{type = XCUIElementTypeKey\l|name = s\l|label = s\l|enabled = true\l|visible = true\l|x = 56\l|y = 512\l|width = 38\l|height = 46\l|index = 11\l|numberOfChildren = 0\l|numInParentLayout = 11\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/112.00000000000001_1024.0_188.0_1116.0.png\l}"]
+	36	[label="{type = XCUIElementTypeKey\l|name = d\l|label = d\l|enabled = true\l|visible = true\l|x = 93\l|y = 512\l|width = 38\l|height = 46\l|index = 12\l|numberOfChildren = 0\l|numInParentLayout = 12\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/186.0_1024.0_262.0_1116.0.png\l}"]
+	37	[label="{type = XCUIElementTypeKey\l|name = f\l|label = f\l|enabled = true\l|visible = true\l|x = 131\l|y = 512\l|width = 38\l|height = 46\l|index = 13\l|numberOfChildren = 0\l|numInParentLayout = 13\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/262.0_1024.0_338.0_1116.0.png\l}"]
+	38	[label="{type = XCUIElementTypeKey\l|name = g\l|label = g\l|enabled = true\l|visible = true\l|x = 169\l|y = 512\l|width = 38\l|height = 46\l|index = 14\l|numberOfChildren = 0\l|numInParentLayout = 14\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/338.0_1024.0_414.0_1116.0.png\l}"]
+	39	[label="{type = XCUIElementTypeKey\l|name = h\l|label = h\l|enabled = true\l|visible = true\l|x = 206\l|y = 512\l|width = 38\l|height = 46\l|index = 15\l|numberOfChildren = 0\l|numInParentLayout = 15\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/412.0_1024.0_488.0_1116.0.png\l}"]
+	40	[label="{type = XCUIElementTypeKey\l|name = j\l|label = j\l|enabled = true\l|visible = true\l|x = 244\l|y = 512\l|width = 38\l|height = 46\l|index = 16\l|numberOfChildren = 0\l|numInParentLayout = 16\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/487.99999999999994_1024.0_564.0_1116.0.png\l}"]
+	41	[label="{type = XCUIElementTypeKey\l|name = k\l|label = k\l|enabled = true\l|visible = true\l|x = 281\l|y = 512\l|width = 38\l|height = 46\l|index = 17\l|numberOfChildren = 0\l|numInParentLayout = 17\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/562.0_1024.0_638.0_1116.0.png\l}"]
+	42	[label="{type = XCUIElementTypeKey\l|name = l\l|label = l\l|enabled = true\l|visible = true\l|x = 319\l|y = 512\l|width = 38\l|height = 46\l|index = 18\l|numberOfChildren = 0\l|numInParentLayout = 18\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/638.0_1024.0_714.0_1116.0.png\l}"]
+	43	[label="{type = XCUIElementTypeButton\l|name = shift\l|label = shift\l|enabled = true\l|visible = true\l|x = 0\l|y = 566\l|width = 48\l|height = 46\l|index = 19\l|numberOfChildren = 0\l|numInParentLayout = 19\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_1132.0_96.0_1224.0.png\l}"]
+	44	[label="{type = XCUIElementTypeKey\l|name = z\l|label = z\l|enabled = true\l|visible = true\l|x = 56\l|y = 566\l|width = 38\l|height = 46\l|index = 20\l|numberOfChildren = 0\l|numInParentLayout = 20\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/112.00000000000001_1132.0_188.0_1224.0.png\l}"]
+	45	[label="{type = XCUIElementTypeKey\l|name = x\l|label = x\l|enabled = true\l|visible = true\l|x = 93\l|y = 566\l|width = 38\l|height = 46\l|index = 21\l|numberOfChildren = 0\l|numInParentLayout = 21\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/186.0_1132.0_262.0_1224.0.png\l}"]
+	46	[label="{type = XCUIElementTypeKey\l|name = c\l|label = c\l|enabled = true\l|visible = true\l|x = 131\l|y = 566\l|width = 38\l|height = 46\l|index = 22\l|numberOfChildren = 0\l|numInParentLayout = 22\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/262.0_1132.0_338.0_1224.0.png\l}"]
+	47	[label="{type = XCUIElementTypeKey\l|name = v\l|label = v\l|enabled = true\l|visible = true\l|x = 169\l|y = 566\l|width = 38\l|height = 46\l|index = 23\l|numberOfChildren = 0\l|numInParentLayout = 23\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/338.0_1132.0_414.0_1224.0.png\l}"]
+	48	[label="{type = XCUIElementTypeKey\l|name = b\l|label = b\l|enabled = true\l|visible = true\l|x = 206\l|y = 566\l|width = 38\l|height = 46\l|index = 24\l|numberOfChildren = 0\l|numInParentLayout = 24\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/412.0_1132.0_488.0_1224.0.png\l}"]
+	49	[label="{type = XCUIElementTypeKey\l|name = n\l|label = n\l|enabled = true\l|visible = true\l|x = 244\l|y = 566\l|width = 38\l|height = 46\l|index = 25\l|numberOfChildren = 0\l|numInParentLayout = 25\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/487.99999999999994_1132.0_564.0_1224.0.png\l}"]
+	50	[label="{type = XCUIElementTypeKey\l|name = m\l|label = m\l|enabled = true\l|visible = true\l|x = 281\l|y = 566\l|width = 38\l|height = 46\l|index = 26\l|numberOfChildren = 0\l|numInParentLayout = 26\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/562.0_1132.0_638.0_1224.0.png\l}"]
+	51	[label="{type = XCUIElementTypeKey\l|name = delete\l|label = delete\l|enabled = true\l|visible = true\l|x = 327\l|y = 566\l|width = 48\l|height = 46\l|index = 27\l|numberOfChildren = 0\l|numInParentLayout = 27\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/654.0_1132.0_750.0_1224.0.png\l}"]
+	52	[label="{type = XCUIElementTypeKey\l|name = more\l|label = numbers\l|enabled = true\l|visible = true\l|x = 0\l|y = 620\l|width = 47\l|height = 46\l|index = 28\l|numberOfChildren = 0\l|numInParentLayout = 28\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_1240.0_94.0_1332.0.png\l}"]
+	53	[label="{type = XCUIElementTypeButton\l|name = Emoji\l|label = Emoji\l|enabled = true\l|visible = true\l|x = 46\l|y = 620\l|width = 48\l|height = 46\l|index = 29\l|numberOfChildren = 0\l|numInParentLayout = 29\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/92.0_1240.0_188.0_1332.0.png\l}"]
+	54	[label="{type = XCUIElementTypeButton\l|name = dictation\l|label = Dictate\l|enabled = true\l|visible = true\l|x = 93\l|y = 620\l|width = 38\l|height = 46\l|index = 30\l|numberOfChildren = 0\l|numInParentLayout = 30\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/186.0_1240.0_262.0_1332.0.png\l}"]
+	55	[label="{type = XCUIElementTypeKey\l|name = space\l|label = space\l|enabled = true\l|visible = true\l|x = 131\l|y = 620\l|width = 137\l|height = 46\l|index = 31\l|numberOfChildren = 0\l|numInParentLayout = 31\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/262.0_1240.0_536.0_1332.0.png\l}"]
+	56	[label="{type = XCUIElementTypeKey\l|name = .\l|label = .\l|enabled = true\l|visible = true\l|x = 267\l|y = 620\l|width = 38\l|height = 46\l|index = 32\l|numberOfChildren = 0\l|numInParentLayout = 32\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/534.0_1240.0_610.0_1332.0.png\l}"]
+	57	[label="{type = XCUIElementTypeButton\l|name = Go\l|label = go\l|enabled = true\l|visible = true\l|x = 305\l|y = 620\l|width = 70\l|height = 46\l|index = 33\l|numberOfChildren = 0\l|numInParentLayout = 33\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/610.0_1240.0_750.0_1332.0.png\l}"]
+	58	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 44\l|y = 26\l|width = 203\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/88.0_52.0_494.0_132.0.png\l}"]
+	59	[label="{type = XCUIElementTypeButton\l|name = Clear Text\l|label = Clear Text\l|enabled = true\l|visible = true\l|x = 247\l|y = 26\l|width = 30\l|height = 40\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/493.99999999999994_52.0_554.0_132.0.png\l}"]
+	60	[label="{type = XCUIElementTypeStaticText\l|value = Cancel\l|name = Cancel\l|label = Cancel\l|enabled = true\l|visible = true\l|x = 303\l|y = 37\l|width = 52\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/606.0_74.0_710.0_110.0.png\l}"]
+	61	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 546\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_144.0_750.0_1236.0.png\l}"]
+	62	[label="{type = XCUIElementTypeSearchField\l|value = https://www.google.com/\l|name = searchEntry\l|enabled = true\l|visible = true\l|x = 44\l|y = 26\l|width = 203\l|height = 40\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/88.0_52.0_494.0_132.0.png\l}"]
+	63	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 546\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_144.0_750.0_1236.0.png\l}"]
+	64	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 2 pages\l|label = Vertical scroll bar, 2 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 72\l|width = 30\l|height = 546\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/684.0_144.0_744.0_1236.0.png\l}"]
+	65	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	66	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	67	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 546\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_144.0_750.0_1236.0.png\l}"]
+	68	[label="{type = XCUIElementTypeOther\l|name = Google\l|label = Google\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 637\l|index = 0\l|numberOfChildren = 11\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_144.0_750.0_1418.0.png\l}"]
+	69	[label="{type = XCUIElementTypeOther\l|name = banner\l|label = banner\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 52\l|index = 2\l|numberOfChildren = 5\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_144.0_750.0_248.0.png\l}"]
+	70	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 107\l|y = 176\l|width = 161\l|height = 75\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/214.0_352.0_536.0_502.0.png\l}"]
+	71	[label="{type = XCUIElementTypeOther\l|name = search\l|label = search\l|enabled = true\l|visible = true\l|x = 8\l|y = 266\l|width = 359\l|height = 40\l|index = 4\l|numberOfChildren = 4\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/16.0_532.0_734.0_612.0.png\l}"]
+	72	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 330\l|width = 375\l|height = 28\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_660.0_750.0_716.0.png\l}"]
+	73	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 526\l|width = 378\l|height = 36\l|index = 6\l|numberOfChildren = 1\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_1052.0_756.0_1124.0.png\l}"]
+	74	[label="{type = XCUIElementTypeButton\l|name = Главни мени\l|label = Главни мени\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 56\l|height = 52\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/0.0_144.0_112.00000000000001_248.0.png\l}"]
+	75	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 56\l|y = 72\l|width = 41\l|height = 48\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/112.00000000000001_144.0_194.0_240.0.png\l}"]
+	76	[label="{type = XCUIElementTypeLink\l|name = СЛИКЕ\l|label = СЛИКЕ\l|enabled = true\l|visible = true\l|x = 113\l|y = 88\l|width = 44\l|height = 15\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/226.0_176.0_314.0_206.0.png\l}"]
+	77	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 185\l|y = 72\l|width = 191\l|height = 48\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/370.0_144.0_752.0_240.0.png\l}"]
+	78	[label="{type = XCUIElementTypeImage\l|name = Google\l|label = Google\l|enabled = true\l|visible = true\l|x = 107\l|y = 184\l|width = 161\l|height = 56\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/214.0_368.0_536.0_480.0.png\l}"]
+	79	[label="{type = XCUIElementTypeButton\l|name = Google претрага\l|label = Google претрага\l|enabled = true\l|visible = true\l|x = 11\l|y = 269\l|width = 32\l|height = 34\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/22.0_538.0_86.0_606.0.png\l}"]
+	80	[label="{type = XCUIElementTypeOther\l|name = Тражи\l|label = Тражи\l|enabled = true\l|visible = true\l|x = 42\l|y = 274\l|width = 279\l|height = 25\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/84.0_548.0_642.0_598.0.png\l}"]
+	81	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 58\l|y = 330\l|width = 259\l|height = 28\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/116.0_660.0_634.0_716.0.png\l}"]
+	82	[label="{type = XCUIElementTypeStaticText\l|value = СВЕ\l|name = СВЕ\l|label = СВЕ\l|enabled = true\l|visible = true\l|x = 64\l|y = 88\l|width = 26\l|height = 15\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/128.0_176.0_180.0_206.0.png\l}"]
+	83	[label="{type = XCUIElementTypeStaticText\l|value = СЛИКЕ\l|name = СЛИКЕ\l|label = СЛИКЕ\l|enabled = true\l|visible = true\l|x = 113\l|y = 88\l|width = 44\l|height = 15\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/226.0_176.0_314.0_206.0.png\l}"]
+	84	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 185\l|y = 72\l|width = 187\l|height = 48\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/370.0_144.0_744.0_240.0.png\l}"]
+	85	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 72\l|y = 330\l|width = 114\l|height = 28\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/144.0_660.0_372.0_716.0.png\l}"]
+	86	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 190\l|y = 330\l|width = 113\l|height = 28\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/380.00000000000006_660.0_606.0_716.0.png\l}"]
+	87	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 189\l|y = 76\l|width = 41\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/378.0_152.0_460.0_232.0.png\l}"]
+	88	[label="{type = XCUIElementTypeLink\l|name = Пријавите се\l|label = Пријавите се\l|enabled = true\l|visible = true\l|x = 257\l|y = 86\l|width = 90\l|height = 19\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/514.0_172.00000000000003_694.0_210.00000000000003.png\l}"]
+	89	[label="{type = XCUIElementTypeStaticText\l|value = Google се нуди на:\l|name = Google се нуди на:\l|label = Google се нуди на:\l|enabled = true\l|visible = true\l|x = 72\l|y = 336\l|width = 115\l|height = 16\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/144.0_672.0_374.0_704.0.png\l}"]
+	90	[label="{type = XCUIElementTypeLink\l|name = srpski\l|label = srpski\l|enabled = true\l|visible = true\l|x = 198\l|y = 336\l|width = 35\l|height = 16\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/396.0_672.0_466.0_704.0.png\l}"]
+	91	[label="{type = XCUIElementTypeLink\l|name = English\l|label = English\l|enabled = true\l|visible = true\l|x = 252\l|y = 336\l|width = 43\l|height = 16\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/504.00000000000006_672.0_590.0_704.0.png\l}"]
+	92	[label="{type = XCUIElementTypeButton\l|name = Google апликације\l|label = Google апликације\l|enabled = true\l|visible = true\l|x = 189\l|y = 76\l|width = 41\l|height = 40\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/378.0_152.0_460.0_232.0.png\l}"]
+	93	[label="{type = XCUIElementTypeStaticText\l|value = Пријавите се\l|name = Пријавите се\l|label = Пријавите се\l|enabled = true\l|visible = true\l|x = 257\l|y = 86\l|width = 90\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/514.0_172.00000000000003_694.0_210.00000000000003.png\l}"]
+	94	[label="{type = XCUIElementTypeStaticText\l|value = srpski\l|name = srpski\l|label = srpski\l|enabled = true\l|visible = true\l|x = 198\l|y = 336\l|width = 35\l|height = 16\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/396.0_672.0_466.0_704.0.png\l}"]
+	95	[label="{type = XCUIElementTypeStaticText\l|value = nglish\l|name = English\l|label = English\l|enabled = true\l|visible = true\l|x = 252\l|y = 336\l|width = 43\l|height = 16\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/duckduckgo-back/S3/pngs/504.00000000000006_672.0_590.0_704.0.png\l}"]
+
+
+	0 -> 1
+	0 -> 2
+	1 -> 3
+	2 -> 4
+	3 -> 5
+	4 -> 6
+	5 -> 7
+	6 -> 8
+	7 -> 9
+	7 -> 10
+	7 -> 11
+	8 -> 12
+	9 -> 13
+	11 -> 14
+	12 -> 15
+	13 -> 16
+	13 -> 17
+	14 -> 18
+	15 -> 19
+	16 -> 20
+	16 -> 21
+	17 -> 22
+	18 -> 23
+	19 -> 24
+	19 -> 25
+	19 -> 26
+	19 -> 27
+	19 -> 28
+	19 -> 29
+	19 -> 30
+	19 -> 31
+	19 -> 32
+	19 -> 33
+	19 -> 34
+	19 -> 35
+	19 -> 36
+	19 -> 37
+	19 -> 38
+	19 -> 39
+	19 -> 40
+	19 -> 41
+	19 -> 42
+	19 -> 43
+	19 -> 44
+	19 -> 45
+	19 -> 46
+	19 -> 47
+	19 -> 48
+	19 -> 49
+	19 -> 50
+	19 -> 51
+	19 -> 52
+	19 -> 53
+	19 -> 54
+	19 -> 55
+	19 -> 56
+	19 -> 57
+	21 -> 58
+	21 -> 59
+	22 -> 60
+	23 -> 61
+	58 -> 62
+	61 -> 63
+	61 -> 64
+	63 -> 65
+	65 -> 66
+	66 -> 67
+	67 -> 68
+	68 -> 69
+	68 -> 70
+	68 -> 71
+	68 -> 72
+	68 -> 73
+	69 -> 74
+	69 -> 75
+	69 -> 76
+	69 -> 77
+	70 -> 78
+	71 -> 79
+	71 -> 80
+	72 -> 81
+	75 -> 82
+	76 -> 83
+	77 -> 84
+	81 -> 85
+	81 -> 86
+	84 -> 87
+	84 -> 88
+	85 -> 89
+	86 -> 90
+	86 -> 91
+	87 -> 92
+	88 -> 93
+	90 -> 94
+	91 -> 95
+
+
+}

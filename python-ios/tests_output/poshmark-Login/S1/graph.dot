@@ -1,0 +1,58 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Poshmark\l|label = Poshmark\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-Login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-Login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-Login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-Login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeNavigationBar\l|name = pageTitle\l|label = Login\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-Login/S1/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-Login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeButton\l|name = leftNavButton\l|enabled = true\l|visible = true\l|x = 8\l|y = 20\l|width = 43\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-Login/S1/pngs/16.0_40.0_102.0_128.0.png\l}"]
+	7	[label="{type = XCUIElementTypeStaticText\l|value = Login\l|name = Login\l|label = Login\l|enabled = true\l|visible = true\l|x = 163\l|y = 29\l|width = 50\l|height = 25\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-Login/S1/pngs/326.0_58.0_426.0_108.0.png\l}"]
+	8	[label="{type = XCUIElementTypeButton\l|name = rightNavButton1\l|label = Login\l|enabled = true\l|visible = true\l|x = 317\l|y = 20\l|width = 50\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-Login/S1/pngs/634.0_40.0_734.0_128.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-Login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-Login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-Login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 99\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-Login/S1/pngs/0.0_198.0_750.0_286.0.png\l}"]
+	13	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 143\l|width = 375\l|height = 44\l|index = 1\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-Login/S1/pngs/0.0_286.0_750.0_374.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 187\l|width = 375\l|height = 45\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-Login/S1/pngs/0.0_374.0_750.0_464.0.png\l}"]
+	15	[label="{type = XCUIElementTypeStaticText\l|value = Username or email\l|name = Username or email\l|label = Username or email\l|enabled = true\l|visible = true\l|x = 0\l|y = 99\l|width = 90\l|height = 43\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-Login/S1/pngs/0.0_198.0_180.0_284.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 99\l|width = 375\l|height = 1\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-Login/S1/pngs/0.0_198.0_750.0_200.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 142\l|width = 359\l|height = 1\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-Login/S1/pngs/32.0_284.0_750.0_286.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 100\l|y = 99\l|width = 1\l|height = 43\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-Login/S1/pngs/200.0_198.0_202.0_284.0.png\l}"]
+	19	[label="{type = XCUIElementTypeTextField\l|name = usernameTextEdit\l|label = \l|enabled = true\l|visible = true\l|x = 110\l|y = 99\l|width = 265\l|height = 43\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = true \l|screenshotPath = poshmark-Login/S1/pngs/220.0_198.0_750.0_284.0.png\l}"]
+	20	[label="{type = XCUIElementTypeStaticText\l|value = Password\l|name = Password\l|label = Password\l|enabled = true\l|visible = true\l|x = 0\l|y = 143\l|width = 90\l|height = 43\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-Login/S1/pngs/0.0_286.0_180.0_372.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 186\l|width = 375\l|height = 1\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-Login/S1/pngs/0.0_372.0_750.0_374.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 100\l|y = 143\l|width = 1\l|height = 43\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-Login/S1/pngs/200.0_286.0_202.0_372.0.png\l}"]
+	23	[label="{type = XCUIElementTypeSecureTextField\l|name = passwordTextEdit\l|label = \l|enabled = true\l|visible = true\l|x = 110\l|y = 143\l|width = 265\l|height = 43\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-Login/S1/pngs/220.0_286.0_750.0_372.0.png\l}"]
+	24	[label="{type = XCUIElementTypeStaticText\l|value = Forgot Password?\l|name = Forgot Password?\l|label = Forgot Password?\l|enabled = true\l|visible = true\l|x = 0\l|y = 187\l|width = 375\l|height = 45\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-Login/S1/pngs/0.0_374.0_750.0_464.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	3 -> 5
+	4 -> 6
+	4 -> 7
+	4 -> 8
+	5 -> 9
+	9 -> 10
+	10 -> 11
+	11 -> 12
+	11 -> 13
+	11 -> 14
+	12 -> 15
+	12 -> 16
+	12 -> 17
+	12 -> 18
+	12 -> 19
+	13 -> 20
+	13 -> 21
+	13 -> 22
+	13 -> 23
+	14 -> 24
+
+
+}

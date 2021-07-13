@@ -1,0 +1,40 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "python-android",
+        "events": [
+            {
+                "type": "name",
+                "tag": "NTPHomeFakeOmniboxAccessibilityID",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Address",
+                "event": "send_keys_enter",
+                "input": "google.com"
+            },
+            {
+                "type": "name",
+                "tag": "Address and search bar",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Address",
+                "event": "send_keys_enter",
+                "input": "wikipedia.org"
+            },
+            {
+                "type": "name",
+                "tag": "Back",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Google"
+            }
+        ]
+    }
+}

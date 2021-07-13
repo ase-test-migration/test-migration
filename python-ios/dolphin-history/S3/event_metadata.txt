@@ -1,0 +1,4 @@
+pathToElementImageCrop: dolphin-history/S3/pngs/97.99999999999999_240.00000000000003_204.0_280.0.png;
+coords: {'x1': 97.99999999999999, 'y1': 240.00000000000003, 'x2': 204.0, 'y2': 280.0};
+text_identifier: { "label" : "History" };
+event: click;

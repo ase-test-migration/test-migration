@@ -1,0 +1,4 @@
+pathToElementImageCrop: todoist-edit/S0/pngs/1029.0_2373.0_1197.0_2541.0.png;
+coords: {'x1': 1029.0, 'y1': 2373.0, 'x2': 1197.0, 'y2': 2541.0};
+text_identifier: { "label" : "Quick Add" };
+event: click;

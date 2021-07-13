@@ -1,0 +1,39 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout":0
+    },
+    "tests" : [
+        {
+            "name" : "test_WP_SideMenuNav",
+            "events": [
+                {
+                    "event": "click",
+                    "tag": "nav sections",
+                    "type": "accessibilityId"
+                },
+                {
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeStaticText[@name=\"Primary Section\"])[5]",
+                    "type": "xPath"
+                },
+                {
+                    "event": "click",
+                    "tag": "nav sections",
+                    "type": "accessibilityId"
+                },
+                {
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeStaticText[@name=\"Primary Section\"])[4]",
+                    "type": "xPath"
+                }
+            ]
+            
+    }
+    ]
+}

@@ -1,0 +1,5 @@
+{ "resource-id" : "com.ubercab.eats:id/ub__search_back" , "screenshotPath" : "search/S2/pngs/0_84_144_228.png"}
+{ "resource-id" : "com.ubercab.eats:id/ub__search_query" , "screenshotPath" : "search/S2/pngs/240_106_936_206.png"}
+{ "content-desc" : "Clear search text" , "resource-id" : "com.ubercab.eats:id/ub__search_clear" , "screenshotPath" : "search/S2/pngs/936_108_1032_204.png"}
+{ "resource-id" : "com.ubercab.eats:id/ub__store_slim_row_container" , "screenshotPath" : "search/S2/pngs/0_240_1080_468.png"}
+{ "resource-id" : "com.ubercab.eats:id/ub__store_slim_row_container" , "screenshotPath" : "search/S2/pngs/0_468_1080_756.png"}

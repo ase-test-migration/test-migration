@@ -1,0 +1,4 @@
+pathToElementImageCrop: edge-tab/S0/pngs/502.0_1244.0_562.0_1336.0.png;
+coords: {'x1': 502.0, 'y1': 1244.0, 'x2': 562.0, 'y2': 1336.0};
+text_identifier: { "label" : "1" };
+event: click;

@@ -1,0 +1,28 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "usa-bookmark",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "White House to distribute more than 25 million masks"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Save"
+                }
+            ]
+        }
+    ]
+}

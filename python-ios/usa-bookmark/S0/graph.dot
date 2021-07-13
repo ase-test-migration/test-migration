@@ -1,0 +1,88 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = USA TODAY\l|label = USA TODAY\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = false\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = false\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeTabBar\l|name = Tab Bar\l|label = Tab Bar\l|enabled = true\l|visible = true\l|x = 0\l|y = 618\l|width = 375\l|height = 49\l|index = 1\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/0.0_1236.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = Top Stories tab\l|label = Top Stories tab\l|enabled = true\l|visible = true\l|x = 2\l|y = 619\l|width = 71\l|height = 48\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/4.0_1238.0_146.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|name = Popular tab\l|label = Popular tab\l|enabled = true\l|visible = true\l|x = 77\l|y = 619\l|width = 71\l|height = 48\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/154.0_1238.0_296.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|name = Sections tab\l|label = Sections tab\l|enabled = true\l|visible = true\l|x = 152\l|y = 619\l|width = 71\l|height = 48\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/304.0_1238.0_446.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeButton\l|name = My Topics tab\l|label = My Topics tab\l|enabled = true\l|visible = true\l|x = 227\l|y = 619\l|width = 71\l|height = 48\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/453.99999999999994_1238.0_596.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeButton\l|name = Saved tab\l|label = Saved tab\l|enabled = true\l|visible = true\l|x = 302\l|y = 619\l|width = 71\l|height = 48\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/604.0_1238.0_746.0_1334.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	16	[label="{type = XCUIElementTypeNavigationBar\l|name = FrontsCollectionVC\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	18	[label="{type = XCUIElementTypeButton\l|name = Settings\l|label = Settings\l|enabled = true\l|visible = true\l|x = 271\l|y = 20\l|width = 45\l|height = 44\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/542.0_40.0_632.0_128.0.png\l}"]
+	19	[label="{type = XCUIElementTypeButton\l|name = frontSearchBarButton\l|label = Search\l|enabled = true\l|visible = true\l|x = 323\l|y = 20\l|width = 44\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/646.0_40.0_734.0_128.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = false\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 618\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/0.0_0.0_750.0_1236.0.png\l}"]
+	22	[label="{type = XCUIElementTypeCollectionView\l|name = FrontsCollectionVC\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 618\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/0.0_0.0_750.0_1236.0.png\l}"]
+	23	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 594\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/0.0_128.0_750.0_1316.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 15 pages\l|label = Vertical scroll bar, 15 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 64\l|width = 30\l|height = 554\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/684.0_128.0_744.0_1236.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 585\l|width = 375\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/0.0_1170.0_750.0_1230.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 594\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/0.0_128.0_750.0_1316.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 594\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/0.0_128.0_750.0_1316.0.png\l}"]
+	28	[label="{type = XCUIElementTypeStaticText\l|value = White House to distribute more than 25 million masks\l|name = White House to distribute more than 25 million masks\l|label = White House to distribute more than 25 million masks\l|enabled = true\l|visible = true\l|x = 20\l|y = 356\l|width = 335\l|height = 99\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = true \l|screenshotPath = usa-bookmark/S0/pngs/40.0_712.0_710.0_910.0.png\l}"]
+	29	[label="{type = XCUIElementTypeStaticText\l|value = From March to May, the White House will send out well-fitted cloth masks, available in child and adult sizes, that can be washed for reuse.\l|name = From March to May, the White House will send out well-fitted cloth masks, available in child and adult sizes, that can be washed for reuse.\l|label = From March to May, the White House will send out well-fitted cloth masks, available in child and adult sizes, that can be washed for reuse.\l|enabled = true\l|visible = true\l|x = 20\l|y = 465\l|width = 335\l|height = 57\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/40.0_930.0_710.0_1044.0.png\l}"]
+	30	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 20\l|y = 537\l|width = 335\l|height = 100\l|index = 3\l|numberOfChildren = 2\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/40.0_1074.0_710.0_1274.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 13\l|y = 616\l|width = 74\l|height = 30\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/26.0_1232.0_174.0_1292.0.png\l}"]
+	32	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 20\l|y = 537\l|width = 335\l|height = 50\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/40.0_1074.0_710.0_1174.0.png\l}"]
+	33	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 20\l|y = 587\l|width = 335\l|height = 50\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/40.0_1174.0_710.0_1274.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 537\l|width = 335\l|height = 50\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/40.0_1074.0_710.0_1174.0.png\l}"]
+	35	[label="{type = XCUIElementTypeStaticText\l|value = CVS expands COVID vaccine to more states Friday\l|name = CVS expands COVID vaccine to more states Friday\l|label = CVS expands COVID vaccine to more states Friday\l|enabled = true\l|visible = true\l|x = 56\l|y = 539\l|width = 274\l|height = 46\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/112.00000000000001_1078.0_660.0_1170.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 587\l|width = 335\l|height = 50\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/40.0_1174.0_710.0_1274.0.png\l}"]
+	37	[label="{type = XCUIElementTypeStaticText\l|value = FDA finds one-dose J&J COVID-19 vaccine meets criteria as safe and effective\l|name = FDA finds one-dose J&J COVID-19 vaccine meets criteria as safe and effective\l|label = FDA finds one-dose J&J COVID-19 vaccine meets criteria as safe and effective\l|enabled = true\l|visible = true\l|x = 56\l|y = 589\l|width = 274\l|height = 46\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/112.00000000000001_1178.0_660.0_1270.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 537\l|width = 335\l|height = 50\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/40.0_1074.0_710.0_1174.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 587\l|width = 335\l|height = 50\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-bookmark/S0/pngs/40.0_1174.0_710.0_1274.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	6 -> 8
+	7 -> 9
+	8 -> 10
+	8 -> 11
+	8 -> 12
+	8 -> 13
+	8 -> 14
+	9 -> 15
+	15 -> 16
+	15 -> 17
+	16 -> 18
+	16 -> 19
+	17 -> 20
+	20 -> 21
+	21 -> 22
+	22 -> 23
+	22 -> 24
+	22 -> 25
+	23 -> 26
+	26 -> 27
+	27 -> 28
+	27 -> 29
+	27 -> 30
+	27 -> 31
+	30 -> 32
+	30 -> 33
+	32 -> 34
+	32 -> 35
+	33 -> 36
+	33 -> 37
+	34 -> 38
+	36 -> 39
+
+
+}

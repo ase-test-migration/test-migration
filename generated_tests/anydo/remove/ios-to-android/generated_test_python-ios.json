@@ -1,0 +1,18 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "python-ios",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.anydo:id/listItemLayout",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.anydo:id/add_task",
+                "event": "click"
+            }
+        ]
+    }
+}

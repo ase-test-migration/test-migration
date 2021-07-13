@@ -1,0 +1,4 @@
+pathToElementImageCrop: gTask-newList/S3/pngs/584.0_40.0_750.0_152.0.png;
+coords: {'x1': 584.0, 'y1': 40.0, 'x2': 750.0, 'y2': 152.0};
+text_identifier: { "name" : "Done" };
+event: click;

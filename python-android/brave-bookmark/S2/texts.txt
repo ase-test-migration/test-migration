@@ -1,0 +1,20 @@
+{ "resource-id" : "com.brave.browser:id/bottom_controls" , "screenshotPath" : "brave-bookmark/S2/pngs/0_1994_1080_2148.png"}
+{ "content-desc" : "Оглашавање" , "screenshotPath" : "brave-bookmark/S2/pngs/68_2013_363_2018.png"}
+{ "content-desc" : "За посао" , "screenshotPath" : "brave-bookmark/S2/pngs/360_2013_585_2018.png"}
+{ "content-desc" : "Основни подаци" , "screenshotPath" : "brave-bookmark/S2/pngs/583_2013_937_2018.png"}
+{ "resource-id" : "com.brave.browser:id/url_bar" , "screenshotPath" : "brave-bookmark/S2/pngs/121_179_1036_317.png"}
+{ "content-desc" : "Connection is secure. Site information" , "resource-id" : "com.brave.browser:id/location_bar_status_icon" , "screenshotPath" : "brave-bookmark/S2/pngs/44_171_110_325.png"}
+{ "content-desc" : "Home" , "resource-id" : "com.brave.browser:id/bottom_home_button" , "screenshotPath" : "brave-bookmark/S2/pngs/33_2016_187_2148.png"}
+{ "content-desc" : "Search" , "resource-id" : "com.brave.browser:id/search_accelerator" , "screenshotPath" : "brave-bookmark/S2/pngs/452_2032_628_2131.png"}
+{ "content-desc" : "1 open tab, tap to switch tabs" , "resource-id" : "com.brave.browser:id/bottom_tab_switcher_button" , "screenshotPath" : "brave-bookmark/S2/pngs/689_2016_843_2148.png"}
+{ "content-desc" : "More options" , "resource-id" : "com.brave.browser:id/menu_button_wrapper" , "screenshotPath" : "brave-bookmark/S2/pngs/893_2016_1047_2148.png"}
+{ "content-desc" : "СЛИКЕ" , "screenshotPath" : "brave-bookmark/S2/pngs/280_325_434_457.png"}
+{ "content-desc" : "Enable/Disable Brave Shields" , "resource-id" : "com.brave.browser:id/brave_shields_button" , "screenshotPath" : "brave-bookmark/S2/pngs/926_193_1056_303.png"}
+{ "content-desc" : "Bookmark this page" , "resource-id" : "com.brave.browser:id/bottom_bookmark_button" , "screenshotPath" : "brave-bookmark/S2/pngs/237_2016_391_2148.png"}
+{ "resource-id" : "com.brave.browser:id/menu_button" , "screenshotPath" : "brave-bookmark/S2/pngs/893_2016_1047_2148.png"}
+{ "content-desc" : "Приватност" , "screenshotPath" : "brave-bookmark/S2/pngs/415_1917_693_1964.png"}
+{ "content-desc" : "Услови" , "screenshotPath" : "brave-bookmark/S2/pngs/690_1917_888_1964.png"}
+{ "resource-id" : "gbwa" , "screenshotPath" : "brave-bookmark/S2/pngs/555_325_693_457.png"}
+{ "content-desc" : "Пријавите се" , "screenshotPath" : "brave-bookmark/S2/pngs/709_338_1050_443.png"}
+{ "content-desc" : "srpski" , "screenshotPath" : "brave-bookmark/S2/pngs/541_1048_684_1095.png"}
+{ "content-desc" : "English" , "screenshotPath" : "brave-bookmark/S2/pngs/690_1048_855_1095.png"}

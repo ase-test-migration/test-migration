@@ -1,0 +1,39 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "testMcDBtmMenu",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Home tab 1 of 5"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Order tab 2 of 5"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Deals tab 3 of 5"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Recents tab 4 of 5"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "More tab 5 of 5"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: msToDo-duedate/S1/pngs/0.0_2388.0_1242.0_2544.0.png;
+coords: {'x1': 0.0, 'y1': 2388.0, 'x2': 1242.0, 'y2': 2544.0};
+text_identifier: { "label" : "Empty list" };
+event: click;

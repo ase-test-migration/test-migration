@@ -1,0 +1,4 @@
+pathToElementImageCrop: wish-wishlist/S1/pngs/64.0_770.0000000000001_686.0_852.0000000000001.png;
+coords: {'x1': 64.0, 'y1': 770.0000000000001, 'x2': 686.0, 'y2': 852.0000000000001};
+text_identifier: { "label" : "Create New Wishlist" };
+event: click;

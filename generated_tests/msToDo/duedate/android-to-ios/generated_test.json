@@ -1,0 +1,60 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "msToDo-duedate",
+        "events": [
+            {
+                "type": "name",
+                "tag": "My Day, Smart list, 1 of 5, 0 uncompleted tasks",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "screenreader_task_add_task_field",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "screenreader_task_add_task_field",
+                "event": "send_keys_enter",
+                "input": "Mytask"
+            },
+            {
+                "event": "oracle",
+                "type": "text_invisible",
+                "input": "Tomorrow"
+            },
+            {
+                "type": "name",
+                "tag": "Tuesday, April 13",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "\u00d6",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Suggestions",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Dismiss",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "oracle-type": "widget_exists",
+                "type": "name",
+                "tag": "screenreader_task_check_button"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Tomorrow"
+            }
+        ]
+    }
+}

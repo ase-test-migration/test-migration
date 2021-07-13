@@ -1,0 +1,4 @@
+pathToElementImageCrop: anydo-changedate/S7/pngs/860_336_1080_408.png;
+coords: {'x1': 860, 'y1': 336, 'x2': 1080, 'y2': 408};
+text_identifier: {  };
+event: click;

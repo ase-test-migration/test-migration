@@ -1,0 +1,4 @@
+pathToElementImageCrop: cnn_categories/S1/pngs/320.0_162.0_422.0_202.0.png;
+coords: {'x1': 320.0, 'y1': 162.0, 'x2': 422.0, 'y2': 202.0};
+text_identifier: { "name" : "Politics" };
+event: click;

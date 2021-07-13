@@ -1,0 +1,96 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = The Guardian\l|label = The Guardian\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeButton\l|name = Menu\l|label = Menu\l|enabled = true\l|visible = true\l|x = 350\l|y = 798\l|width = 52\l|height = 52\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/1050.0_2394.0_1206.0_2550.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	8	[label="{type = XCUIElementTypeTabBar\l|enabled = true\l|visible = true\l|x = 0\l|y = 813\l|width = 414\l|height = 83\l|numberOfChildren = 4\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/0.0_2439.0_1242.0_2688.0.png\l}"]
+	9	[label="{type = XCUIElementTypeStaticText\l|value = \l|name = \l|label = \l|enabled = true\l|visible = true\l|x = 363\l|y = 805\l|width = 26\l|height = 33\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/1089.0_2415.0_1167.0_2514.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|name = Home – tab 1 of 3\l|label = Home – tab 1 of 3\l|enabled = true\l|visible = true\l|x = 0\l|y = 814\l|width = 104\l|height = 82\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/0.0_2442.0_312.0_2688.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|name = Discover – tab 2 of 3\l|label = Discover – tab 2 of 3\l|enabled = true\l|visible = true\l|x = 103\l|y = 814\l|width = 104\l|height = 82\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/309.0_2442.0_621.0_2688.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|name = Live – tab 3 of 3\l|label = Live – tab 3 of 3\l|enabled = true\l|visible = true\l|x = 207\l|y = 814\l|width = 104\l|height = 82\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/621.0_2442.0_933.0_2688.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|name =  - tab - 4 of 4\l|label =  - tab - 4 of 4\l|enabled = true\l|visible = true\l|x = 310\l|y = 814\l|width = 104\l|height = 82\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/930.0_2442.0_1242.0_2688.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 310\l|y = 814\l|width = 104\l|height = 82\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/930.0_2442.0_1242.0_2688.0.png\l}"]
+	17	[label="{type = XCUIElementTypeNavigationBar\l|name = GLAListCardListView\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 44\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/0.0_132.0_1242.0_264.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 309\l|y = 814\l|width = 106\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/927.0_2442.0_1245.0_2445.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 310\l|y = 862\l|width = 106\l|height = 34\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/930.0_2586.0_1248.0_2688.0.png\l}"]
+	21	[label="{type = XCUIElementTypeButton\l|name = backButton\l|label = backButton\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 51\l|height = 44\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/0.0_132.0_153.0_264.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 309\l|y = 862\l|width = 107\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/927.0_2586.0_1248.0_2589.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	25	[label="{type = XCUIElementTypeCollectionView\l|name = cardListView\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 10\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 86\l|width = 414\l|height = 12\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/0.0_258.0_1242.0_294.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 99\l|width = 414\l|height = 2508\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/0.0_297.0_1242.0_7821.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 99\l|width = 398\l|height = 47\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/24.0_297.0_1218.0_438.0.png\l}"]
+	29	[label="{type = XCUIElementTypeLink\l|name = A grand tour of Britain: 10 cultural highlights, chosen by readers. 18 hours ago\l|label = A grand tour of Britain: 10 cultural highlights, chosen by readers. 18 hours ago\l|enabled = true\l|visible = true\l|x = 8\l|y = 154\l|width = 398\l|height = 396\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = true \l|screenshotPath = guardian-search/S4/pngs/24.0_462.0_1218.0_1650.0.png\l}"]
+	30	[label="{type = XCUIElementTypeLink\l|name = Nancy Campbell’s playlist: 10 songs from my travels. 22 hours ago\l|label = Nancy Campbell’s playlist: 10 songs from my travels. 22 hours ago\l|enabled = true\l|visible = true\l|x = 8\l|y = 558\l|width = 195\l|height = 224\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/24.0_1673.9999999999998_609.0_2346.0.png\l}"]
+	31	[label="{type = XCUIElementTypeLink\l|name = Oosterbeek echoes to the battle of Arnhem: my tour guide’s vivid war memories. 1 day ago\l|label = Oosterbeek echoes to the battle of Arnhem: my tour guide’s vivid war memories. 1 day ago\l|enabled = true\l|visible = true\l|x = 211\l|y = 558\l|width = 195\l|height = 224\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/633.0_1673.9999999999998_1218.0_2346.0.png\l}"]
+	32	[label="{type = XCUIElementTypeLink\l|name = P&O to restart UK cruises this summer - but only for vaccinated passengers. 1 day ago\l|label = P&O to restart UK cruises this summer - but only for vaccinated passengers. 1 day ago\l|enabled = true\l|visible = true\l|x = 8\l|y = 790\l|width = 398\l|height = 68\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/24.0_2370.0_1218.0_2574.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 4 pages\l|label = Vertical scroll bar, 4 pages\l|enabled = true\l|visible = true\l|x = 381\l|y = 88\l|width = 30\l|height = 725\l|numberOfChildren = 0\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/1143.0_264.0_1233.0_2439.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 31\l|y = 780\l|width = 352\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/93.0_2340.0_1149.0_2430.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/0.0_264.0_1242.0_267.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 91\l|width = 414\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/0.0_273.0_1242.0_276.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 94\l|width = 414\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/0.0_282.0_1242.0_285.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 97\l|width = 414\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/0.0_291.0_1242.0_294.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 100\l|width = 398\l|height = 38\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/24.0_300.0_1218.0_414.0.png\l}"]
+	40	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 104\l|width = 398\l|height = 34\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/24.0_312.0_1218.0_414.0.png\l}"]
+	41	[label="{type = XCUIElementTypeLink\l|name = Travel\l|label = Travel\l|enabled = true\l|visible = true\l|x = 8\l|y = 104\l|width = 356\l|height = 32\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/24.0_312.0_1092.0_408.0.png\l}"]
+	42	[label="{type = XCUIElementTypeButton\l|name = Add section to home page\l|label = Add section to home page\l|enabled = true\l|visible = true\l|x = 372\l|y = 104\l|width = 34\l|height = 34\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/1116.0_312.0_1218.0_414.0.png\l}"]
+	43	[label="{type = XCUIElementTypeStaticText\l|value = \l|name = \l|label = \l|enabled = true\l|visible = true\l|x = 380\l|y = 108\l|width = 18\l|height = 22\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S4/pngs/1140.0_324.0_1194.0_390.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	5 -> 7
+	5 -> 8
+	6 -> 9
+	7 -> 10
+	8 -> 11
+	8 -> 12
+	8 -> 13
+	8 -> 14
+	10 -> 15
+	14 -> 16
+	15 -> 17
+	15 -> 18
+	16 -> 19
+	16 -> 20
+	17 -> 21
+	18 -> 22
+	20 -> 23
+	22 -> 24
+	24 -> 25
+	25 -> 26
+	25 -> 27
+	25 -> 28
+	25 -> 29
+	25 -> 30
+	25 -> 31
+	25 -> 32
+	25 -> 33
+	25 -> 34
+	26 -> 35
+	26 -> 36
+	26 -> 37
+	26 -> 38
+	28 -> 39
+	39 -> 40
+	40 -> 41
+	40 -> 42
+	42 -> 43
+
+
+}

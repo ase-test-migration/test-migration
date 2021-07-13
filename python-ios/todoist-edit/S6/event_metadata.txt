@@ -1,0 +1,4 @@
+pathToElementImageCrop: todoist-edit/S6/pngs/1086.0_1701.0_1218.0_1836.0.png;
+coords: {'x1': 1086.0, 'y1': 1701.0, 'x2': 1218.0, 'y2': 1836.0};
+text_identifier: { "label" : "More" };
+event: click;

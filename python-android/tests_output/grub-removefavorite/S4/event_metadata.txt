@@ -1,0 +1,4 @@
+pathToElementImageCrop: grub-removefavorite/S4/pngs/648_82_792_226.png;
+coords: {'x1': 648, 'y1': 82, 'x2': 792, 'y2': 226};
+text_identifier: { "content-desc" : "saved restaurant" , "resource-id" : "com.grubhub.android:id/bookmark" };
+event: click;

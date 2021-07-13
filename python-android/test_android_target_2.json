@@ -1,0 +1,45 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "target-addCart",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Find items or offers, text field, search."
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys",
+                    "tag": "com.target.ui:id/searchField",
+                    "input": "Coke"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "xpath=/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[2]/android.widget.RelativeLayout"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//android.widget.FrameLayout[@content-desc=\"Coca-Cola - 12pk/12 fl oz Cans$5.19at LA Central, \"]/android.view.ViewGroup"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Add to cart"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.target.ui:id/fulfillment_sheet_dialog_pickup_button"
+                }
+            ]
+        }
+    ]
+}

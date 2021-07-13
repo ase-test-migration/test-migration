@@ -1,0 +1,4 @@
+pathToElementImageCrop: msToDo-addTask/S2/pngs/930_1274_1041_1390.png;
+coords: {'x1': 930, 'y1': 1274, 'x2': 1041, 'y2': 1390};
+text_identifier: { "content-desc" : "Add a task" , "resource-id" : "com.microsoft.todos:id/create_task_image_button" };
+event: click;

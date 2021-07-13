@@ -1,0 +1,4 @@
+pathToElementImageCrop: wish-delCart/S1/pngs/630.0_386.0_658.0_450.0.png;
+coords: {'x1': 630.0, 'y1': 386.0, 'x2': 658.0, 'y2': 450.0};
+text_identifier: { "label" : "1" };
+event: click;

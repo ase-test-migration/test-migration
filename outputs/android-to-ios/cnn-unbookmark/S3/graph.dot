@@ -1,0 +1,94 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = CNN\l|label = CNN\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 7\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeTabBar\l|name = Tab Bar\l|label = Tab Bar\l|enabled = true\l|visible = true\l|x = 0\l|y = 618\l|width = 375\l|height = 49\l|index = 1\l|numberOfChildren = 4\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/0.0_1236.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|name = Home\l|label = Home\l|enabled = true\l|visible = true\l|x = 2\l|y = 619\l|width = 90\l|height = 48\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/4.0_1238.0_184.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|name = Search\l|label = Search\l|enabled = true\l|visible = true\l|x = 96\l|y = 619\l|width = 90\l|height = 48\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/192.0_1238.0_372.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = Saved Stories\l|label = Saved Stories\l|enabled = true\l|visible = true\l|x = 190\l|y = 619\l|width = 89\l|height = 48\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/380.00000000000006_1238.0_558.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeButton\l|name = Preferences\l|label = Preferences\l|enabled = true\l|visible = true\l|x = 283\l|y = 619\l|width = 90\l|height = 48\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/566.0_1238.0_746.0_1334.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	16	[label="{type = XCUIElementTypeNavigationBar\l|name = CNN.ArticleView\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	18	[label="{type = XCUIElementTypeButton\l|name = Saved Stories\l|label = Saved Stories\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 44\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/0.0_40.0_88.0_128.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 238\l|y = 30\l|width = 24\l|height = 24\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/476.00000000000006_60.00000000000001_524.0_108.0.png\l}"]
+	20	[label="{type = XCUIElementTypeButton\l|name = Share\l|label = Share\l|enabled = true\l|visible = true\l|x = 270\l|y = 20\l|width = 46\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/540.0_40.0_632.0_128.0.png\l}"]
+	21	[label="{type = XCUIElementTypeButton\l|name = Bookmark\l|label = Bookmark\l|enabled = true\l|visible = true\l|x = 324\l|y = 20\l|width = 43\l|height = 44\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/648.0_40.0_734.0_128.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 554\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/0.0_128.0_750.0_1236.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 212\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/0.0_128.0_750.0_552.0.png\l}"]
+	25	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 554\l|index = 1\l|numberOfChildren = 4\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/0.0_128.0_750.0_1236.0.png\l}"]
+	26	[label="{type = XCUIElementTypeButton\l|name = Video Icon\l|label = Video Icon\l|enabled = true\l|visible = true\l|x = 160\l|y = 143\l|width = 55\l|height = 55\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/320.0_286.0_430.0_396.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 169\l|y = 266\l|width = 37\l|height = 4\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/338.0_532.0_412.0_540.0.png\l}"]
+	28	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 276\l|width = 375\l|height = 242\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/0.0_552.0_750.0_1036.0.png\l}"]
+	29	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 517\l|width = 375\l|height = 271\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/0.0_1034.0_750.0_1576.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 585\l|width = 375\l|height = 30\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/0.0_1170.0_750.0_1230.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 276\l|width = 375\l|height = 242\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/0.0_552.0_750.0_1036.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 517\l|width = 375\l|height = 271\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/0.0_1034.0_750.0_1576.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 296\l|width = 375\l|height = 207\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/0.0_592.0_750.0_1006.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 532\l|width = 375\l|height = 241\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/0.0_1064.0_750.0_1546.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 296\l|width = 345\l|height = 190\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/30.0_592.0_720.0_972.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 500\l|width = 50\l|height = 3\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/30.0_999.9999999999999_130.0_1005.9999999999999.png\l}"]
+	37	[label="{type = XCUIElementTypeTextView\l|value = Washington  (CNN) - A US Capitol Police officer directed "all outside units" on the morning of January 6 to only monitor for anti-Trump agitators "who want to start a fight," not any "pro-Trump in the crowd," according to the findings of a newly revealed internal investigation.\l|enabled = true\l|visible = true\l|x = 15\l|y = 532\l|width = 345\l|height = 241\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/30.0_1064.0_720.0_1546.0.png\l}"]
+	38	[label="{type = XCUIElementTypeTextView\l|value = US Capitol Police officer allegedly told units to only monitor for 'anti-Trump' protesters on January 6\l|enabled = true\l|visible = true\l|x = 15\l|y = 300\l|width = 345\l|height = 135\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/30.0_600.0_720.0_870.0.png\l}"]
+	39	[label="{type = XCUIElementTypeStaticText\l|value = By Zachary Cohen, CNN\l|name = Author\l|label = author\l|enabled = true\l|visible = true\l|x = 15\l|y = 438\l|width = 345\l|height = 18\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/30.0_876.0_720.0_912.0.png\l}"]
+	40	[label="{type = XCUIElementTypeStaticText\l|value = Updated at 5:14 AM on Thursday, April 22\l|name = Updated Date\l|label = updated date\l|enabled = true\l|visible = true\l|x = 15\l|y = 465\l|width = 345\l|height = 21\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/30.0_930.0_720.0_972.0.png\l}"]
+	41	[label="{type = XCUIElementTypeTextView\l|name = Washington  (CNN) - A US Capitol Police officer directed "all outside units" on the morning of January 6 to only monitor for anti-Trump agitators "who want to start a fight," not any "pro-Trump in the crowd," according to the findings of a newly revealed internal investigation.\l|label = Washington  (CNN) - A US Capitol Police officer directed "all outside units" on the morning of January 6 to only monitor for anti-Trump agitators "who want to start a fight," not any "pro-Trump in the crowd," according to the findings of a newly revealed internal investigation.\l|enabled = true\l|visible = true\l|x = 15\l|y = 532\l|width = 345\l|height = 241\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/30.0_1064.0_720.0_1546.0.png\l}"]
+	42	[label="{type = XCUIElementTypeTextView\l|name = US Capitol Police officer allegedly told units to only monitor for 'anti-Trump' protesters on January 6\l|label = US Capitol Police officer allegedly told units to only monitor for 'anti-Trump' protesters on January 6\l|enabled = true\l|visible = true\l|x = 15\l|y = 300\l|width = 345\l|height = 135\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/cnn-unbookmark/S3/pngs/30.0_600.0_720.0_870.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	7 -> 9
+	8 -> 10
+	9 -> 11
+	9 -> 12
+	9 -> 13
+	9 -> 14
+	10 -> 15
+	15 -> 16
+	15 -> 17
+	16 -> 18
+	16 -> 19
+	16 -> 20
+	16 -> 21
+	17 -> 22
+	22 -> 23
+	23 -> 24
+	23 -> 25
+	24 -> 26
+	24 -> 27
+	25 -> 28
+	25 -> 29
+	25 -> 30
+	28 -> 31
+	29 -> 32
+	31 -> 33
+	32 -> 34
+	33 -> 35
+	33 -> 36
+	34 -> 37
+	35 -> 38
+	35 -> 39
+	35 -> 40
+	37 -> 41
+	38 -> 42
+
+
+}

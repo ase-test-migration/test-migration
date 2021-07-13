@@ -1,0 +1,14 @@
+{ "resource-id" : "com.ingka.ikea.app:id/bottom_navigation" , "screenshotPath" : "ikea-delCart/S1/pngs/21_2214_1059_2287.png"}
+{ "resource-id" : "com.ingka.ikea.app:id/go_to_checkout_button" , "screenshotPath" : "ikea-delCart/S1/pngs/42_2004_1038_2172.png"}
+{ "resource-id" : "com.ingka.ikea.app:id/cart_list" , "screenshotPath" : "ikea-delCart/S1/pngs/0_221_1080_2214.png"}
+{ "content-desc" : "Share bag" , "resource-id" : "com.ingka.ikea.app:id/cart_menu_share_cart" , "screenshotPath" : "ikea-delCart/S1/pngs/784_84_911_210.png"}
+{ "content-desc" : "Help" , "resource-id" : "com.ingka.ikea.app:id/cart_menu_reassurance" , "screenshotPath" : "ikea-delCart/S1/pngs/911_84_1038_210.png"}
+{ "resource-id" : "com.ingka.ikea.app:id/productContainer" , "screenshotPath" : "ikea-delCart/S1/pngs/0_712_1080_1193.png"}
+{ "resource-id" : "com.ingka.ikea.app:id/button_login" , "screenshotPath" : "ikea-delCart/S1/pngs/42_523_530_649.png"}
+{ "resource-id" : "com.ingka.ikea.app:id/button_sign_up" , "screenshotPath" : "ikea-delCart/S1/pngs/551_523_1038_649.png"}
+{ "content-desc" : "More options for BRUNKRISSLA" , "resource-id" : "com.ingka.ikea.app:id/actionsMenu" , "screenshotPath" : "ikea-delCart/S1/pngs/933_775_1059_901.png"}
+{ "resource-id" : "com.ingka.ikea.app:id/picker_button_container" , "screenshotPath" : "ikea-delCart/S1/pngs/378_1004_567_1130.png"}
+{ "resource-id" : "com.ingka.ikea.app:id/product_list" , "screenshotPath" : "ikea-delCart/S1/pngs/63_1370_1017_2214.png"}
+{ "resource-id" : "com.ingka.ikea.app:id/price_presentation_parent" , "screenshotPath" : "ikea-delCart/S1/pngs/105_1370_975_1762.png"}
+{ "resource-id" : "com.ingka.ikea.app:id/price_presentation_parent" , "screenshotPath" : "ikea-delCart/S1/pngs/105_1765_975_2157.png"}
+{ "resource-id" : "com.ingka.ikea.app:id/price_presentation_parent" , "screenshotPath" : "ikea-delCart/S1/pngs/105_2160_975_2214.png"}

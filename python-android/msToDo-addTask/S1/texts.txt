@@ -1,0 +1,23 @@
+{ "resource-id" : "com.microsoft.todos:id/tasksview_create_task_container" , "screenshotPath" : "msToDo-addTask/S1/pngs/0_1258_1080_1533.png"}
+{ "resource-id" : "com.microsoft.todos:id/chip_scroll_layout" , "screenshotPath" : "msToDo-addTask/S1/pngs/0_1390_1080_1533.png"}
+{ "resource-id" : "com.microsoft.todos:id/homeview_header" , "screenshotPath" : "msToDo-addTask/S1/pngs/0_74_540_221.png"}
+{ "resource-id" : "com.microsoft.todos:id/lists_recycler_view" , "screenshotPath" : "msToDo-addTask/S1/pngs/0_221_540_1407.png"}
+{ "resource-id" : "com.microsoft.todos:id/tasks_recycler_view" , "screenshotPath" : "msToDo-addTask/S1/pngs/0_221_1080_1533.png"}
+{ "resource-id" : "com.microsoft.todos:id/empty_circle" , "screenshotPath" : "msToDo-addTask/S1/pngs/63_1300_126_1363.png"}
+{ "resource-id" : "com.microsoft.todos:id/create_task_edit_text" , "screenshotPath" : "msToDo-addTask/S1/pngs/158_1303_909_1360.png"}
+{ "content-desc" : "Add a task" , "resource-id" : "com.microsoft.todos:id/create_task_image_button" , "screenshotPath" : "msToDo-addTask/S1/pngs/930_1274_1041_1390.png"}
+{ "content-desc" : "Enter search" , "resource-id" : "com.microsoft.todos:id/search_icon" , "screenshotPath" : "msToDo-addTask/S1/pngs/413_85_540_212.png"}
+{ "content-desc" : "My Day, 0 tasks" , "resource-id" : "com.microsoft.todos:id/list_content" , "screenshotPath" : "msToDo-addTask/S1/pngs/0_221_529_347.png"}
+{ "content-desc" : "Important, 0 tasks" , "resource-id" : "com.microsoft.todos:id/list_content" , "screenshotPath" : "msToDo-addTask/S1/pngs/0_347_529_473.png"}
+{ "content-desc" : "Planned, 0 tasks" , "resource-id" : "com.microsoft.todos:id/list_content" , "screenshotPath" : "msToDo-addTask/S1/pngs/0_473_529_599.png"}
+{ "content-desc" : "Assigned to you, 0 tasks" , "resource-id" : "com.microsoft.todos:id/list_content" , "screenshotPath" : "msToDo-addTask/S1/pngs/0_599_529_725.png"}
+{ "content-desc" : "Flagged email" , "resource-id" : "com.microsoft.todos:id/list_content" , "screenshotPath" : "msToDo-addTask/S1/pngs/0_725_529_851.png"}
+{ "content-desc" : "Tasks" , "resource-id" : "com.microsoft.todos:id/list_content" , "screenshotPath" : "msToDo-addTask/S1/pngs/0_851_529_977.png"}
+{ "resource-id" : "com.microsoft.todos:id/create_list_text_view" , "screenshotPath" : "msToDo-addTask/S1/pngs/0_1407_367_1533.png"}
+{ "content-desc" : "Create group" , "resource-id" : "com.microsoft.todos:id/add_group_icon" , "screenshotPath" : "msToDo-addTask/S1/pngs/393_1407_540_1533.png"}
+{ "content-desc" : "Back" , "screenshotPath" : "msToDo-addTask/S1/pngs/0_74_147_221.png"}
+{ "resource-id" : "com.microsoft.todos:id/list_picker_chip" , "screenshotPath" : "msToDo-addTask/S1/pngs/32_1403_281_1488.png"}
+{ "resource-id" : "com.microsoft.todos:id/due_date_chip" , "screenshotPath" : "msToDo-addTask/S1/pngs/302_1403_622_1488.png"}
+{ "resource-id" : "com.microsoft.todos:id/reminder_chip" , "screenshotPath" : "msToDo-addTask/S1/pngs/643_1403_945_1488.png"}
+{ "resource-id" : "com.microsoft.todos:id/recurrence_chip" , "screenshotPath" : "msToDo-addTask/S1/pngs/966_1403_1080_1488.png"}
+{ "content-desc" : "More options" , "screenshotPath" : "msToDo-addTask/S1/pngs/975_84_1080_210.png"}

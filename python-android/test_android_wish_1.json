@@ -1,0 +1,42 @@
+{
+    "tests": [
+        {
+            "name": "wish-Login", 
+            "events": [
+                {
+                    "tag": "com.contextlogic.wish:id/signInButton", 
+                    "type": "id", 
+                    "event": "click"
+                }, 
+                
+                {
+                    "input": "email@example.com", 
+                    "tag": "com.contextlogic.wish:id/sign_in_fragment_email_text", 
+                    "type": "id", 
+                    "event": "send_keys"
+                }, 
+                {
+                    "input": "Test.0123",
+                    "tag": "com.contextlogic.wish:id/sign_in_fragment_password_text", 
+                    "type": "id", 
+                    "event": "send_keys"
+                }, 
+                {
+                    "tag": "com.contextlogic.wish:id/sign_in_fragment_sign_in_button", 
+                    "type": "id", 
+                    "event": "click"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Popular"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "emulator-5554", 
+        "platformName": "Android", 
+        "newCommandTimeout": 0
+    }
+}

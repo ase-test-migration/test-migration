@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-filter/S0/pngs/42_221_785_347.png;
+coords: {'x1': 42, 'y1': 221, 'x2': 785, 'y2': 347};
+text_identifier: { "text" : "Search for anything" , "content-desc" : "Search Keyword Search for anything" , "resource-id" : "com.ebay.mobile:id/search_box" };
+event: click;

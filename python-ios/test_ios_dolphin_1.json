@@ -1,0 +1,34 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "dolphin-search",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Type a URL or Search"
+                },
+                {
+                    "type": "xPath",
+                    "event": "send_keys_enter",
+                    "tag": "(//XCUIElementTypeStaticText[@name=\"Type a URL or Search\"])[2]",
+                    "input": "google.com"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Google"
+                }
+            ]
+        }
+    ]
+}

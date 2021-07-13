@@ -1,0 +1,4 @@
+pathToElementImageCrop: etsy-add-to-cart/S4/pngs/30.0_2334.0_1212.0_2478.0.png;
+coords: {'x1': 30.0, 'y1': 2334.0, 'x2': 1212.0, 'y2': 2478.0};
+text_identifier: { "name" : "Add to cart" };
+event: click;

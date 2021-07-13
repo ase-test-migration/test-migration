@@ -1,0 +1,23 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "abc-category",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "Open the menu",
+                "event": "click"
+            },
+            {
+                "type": "xPath",
+                "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.LinearLayout[2]/android.widget.ListView/android.view.ViewGroup[7]",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "type": "resource-id",
+                "tag": "com.abc.abcnews:id/featured_content_onclick"
+            }
+        ]
+    }
+}

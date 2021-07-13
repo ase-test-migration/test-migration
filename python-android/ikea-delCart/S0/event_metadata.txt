@@ -1,0 +1,4 @@
+pathToElementImageCrop: ikea-delCart/S0/pngs/921_2256_984_2287.png;
+coords: {'x1': 921, 'y1': 2256, 'x2': 984, 'y2': 2361};
+text_identifier: { "content-desc" : "Cart" , "resource-id" : "com.ingka.ikea.app:id/image" };
+event: click;

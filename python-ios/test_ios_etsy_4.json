@@ -1,0 +1,48 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "etsy-navi",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "You"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Profile"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//XCUIElementTypeStaticText[@name=\"Favorites\"]"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeCell[@name=\"listing card\"])[1]/XCUIElementTypeOther"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Kitangle"
+                },
+                {
+                    "event": "oracle",
+                    "oracle-type": "text_exists",
+                    "input": "Shop"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: cnn-edition/S2/pngs/48.0_386.99999999999994_213.0_455.99999999999994.png;
+coords: {'x1': 48.0, 'y1': 386.99999999999994, 'x2': 213.0, 'y2': 455.99999999999994};
+text_identifier: { "label" : "Edition" };
+event: click;

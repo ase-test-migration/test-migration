@@ -1,0 +1,6 @@
+pathToElementImageCrop: ;
+coords: ;
+text_identifier: { Add to favorites };
+event: oracle;
+type: text_exists;
+input: Add to favorites;

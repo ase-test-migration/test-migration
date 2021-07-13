@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-bid/S2/pngs/0.0_520.0_750.0_616.0.png;
+coords: {'x1': 0.0, 'y1': 520.0, 'x2': 750.0, 'y2': 616.0};
+text_identifier: { "label" : "Collapsed, Antiquities" };
+event: click;

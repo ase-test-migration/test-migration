@@ -1,0 +1,21 @@
+{ "resource-id" : "com.etsy.android:id/app_bar_toolbar" , "screenshotPath" : "remove-from-cart/S0/pngs/0_72_1080_240.png"}
+{ "content-desc" : "Home tab, 1 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_home" , "screenshotPath" : "remove-from-cart/S0/pngs/0_1608_216_1776.png"}
+{ "content-desc" : "Favorites tab, 2 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_favorites" , "screenshotPath" : "remove-from-cart/S0/pngs/216_1608_432_1776.png"}
+{ "content-desc" : "Updates tab, 3 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_updates" , "screenshotPath" : "remove-from-cart/S0/pngs/432_1608_648_1776.png"}
+{ "content-desc" : "You tab, 4 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_you" , "screenshotPath" : "remove-from-cart/S0/pngs/648_1608_864_1776.png"}
+{ "content-desc" : "Cart tab, 5 of 5, 1 new notification" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_cart" , "screenshotPath" : "remove-from-cart/S0/pngs/864_1608_1080_1776.png"}
+{ "content-desc" : "Search for anything on Etsy" , "screenshotPath" : "remove-from-cart/S0/pngs/0_72_168_240.png"}
+{ "resource-id" : "com.etsy.android:id/view_pager" , "screenshotPath" : "remove-from-cart/S0/pngs/0_240_1080_1608.png"}
+{ "resource-id" : "com.etsy.android:id/recycler_view" , "screenshotPath" : "remove-from-cart/S0/pngs/0_240_1080_1608.png"}
+{ "resource-id" : "com.etsy.android:id/horizontal_recycler_view" , "screenshotPath" : "remove-from-cart/S0/pngs/0_854_1080_1202.png"}
+{ "resource-id" : "com.etsy.android:id/horizontal_recycler_view" , "screenshotPath" : "remove-from-cart/S0/pngs/0_1327_1080_1608.png"}
+{ "resource-id" : "com.etsy.android:id/search_src_text" , "screenshotPath" : "remove-from-cart/S0/pngs/168_102_1080_210.png"}
+{ "resource-id" : "com.etsy.android:id/styledBannerContentCard" , "screenshotPath" : "remove-from-cart/S0/pngs/48_312_1032_657.png"}
+{ "content-desc" : "See more Recently viewed" , "resource-id" : "com.etsy.android:id/headerViewAllLink" , "screenshotPath" : "remove-from-cart/S0/pngs/805_746_1056_854.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "remove-from-cart/S0/pngs/48_878_336_1166.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "remove-from-cart/S0/pngs/384_878_672_1166.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "remove-from-cart/S0/pngs/720_878_1008_1166.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "remove-from-cart/S0/pngs/1056_878_1080_1166.png"}
+{ "content-desc" : "Add ZAHRA | Antique Persian Heriz Pattern Oriental Rug, Hand-knotted texture, Traditional decor, Mid-century Modern, Navy blue, Red, Area Rugs to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "remove-from-cart/S0/pngs/204_902_312_1010.png"}
+{ "content-desc" : "Add Living Room Rug, Turkish Rug, 8.7x5.3 feet, Large Rug, Oriental Rug, Antique Rug, Vintage Rug, Salon Rug, Oushak Rug, Old Rug,Faded Rug 4044 to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "remove-from-cart/S0/pngs/540_902_648_1010.png"}
+{ "content-desc" : "Add Square Wall Knobs - Large - Set of Three - Locally Sourced White Oak Wall Hook to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "remove-from-cart/S0/pngs/876_902_984_1010.png"}

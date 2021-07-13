@@ -1,0 +1,33 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "ebay-filter",
+        "events": [
+            {
+                "type": "name",
+                "tag": "button_box_search",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "button_recent_search",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "filter_bar_filter_button",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "button_search_filter_footer",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Xiaomi"
+            }
+        ]
+    }
+}

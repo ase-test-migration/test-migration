@@ -1,0 +1,5 @@
+pathToElementImageCrop: target-addCart/S0/pngs/104.0_214.0_614.0_310.0.png;
+coords: {'x1': 104.0, 'y1': 214.0, 'x2': 614.0, 'y2': 310.0};
+text_identifier: { "label" : "" };
+event: send_keys_enter;
+input: Cola;

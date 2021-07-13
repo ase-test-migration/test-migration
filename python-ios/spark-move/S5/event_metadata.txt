@@ -1,0 +1,4 @@
+pathToElementImageCrop: spark-move/S5/pngs/24.0_710.0_588.0_798.0.png;
+coords: {'x1': 24.0, 'y1': 710.0, 'x2': 588.0, 'y2': 798.0};
+text_identifier: { "label" : "Settings" };
+event: click;

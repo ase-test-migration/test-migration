@@ -1,0 +1,19 @@
+{ "content-desc" : "Shop" , "resource-id" : "com.target.ui:id/menu_home" , "screenshotPath" : "target-addCart/S0/pngs/0_2211_270_2287.png"}
+{ "content-desc" : "To Go" , "resource-id" : "com.target.ui:id/menu_list" , "screenshotPath" : "target-addCart/S0/pngs/270_2211_540_2287.png"}
+{ "content-desc" : "Wallet" , "resource-id" : "com.target.ui:id/menu_barcode" , "screenshotPath" : "target-addCart/S0/pngs/540_2211_810_2287.png"}
+{ "content-desc" : "TestUser" , "resource-id" : "com.target.ui:id/menu_account" , "screenshotPath" : "target-addCart/S0/pngs/810_2211_1080_2287.png"}
+{ "content-desc" : "Scan product" , "resource-id" : "com.target.ui:id/shop_fab_scan" , "screenshotPath" : "target-addCart/S0/pngs/869_1966_1080_2209.png"}
+{ "content-desc" : "Cart" , "resource-id" : "com.target.ui:id/action_cart" , "screenshotPath" : "target-addCart/S0/pngs/932_95_1080_242.png"}
+{ "content-desc" : "Find items or offers, text field, search." , "resource-id" : "com.target.ui:id/tab_header_search_element" , "screenshotPath" : "target-addCart/S0/pngs/32_305_815_452.png"}
+{ "content-desc" : "Voice search" , "resource-id" : "com.target.ui:id/tab_header_voice_icon" , "screenshotPath" : "target-addCart/S0/pngs/815_305_916_452.png"}
+{ "content-desc" : "Scan product" , "resource-id" : "com.target.ui:id/tab_header_scan_icon" , "screenshotPath" : "target-addCart/S0/pngs/916_305_1048_452.png"}
+{ "resource-id" : "com.target.ui:id/skystream_recycler" , "screenshotPath" : "target-addCart/S0/pngs/0_484_1080_2209.png"}
+{ "content-desc" : "fulfillment info" , "resource-id" : "com.target.ui:id/start_your_order_info_button" , "screenshotPath" : "target-addCart/S0/pngs/975_528_1038_591.png"}
+{ "resource-id" : "com.target.ui:id/shop_your_store_recycler_view" , "screenshotPath" : "target-addCart/S0/pngs/0_634_1080_952.png"}
+{ "resource-id" : "com.target.ui:id/skyfeed_table_list" , "screenshotPath" : "target-addCart/S0/pngs/0_994_1080_1468.png"}
+{ "resource-id" : "com.target.ui:id/skyfeed_grid_recycler" , "screenshotPath" : "target-addCart/S0/pngs/42_1471_1038_2209.png"}
+{ "resource-id" : "com.target.ui:id/shop_your_store_carousel_item" , "screenshotPath" : "target-addCart/S0/pngs/42_660_474_910.png"}
+{ "resource-id" : "com.target.ui:id/shop_your_store_carousel_item" , "screenshotPath" : "target-addCart/S0/pngs/506_660_938_910.png"}
+{ "resource-id" : "com.target.ui:id/shop_your_store_carousel_item" , "screenshotPath" : "target-addCart/S0/pngs/970_660_1080_910.png"}
+{ "content-desc" : "Oh-so Spring
+See what's new in women's clothing, swim & shoes." , "resource-id" : "com.target.ui:id/skyfeed_tile_card_view" , "screenshotPath" : "target-addCart/S0/pngs/42_1492_1038_2209.png"}

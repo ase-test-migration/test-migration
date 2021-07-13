@@ -1,0 +1,4 @@
+pathToElementImageCrop: McD-search/S0/pngs/216_2214_432_2287.png;
+coords: {'x1': 216, 'y1': 2214, 'x2': 432, 'y2': 2361};
+text_identifier: { "content-desc" : "Order tab 2 of 5" };
+event: click;

@@ -1,0 +1,39 @@
+{
+    "tests": [
+        {
+            "name": "guardian-follow", 
+            "events": [
+                {
+                    "tag": "com.guardian:id/tvHeadline", 
+                    "type": "id", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.viewpager.widget.ViewPager/android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View[1]/android.view.View[5]/android.view.View[4]", 
+                    "type": "xPath", 
+                    "event": "click"
+                },
+                {
+                    "input": "Follow Lauren Gambino",
+                    "event": "oracle",
+                    "oracle-type": "text_exists"
+                },
+                {
+                    "tag": "com.guardian:id/accept_button", 
+                    "type": "id", 
+                    "event": "click"
+                },
+                {
+                    "input": "Following Lauren Gambino",
+                    "event": "oracle",
+                    "oracle-type": "text_exists"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "emulator-5554", 
+        "platformName": "Android", 
+        "newCommandTimeout": 0
+    }
+}

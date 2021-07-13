@@ -1,0 +1,158 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = to doist\l|label = to doist\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 298\l|width = 414\l|height = 598\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_894.0_1242.0_2688.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 298\l|width = 414\l|height = 598\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_894.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 298\l|width = 414\l|height = 21\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_894.0_1242.0_957.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 319\l|width = 414\l|height = 577\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_957.0_1242.0_2688.0.png\l}"]
+	8	[label="{type = XCUIElementTypeNavigationBar\l|name = Schedule\l|enabled = true\l|visible = true\l|x = 0\l|y = 319\l|width = 414\l|height = 44\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_957.0_1242.0_1089.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 319\l|width = 414\l|height = 577\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_957.0_1242.0_2688.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|name = Cancel\l|label = Cancel\l|enabled = true\l|visible = true\l|x = 11\l|y = 319\l|width = 65\l|height = 44\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/33.0_957.0_228.0_1089.0.png\l}"]
+	11	[label="{type = XCUIElementTypeStaticText\l|value = Schedule\l|name = Schedule\l|label = Schedule\l|enabled = true\l|visible = true\l|x = 169\l|y = 329\l|width = 76\l|height = 24\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/507.0_987.0_735.0_1059.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|name = Scroll to top\l|label = Scroll to top\l|enabled = true\l|visible = true\l|x = 360\l|y = 319\l|width = 34\l|height = 44\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/1080.0_957.0_1182.0_1089.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 319\l|width = 414\l|height = 577\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_957.0_1242.0_2688.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 363\l|width = 414\l|height = 533\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_1089.0_1242.0_2688.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 363\l|width = 414\l|height = 499\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_1089.0_1242.0_2586.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 363\l|width = 414\l|height = 61\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_1089.0_1242.0_1272.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 423\l|width = 414\l|height = 375\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_1269.0_1242.0_2394.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 797\l|width = 414\l|height = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_2391.0_1242.0_2397.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 798\l|width = 414\l|height = 64\l|numberOfChildren = 2\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_2394.0_1242.0_2586.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 375\l|width = 390\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/36.0_1125.0_1206.0_1233.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 423\l|width = 414\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_1269.0_1242.0_1272.0.png\l}"]
+	22	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 423\l|width = 414\l|height = 375\l|numberOfChildren = 21\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_1269.0_1242.0_2394.0.png\l}"]
+	23	[label="{type = XCUIElementTypeButton\l|name = Add Time\l|label = Add Time\l|enabled = true\l|visible = true\l|x = 12\l|y = 810\l|width = 190\l|height = 40\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/36.0_2430.0_606.0_2550.0.png\l}"]
+	24	[label="{type = XCUIElementTypeButton\l|name = Save\l|label = Save\l|enabled = true\l|visible = true\l|x = 212\l|y = 810\l|width = 190\l|height = 40\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/636.0000000000001_2430.0_1206.0_2550.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 22\l|y = 375\l|width = 370\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/66.0_1125.0_1176.0_1233.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 423\l|width = 414\l|height = 261\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_1269.0_1242.0_2052.0.png\l}"]
+	27	[label="{type = XCUIElementTypeCell\l|name = Sunday,11\l|label = Sunday,11\l|enabled = true\l|visible = true\l|x = 0\l|y = 683\l|width = 59\l|height = 45\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_2049.0_177.0_2184.0.png\l}"]
+	28	[label="{type = XCUIElementTypeCell\l|name = Monday,12\l|label = Monday,12\l|enabled = true\l|visible = true\l|x = 59\l|y = 683\l|width = 60\l|height = 45\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/177.0_2049.0_357.0_2184.0.png\l}"]
+	29	[label="{type = XCUIElementTypeCell\l|name = Tuesday,13\l|label = Tuesday,13\l|enabled = true\l|visible = true\l|x = 118\l|y = 683\l|width = 60\l|height = 45\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/354.0_2049.0_534.0_2184.0.png\l}"]
+	30	[label="{type = XCUIElementTypeCell\l|name = Wednesday,14\l|label = Wednesday,14\l|enabled = true\l|visible = true\l|x = 177\l|y = 683\l|width = 60\l|height = 45\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/531.0_2049.0_711.0_2184.0.png\l}"]
+	31	[label="{type = XCUIElementTypeCell\l|name = Thursday,15\l|label = Thursday,15\l|enabled = true\l|visible = true\l|x = 236\l|y = 683\l|width = 60\l|height = 45\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/708.0_2049.0_888.0_2184.0.png\l}"]
+	32	[label="{type = XCUIElementTypeCell\l|name = Friday,16\l|label = Friday,16\l|enabled = true\l|visible = true\l|x = 296\l|y = 683\l|width = 59\l|height = 45\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/888.0_2049.0_1065.0_2184.0.png\l}"]
+	33	[label="{type = XCUIElementTypeCell\l|name = Saturday,17\l|label = Saturday,17\l|enabled = true\l|visible = true\l|x = 355\l|y = 683\l|width = 59\l|height = 45\l|numberOfChildren = 0\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/1065.0_2049.0_1242.0_2184.0.png\l}"]
+	34	[label="{type = XCUIElementTypeCell\l|name = Sunday,18\l|label = Sunday,18\l|enabled = true\l|visible = true\l|x = 0\l|y = 727\l|width = 59\l|height = 45\l|numberOfChildren = 0\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_2181.0_177.0_2316.0.png\l}"]
+	35	[label="{type = XCUIElementTypeCell\l|name = Monday,19\l|label = Monday,19\l|enabled = true\l|visible = true\l|x = 59\l|y = 727\l|width = 60\l|height = 45\l|numberOfChildren = 0\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/177.0_2181.0_357.0_2316.0.png\l}"]
+	36	[label="{type = XCUIElementTypeCell\l|name = Tuesday,20\l|label = Tuesday,20\l|enabled = true\l|visible = true\l|x = 118\l|y = 727\l|width = 60\l|height = 45\l|numberOfChildren = 0\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/354.0_2181.0_534.0_2316.0.png\l}"]
+	37	[label="{type = XCUIElementTypeCell\l|name = Wednesday,21\l|label = Wednesday,21\l|enabled = true\l|visible = true\l|x = 177\l|y = 727\l|width = 60\l|height = 45\l|numberOfChildren = 0\l|numInParentLayout = 11\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/531.0_2181.0_711.0_2316.0.png\l}"]
+	38	[label="{type = XCUIElementTypeCell\l|name = Thursday,22\l|label = Thursday,22\l|enabled = true\l|visible = true\l|x = 236\l|y = 727\l|width = 60\l|height = 45\l|numberOfChildren = 0\l|numInParentLayout = 12\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/708.0_2181.0_888.0_2316.0.png\l}"]
+	39	[label="{type = XCUIElementTypeCell\l|name = Friday,23\l|label = Friday,23\l|enabled = true\l|visible = true\l|x = 296\l|y = 727\l|width = 59\l|height = 45\l|numberOfChildren = 0\l|numInParentLayout = 13\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/888.0_2181.0_1065.0_2316.0.png\l}"]
+	40	[label="{type = XCUIElementTypeCell\l|name = Saturday,24\l|label = Saturday,24\l|enabled = true\l|visible = true\l|x = 355\l|y = 727\l|width = 59\l|height = 45\l|numberOfChildren = 0\l|numInParentLayout = 14\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/1065.0_2181.0_1242.0_2316.0.png\l}"]
+	41	[label="{type = XCUIElementTypeCell\l|name = Sunday,25\l|label = Sunday,25\l|enabled = true\l|visible = true\l|x = 0\l|y = 771\l|width = 59\l|height = 45\l|numberOfChildren = 0\l|numInParentLayout = 15\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_2313.0_177.0_2448.0.png\l}"]
+	42	[label="{type = XCUIElementTypeCell\l|name = Monday,26\l|label = Monday,26\l|enabled = true\l|visible = true\l|x = 59\l|y = 771\l|width = 60\l|height = 45\l|numberOfChildren = 0\l|numInParentLayout = 16\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/177.0_2313.0_357.0_2448.0.png\l}"]
+	43	[label="{type = XCUIElementTypeCell\l|name = Tuesday,27\l|label = Tuesday,27\l|enabled = true\l|visible = true\l|x = 118\l|y = 771\l|width = 60\l|height = 45\l|numberOfChildren = 0\l|numInParentLayout = 17\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/354.0_2313.0_534.0_2448.0.png\l}"]
+	44	[label="{type = XCUIElementTypeCell\l|name = Wednesday,28\l|label = Wednesday,28\l|enabled = true\l|visible = true\l|x = 177\l|y = 771\l|width = 60\l|height = 45\l|numberOfChildren = 0\l|numInParentLayout = 18\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/531.0_2313.0_711.0_2448.0.png\l}"]
+	45	[label="{type = XCUIElementTypeCell\l|name = Thursday,29\l|label = Thursday,29\l|enabled = true\l|visible = true\l|x = 236\l|y = 771\l|width = 60\l|height = 45\l|numberOfChildren = 0\l|numInParentLayout = 19\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/708.0_2313.0_888.0_2448.0.png\l}"]
+	46	[label="{type = XCUIElementTypeCell\l|name = Friday,30\l|label = Friday,30\l|enabled = true\l|visible = true\l|x = 296\l|y = 771\l|width = 59\l|height = 45\l|numberOfChildren = 0\l|numInParentLayout = 20\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/888.0_2313.0_1065.0_2448.0.png\l}"]
+	47	[label="{type = XCUIElementTypeTextField\l|value = Apr 16\l|label = \l|enabled = true\l|visible = true\l|x = 22\l|y = 375\l|width = 370\l|height = 36\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/66.0_1125.0_1176.0_1233.0.png\l}"]
+	48	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 423\l|width = 414\l|height = 261\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_1269.0_1242.0_2052.0.png\l}"]
+	49	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 423\l|width = 414\l|height = 50\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_1269.0_1242.0_1419.0.png\l}"]
+	50	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 473\l|width = 414\l|height = 50\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_1419.0_1242.0_1569.0.png\l}"]
+	51	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 523\l|width = 414\l|height = 50\l|numberOfChildren = 3\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_1568.9999999999998_1242.0_1718.9999999999998.png\l}"]
+	52	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 573\l|width = 414\l|height = 50\l|numberOfChildren = 2\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_1719.0_1242.0_1869.0.png\l}"]
+	53	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 414\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_1869.0_1242.0_1872.0.png\l}"]
+	54	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 414\l|height = 61\l|numberOfChildren = 2\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_1869.0_1242.0_2052.0.png\l}"]
+	55	[label="{type = XCUIElementTypeStaticText\l|value = Today\l|name = Today\l|label = Today\l|enabled = true\l|visible = true\l|x = 53\l|y = 438\l|width = 308\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/159.00000000000003_1314.0_1083.0_1374.0.png\l}"]
+	56	[label="{type = XCUIElementTypeStaticText\l|value = Thu\l|name = Thu\l|label = Thu\l|enabled = true\l|visible = true\l|x = 370\l|y = 437\l|width = 29\l|height = 22\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/1110.0_1311.0_1197.0_1377.0.png\l}"]
+	57	[label="{type = XCUIElementTypeStaticText\l|value = This Weekend\l|name = This Weekend\l|label = This Weekend\l|enabled = true\l|visible = true\l|x = 53\l|y = 488\l|width = 312\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/159.00000000000003_1463.9999999999998_1095.0_1523.9999999999998.png\l}"]
+	58	[label="{type = XCUIElementTypeStaticText\l|value = Sat\l|name = Sat\l|label = Sat\l|enabled = true\l|visible = true\l|x = 375\l|y = 487\l|width = 24\l|height = 22\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/1125.0_1461.0_1197.0_1527.0.png\l}"]
+	59	[label="{type = XCUIElementTypeStaticText\l|value = Next Week\l|name = Next Week\l|label = Next Week\l|enabled = true\l|visible = true\l|x = 53\l|y = 538\l|width = 304\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/159.00000000000003_1614.0_1071.0_1674.0.png\l}"]
+	60	[label="{type = XCUIElementTypeStaticText\l|value = Mon\l|name = Mon\l|label = Mon\l|enabled = true\l|visible = true\l|x = 367\l|y = 537\l|width = 32\l|height = 22\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/1101.0_1610.9999999999998_1197.0_1676.9999999999998.png\l}"]
+	61	[label="{type = XCUIElementTypeStaticText\l|value = No Date\l|name = No Date\l|label = No Date\l|enabled = true\l|visible = true\l|x = 53\l|y = 588\l|width = 336\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/159.00000000000003_1764.0_1167.0000000000002_1824.0.png\l}"]
+	62	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 414\l|height = 23\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_1869.0_1242.0_1938.0.png\l}"]
+	63	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 646\l|width = 414\l|height = 38\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_1938.0000000000002_1242.0_2052.0.png\l}"]
+	64	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 414\l|height = 23\l|numberOfChildren = 7\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_1869.0_1242.0_1938.0.png\l}"]
+	65	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 5\l|y = 653\l|width = 404\l|height = 23\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/15.0_1959.0000000000002_1227.0_2028.0000000000002.png\l}"]
+	66	[label="{type = XCUIElementTypeStaticText\l|value = S\l|name = S\l|label = S\l|enabled = true\l|visible = true\l|x = 0\l|y = 625\l|width = 59\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/0.0_1875.0000000000002_177.0_1932.0000000000002.png\l}"]
+	67	[label="{type = XCUIElementTypeStaticText\l|value = M\l|name = M\l|label = M\l|enabled = true\l|visible = true\l|x = 59\l|y = 625\l|width = 60\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/177.0_1875.0000000000002_357.0_1932.0000000000002.png\l}"]
+	68	[label="{type = XCUIElementTypeStaticText\l|value = T\l|name = T\l|label = T\l|enabled = true\l|visible = true\l|x = 118\l|y = 625\l|width = 60\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/354.0_1875.0000000000002_534.0_1932.0000000000002.png\l}"]
+	69	[label="{type = XCUIElementTypeStaticText\l|value = W\l|name = W\l|label = W\l|enabled = true\l|visible = true\l|x = 177\l|y = 625\l|width = 60\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/531.0_1875.0000000000002_711.0_1932.0000000000002.png\l}"]
+	70	[label="{type = XCUIElementTypeStaticText\l|value = T\l|name = T\l|label = T\l|enabled = true\l|visible = true\l|x = 236\l|y = 625\l|width = 60\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/708.0_1875.0000000000002_888.0_1932.0000000000002.png\l}"]
+	71	[label="{type = XCUIElementTypeStaticText\l|value = F\l|name = F\l|label = F\l|enabled = true\l|visible = true\l|x = 295\l|y = 625\l|width = 60\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/884.9999999999999_1875.0000000000002_1065.0_1932.0000000000002.png\l}"]
+	72	[label="{type = XCUIElementTypeStaticText\l|value = S\l|name = S\l|label = S\l|enabled = true\l|visible = true\l|x = 355\l|y = 625\l|width = 59\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/1065.0_1875.0000000000002_1242.0_1932.0000000000002.png\l}"]
+	73	[label="{type = XCUIElementTypeStaticText\l|value = Fri Apr 16 · 1 task due\l|name = Fri Apr 16 · 1 task due\l|label = Fri Apr 16 · 1 task due\l|enabled = true\l|visible = true\l|x = 5\l|y = 653\l|width = 404\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/15.0_1959.0000000000002_1227.0_2016.0000000000002.png\l}"]
+	74	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 5\l|y = 673\l|width = 404\l|height = 3\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/todoist-changedate/S7/pngs/15.0_2019.0_1227.0_2028.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	5 -> 7
+	7 -> 8
+	7 -> 9
+	8 -> 10
+	8 -> 11
+	8 -> 12
+	9 -> 13
+	13 -> 14
+	14 -> 15
+	15 -> 16
+	15 -> 17
+	15 -> 18
+	15 -> 19
+	16 -> 20
+	16 -> 21
+	17 -> 22
+	19 -> 23
+	19 -> 24
+	20 -> 25
+	22 -> 26
+	22 -> 27
+	22 -> 28
+	22 -> 29
+	22 -> 30
+	22 -> 31
+	22 -> 32
+	22 -> 33
+	22 -> 34
+	22 -> 35
+	22 -> 36
+	22 -> 37
+	22 -> 38
+	22 -> 39
+	22 -> 40
+	22 -> 41
+	22 -> 42
+	22 -> 43
+	22 -> 44
+	22 -> 45
+	22 -> 46
+	25 -> 47
+	26 -> 48
+	48 -> 49
+	48 -> 50
+	48 -> 51
+	48 -> 52
+	48 -> 53
+	48 -> 54
+	49 -> 55
+	49 -> 56
+	50 -> 57
+	50 -> 58
+	51 -> 59
+	51 -> 60
+	52 -> 61
+	54 -> 62
+	54 -> 63
+	62 -> 64
+	63 -> 65
+	64 -> 66
+	64 -> 67
+	64 -> 68
+	64 -> 69
+	64 -> 70
+	64 -> 71
+	64 -> 72
+	65 -> 73
+	65 -> 74
+
+
+}

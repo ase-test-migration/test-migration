@@ -1,0 +1,142 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Chrome\l|label = Chrome\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 70\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/0.0_0.0_750.0_140.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 2\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 375\l|height = 44\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/0.0_1246.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 24\l|width = 355\l|height = 36\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = chrome-back/S2/pngs/20.0_47.99999999999999_730.0_120.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/0.0_1246.0_750.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 24\l|width = 355\l|height = 36\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = chrome-back/S2/pngs/20.0_47.99999999999999_730.0_120.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 70\l|width = 375\l|height = 553\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/0.0_140.0_750.0_1246.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 623\l|width = 355\l|height = 44\l|index = 1\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/20.0_1246.0_730.0_1334.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 24\l|width = 355\l|height = 36\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = chrome-back/S2/pngs/20.0_47.99999999999999_730.0_120.0.png\l}"]
+	17	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	18	[label="{type = XCUIElementTypeButton\l|name = Back\l|label = Back\l|enabled = true\l|visible = true\l|x = 10\l|y = 623\l|width = 44\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/20.0_1246.0_108.0_1334.0.png\l}"]
+	19	[label="{type = XCUIElementTypeButton\l|name = Forward\l|label = Forward\l|enabled = false\l|visible = true\l|x = 88\l|y = 623\l|width = 44\l|height = 44\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/176.0_1246.0_264.0_1334.0.png\l}"]
+	20	[label="{type = XCUIElementTypeButton\l|name = kToolbarNewTabButtonIdentifier\l|label = New Tab\l|enabled = true\l|visible = true\l|x = 165\l|y = 623\l|width = 45\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/330.0_1246.0_420.0_1334.0.png\l}"]
+	21	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = kToolbarStackButtonIdentifier\l|label = Show Tabs\l|enabled = true\l|visible = true\l|x = 243\l|y = 623\l|width = 45\l|height = 44\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/486.0_1246.0_576.0_1334.0.png\l}"]
+	22	[label="{type = XCUIElementTypeButton\l|name = kToolbarToolsMenuButtonIdentifier\l|label = Menu\l|enabled = true\l|visible = true\l|x = 314\l|y = 623\l|width = 44\l|height = 44\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/628.0_1246.0_716.0_1334.0.png\l}"]
+	23	[label="{type = XCUIElementTypeButton\l|value = google.com Secure\l|name = Address and search bar\l|label = Address and search bar\l|enabled = true\l|visible = true\l|x = 10\l|y = 24\l|width = 355\l|height = 36\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = chrome-back/S2/pngs/20.0_47.99999999999999_730.0_120.0.png\l}"]
+	24	[label="{type = XCUIElementTypeButton\l|name = kOmniboxShareButtonIdentifier\l|label = Share…\l|enabled = true\l|visible = true\l|x = 330\l|y = 30\l|width = 24\l|height = 24\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/660.0_60.00000000000001_708.0_108.0.png\l}"]
+	25	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	26	[label="{type = XCUIElementTypeStaticText\l|value = 1\l|name = 1\l|label = 1\l|enabled = true\l|visible = true\l|x = 258\l|y = 638\l|width = 15\l|height = 14\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/516.0_1276.0_546.0_1304.0.png\l}"]
+	27	[label="{type = XCUIElementTypeStaticText\l|value = google.com\l|name = google.com\l|label = google.com\l|enabled = true\l|visible = true\l|x = 151\l|y = 31\l|width = 91\l|height = 21\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/302.0_62.0_484.0_104.0.png\l}"]
+	28	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 2 pages\l|label = Vertical scroll bar, 2 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 20\l|width = 30\l|height = 647\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/684.0_40.0_744.0_1334.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 70\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/0.0_140.0_750.0_1474.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|name = Google\l|label = Google\l|enabled = true\l|visible = true\l|x = 0\l|y = 70\l|width = 375\l|height = 644\l|index = 0\l|numberOfChildren = 10\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/0.0_140.0_750.0_1428.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|name = banner\l|label = banner\l|enabled = true\l|visible = true\l|x = 0\l|y = 70\l|width = 375\l|height = 52\l|index = 1\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/0.0_140.0_750.0_244.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 107\l|y = 174\l|width = 161\l|height = 75\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/214.0_348.0_536.0_498.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|name = search\l|label = search\l|enabled = true\l|visible = true\l|x = 8\l|y = 264\l|width = 359\l|height = 40\l|index = 3\l|numberOfChildren = 4\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/16.0_528.0_734.0_608.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 328\l|width = 375\l|height = 28\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/0.0_656.0_750.0_712.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 531\l|width = 378\l|height = 36\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/0.0_1062.0_756.0_1134.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 567\l|width = 375\l|height = 56\l|index = 6\l|numberOfChildren = 4\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/0.0_1134.0_750.0_1246.0.png\l}"]
+	40	[label="{type = XCUIElementTypeButton\l|name = Главни мени\l|label = Главни мени\l|enabled = true\l|visible = true\l|x = 0\l|y = 70\l|width = 56\l|height = 52\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/0.0_140.0_112.00000000000001_244.0.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 56\l|y = 70\l|width = 41\l|height = 48\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/112.00000000000001_140.0_194.0_236.0.png\l}"]
+	42	[label="{type = XCUIElementTypeLink\l|name = СЛИКЕ\l|label = СЛИКЕ\l|enabled = true\l|visible = true\l|x = 113\l|y = 86\l|width = 44\l|height = 15\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/226.0_172.00000000000003_314.0_202.00000000000003.png\l}"]
+	43	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 185\l|y = 70\l|width = 191\l|height = 48\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/370.0_140.0_752.0_236.0.png\l}"]
+	44	[label="{type = XCUIElementTypeImage\l|name = Google\l|label = Google\l|enabled = true\l|visible = true\l|x = 107\l|y = 182\l|width = 161\l|height = 56\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/214.0_363.99999999999994_536.0_475.99999999999994.png\l}"]
+	45	[label="{type = XCUIElementTypeButton\l|name = Google претрага\l|label = Google претрага\l|enabled = true\l|visible = true\l|x = 11\l|y = 267\l|width = 32\l|height = 34\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/22.0_534.0_86.0_602.0.png\l}"]
+	46	[label="{type = XCUIElementTypeOther\l|name = Тражи\l|label = Тражи\l|enabled = true\l|visible = true\l|x = 42\l|y = 272\l|width = 279\l|height = 25\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/84.0_544.0_642.0_594.0.png\l}"]
+	47	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 58\l|y = 328\l|width = 259\l|height = 28\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/116.0_656.0_634.0_712.0.png\l}"]
+	48	[label="{type = XCUIElementTypeStaticText\l|value = Србија\l|name = Србија\l|label = Србија\l|enabled = true\l|visible = true\l|x = 12\l|y = 538\l|width = 52\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/24.0_1076.0_128.0_1116.0.png\l}"]
+	49	[label="{type = XCUIElementTypeStaticText\l|value = Непознато\l|name = Непознато\l|label = Непознато\l|enabled = true\l|visible = true\l|x = 69\l|y = 586\l|width = 70\l|height = 16\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/138.0_1172.0_278.0_1204.0.png\l}"]
+	50	[label="{type = XCUIElementTypeStaticText\l|value = -\l|name = -\l|label = -\l|enabled = true\l|visible = true\l|x = 138\l|y = 586\l|width = 14\l|height = 16\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/276.0_1172.0_304.0_1204.0.png\l}"]
+	51	[label="{type = XCUIElementTypeLink\l|name = Користи прецизну локацију\l|label = Користи прецизну локацију\l|enabled = true\l|visible = true\l|x = 151\l|y = 586\l|width = 169\l|height = 16\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/302.0_1172.0_640.0_1204.0.png\l}"]
+	52	[label="{type = XCUIElementTypeStaticText\l|value = СВЕ\l|name = СВЕ\l|label = СВЕ\l|enabled = true\l|visible = true\l|x = 64\l|y = 86\l|width = 26\l|height = 15\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/128.0_172.00000000000003_180.0_202.00000000000003.png\l}"]
+	53	[label="{type = XCUIElementTypeStaticText\l|value = СЛИКЕ\l|name = СЛИКЕ\l|label = СЛИКЕ\l|enabled = true\l|visible = true\l|x = 113\l|y = 86\l|width = 44\l|height = 15\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/226.0_172.00000000000003_314.0_202.00000000000003.png\l}"]
+	54	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 185\l|y = 70\l|width = 187\l|height = 48\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/370.0_140.0_744.0_236.0.png\l}"]
+	55	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 72\l|y = 328\l|width = 114\l|height = 28\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/144.0_656.0_372.0_712.0.png\l}"]
+	56	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 190\l|y = 328\l|width = 113\l|height = 28\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/380.00000000000006_656.0_606.0_712.0.png\l}"]
+	57	[label="{type = XCUIElementTypeStaticText\l|value = исти прецизну локацију\l|name = Користи прецизну локацију\l|label = Користи прецизну локацију\l|enabled = true\l|visible = true\l|x = 151\l|y = 586\l|width = 169\l|height = 16\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/302.0_1172.0_640.0_1204.0.png\l}"]
+	58	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 189\l|y = 74\l|width = 41\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/378.0_148.0_460.0_228.0.png\l}"]
+	59	[label="{type = XCUIElementTypeLink\l|name = Пријавите се\l|label = Пријавите се\l|enabled = true\l|visible = true\l|x = 257\l|y = 84\l|width = 90\l|height = 19\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/514.0_168.0_694.0_206.0.png\l}"]
+	60	[label="{type = XCUIElementTypeStaticText\l|value = Google се нуди на:\l|name = Google се нуди на:\l|label = Google се нуди на:\l|enabled = true\l|visible = true\l|x = 72\l|y = 334\l|width = 115\l|height = 16\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/144.0_668.0_374.0_700.0.png\l}"]
+	61	[label="{type = XCUIElementTypeLink\l|name = srpski\l|label = srpski\l|enabled = true\l|visible = true\l|x = 198\l|y = 334\l|width = 35\l|height = 16\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/396.0_668.0_466.0_700.0.png\l}"]
+	62	[label="{type = XCUIElementTypeLink\l|name = English\l|label = English\l|enabled = true\l|visible = true\l|x = 252\l|y = 334\l|width = 43\l|height = 16\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/504.00000000000006_668.0_590.0_700.0.png\l}"]
+	63	[label="{type = XCUIElementTypeButton\l|name = Google апликације\l|label = Google апликације\l|enabled = true\l|visible = true\l|x = 189\l|y = 74\l|width = 41\l|height = 40\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/378.0_148.0_460.0_228.0.png\l}"]
+	64	[label="{type = XCUIElementTypeStaticText\l|value = Пријавите се\l|name = Пријавите се\l|label = Пријавите се\l|enabled = true\l|visible = true\l|x = 257\l|y = 84\l|width = 90\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/514.0_168.0_694.0_206.0.png\l}"]
+	65	[label="{type = XCUIElementTypeStaticText\l|value = srpski\l|name = srpski\l|label = srpski\l|enabled = true\l|visible = true\l|x = 198\l|y = 334\l|width = 35\l|height = 16\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/396.0_668.0_466.0_700.0.png\l}"]
+	66	[label="{type = XCUIElementTypeStaticText\l|value = nglish\l|name = English\l|label = English\l|enabled = true\l|visible = true\l|x = 252\l|y = 334\l|width = 43\l|height = 16\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S2/pngs/504.00000000000006_668.0_590.0_700.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	6 -> 8
+	6 -> 9
+	7 -> 10
+	8 -> 11
+	9 -> 12
+	10 -> 13
+	11 -> 14
+	12 -> 15
+	13 -> 16
+	14 -> 17
+	15 -> 18
+	15 -> 19
+	15 -> 20
+	15 -> 21
+	15 -> 22
+	16 -> 23
+	16 -> 24
+	17 -> 25
+	21 -> 26
+	23 -> 27
+	25 -> 28
+	25 -> 29
+	28 -> 30
+	30 -> 31
+	31 -> 32
+	32 -> 33
+	33 -> 34
+	33 -> 35
+	33 -> 36
+	33 -> 37
+	33 -> 38
+	33 -> 39
+	34 -> 40
+	34 -> 41
+	34 -> 42
+	34 -> 43
+	35 -> 44
+	36 -> 45
+	36 -> 46
+	37 -> 47
+	38 -> 48
+	39 -> 49
+	39 -> 50
+	39 -> 51
+	41 -> 52
+	42 -> 53
+	43 -> 54
+	47 -> 55
+	47 -> 56
+	51 -> 57
+	54 -> 58
+	54 -> 59
+	55 -> 60
+	56 -> 61
+	56 -> 62
+	58 -> 63
+	59 -> 64
+	61 -> 65
+	62 -> 66
+
+
+}

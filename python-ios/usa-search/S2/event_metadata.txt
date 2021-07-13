@@ -1,0 +1,5 @@
+pathToElementImageCrop: usa-search/S2/pngs/60.0_162.0_987.0_270.0.png;
+coords: {'x1': 60.0, 'y1': 162.0, 'x2': 987.0, 'y2': 270.0};
+text_identifier: { "label" : "Search for news and sections" };
+event: send_keys_enter;
+input: travel;

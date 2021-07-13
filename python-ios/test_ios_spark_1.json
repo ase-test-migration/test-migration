@@ -1,0 +1,34 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "spark-search",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "search_button"
+                },
+                {
+                    "type": "xPath",
+                    "event": "send_keys",
+                    "tag": "//XCUIElementTypeStaticText[@name=\"Search\"]",
+                    "input": "Testing 1"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Testing 1 search term"
+                }
+            ]
+        }
+    ]
+}

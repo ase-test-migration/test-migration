@@ -1,0 +1,4 @@
+pathToElementImageCrop: rateOrder/S1/pngs/768_650_1032_758.png;
+coords: {'x1': 768, 'y1': 650, 'x2': 1032, 'y2': 758};
+text_identifier: { "content-desc" : "Rate Order" , "resource-id" : "com.ubercab.eats:id/ub__orders_view_holder_rating_button" };
+event: click;

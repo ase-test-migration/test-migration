@@ -1,0 +1,48 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "guardian_categories",
+            "events": [
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//XCUIElementTypeOther[@name=\" - tab - 4 of 4\"]/XCUIElementTypeOther/XCUIElementTypeOther"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "World"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Europe"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//XCUIElementTypeOther[@name=\" - tab - 4 of 4\"]/XCUIElementTypeOther/XCUIElementTypeOther"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Back"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Tech"
+                }
+            ]
+        }
+    ]
+}

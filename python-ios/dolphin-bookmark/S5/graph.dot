@@ -1,0 +1,62 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Dolphin\l|label = Dolphin\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S5/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S5/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S5/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S5/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S5/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S5/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S5/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S5/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 263\l|height = 667\l|index = 1\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S5/pngs/0.0_0.0_526.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 262\l|y = 0\l|width = 376\l|height = 667\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S5/pngs/524.0_0.0_1276.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeNavigationBar\l|name = Bookmarks\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 263\l|height = 44\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S5/pngs/0.0_40.0_526.0_128.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 263\l|height = 603\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S5/pngs/0.0_128.0_526.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 262\l|y = 20\l|width = 376\l|height = 647\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S5/pngs/524.0_40.0_1276.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeStaticText\l|value = Bookmarks\l|name = Bookmarks\l|label = Bookmarks\l|enabled = true\l|visible = true\l|x = 82\l|y = 20\l|width = 99\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S5/pngs/164.0_40.0_362.0_128.0.png\l}"]
+	14	[label="{type = XCUIElementTypeButton\l|name = bookmark edit icon\l|label = bookmark edit icon\l|enabled = true\l|visible = true\l|x = 208\l|y = 25\l|width = 33\l|height = 34\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S5/pngs/416.0_50.0_482.0_118.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 263\l|height = 603\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S5/pngs/0.0_128.0_526.0_1334.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 262\l|y = 20\l|width = 376\l|height = 647\l|index = 0\l|numberOfChildren = 8\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S5/pngs/524.0_40.0_1276.0_1334.0.png\l}"]
+	17	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 263\l|height = 561\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S5/pngs/0.0_128.0_526.0_1250.0.png\l}"]
+	18	[label="{type = XCUIElementTypeButton\l|name = Add Bookmark\l|label = Add Bookmark\l|enabled = true\l|visible = true\l|x = 35\l|y = 625\l|width = 192\l|height = 42\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S5/pngs/70.0_1250.0_454.0_1334.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 262\l|y = 20\l|width = 376\l|height = 647\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S5/pngs/524.0_40.0_1276.0_1334.0.png\l}"]
+	20	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 263\l|height = 44\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S5/pngs/0.0_128.0_526.0_216.0.png\l}"]
+	21	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 108\l|width = 263\l|height = 44\l|index = 1\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S5/pngs/0.0_215.99999999999997_526.0_304.0.png\l}"]
+	22	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 152\l|width = 263\l|height = 44\l|index = 2\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S5/pngs/0.0_304.0_526.0_392.0.png\l}"]
+	23	[label="{type = XCUIElementTypeStaticText\l|value = Add Bookmark\l|name = Add Bookmark\l|label = Add Bookmark\l|enabled = true\l|visible = true\l|x = 78\l|y = 636\l|width = 106\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S5/pngs/156.0_1272.0_368.0_1312.0.png\l}"]
+	24	[label="{type = XCUIElementTypeStaticText\l|value = Most Visited\l|name = Most Visited\l|label = Most Visited\l|enabled = true\l|visible = true\l|x = 49\l|y = 76\l|width = 93\l|height = 20\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S5/pngs/97.99999999999999_152.0_284.0_192.0.png\l}"]
+	25	[label="{type = XCUIElementTypeStaticText\l|value = History\l|name = History\l|label = History\l|enabled = true\l|visible = true\l|x = 49\l|y = 120\l|width = 53\l|height = 20\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S5/pngs/97.99999999999999_240.00000000000003_204.0_280.0.png\l}"]
+	26	[label="{type = XCUIElementTypeStaticText\l|value = Google\l|name = Google\l|label = Google\l|enabled = true\l|visible = true\l|x = 49\l|y = 164\l|width = 55\l|height = 20\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S5/pngs/97.99999999999999_328.0_208.0_368.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	7 -> 9
+	8 -> 10
+	8 -> 11
+	9 -> 12
+	10 -> 13
+	10 -> 14
+	11 -> 15
+	12 -> 16
+	15 -> 17
+	15 -> 18
+	16 -> 19
+	17 -> 20
+	17 -> 21
+	17 -> 22
+	18 -> 23
+	20 -> 24
+	21 -> 25
+	22 -> 26
+
+
+}

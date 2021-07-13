@@ -1,0 +1,4 @@
+pathToElementImageCrop: etsy-navi/S1/pngs/32.0_154.0_130.0_190.0.png;
+coords: {'x1': 32.0, 'y1': 154.0, 'x2': 130.0, 'y2': 190.0};
+text_identifier: { "label" : "Profile" };
+event: click;

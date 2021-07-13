@@ -1,0 +1,15 @@
+{"name" : "Chrome", "label" : "Chrome", "screenshotPath" : "chrome-tab/S1/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "kTabGridScrollViewIdentifier", "screenshotPath" : "chrome-tab/S1/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "Toolbar", "label" : "Toolbar", "screenshotPath" : "chrome-tab/S1/pngs/0.0_40.0_750.0_144.0.png"}
+{"value" : "0%", "name" : "Vertical scroll bar, 3 pages", "label" : "Vertical scroll bar, 3 pages", "screenshotPath" : "chrome-tab/S1/pngs/684.0_40.0_744.0_1334.0.png"}
+{"name" : "Toolbar", "label" : "Toolbar", "screenshotPath" : "chrome-tab/S1/pngs/0.0_1246.0_750.0_1334.0.png"}
+{"name" : "GridCellIdentifierPrefix0", "label" : "Wikipedia", "screenshotPath" : "chrome-tab/S1/pngs/26.0_170.0_362.0_574.0.png"}
+{"value" : "0%", "name" : "Vertical scroll bar, 1 page", "label" : "Vertical scroll bar, 1 page", "screenshotPath" : "chrome-tab/S1/pngs/684.0_40.0_744.0_1334.0.png"}
+{"name" : "TabGridIncognitoTabsPageButtonIdentifier", "label" : "Incognito Tabs", "screenshotPath" : "chrome-tab/S1/pngs/180.0_52.0_310.0_132.0.png"}
+{"value" : "1", "name" : "TabGridRegularTabsPageButtonIdentifier", "label" : "Open Tabs", "screenshotPath" : "chrome-tab/S1/pngs/308.0_52.0_442.0_132.0.png"}
+{"name" : "TabGridRemoteTabsPageButtonIdentifier", "label" : "Tabs from other devices", "screenshotPath" : "chrome-tab/S1/pngs/440.0_52.0_570.0_132.0.png"}
+{"name" : "TabGridCloseAllButtonIdentifier", "label" : "Close All", "screenshotPath" : "chrome-tab/S1/pngs/0.0_1246.0_188.0_1334.0.png"}
+{"name" : "Create new tab.", "label" : "Create new tab.", "screenshotPath" : "chrome-tab/S1/pngs/336.0_1252.0_414.0_1328.0.png"}
+{"name" : "TabGridDoneButtonIdentifier", "label" : "Done", "screenshotPath" : "chrome-tab/S1/pngs/618.0_1246.0_750.0_1334.0.png"}
+{"name" : "GridCellCloseButtonIdentifier", "screenshotPath" : "chrome-tab/S1/pngs/274.0_170.0_362.0_258.0.png"}
+{"value" : "Wikipedia", "name" : "Wikipedia", "label" : "Wikipedia", "screenshotPath" : "chrome-tab/S1/pngs/94.0_186.0_314.0_218.0.png"}

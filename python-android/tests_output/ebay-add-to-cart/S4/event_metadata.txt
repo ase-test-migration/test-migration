@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-add-to-cart/S4/pngs/48_1347_1032_1527.png;
+coords: {'x1': 48, 'y1': 1347, 'x2': 1032, 'y2': 1527};
+text_identifier: { "content-desc" : "Add to cart" , "resource-id" : "com.ebay.mobile:id/cta_button" };
+event: click;

@@ -1,0 +1,38 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "cnn-manage",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "Saved Stories",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "type": "xPath",
+                "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.view.ViewGroup/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Delete",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.cnn.mobile.android.phone:id/buttonPanel",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Share",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "Find your saved articles and videos here"
+            }
+        ]
+    }
+}

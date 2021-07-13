@@ -1,0 +1,4 @@
+pathToElementImageCrop: gTask-newList/S0/pngs/0.0_1218.0_112.00000000000001_1330.0.png;
+coords: {'x1': 0.0, 'y1': 1218.0, 'x2': 112.00000000000001, 'y2': 1330.0};
+text_identifier: { "name" : "Task lists menu" };
+event: click;

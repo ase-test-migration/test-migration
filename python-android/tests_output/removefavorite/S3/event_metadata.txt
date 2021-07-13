@@ -1,0 +1,4 @@
+pathToElementImageCrop: removefavorite/S3/pngs/915_84_1080_249.png;
+coords: {'x1': 915, 'y1': 84, 'x2': 1080, 'y2': 249};
+text_identifier: { "content-desc" : "See merchant more options" , "resource-id" : "com.postmates.android:id/imagebutton_merchant_more_options" };
+event: click;

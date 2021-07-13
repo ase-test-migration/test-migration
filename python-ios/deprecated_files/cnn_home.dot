@@ -1,0 +1,136 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = CNN\l|label = CNN\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 2\l|screenshotPath = pngs/cnn_home_0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 1\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 1\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 1\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 5\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 407\l|height = 366\l|numberOfChildren = 0\l|numInParentLayout = 3\l|screenshotPath = pngs/cnn_home_0.0_0.0_814.0_732.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 1\l|numInParentLayout = 4\l|screenshotPath = pngs/cnn_home_0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 1\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 2\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_0.0_0.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 1\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_0.0_0.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeTabBar\l|enabled = true\l|visible = true\l|x = 0\l|y = 618\l|width = 375\l|height = 49\l|numberOfChildren = 4\l|numInParentLayout = 1\l|screenshotPath = pngs/cnn_home_0.0_1236.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 1\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_0.0_0.0_750.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = Home\l|label = Home\l|enabled = true\l|visible = true\l|x = 2\l|y = 619\l|width = 90\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_4.0_1238.0_184.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeButton\l|name = Search\l|label = Search\l|enabled = true\l|visible = true\l|x = 96\l|y = 619\l|width = 90\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 1\l|screenshotPath = pngs/cnn_home_192.0_1238.0_372.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeButton\l|name = Saved Stories\l|label = Saved Stories\l|enabled = true\l|visible = true\l|x = 190\l|y = 619\l|width = 89\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 2\l|screenshotPath = pngs/cnn_home_380.00000000000006_1238.0_558.0_1334.0.png\l}"]
+	15	[label="{type = XCUIElementTypeButton\l|name = Settings\l|label = Settings\l|enabled = true\l|visible = true\l|x = 283\l|y = 619\l|width = 90\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 3\l|screenshotPath = pngs/cnn_home_566.0_1238.0_746.0_1334.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 2\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_0.0_0.0_750.0_1334.0.png\l}"]
+	17	[label="{type = XCUIElementTypeNavigationBar\l|name = Selected Feed: Politics\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|numberOfChildren = 3\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_0.0_40.0_750.0_128.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 1\l|numInParentLayout = 1\l|screenshotPath = pngs/cnn_home_0.0_0.0_750.0_1334.0.png\l}"]
+	19	[label="{type = XCUIElementTypeButton\l|name = Cast\l|label = Cast\l|enabled = true\l|visible = true\l|x = 16\l|y = 30\l|width = 24\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_32.0_60.00000000000001_80.0_108.0.png\l}"]
+	20	[label="{type = XCUIElementTypeStaticText\l|value = Selected Feed: Politics\l|name = Selected Feed: Politics\l|label = Selected Feed: Politics\l|enabled = true\l|visible = true\l|x = 157\l|y = 20\l|width = 61\l|height = 44\l|numberOfChildren = 0\l|numInParentLayout = 1\l|screenshotPath = pngs/cnn_home_314.0_40.0_436.0_128.0.png\l}"]
+	21	[label="{type = XCUIElementTypeButton\l|name = Watch TV\l|label = Watch TV\l|enabled = true\l|visible = true\l|x = 291\l|y = 20\l|width = 76\l|height = 44\l|numberOfChildren = 0\l|numInParentLayout = 2\l|screenshotPath = pngs/cnn_home_582.0_40.0_734.0_128.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|numberOfChildren = 1\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_0.0_0.0_750.0_1334.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 554\l|numberOfChildren = 2\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_0.0_128.0_750.0_1236.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 54\l|numberOfChildren = 1\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_0.0_128.0_750.0_236.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 118\l|width = 375\l|height = 500\l|numberOfChildren = 1\l|numInParentLayout = 1\l|screenshotPath = pngs/cnn_home_0.0_236.0_750.0_1236.0.png\l}"]
+	26	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 54\l|numberOfChildren = 11\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_0.0_128.0_750.0_236.0.png\l}"]
+	27	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 118\l|width = 375\l|height = 500\l|numberOfChildren = 1\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_0.0_236.0_750.0_1236.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 64\l|width = 86\l|height = 54\l|numberOfChildren = 2\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_16.0_128.0_188.0_236.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 93\l|y = 64\l|width = 58\l|height = 54\l|numberOfChildren = 2\l|numInParentLayout = 1\l|screenshotPath = pngs/cnn_home_186.0_128.0_302.0_236.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 151\l|y = 64\l|width = 69\l|height = 54\l|numberOfChildren = 2\l|numInParentLayout = 2\l|screenshotPath = pngs/cnn_home_302.0_128.0_440.0_236.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 219\l|y = 64\l|width = 82\l|height = 54\l|numberOfChildren = 2\l|numInParentLayout = 3\l|screenshotPath = pngs/cnn_home_438.0_128.0_602.0_236.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 300\l|y = 64\l|width = 64\l|height = 54\l|numberOfChildren = 2\l|numInParentLayout = 4\l|screenshotPath = pngs/cnn_home_600.0_128.0_728.0_236.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 364\l|y = 64\l|width = 52\l|height = 54\l|numberOfChildren = 2\l|numInParentLayout = 5\l|screenshotPath = pngs/cnn_home_728.0_128.0_832.0_236.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 118\l|width = 375\l|height = 500\l|numberOfChildren = 1\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_0.0_236.0_750.0_1236.0.png\l}"]
+	35	[label="{type = XCUIElementTypeStaticText\l|value = Top News\l|name = Top News\l|label = Top News\l|enabled = true\l|visible = true\l|x = 17\l|y = 81\l|width = 68\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_34.0_162.0_170.0_202.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 115\l|width = 70\l|height = 3\l|numberOfChildren = 0\l|numInParentLayout = 1\l|screenshotPath = pngs/cnn_home_32.0_230.00000000000003_172.0_236.00000000000003.png\l}"]
+	37	[label="{type = XCUIElementTypeStaticText\l|value = World\l|name = World\l|label = World\l|enabled = true\l|visible = true\l|x = 102\l|y = 81\l|width = 41\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_204.00000000000003_162.0_286.0_202.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 101\l|y = 115\l|width = 42\l|height = 3\l|numberOfChildren = 0\l|numInParentLayout = 1\l|screenshotPath = pngs/cnn_home_201.99999999999997_230.00000000000003_286.0_236.00000000000003.png\l}"]
+	39	[label="{type = XCUIElementTypeStaticText\l|value = Politics\l|name = Politics\l|label = Politics\l|enabled = true\l|visible = true\l|x = 159\l|y = 81\l|width = 53\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_318.0_162.0_424.0_202.0.png\l}"]
+	40	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 159\l|y = 115\l|width = 53\l|height = 3\l|numberOfChildren = 0\l|numInParentLayout = 1\l|screenshotPath = pngs/cnn_home_318.0_230.00000000000003_424.0_236.00000000000003.png\l}"]
+	41	[label="{type = XCUIElementTypeStaticText\l|value = Business\l|name = Business\l|label = Business\l|enabled = true\l|visible = true\l|x = 228\l|y = 81\l|width = 64\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_456.0_162.0_584.0_202.0.png\l}"]
+	42	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 227\l|y = 115\l|width = 66\l|height = 3\l|numberOfChildren = 0\l|numInParentLayout = 1\l|screenshotPath = pngs/cnn_home_453.99999999999994_230.00000000000003_586.0_236.00000000000003.png\l}"]
+	43	[label="{type = XCUIElementTypeStaticText\l|value = Health\l|name = Health\l|label = Health\l|enabled = true\l|visible = true\l|x = 309\l|y = 81\l|width = 47\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_618.0_162.0_712.0_202.0.png\l}"]
+	44	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 308\l|y = 115\l|width = 48\l|height = 3\l|numberOfChildren = 0\l|numInParentLayout = 1\l|screenshotPath = pngs/cnn_home_616.0_230.00000000000003_712.0_236.00000000000003.png\l}"]
+	45	[label="{type = XCUIElementTypeStaticText\l|value = Style\l|name = Style\l|label = Style\l|enabled = true\l|visible = true\l|x = 372\l|y = 81\l|width = 35\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_744.0_162.0_814.0_202.0.png\l}"]
+	46	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 372\l|y = 115\l|width = 36\l|height = 3\l|numberOfChildren = 0\l|numInParentLayout = 1\l|screenshotPath = pngs/cnn_home_744.0_230.00000000000003_816.0_236.00000000000003.png\l}"]
+	47	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 118\l|width = 375\l|height = 500\l|numberOfChildren = 1\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_0.0_236.0_750.0_1236.0.png\l}"]
+	48	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 118\l|width = 375\l|height = 500\l|numberOfChildren = 4\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_0.0_236.0_750.0_1236.0.png\l}"]
+	49	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 118\l|width = 375\l|height = 434\l|numberOfChildren = 1\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_0.0_236.0_750.0_1104.0.png\l}"]
+	50	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 552\l|width = 375\l|height = 342\l|numberOfChildren = 1\l|numInParentLayout = 1\l|screenshotPath = pngs/cnn_home_0.0_1104.0_750.0_1788.0.png\l}"]
+	51	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 59 pages\l|label = Vertical scroll bar, 59 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 118\l|width = 30\l|height = 500\l|numberOfChildren = 0\l|numInParentLayout = 2\l|screenshotPath = pngs/cnn_home_684.0_236.0_744.0_1236.0.png\l}"]
+	52	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 585\l|width = 375\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 3\l|screenshotPath = pngs/cnn_home_0.0_1170.0_750.0_1230.0.png\l}"]
+	53	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 118\l|width = 375\l|height = 434\l|numberOfChildren = 1\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_0.0_236.0_750.0_1104.0.png\l}"]
+	54	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 552\l|width = 375\l|height = 342\l|numberOfChildren = 1\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_0.0_1104.0_750.0_1788.0.png\l}"]
+	55	[label="{type = XCUIElementTypeOther\l|enabled = false\l|visible = true\l|x = 0\l|y = 118\l|width = 375\l|height = 434\l|numberOfChildren = 2\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_0.0_236.0_750.0_1104.0.png\l}"]
+	56	[label="{type = XCUIElementTypeOther\l|enabled = false\l|visible = true\l|x = 0\l|y = 552\l|width = 375\l|height = 342\l|numberOfChildren = 2\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_0.0_1104.0_750.0_1788.0.png\l}"]
+	57	[label="{type = XCUIElementTypeOther\l|name = , From pandering to Putin to abusing allies and ignoring his own advisers, Trump's phone calls alarm US officials\l|label = , From pandering to Putin to abusing allies and ignoring his own advisers, Trump's phone calls alarm US officials\l|enabled = true\l|visible = true\l|x = 0\l|y = 118\l|width = 375\l|height = 374\l|numberOfChildren = 0\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_0.0_236.0_750.0_984.0.png\l}"]
+	58	[label="{type = XCUIElementTypeOther\l|enabled = false\l|visible = true\l|x = 0\l|y = 492\l|width = 375\l|height = 50\l|numberOfChildren = 2\l|numInParentLayout = 1\l|screenshotPath = pngs/cnn_home_0.0_984.0_750.0_1084.0.png\l}"]
+	59	[label="{type = XCUIElementTypeOther\l|name = , John Roberts shatters expectations for the Supreme Court \l|label = , John Roberts shatters expectations for the Supreme Court \l|enabled = true\l|visible = true\l|x = 0\l|y = 552\l|width = 375\l|height = 282\l|numberOfChildren = 0\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_0.0_1104.0_750.0_1668.0.png\l}"]
+	60	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 272\l|y = 497\l|width = 88\l|height = 40\l|numberOfChildren = 2\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_544.0_994.0_720.0_1074.0.png\l}"]
+	61	[label="{type = XCUIElementTypeStaticText\l|value = 19 min\l|name = 19 min\l|label = 19 min\l|enabled = true\l|visible = true\l|x = 15\l|y = 507\l|width = 29\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 1\l|screenshotPath = pngs/cnn_home_30.0_1013.9999999999999_88.0_1054.0.png\l}"]
+	62	[label="{type = XCUIElementTypeButton\l|name = share\l|label = Share\l|enabled = true\l|visible = true\l|x = 272\l|y = 497\l|width = 40\l|height = 40\l|numberOfChildren = 0\l|numInParentLayout = 0\l|screenshotPath = pngs/cnn_home_544.0_994.0_624.0_1074.0.png\l}"]
+	63	[label="{type = XCUIElementTypeButton\l|name = save\l|label = Save\l|enabled = true\l|visible = true\l|x = 320\l|y = 497\l|width = 40\l|height = 40\l|numberOfChildren = 0\l|numInParentLayout = 1\l|screenshotPath = pngs/cnn_home_640.0_994.0_720.0_1074.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	6 -> 7
+	7 -> 8
+	8 -> 9
+	8 -> 10
+	9 -> 11
+	10 -> 12
+	10 -> 13
+	10 -> 14
+	10 -> 15
+	11 -> 16
+	16 -> 17
+	16 -> 18
+	17 -> 19
+	17 -> 20
+	17 -> 21
+	18 -> 22
+	22 -> 23
+	23 -> 24
+	23 -> 25
+	24 -> 26
+	25 -> 27
+	26 -> 28
+	26 -> 29
+	26 -> 30
+	26 -> 31
+	26 -> 32
+	26 -> 33
+	27 -> 34
+	28 -> 35
+	28 -> 36
+	29 -> 37
+	29 -> 38
+	30 -> 39
+	30 -> 40
+	31 -> 41
+	31 -> 42
+	32 -> 43
+	32 -> 44
+	33 -> 45
+	33 -> 46
+	34 -> 47
+	47 -> 48
+	48 -> 49
+	48 -> 50
+	48 -> 51
+	48 -> 52
+	49 -> 53
+	50 -> 54
+	53 -> 55
+	54 -> 56
+	55 -> 57
+	55 -> 58
+	56 -> 59
+	58 -> 60
+	58 -> 61
+	60 -> 62
+	60 -> 63
+
+
+}

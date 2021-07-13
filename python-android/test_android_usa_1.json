@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "usa-bookmark",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.usatoday.android.news:id/main_text"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Unchecked. Save Checkbox"
+                }
+            ]
+        }
+    ]
+}

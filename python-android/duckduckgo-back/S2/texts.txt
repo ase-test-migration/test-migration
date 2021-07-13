@@ -1,0 +1,10 @@
+{ "resource-id" : "com.duckduckgo.mobile.android:id/focusDummy" , "screenshotPath" : "duckduckgo-back/S2/pngs/0_325_1080_1977.png"}
+{ "resource-id" : "com.duckduckgo.mobile.android:id/fireIconMenu" , "screenshotPath" : "duckduckgo-back/S2/pngs/756_171_860_325.png"}
+{ "resource-id" : "com.duckduckgo.mobile.android:id/tabsMenu" , "screenshotPath" : "duckduckgo-back/S2/pngs/882_198_948_298.png"}
+{ "resource-id" : "com.duckduckgo.mobile.android:id/browserMenu" , "screenshotPath" : "duckduckgo-back/S2/pngs/970_171_1080_325.png"}
+{ "resource-id" : "com.duckduckgo.mobile.android:id/omnibarTextInput" , "screenshotPath" : "duckduckgo-back/S2/pngs/122_193_711_303.png"}
+{ "content-desc" : "Privacy Grade" , "resource-id" : "com.duckduckgo.mobile.android:id/privacyGradeButton" , "screenshotPath" : "duckduckgo-back/S2/pngs/39_207_122_290.png"}
+{ "content-desc" : "СЛИКЕ" , "screenshotPath" : "duckduckgo-back/S2/pngs/280_325_434_457.png"}
+{ "content-desc" : "Пријавите се" , "screenshotPath" : "duckduckgo-back/S2/pngs/709_338_1050_443.png"}
+{ "content-desc" : "srpski" , "screenshotPath" : "duckduckgo-back/S2/pngs/541_1463_684_1510.png"}
+{ "content-desc" : "English" , "screenshotPath" : "duckduckgo-back/S2/pngs/690_1463_855_1510.png"}

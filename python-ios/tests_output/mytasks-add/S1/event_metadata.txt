@@ -1,0 +1,5 @@
+pathToElementImageCrop: mytasks-add/S1/pngs/110.0_208.0_632.0_250.0.png;
+coords: {'x1': 110.0, 'y1': 208.0, 'x2': 632.0, 'y2': 250.0};
+text_identifier: {  };
+event: send_keys;
+input: testing;

@@ -1,0 +1,13 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "aliExpress-addCart",
+        "events": [
+            {
+                "type": "name",
+                "tag": "a1z65.home.diamond.3",
+                "event": "click"
+            }
+        ]
+    }
+}

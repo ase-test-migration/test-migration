@@ -1,0 +1,59 @@
+{
+    "tests": [
+        {
+            "name": "cnn-edition", 
+            "events": [
+                {
+                    "tag": "Settings", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "U.S.", 
+                    "type": "accessibilityId", 
+                    "event": "oracle",
+                    "oracle-type": "assert_equal",
+                    "attribute": "label",
+                    "value": "U.S."
+                }, 
+                {
+                    "tag": "Edition", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "International", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Accept", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "(//XCUIElementTypeButton[@name=\"Settings\"])[1]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "International", 
+                    "type": "accessibilityId", 
+                    "event": "oracle",
+                    "oracle-type": "assert_equal",
+                    "attribute": "label",
+                    "value": "International"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "14.3", 
+        "platformName": "iOS"
+    }
+}

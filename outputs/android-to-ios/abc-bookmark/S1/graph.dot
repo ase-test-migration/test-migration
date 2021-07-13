@@ -1,0 +1,166 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = ABC News\l|label = ABC News\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeNavigationBar\l|name = ABCArticlesPageView\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeButton\l|name =   Top Stories\l|label =   Top Stories\l|enabled = true\l|visible = true\l|x = 16\l|y = 33\l|width = 85\l|height = 18\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/32.0_66.0_202.0_102.0.png\l}"]
+	15	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 288\l|y = 20\l|width = 32\l|height = 44\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/576.0_40.0_640.0_128.0.png\l}"]
+	16	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 328\l|y = 20\l|width = 39\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/656.0_40.0_734.0_128.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	19	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	22	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 206\l|width = 375\l|height = 263\l|index = 1\l|numberOfChildren = 4\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_412.00000000000006_750.0_938.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 613\l|width = 375\l|height = 54\l|index = 2\l|numberOfChildren = 3\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_1226.0_750.0_1334.0.png\l}"]
+	25	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 118\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_128.0_750.0_364.0.png\l}"]
+	26	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 182\l|width = 375\l|height = 25\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_363.99999999999994_750.0_413.99999999999994.png\l}"]
+	27	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 468\l|width = 375\l|height = 2027\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_936.0_750.0_4990.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 8 pages\l|label = Vertical scroll bar, 8 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 64\l|width = 30\l|height = 554\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/684.0_128.0_744.0_1236.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 206\l|width = 375\l|height = 212\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_412.00000000000006_750.0_836.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 417\l|width = 375\l|height = 52\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_834.0_750.0_938.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 613\l|width = 375\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_1226.0_750.0_1228.0.png\l}"]
+	32	[label="{type = XCUIElementTypeButton\l|name = Donald Trump\l|label = Donald Trump\l|enabled = true\l|visible = true\l|x = 39\l|y = 632\l|width = 197\l|height = 16\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/78.0_1264.0_472.0_1296.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 118\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_128.0_750.0_364.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 182\l|width = 375\l|height = 25\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_363.99999999999994_750.0_413.99999999999994.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 468\l|width = 375\l|height = 2027\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_936.0_750.0_4990.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 206\l|width = 375\l|height = 212\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_412.00000000000006_750.0_836.0.png\l}"]
+	37	[label="{type = XCUIElementTypeStaticText\l|value = WATCH | 160 CEOs write to lawmakers urging them to pass Biden’s COVID relief plan\l|name = WATCH | 160 CEOs write to lawmakers urging them to pass Biden’s COVID relief plan\l|label = WATCH | 160 CEOs write to lawmakers urging them to pass Biden’s COVID relief plan\l|enabled = true\l|visible = true\l|x = 20\l|y = 417\l|width = 335\l|height = 52\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/40.0_834.0_710.0_938.0.png\l}"]
+	38	[label="{type = XCUIElementTypeStaticText\l|value = Feb 24, 9:07 pm\l|name = Feb 24, 9:07 pm\l|label = Feb 24, 9:07 pm\l|enabled = true\l|visible = true\l|x = 20\l|y = 81\l|width = 72\l|height = 10\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/40.0_162.0_184.0_182.0.png\l}"]
+	39	[label="{type = XCUIElementTypeStaticText\l|value = Awkward moment as House Republican leaders clash over Trump speaking at CPAC\l|name = Awkward moment as House Republican leaders clash over Trump speaking at CPAC\l|label = Awkward moment as House Republican leaders clash over Trump speaking at CPAC\l|enabled = true\l|visible = true\l|x = 19\l|y = 99\l|width = 337\l|height = 66\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/38.0_198.0_712.0_330.0.png\l}"]
+	40	[label="{type = XCUIElementTypeButton\l|name = Benjamin Siegel A\l|label = Benjamin Siegel A\l|enabled = true\l|visible = true\l|x = 20\l|y = 182\l|width = 335\l|height = 15\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/40.0_363.99999999999994_710.0_393.99999999999994.png\l}"]
+	41	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 468\l|width = 375\l|height = 2027\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_936.0_750.0_4990.0.png\l}"]
+	42	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 206\l|width = 375\l|height = 212\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_412.00000000000006_750.0_836.0.png\l}"]
+	43	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 468\l|width = 375\l|height = 2027\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_936.0_750.0_4990.0.png\l}"]
+	44	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 366\l|width = 66\l|height = 32\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/40.0_732.0_172.0_796.0.png\l}"]
+	45	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 468\l|width = 375\l|height = 2027\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_936.0_750.0_4990.0.png\l}"]
+	46	[label="{type = XCUIElementTypeStaticText\l|value = 5:13\l|name = 5:13\l|label = 5:13\l|enabled = true\l|visible = true\l|x = 48\l|y = 373\l|width = 28\l|height = 18\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/96.0_746.0_152.0_782.0.png\l}"]
+	47	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	48	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	49	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 468\l|width = 375\l|height = 2027\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_936.0_750.0_4990.0.png\l}"]
+	50	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 468\l|width = 375\l|height = 2027\l|index = 0\l|numberOfChildren = 14\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/0.0_936.0_750.0_4990.0.png\l}"]
+	51	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 476\l|width = 359\l|height = 109\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/16.0_952.0_734.0_1170.0.png\l}"]
+	52	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 602\l|width = 359\l|height = 164\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/16.0_1204.0_734.0_1532.0.png\l}"]
+	53	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 782\l|width = 359\l|height = 56\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/16.0_1563.9999999999998_734.0_1675.9999999999998.png\l}"]
+	54	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 8\l|y = 854\l|width = 359\l|height = 242\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/16.0_1708.0_734.0_2192.0.png\l}"]
+	55	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 312\l|y = 1074\l|width = 55\l|height = 14\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/624.0_2148.0_734.0_2176.0.png\l}"]
+	56	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 1112\l|width = 359\l|height = 110\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/16.0_2224.0_734.0_2444.0.png\l}"]
+	57	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 1238\l|width = 359\l|height = 110\l|index = 6\l|numberOfChildren = 1\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/16.0_2476.0_734.0_2696.0.png\l}"]
+	58	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 8\l|y = 1365\l|width = 359\l|height = 271\l|index = 7\l|numberOfChildren = 0\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/16.0_2730.0_734.0_3272.0.png\l}"]
+	59	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 277\l|y = 1614\l|width = 90\l|height = 14\l|index = 8\l|numberOfChildren = 1\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/554.0_3228.0_734.0_3256.0.png\l}"]
+	60	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 1652\l|width = 359\l|height = 83\l|index = 9\l|numberOfChildren = 1\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/16.0_3304.0_734.0_3470.0.png\l}"]
+	61	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 1752\l|width = 359\l|height = 83\l|index = 10\l|numberOfChildren = 1\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/16.0_3504.0_734.0_3670.0.png\l}"]
+	62	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 1851\l|width = 359\l|height = 56\l|index = 11\l|numberOfChildren = 1\l|numInParentLayout = 11\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/16.0_3701.9999999999995_734.0_3813.9999999999995.png\l}"]
+	63	[label="{type = XCUIElementTypeOther\l|name = Twitter Tweet\l|label = Twitter Tweet\l|enabled = true\l|visible = true\l|x = 8\l|y = 1923\l|width = 359\l|height = 481\l|index = 12\l|numberOfChildren = 1\l|numInParentLayout = 12\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/16.0_3846.0_734.0_4808.0.png\l}"]
+	64	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 2421\l|width = 359\l|height = 56\l|index = 13\l|numberOfChildren = 1\l|numInParentLayout = 13\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/16.0_4842.0_734.0_4954.0.png\l}"]
+	65	[label="{type = XCUIElementTypeStaticText\l|value = Former President \l|name = Former President\l|label = Former President\l|enabled = true\l|visible = true\l|x = 8\l|y = 480\l|width = 141\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/16.0_960.0000000000001_298.0_1000.0000000000001.png\l}"]
+	66	[label="{type = XCUIElementTypeLink\l|name = Donald Trump\l|label = Donald Trump\l|enabled = true\l|visible = true\l|x = 148\l|y = 480\l|width = 112\l|height = 20\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/296.0_960.0000000000001_520.0_1000.0000000000001.png\l}"]
+	67	[label="{type = XCUIElementTypeStaticText\l|value = ure with the GOP was the subject of an awkward clash Wednesday between two House Republican leaders.\l|name = and his future with the GOP was the subject of an awkward clash Wednesday between two House Republican leaders.\l|label = and his future with the GOP was the subject of an awkward clash Wednesday between two House Republican leaders.\l|enabled = true\l|visible = true\l|x = 8\l|y = 480\l|width = 327\l|height = 101\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/16.0_960.0000000000001_670.0_1162.0.png\l}"]
+	68	[label="{type = XCUIElementTypeStaticText\l|value = House GOP Leader Kevin McCarthy was unequivocal when asked if Trump should be speaking this Sunday at CPAC, the Conservative Political Action Conference -- the large gathering of GOP and conservative leaders.\l|name = House GOP Leader Kevin McCarthy was unequivocal when asked if Trump should be speaking this Sunday at CPAC, the Conservative Political Action Conference -- the large gathering of GOP and conservative leaders.\l|label = House GOP Leader Kevin McCarthy was unequivocal when asked if Trump should be speaking this Sunday at CPAC, the Conservative Political Action Conference -- the large gathering of GOP and conservative leaders.\l|enabled = true\l|visible = true\l|x = 8\l|y = 606\l|width = 352\l|height = 156\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/16.0_1212.0_720.0_1524.0.png\l}"]
+	69	[label="{type = XCUIElementTypeStaticText\l|value = "Yes he should," McCarthy, who recently went to visit Trump in Mar-a-Lago, replied.\l|name = "Yes he should," McCarthy, who recently went to visit Trump in Mar-a-Lago, replied.\l|label = "Yes he should," McCarthy, who recently went to visit Trump in Mar-a-Lago, replied.\l|enabled = true\l|visible = true\l|x = 8\l|y = 786\l|width = 358\l|height = 48\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/16.0_1572.0_732.0_1668.0.png\l}"]
+	70	[label="{type = XCUIElementTypeStaticText\l|value = Shutterstock\l|name = Shutterstock\l|label = Shutterstock\l|enabled = true\l|visible = true\l|x = 312\l|y = 1075\l|width = 45\l|height = 11\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/624.0_2150.0_714.0_2172.0.png\l}"]
+	71	[label="{type = XCUIElementTypeStaticText\l|value = House GOP Conference Chair Liz Cheney, R-Wyo., the third-ranking House Republican, who voted to impeach Trump and became his target, gave a different answer.\l|name = House GOP Conference Chair Liz Cheney, R-Wyo., the third-ranking House Republican, who voted to impeach Trump and became his target, gave a different answer.\l|label = House GOP Conference Chair Liz Cheney, R-Wyo., the third-ranking House Republican, who voted to impeach Trump and became his target, gave a different answer.\l|enabled = true\l|visible = true\l|x = 8\l|y = 1116\l|width = 354\l|height = 102\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/16.0_2232.0_724.0_2436.0.png\l}"]
+	72	[label="{type = XCUIElementTypeStaticText\l|value = "That's up to CPAC ... I don't believe that he should be playing a role in the future of the party or the country," Cheney said as she stood behind McCarthy.\l|name = "That's up to CPAC ... I don't believe that he should be playing a role in the future of the party or the country," Cheney said as she stood behind McCarthy.\l|label = "That's up to CPAC ... I don't believe that he should be playing a role in the future of the party or the country," Cheney said as she stood behind McCarthy.\l|enabled = true\l|visible = true\l|x = 8\l|y = 1242\l|width = 339\l|height = 102\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/16.0_2484.0_694.0_2688.0.png\l}"]
+	73	[label="{type = XCUIElementTypeStaticText\l|value = J. Scott Applewhite/AP\l|name = J. Scott Applewhite/AP\l|label = J. Scott Applewhite/AP\l|enabled = true\l|visible = true\l|x = 277\l|y = 1615\l|width = 80\l|height = 11\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/554.0_3230.0_714.0_3252.0.png\l}"]
+	74	[label="{type = XCUIElementTypeStaticText\l|value = Rep. Steve Scalise, the second-ranking House Republican, who also has visited Trump in Florida, shook his head.\l|name = Rep. Steve Scalise, the second-ranking House Republican, who also has visited Trump in Florida, shook his head.\l|label = Rep. Steve Scalise, the second-ranking House Republican, who also has visited Trump in Florida, shook his head.\l|enabled = true\l|visible = true\l|x = 8\l|y = 1656\l|width = 312\l|height = 75\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/16.0_3312.0_640.0_3462.0.png\l}"]
+	75	[label="{type = XCUIElementTypeStaticText\l|value = McCarthy, who was at the microphone, had a pained look on his face when Cheney made her comment.\l|name = McCarthy, who was at the microphone, had a pained look on his face when Cheney made her comment.\l|label = McCarthy, who was at the microphone, had a pained look on his face when Cheney made her comment.\l|enabled = true\l|visible = true\l|x = 8\l|y = 1756\l|width = 354\l|height = 75\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/16.0_3512.0000000000005_724.0_3662.0000000000005.png\l}"]
+	76	[label="{type = XCUIElementTypeStaticText\l|value = "On that high note, thank you!" McCarthy said to end the news conference.\l|name = "On that high note, thank you!" McCarthy said to end the news conference.\l|label = "On that high note, thank you!" McCarthy said to end the news conference.\l|enabled = true\l|visible = true\l|x = 8\l|y = 1855\l|width = 358\l|height = 48\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/16.0_3710.0_732.0_3806.0.png\l}"]
+	77	[label="{type = XCUIElementTypeStaticText\l|value = McCarthy is slated to speak Saturday at the CPAC convention in Orlando, Florida.\l|name = McCarthy is slated to speak Saturday at the CPAC convention in Orlando, Florida.\l|label = McCarthy is slated to speak Saturday at the CPAC convention in Orlando, Florida.\l|enabled = true\l|visible = true\l|x = 8\l|y = 2425\l|width = 342\l|height = 48\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/16.0_4850.0_700.0_4946.0.png\l}"]
+	78	[label="{type = XCUIElementTypeStaticText\l|value = Donald Trump\l|name = Donald Trump\l|label = Donald Trump\l|enabled = true\l|visible = true\l|x = 148\l|y = 480\l|width = 112\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-bookmark/S1/pngs/296.0_960.0000000000001_520.0_1000.0000000000001.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	8 -> 9
+	9 -> 10
+	10 -> 11
+	11 -> 12
+	11 -> 13
+	12 -> 14
+	12 -> 15
+	12 -> 16
+	13 -> 17
+	17 -> 18
+	18 -> 19
+	19 -> 20
+	20 -> 21
+	21 -> 22
+	21 -> 23
+	21 -> 24
+	22 -> 25
+	22 -> 26
+	22 -> 27
+	22 -> 28
+	23 -> 29
+	23 -> 30
+	24 -> 31
+	24 -> 32
+	25 -> 33
+	26 -> 34
+	27 -> 35
+	29 -> 36
+	30 -> 37
+	33 -> 38
+	33 -> 39
+	34 -> 40
+	35 -> 41
+	36 -> 42
+	41 -> 43
+	42 -> 44
+	43 -> 45
+	44 -> 46
+	45 -> 47
+	47 -> 48
+	48 -> 49
+	49 -> 50
+	50 -> 51
+	50 -> 52
+	50 -> 53
+	50 -> 54
+	50 -> 55
+	50 -> 56
+	50 -> 57
+	50 -> 58
+	50 -> 59
+	50 -> 60
+	50 -> 61
+	50 -> 62
+	50 -> 63
+	50 -> 64
+	51 -> 65
+	51 -> 66
+	51 -> 67
+	52 -> 68
+	53 -> 69
+	55 -> 70
+	56 -> 71
+	57 -> 72
+	59 -> 73
+	60 -> 74
+	61 -> 75
+	62 -> 76
+	64 -> 77
+	66 -> 78
+
+
+}

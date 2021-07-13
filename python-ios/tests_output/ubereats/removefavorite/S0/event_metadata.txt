@@ -1,0 +1,4 @@
+pathToElementImageCrop: removefavorite/S0/pngs/939.0_2418.0_1236.0_2562.0.png;
+coords: {'x1': 939.0, 'y1': 2418.0, 'x2': 1236.0, 'y2': 2562.0};
+text_identifier: { "name" : "Account" };
+event: click;

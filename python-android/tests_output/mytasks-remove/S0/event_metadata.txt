@@ -1,0 +1,4 @@
+pathToElementImageCrop: mytasks-remove/S0/pngs/192_630_1028_693.png;
+coords: {'x1': 192, 'y1': 630, 'x2': 1028, 'y2': 693};
+text_identifier: { "resource-id" : "com.weekly.app:id/text_view_tasks_title" };
+event: click;

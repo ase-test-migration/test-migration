@@ -1,0 +1,37 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "gtasks-edit",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "Edit",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.google.android.apps.tasks:id/edit_title",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.google.android.apps.tasks:id/edit_title",
+                "event": "send_keys_enter",
+                "input": "test"
+            },
+            {
+                "event": "back"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "testEdit"
+            },
+            {
+                "event": "oracle",
+                "type": "text_invisible",
+                "input": "Edit"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "mytasks-mytasks-add",
+            "events": [
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/androidx.viewpager.widget.ViewPager/androidx.viewpager.widget.ViewPager/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[1]/android.view.ViewGroup/android.widget.ImageView[2]"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys",
+                    "tag": "com.weekly.app:id/edit_text_task",
+                    "input": "testing"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.weekly.app:id/image_view_create_task_complete"
+                },
+                {
+                    "event": "oracle",
+                    "oracle-type": "text_exists",
+                    "input": "testing"
+                }
+            ]
+        }
+    ]
+}

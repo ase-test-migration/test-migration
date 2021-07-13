@@ -1,0 +1,5 @@
+pathToElementImageCrop: bbc-category/S2/pngs/392_211_688_285.png;
+coords: {'x1': 392, 'y1': 211, 'x2': 688, 'y2': 285};
+text_identifier: { "resource-id" : "bbc.mobile.news.ww:id/activity_news_index_title" };
+event: oracle;
+oracle-type: widget_exists;

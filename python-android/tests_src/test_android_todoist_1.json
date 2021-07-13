@@ -1,0 +1,40 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "todoist-add",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.todoist:id/fab"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys",
+                    "tag": "android:id/message",
+                    "input": "testing"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Add"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "android:id/list"
+                },
+                {
+                    "event": "oracle",
+                    "oracle-type": "text_exists",
+                    "input": "testing"
+                }
+            ]
+        }
+    ]
+}

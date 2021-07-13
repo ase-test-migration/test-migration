@@ -1,0 +1,4 @@
+pathToElementImageCrop: abc-bookmark/S0/pngs/0_1029_1080_1203.png;
+coords: {'x1': 0, 'y1': 1029, 'x2': 1080, 'y2': 1203};
+text_identifier: { "resource-id" : "com.abc.abcnews:id/cinematic_title" };
+event: click;

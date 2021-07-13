@@ -1,0 +1,4 @@
+pathToElementImageCrop: wish-wishlist/S2/pngs/289_1618_792_1723.png;
+coords: {'x1': 289, 'y1': 1618, 'x2': 792, 'y2': 1723};
+text_identifier: { "resource-id" : "com.contextlogic.wish:id/redesign_profile_create_new_wishlist_button" };
+event: click;

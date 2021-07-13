@@ -1,0 +1,29 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "gTask-addTask",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "Create new task",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.google.android.apps.tasks:id/add_task_title",
+                "event": "send_keys",
+                "input": "Test01"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.google.android.apps.tasks:id/add_task_done",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "Test01"
+            }
+        ]
+    }
+}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: McD-search/S1/pngs/478.0_334.0_704.0_368.0.png;
+coords: {'x1': 478.0, 'y1': 334.0, 'x2': 704.0, 'y2': 368.0};
+text_identifier: { "label" : "Change Location" };
+event: click;

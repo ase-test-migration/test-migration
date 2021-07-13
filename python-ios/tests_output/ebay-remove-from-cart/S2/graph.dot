@@ -1,0 +1,50 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = eBay\l|label = eBay\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeNavigationBar\l|name = eBay shopping cart\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 44\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S2/pngs/0.0_132.0_1242.0_264.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeButton\l|name = button_dismiss\l|label = Dismiss\l|enabled = true\l|visible = true\l|x = 20\l|y = 44\l|width = 44\l|height = 44\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S2/pngs/60.0_132.0_192.0_264.0.png\l}"]
+	7	[label="{type = XCUIElementTypeStaticText\l|value = eBay shopping cart\l|name = eBay shopping cart\l|label = eBay shopping cart\l|enabled = true\l|visible = true\l|x = 130\l|y = 56\l|width = 154\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S2/pngs/390.0_168.0_852.0_228.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 808\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S2/pngs/0.0_264.0_1242.0_2688.0.png\l}"]
+	10	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 808\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S2/pngs/0.0_264.0_1242.0_2688.0.png\l}"]
+	11	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 45\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S2/pngs/0.0_264.0_1242.0_399.0.png\l}"]
+	12	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 132\l|width = 414\l|height = 388\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S2/pngs/0.0_396.0_1242.0_1560.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 1 page\l|label = Vertical scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 381\l|y = 103\l|width = 30\l|height = 762\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S2/pngs/1143.0_309.0_1233.0_2595.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 31\l|y = 863\l|width = 352\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S2/pngs/93.0_2589.0_1149.0_2679.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 45\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S2/pngs/0.0_264.0_1242.0_399.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 132\l|width = 414\l|height = 388\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S2/pngs/0.0_396.0_1242.0_1560.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|name = Google Home Mini Smart Speaker with Google Assistant Charcoal Chalk Coral Aqua was removed from your cart.\l|label = Google Home Mini Smart Speaker with Google Assistant Charcoal Chalk Coral Aqua was removed from your cart.\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 45\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S2/pngs/0.0_264.0_1242.0_399.0.png\l}"]
+	18	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 0\l|y = 132\l|width = 414\l|height = 388\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S2/pngs/0.0_396.0_1242.0_1560.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 101\l|y = 271\l|width = 212\l|height = 111\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S2/pngs/303.0_813.0_939.0000000000001_1146.0.png\l}"]
+	20	[label="{type = XCUIElementTypeStaticText\l|value = You don't have any items in your cart. Let's get shopping!\l|name = textview_noresults_title\l|label = You don't have any items in your cart. Let's get shopping!\l|enabled = true\l|visible = true\l|x = 101\l|y = 348\l|width = 212\l|height = 34\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = true \l|screenshotPath = ebay-remove-from-cart/S2/pngs/303.0_1044.0_939.0000000000001_1146.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	3 -> 5
+	4 -> 6
+	4 -> 7
+	5 -> 8
+	8 -> 9
+	9 -> 10
+	10 -> 11
+	10 -> 12
+	10 -> 13
+	10 -> 14
+	11 -> 15
+	12 -> 16
+	15 -> 17
+	16 -> 18
+	18 -> 19
+	19 -> 20
+
+
+}

@@ -1,0 +1,45 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "aliExpress-Login",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Sign in"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//XCUIElementTypeButton[@name=\"Sign In\"]"
+                },
+                {
+                    "type": "xPath",
+                    "event": "send_keys",
+                    "tag": "//XCUIElementTypeApplication[@name=\"AliExpress\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeTextField",
+                    "input": "email@example.com"
+                },
+                {
+                    "type": "xPath",
+                    "event": "send_keys",
+                    "tag": "//XCUIElementTypeApplication[@name=\"AliExpress\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField",
+                    "input": "Test0123"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "login_btn"
+                }
+            ]
+        }
+    ]
+}

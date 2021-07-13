@@ -1,0 +1,34 @@
+{
+    "desiredCapabilities": {
+      "platformName": "Android",
+      "platformVersion": "9",
+      "deviceName": "Nexus_5_API_28",
+      "newCommandTimeout": 1000
+
+    },
+    "tests" :[
+                {
+
+                    "name" : "testAOLFeed",
+                    "events" : [
+                      {
+                          "event": "click",
+                          "tag": "//android.widget.RelativeLayout[@content-desc=\"Tab 2 of 5, AOL News is not selected\"]/android.widget.FrameLayout",
+                          "type": "xPath"
+                      },
+                      {
+                          "event": "click",
+                          "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.RelativeLayout/androidx.viewpager.widget.ViewPager/android.widget.RelativeLayout/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.TextView[2]",
+                          "type": "xPath"
+                      },
+                      {
+                          "event": "click",
+                          "tag": "Change Text Size",
+                          "type": "accessibilityId"
+                      }
+                  ]
+
+
+    }
+]
+}

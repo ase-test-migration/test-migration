@@ -1,0 +1,45 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "blue-send",
+            "events": [
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeOther[@name=\"15\"])[2]/XCUIElementTypeOther[3]"
+                },
+                {
+                    "type": "xPath",
+                    "event": "send_keys_enter",
+                    "tag": "//XCUIElementTypeOther[@name=\"composeComponent\"]/XCUIElementTypeOther[3]",
+                    "input": "email@example.com"
+                },
+                {
+                    "type": "xPath",
+                    "event": "send_keys",
+                    "tag": "//XCUIElementTypeOther[@name=\"composeComponent\"]/XCUIElementTypeOther[8]/XCUIElementTypeTextField",
+                    "input": "Testing 2"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeOther[@name=\" New email email@example.com \ue313\"])[1]/XCUIElementTypeOther[3]/XCUIElementTypeOther"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Testing 2"
+                }
+            ]
+        }
+    ]
+}

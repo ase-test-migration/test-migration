@@ -1,0 +1,4 @@
+{ "resource-id" : "com.android.chrome:id/selectable_list" , "screenshotPath" : "chrome-bookmark/S6/pngs/0_171_1080_1977.png"}
+{ "resource-id" : "com.android.chrome:id/recycler_view" , "screenshotPath" : "chrome-bookmark/S6/pngs/0_325_1080_1977.png"}
+{ "content-desc" : "Search" , "resource-id" : "com.android.chrome:id/search_menu_id" , "screenshotPath" : "chrome-bookmark/S6/pngs/805_182_937_314.png"}
+{ "content-desc" : "Close dialog" , "resource-id" : "com.android.chrome:id/close_menu_id" , "screenshotPath" : "chrome-bookmark/S6/pngs/937_182_1069_314.png"}

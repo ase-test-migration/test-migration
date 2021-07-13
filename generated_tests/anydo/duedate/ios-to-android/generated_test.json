@@ -1,0 +1,44 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "anydo-duedate",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.anydo:id/quick_add_input",
+                "event": "send_keys_enter",
+                "input": "Mytask"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.anydo:id/listItemLayout",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.anydo:id/listItemLayout",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_invisible",
+                "input": "Mar 28, 2021 9:00 AM"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.anydo:id/btnSave",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "type": "accessibilityId",
+                "tag": "Mark as complete"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.anydo:id/add_task",
+                "event": "click"
+            }
+        ]
+    }
+}

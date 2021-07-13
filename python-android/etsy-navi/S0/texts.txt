@@ -1,0 +1,33 @@
+{ "resource-id" : "com.etsy.android:id/app_bar_toolbar" , "screenshotPath" : "etsy-navi/S0/pngs/0_74_1080_221.png"}
+{ "content-desc" : "Home tab, 1 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_home" , "screenshotPath" : "etsy-navi/S0/pngs/0_2214_216_2287.png"}
+{ "content-desc" : "Favorites tab, 2 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_favorites" , "screenshotPath" : "etsy-navi/S0/pngs/216_2214_432_2287.png"}
+{ "content-desc" : "Updates tab, 3 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_updates" , "screenshotPath" : "etsy-navi/S0/pngs/432_2214_648_2287.png"}
+{ "content-desc" : "You tab, 4 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_you" , "screenshotPath" : "etsy-navi/S0/pngs/648_2214_864_2287.png"}
+{ "content-desc" : "Cart tab, 5 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_cart" , "screenshotPath" : "etsy-navi/S0/pngs/864_2214_1080_2287.png"}
+{ "content-desc" : "Search for anything on Etsy" , "screenshotPath" : "etsy-navi/S0/pngs/0_74_147_221.png"}
+{ "resource-id" : "com.etsy.android:id/view_pager" , "screenshotPath" : "etsy-navi/S0/pngs/0_221_1080_2214.png"}
+{ "resource-id" : "com.etsy.android:id/recycler_view" , "screenshotPath" : "etsy-navi/S0/pngs/0_221_1080_2214.png"}
+{ "resource-id" : "com.etsy.android:id/horizontal_recycler_view" , "screenshotPath" : "etsy-navi/S0/pngs/0_760_1080_1171.png"}
+{ "resource-id" : "com.etsy.android:id/horizontal_recycler_view" , "screenshotPath" : "etsy-navi/S0/pngs/0_1281_1080_1631.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-navi/S0/pngs/42_1762_519_2119.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-navi/S0/pngs/561_1762_1038_2119.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-navi/S0/pngs/42_2161_519_2214.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-navi/S0/pngs/561_2161_1038_2214.png"}
+{ "resource-id" : "com.etsy.android:id/search_src_text" , "screenshotPath" : "etsy-navi/S0/pngs/147_99_1080_194.png"}
+{ "resource-id" : "com.etsy.android:id/styledBannerContentCard" , "screenshotPath" : "etsy-navi/S0/pngs/42_284_1038_587.png"}
+{ "resource-id" : "com.etsy.android:id/headerTitle" , "screenshotPath" : "etsy-navi/S0/pngs/42_692_455_739.png"}
+{ "resource-id" : "com.etsy.android:id/headerTitle" , "screenshotPath" : "etsy-navi/S0/pngs/42_1213_377_1260.png"}
+{ "content-desc" : "See more Recently viewed" , "resource-id" : "com.etsy.android:id/headerViewAllLink" , "screenshotPath" : "etsy-navi/S0/pngs/840_1186_1059_1281.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-navi/S0/pngs/42_1302_339_1599.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-navi/S0/pngs/381_1302_678_1599.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-navi/S0/pngs/720_1302_1017_1599.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-navi/S0/pngs/1059_1302_1080_1599.png"}
+{ "resource-id" : "com.etsy.android:id/headerTitle" , "screenshotPath" : "etsy-navi/S0/pngs/42_1673_387_1720.png"}
+{ "content-desc" : "See more Our picks for you" , "resource-id" : "com.etsy.android:id/headerViewAllLink" , "screenshotPath" : "etsy-navi/S0/pngs/840_1646_1059_1741.png"}
+{ "content-desc" : "Add Feelin' Lucky Green Shamrock Cutest Nylon Headband, St Patrick Headband, Baby First St. Patrick's Day, Shamrock Headband, Green Bow, to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-navi/S0/pngs/403_1783_498_1878.png"}
+{ "content-desc" : "Add Linen Headband, Soft Linen Headband, Linen Bow, Lightweight Headband, Comfortable Headband, Infant Headband, One Size Fits All Baby to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-navi/S0/pngs/922_1783_1017_1878.png"}
+{ "content-desc" : "Add Nylon baby headbands, Corduroy boy headband, baby headbands, newborn headband, one size fits all, baby headwrap, bow turban, CORDUROY KNOT to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-navi/S0/pngs/403_2182_498_2214.png"}
+{ "content-desc" : "Add Cloud Mountain Blackit Views Light OEM R4 Artisan Valley Collection Key cap for MX Cherry Filco Keycap to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-navi/S0/pngs/922_2182_1017_2214.png"}
+{ "content-desc" : "Add Moon Landing Keycap for Cherry MX Keycap Mechanical Gaming Keyboards - Kalih Keycap - Gateron Keycap to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-navi/S0/pngs/223_1323_318_1418.png"}
+{ "content-desc" : "Add Cat Litter Box Semi-Closed to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-navi/S0/pngs/562_1323_657_1418.png"}
+{ "content-desc" : "Add All original scratch, jingle and roll ultimate cat kicker toy with organic catnip, silver vine and valerian root to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-navi/S0/pngs/901_1323_996_1418.png"}

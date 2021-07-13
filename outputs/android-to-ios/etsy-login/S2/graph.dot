@@ -1,0 +1,132 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Etsy\l|label = Etsy\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 617\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/0.0_0.0_750.0_1234.0.png\l}"]
+	7	[label="{type = XCUIElementTypeTabBar\l|name = BOE Navigation Bar\l|label = Tab Bar\l|enabled = true\l|visible = true\l|x = 0\l|y = 617\l|width = 375\l|height = 50\l|index = 1\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/0.0_1234.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 617\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/0.0_0.0_750.0_1234.0.png\l}"]
+	9	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = Home\l|label = Home\l|enabled = true\l|visible = true\l|x = 2\l|y = 618\l|width = 71\l|height = 49\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/4.0_1236.0_146.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|name = Favorites\l|label = Favorites\l|enabled = true\l|visible = true\l|x = 77\l|y = 618\l|width = 71\l|height = 49\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/154.0_1236.0_296.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|name = Updates\l|label = Updates\l|enabled = true\l|visible = true\l|x = 152\l|y = 618\l|width = 71\l|height = 49\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/304.0_1236.0_446.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|name = You\l|label = You\l|enabled = true\l|visible = true\l|x = 227\l|y = 618\l|width = 71\l|height = 49\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/453.99999999999994_1236.0_596.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeButton\l|name = Cart\l|label = Cart\l|enabled = true\l|visible = true\l|x = 302\l|y = 618\l|width = 71\l|height = 49\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/604.0_1236.0_746.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 617\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/0.0_0.0_750.0_1234.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 617\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/0.0_0.0_750.0_1234.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 617\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/0.0_0.0_750.0_1234.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 617\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/0.0_0.0_750.0_1234.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 617\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/0.0_0.0_750.0_1234.0.png\l}"]
+	19	[label="{type = XCUIElementTypeNavigationBar\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 1\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	20	[label="{type = XCUIElementTypeScrollView\l|name = Listing Details ScrollView Accessibility Identifier\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 617\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/0.0_0.0_750.0_1234.0.png\l}"]
+	21	[label="{type = XCUIElementTypeButton\l|name = Back\l|label = Back\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 44\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/0.0_40.0_88.0_128.0.png\l}"]
+	22	[label="{type = XCUIElementTypeButton\l|name = Share item: Wood Bowling Toy - Personalized Wood Toy - Wooden Skittles Game - First Birthday Gift - Toddler Wood Toy - Custom Bowling Set - Montessori\l|label = Share item: Wood Bowling Toy - Personalized Wood Toy - Wooden Skittles Game - First Birthday Gift - Toddler Wood Toy - Custom Bowling Set - Montessori\l|enabled = true\l|visible = true\l|x = 279\l|y = 20\l|width = 40\l|height = 44\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/558.0_40.0_638.0_128.0.png\l}"]
+	23	[label="{type = XCUIElementTypeButton\l|name = Add Wood Bowling Toy - Personalized Wood Toy - Wooden Skittles Game - First Birthday Gift - Toddler Wood Toy - Custom Bowling Set - Montessori to favorites\l|label = Add Wood Bowling Toy - Personalized Wood Toy - Wooden Skittles Game - First Birthday Gift - Toddler Wood Toy - Custom Bowling Set - Montessori to favorites\l|enabled = true\l|visible = true\l|x = 319\l|y = 20\l|width = 40\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/638.0_40.0_718.0_128.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|name = Listing\l|label = Listing\l|enabled = true\l|visible = true\l|x = 0\l|y = -1375\l|width = 375\l|height = 3996\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/0.0_-2750.0_750.0_5241.999999999999.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|value = 41%\l|name = Vertical scroll bar, 7 pages\l|label = Vertical scroll bar, 7 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 20\l|width = 30\l|height = 597\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/684.0_40.0_744.0_1234.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 584\l|width = 375\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/0.0_1168.0_750.0_1228.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = -1375\l|width = 375\l|height = 3996\l|index = 0\l|numberOfChildren = 9\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/0.0_-2750.0_750.0_5241.999999999999.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 1132\l|index = 4\l|numberOfChildren = 2\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/0.0_128.0_750.0_2392.0.png\l}"]
+	29	[label="{type = XCUIElementTypeButton\l|value = Expanded\l|name = 901 reviews; average rating: 5.0 out of 5\l|label = 901 reviews; average rating: 5.0 out of 5\l|enabled = true\l|visible = true\l|x = 16\l|y = 86\l|width = 303\l|height = 21\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/32.0_172.00000000000003_638.0_214.00000000000003.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 128\l|width = 375\l|height = 1067\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/0.0_256.0_750.0_2390.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 128\l|width = 375\l|height = 1067\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/0.0_256.0_750.0_2390.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 128\l|width = 375\l|height = 124\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/0.0_256.0_750.0_504.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 271\l|width = 375\l|height = 860\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/0.0_542.0_750.0_2262.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 128\l|width = 375\l|height = 16\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/0.0_256.0_750.0_288.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 155\l|width = 375\l|height = 97\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/0.0_310.0_750.0_504.0.png\l}"]
+	36	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 16\l|y = 271\l|width = 343\l|height = 860\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/32.0_542.0_718.0_2262.0.png\l}"]
+	37	[label="{type = XCUIElementTypeStaticText\l|value = Photos from reviews\l|name = Photos from reviews\l|label = Photos from reviews\l|enabled = true\l|visible = true\l|x = 16\l|y = 128\l|width = 359\l|height = 16\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/32.0_256.0_750.0_288.0.png\l}"]
+	38	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 155\l|width = 375\l|height = 97\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/0.0_310.0_750.0_504.0.png\l}"]
+	39	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 16\l|y = 271\l|width = 343\l|height = 166\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/32.0_542.0_718.0_874.0.png\l}"]
+	40	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 16\l|y = 437\l|width = 343\l|height = 188\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/32.0_874.0_718.0_1250.0.png\l}"]
+	41	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 14\l|y = 155\l|width = 96\l|height = 97\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/28.000000000000004_310.0_220.0_504.0.png\l}"]
+	42	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 122\l|y = 155\l|width = 96\l|height = 97\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/243.99999999999997_310.0_436.0_504.0.png\l}"]
+	43	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 1 page\l|label = Vertical scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 342\l|y = 155\l|width = 30\l|height = 97\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/684.0_310.0_744.0_504.0.png\l}"]
+	44	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 271\l|width = 343\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/32.0_542.0_718.0_544.0.png\l}"]
+	45	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 271\l|width = 343\l|height = 166\l|index = 1\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/32.0_542.0_718.0_874.0.png\l}"]
+	46	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 437\l|width = 343\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/32.0_874.0_718.0_876.0.png\l}"]
+	47	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 437\l|width = 343\l|height = 188\l|index = 1\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/32.0_874.0_718.0_1250.0.png\l}"]
+	48	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 14\l|y = 155\l|width = 96\l|height = 97\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/28.000000000000004_310.0_220.0_504.0.png\l}"]
+	49	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 122\l|y = 155\l|width = 96\l|height = 97\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/243.99999999999997_310.0_436.0_504.0.png\l}"]
+	50	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 295\l|width = 343\l|height = 35\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/32.0_590.0_718.0_660.0.png\l}"]
+	51	[label="{type = XCUIElementTypeTextView\l|value = Lively product. Definite keepsake for the future! Thanks!\l|enabled = false\l|visible = true\l|x = 16\l|y = 372\l|width = 343\l|height = 41\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/32.0_744.0_718.0_826.0.png\l}"]
+	52	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 461\l|width = 343\l|height = 34\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/32.0_922.0_718.0_990.0.png\l}"]
+	53	[label="{type = XCUIElementTypeTextView\l|value = Absolutely love this!! Perfect gift for my best friends son. Quality is amazing and this will be a keepsake for sure\l|enabled = false\l|visible = true\l|x = 16\l|y = 538\l|width = 343\l|height = 63\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/32.0_1076.0_718.0_1202.0.png\l}"]
+	54	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 295\l|width = 36\l|height = 37\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/32.0_590.0_104.0_664.0.png\l}"]
+	55	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 60\l|y = 297\l|width = 77\l|height = 33\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/120.0_594.0_274.0_660.0.png\l}"]
+	56	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 461\l|width = 36\l|height = 36\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/32.0_922.0_104.0_994.0.png\l}"]
+	57	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 60\l|y = 463\l|width = 74\l|height = 32\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/120.0_926.0_268.0_990.0.png\l}"]
+	58	[label="{type = XCUIElementTypeStaticText\l|value = Nikki Mills\l|name = Nikki Mills\l|label = Nikki Mills\l|enabled = true\l|visible = true\l|x = 60\l|y = 297\l|width = 77\l|height = 16\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/120.0_594.0_274.0_626.0.png\l}"]
+	59	[label="{type = XCUIElementTypeStaticText\l|value = Feb 18, 2021\l|name = Feb 18, 2021\l|label = Feb 18, 2021\l|enabled = true\l|visible = true\l|x = 60\l|y = 314\l|width = 77\l|height = 16\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/120.0_628.0_274.0_660.0.png\l}"]
+	60	[label="{type = XCUIElementTypeStaticText\l|value = lstack085\l|name = lstack085\l|label = lstack085\l|enabled = true\l|visible = true\l|x = 60\l|y = 463\l|width = 74\l|height = 15\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/120.0_926.0_268.0_956.0.png\l}"]
+	61	[label="{type = XCUIElementTypeStaticText\l|value = Jan 21, 2021\l|name = Jan 21, 2021\l|label = Jan 21, 2021\l|enabled = true\l|visible = true\l|x = 60\l|y = 480\l|width = 74\l|height = 15\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/etsy-login/S2/pngs/120.0_960.0000000000001_268.0_990.0000000000001.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	5 -> 7
+	6 -> 8
+	7 -> 9
+	7 -> 10
+	7 -> 11
+	7 -> 12
+	7 -> 13
+	8 -> 14
+	14 -> 15
+	15 -> 16
+	16 -> 17
+	17 -> 18
+	17 -> 19
+	18 -> 20
+	19 -> 21
+	19 -> 22
+	19 -> 23
+	20 -> 24
+	20 -> 25
+	20 -> 26
+	24 -> 27
+	27 -> 28
+	28 -> 29
+	28 -> 30
+	30 -> 31
+	31 -> 32
+	31 -> 33
+	32 -> 34
+	32 -> 35
+	33 -> 36
+	34 -> 37
+	35 -> 38
+	36 -> 39
+	36 -> 40
+	38 -> 41
+	38 -> 42
+	38 -> 43
+	39 -> 44
+	39 -> 45
+	40 -> 46
+	40 -> 47
+	41 -> 48
+	42 -> 49
+	45 -> 50
+	45 -> 51
+	47 -> 52
+	47 -> 53
+	50 -> 54
+	50 -> 55
+	52 -> 56
+	52 -> 57
+	55 -> 58
+	55 -> 59
+	57 -> 60
+	57 -> 61
+
+
+}

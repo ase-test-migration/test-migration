@@ -1,0 +1,4 @@
+pathToElementImageCrop: cnn-edition/S3/pngs/45_538_384_634.png;
+coords: {'x1': 45, 'y1': 538, 'x2': 384, 'y2': 634};
+text_identifier: { "resource-id" : "com.cnn.mobile.android.phone:id/international_button" };
+event: click;

@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "brave-back",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.brave.browser:id/url_bar",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.brave.browser:id/url_bar",
+                "event": "send_keys_enter",
+                "input": "google.com"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.brave.browser:id/url_bar",
+                "event": "click"
+            }
+        ]
+    }
+}

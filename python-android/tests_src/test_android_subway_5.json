@@ -1,0 +1,44 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "testSubwayAddCart",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "ORDER"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.subway.mobile.subwayapp03:id/store_popup_confirm"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "All Sandwiches menu. Tap here to select any item"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[1]/android.widget.RelativeLayout"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "add to bag"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Tap to continue"
+                }
+            ]
+        }
+    ]
+}

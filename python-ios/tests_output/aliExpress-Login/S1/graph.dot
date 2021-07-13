@@ -1,0 +1,52 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = AliExpress\l|label = AliExpress\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = aliExpress-Login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = aliExpress-Login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = aliExpress-Login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = aliExpress-Login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeNavigationBar\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = aliExpress-Login/S1/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = aliExpress-Login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeButton\l|name = close\l|label = close\l|enabled = true\l|visible = true\l|x = 16\l|y = 30\l|width = 24\l|height = 24\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = aliExpress-Login/S1/pngs/32.0_60.00000000000001_80.0_108.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = aliExpress-Login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = aliExpress-Login/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeButton\l|name = Register\l|label = Register\l|enabled = true\l|visible = true\l|x = 18\l|y = 432\l|width = 339\l|height = 45\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = aliExpress-Login/S1/pngs/36.0_863.9999999999999_714.0_953.9999999999999.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|name = Sign In\l|label = Sign In\l|enabled = true\l|visible = true\l|x = 18\l|y = 488\l|width = 339\l|height = 45\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = true \l|screenshotPath = aliExpress-Login/S1/pngs/36.0_976.0_714.0_1066.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 556\l|width = 375\l|height = 87\l|index = 3\l|numberOfChildren = 2\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = aliExpress-Login/S1/pngs/0.0_1112.0_750.0_1286.0.png\l}"]
+	12	[label="{type = XCUIElementTypeStaticText\l|value = Register\l|name = Register\l|label = Register\l|enabled = true\l|visible = true\l|x = 158\l|y = 444\l|width = 59\l|height = 21\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = aliExpress-Login/S1/pngs/316.0_888.0_434.0_930.0.png\l}"]
+	13	[label="{type = XCUIElementTypeStaticText\l|value = Sign In\l|name = Sign In\l|label = Sign In\l|enabled = true\l|visible = true\l|x = 164\l|y = 500\l|width = 47\l|height = 21\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = aliExpress-Login/S1/pngs/328.0_999.9999999999999_422.0_1042.0.png\l}"]
+	14	[label="{type = XCUIElementTypeStaticText\l|value = Sign in with\l|name = Sign in with\l|label = Sign in with\l|enabled = true\l|visible = true\l|x = 0\l|y = 556\l|width = 375\l|height = 17\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = aliExpress-Login/S1/pngs/0.0_1112.0_750.0_1146.0.png\l}"]
+	15	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 581\l|width = 375\l|height = 62\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = aliExpress-Login/S1/pngs/0.0_1162.0_750.0_1286.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 581\l|width = 702\l|height = 62\l|index = 0\l|numberOfChildren = 7\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = aliExpress-Login/S1/pngs/0.0_1162.0_1404.0_1286.0.png\l}"]
+	17	[label="{type = XCUIElementTypeButton\l|name = Apple login\l|label = Apple login\l|enabled = true\l|visible = true\l|x = 18\l|y = 581\l|width = 62\l|height = 62\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = aliExpress-Login/S1/pngs/36.0_1162.0_160.0_1286.0.png\l}"]
+	18	[label="{type = XCUIElementTypeButton\l|name = Google\l|label = Google\l|enabled = true\l|visible = true\l|x = 98\l|y = 581\l|width = 62\l|height = 62\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = aliExpress-Login/S1/pngs/195.99999999999997_1162.0_320.0_1286.0.png\l}"]
+	19	[label="{type = XCUIElementTypeButton\l|name = Facebook\l|label = Facebook\l|enabled = true\l|visible = true\l|x = 178\l|y = 581\l|width = 62\l|height = 62\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = aliExpress-Login/S1/pngs/356.0_1162.0_480.0_1286.0.png\l}"]
+	20	[label="{type = XCUIElementTypeButton\l|name = Twitter\l|label = Twitter\l|enabled = true\l|visible = true\l|x = 258\l|y = 581\l|width = 62\l|height = 62\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = aliExpress-Login/S1/pngs/516.0_1162.0_640.0_1286.0.png\l}"]
+	21	[label="{type = XCUIElementTypeButton\l|name = VK\l|label = VK\l|enabled = true\l|visible = true\l|x = 338\l|y = 581\l|width = 62\l|height = 62\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = aliExpress-Login/S1/pngs/676.0_1162.0_800.0_1286.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	3 -> 5
+	4 -> 6
+	5 -> 7
+	7 -> 8
+	8 -> 9
+	8 -> 10
+	8 -> 11
+	9 -> 12
+	10 -> 13
+	11 -> 14
+	11 -> 15
+	15 -> 16
+	16 -> 17
+	16 -> 18
+	16 -> 19
+	16 -> 20
+	16 -> 21
+
+
+}

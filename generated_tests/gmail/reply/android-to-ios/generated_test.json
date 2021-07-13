@@ -1,0 +1,39 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "gmail-reply",
+        "events": [
+            {
+                "type": "name",
+                "tag": "ThreadSummarySubject",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Reply",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Email subject",
+                "event": "send_keys",
+                "input": "Testing2"
+            },
+            {
+                "type": "name",
+                "tag": "Send button",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Reply",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Testing 2"
+            }
+        ]
+    }
+}

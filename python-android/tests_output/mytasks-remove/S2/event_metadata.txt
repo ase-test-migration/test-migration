@@ -1,0 +1,4 @@
+pathToElementImageCrop: mytasks-remove/S2/pngs/796_1287_923_1412.png;
+coords: {'x1': 796, 'y1': 1287, 'x2': 923, 'y2': 1412};
+text_identifier: { "resource-id" : "com.weekly.app:id/button_confirm_dialog_positive" };
+event: click;

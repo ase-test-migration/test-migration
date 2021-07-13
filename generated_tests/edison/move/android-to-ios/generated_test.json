@@ -1,0 +1,39 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "edison-move",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Testing",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "3:24 PM",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "email@example.com",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Inbox",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Inbox",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "oracle-type": "widget_exists",
+                "type": "name",
+                "tag": "Testing"
+            }
+        ]
+    }
+}

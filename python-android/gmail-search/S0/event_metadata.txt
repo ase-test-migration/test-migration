@@ -1,0 +1,4 @@
+pathToElementImageCrop: gmail-search/S0/pngs/198_234_472_289.png;
+coords: {'x1': 198, 'y1': 234, 'x2': 472, 'y2': 289};
+text_identifier: { "resource-id" : "com.google.android.gm:id/open_search_bar_text_view" };
+event: click;

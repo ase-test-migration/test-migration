@@ -1,0 +1,4 @@
+pathToElementImageCrop: newton-delete/S0/pngs/40.0_208.0_648.0_238.0.png;
+coords: {'x1': 40.0, 'y1': 208.0, 'x2': 648.0, 'y2': 238.0};
+text_identifier: { "label" : "Testing" };
+event: click;

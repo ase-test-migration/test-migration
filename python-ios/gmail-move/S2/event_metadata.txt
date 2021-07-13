@@ -1,0 +1,4 @@
+pathToElementImageCrop: gmail-move/S2/pngs/0.0_566.0_750.0_662.0.png;
+coords: {'x1': 0.0, 'y1': 566.0, 'x2': 750.0, 'y2': 662.0};
+text_identifier: { "label" : "Move to" };
+event: click;

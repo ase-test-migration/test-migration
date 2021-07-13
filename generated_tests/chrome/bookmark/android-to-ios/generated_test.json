@@ -1,0 +1,49 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "chrome-bookmark",
+        "events": [
+            {
+                "type": "name",
+                "tag": "NTPHomeFakeOmniboxAccessibilityID",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Address",
+                "event": "send_keys_enter",
+                "input": "google.com"
+            },
+            {
+                "type": "name",
+                "tag": "Google",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Google",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Google",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "search",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Emoji",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Google"
+            }
+        ]
+    }
+}

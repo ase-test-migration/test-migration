@@ -1,0 +1,33 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer"
+    },
+    "tests" : [
+        {
+            "name" : "testNYTsave2",
+            "events": [
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "3rdTabBarButton",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "xPath", 
+                    "tag" : "(//XCUIElementTypeCell[@name=\"SectionListItemCell\"])[3]",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "coordinate", 
+                    "x" : 280,
+                    "y": 423,
+                    "event" : "click" 
+                }
+            ]
+        }
+    ]
+}

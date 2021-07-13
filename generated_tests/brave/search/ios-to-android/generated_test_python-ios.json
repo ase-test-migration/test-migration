@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "python-ios",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.brave.browser:id/url_bar",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.brave.browser:id/url_bar",
+                "event": "send_keys",
+                "input": "chess.com"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "Solve Chess Puzzles"
+            }
+        ]
+    }
+}

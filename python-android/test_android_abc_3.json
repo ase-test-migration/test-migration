@@ -1,0 +1,30 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "abc-category",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Open the menu"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.LinearLayout[2]/android.widget.ListView/android.view.ViewGroup[7]/android.widget.RelativeLayout"
+                },
+                {
+                    "type": "id",
+                    "event": "oracle",
+                    "oracle-type": "widget_exists",
+                    "tag": "com.abc.abcnews:id/featured_content_title"
+                }
+            ]
+        }
+    ]
+}

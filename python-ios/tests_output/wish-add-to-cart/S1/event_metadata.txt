@@ -1,0 +1,4 @@
+pathToElementImageCrop: wish-add-to-cart/S1/pngs/846.0_2454.0_1206.0_2577.0.png;
+coords: {'x1': 846.0, 'y1': 2454.0, 'x2': 1206.0, 'y2': 2577.0};
+text_identifier: { "name" : "actionButton" };
+event: click;

@@ -1,0 +1,4 @@
+pathToElementImageCrop: todoist-remove/S1/pngs/959_1525_1036_1613.png;
+coords: {'x1': 959, 'y1': 1525, 'x2': 1036, 'y2': 1613};
+text_identifier: { "content-desc" : "Overflow menu" , "resource-id" : "com.todoist:id/item_overflow" };
+event: click;

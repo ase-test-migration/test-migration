@@ -1,0 +1,27 @@
+{ "resource-id" : "com.anydo:id/bottom_nav" , "screenshotPath" : "anydo-duedate/S1/pngs/0_1608_1080_1776.png"}
+{ "content-desc" : "Tasks" , "resource-id" : "com.anydo:id/main_tabs_tasks" , "screenshotPath" : "anydo-duedate/S1/pngs/0_1608_360_1776.png"}
+{ "content-desc" : "Calendar" , "resource-id" : "com.anydo:id/main_tabs_calendar" , "screenshotPath" : "anydo-duedate/S1/pngs/360_1608_720_1776.png"}
+{ "content-desc" : "Settings" , "resource-id" : "com.anydo:id/main_tabs_third_item" , "screenshotPath" : "anydo-duedate/S1/pngs/720_1608_1080_1776.png"}
+{ "resource-id" : "com.anydo:id/quick_add_input_container" , "screenshotPath" : "anydo-duedate/S1/pngs/0_1452_1080_1608.png"}
+{ "resource-id" : "com.anydo:id/quick_add_button_container" , "screenshotPath" : "anydo-duedate/S1/pngs/936_1473_1050_1587.png"}
+{ "resource-id" : "com.anydo:id/recycler" , "screenshotPath" : "anydo-duedate/S1/pngs/0_240_1080_1776.png"}
+{ "resource-id" : "com.anydo:id/quick_add_input" , "screenshotPath" : "anydo-duedate/S1/pngs/30_1470_906_1589.png"}
+{ "content-desc" : "Lists" , "resource-id" : "com.anydo:id/backButton" , "screenshotPath" : "anydo-duedate/S1/pngs/45_102_153_210.png"}
+{ "resource-id" : "com.anydo:id/groceryListsButtonContainer" , "screenshotPath" : "anydo-duedate/S1/pngs/213_102_321_210.png"}
+{ "resource-id" : "com.anydo:id/category_title_container" , "screenshotPath" : "anydo-duedate/S1/pngs/321_98_759_214.png"}
+{ "content-desc" : "Smart Cards" , "resource-id" : "com.anydo:id/user_notifications_button" , "screenshotPath" : "anydo-duedate/S1/pngs/759_102_867_210.png"}
+{ "content-desc" : "Menu" , "resource-id" : "com.anydo:id/category_menu" , "screenshotPath" : "anydo-duedate/S1/pngs/927_102_1035_210.png"}
+{ "resource-id" : "com.anydo:id/listItemLayout" , "screenshotPath" : "anydo-duedate/S1/pngs/0_240_1080_386.png"}
+{ "resource-id" : "com.anydo:id/listItemLayout" , "screenshotPath" : "anydo-duedate/S1/pngs/0_386_1080_551.png"}
+{ "resource-id" : "com.anydo:id/listItemLayout" , "screenshotPath" : "anydo-duedate/S1/pngs/0_551_1080_697.png"}
+{ "resource-id" : "com.anydo:id/listItemLayout" , "screenshotPath" : "anydo-duedate/S1/pngs/0_697_1080_843.png"}
+{ "resource-id" : "com.anydo:id/listItemLayout" , "screenshotPath" : "anydo-duedate/S1/pngs/0_843_1080_989.png"}
+{ "content-desc" : "Grocery lists" , "resource-id" : "com.anydo:id/groceryListsButton" , "screenshotPath" : "anydo-duedate/S1/pngs/213_102_321_210.png"}
+{ "resource-id" : "com.anydo:id/category_title_click_view" , "screenshotPath" : "anydo-duedate/S1/pngs/321_98_759_214.png"}
+{ "resource-id" : "com.anydo:id/category_title" , "screenshotPath" : "anydo-duedate/S1/pngs/409_98_670_214.png"}
+{ "resource-id" : "com.anydo:id/mark_as_complete_container" , "screenshotPath" : "anydo-duedate/S1/pngs/24_386_126_530.png"}
+{ "resource-id" : "com.anydo:id/add_task" , "screenshotPath" : "anydo-duedate/S1/pngs/937_256_1050_369.png"}
+{ "content-desc" : "Mark as complete" , "resource-id" : "com.anydo:id/mark_as_complete" , "screenshotPath" : "anydo-duedate/S1/pngs/54_443_102_500.png"}
+{ "resource-id" : "com.anydo:id/add_task" , "screenshotPath" : "anydo-duedate/S1/pngs/937_567_1050_680.png"}
+{ "resource-id" : "com.anydo:id/add_task" , "screenshotPath" : "anydo-duedate/S1/pngs/937_713_1050_826.png"}
+{ "resource-id" : "com.anydo:id/add_task" , "screenshotPath" : "anydo-duedate/S1/pngs/937_859_1050_972.png"}

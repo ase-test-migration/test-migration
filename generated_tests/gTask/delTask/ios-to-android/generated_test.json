@@ -1,0 +1,18 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "gTask-delTask",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "Test01",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Delete",
+                "event": "click"
+            }
+        ]
+    }
+}

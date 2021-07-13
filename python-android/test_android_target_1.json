@@ -1,0 +1,46 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "target-Login",
+            "events": [
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//android.widget.FrameLayout[@content-desc=\"Account\"]/android.widget.ImageView"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.target.ui:id/sign_in_banner_sign_in"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys",
+                    "tag": "com.target.ui:id/edEmailOrPhoneNumber",
+                    "input": "email@example.com"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys",
+                    "tag": "com.target.ui:id/edPasswordEntry",
+                    "input": "Test0123"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.target.ui:id/bvSignIn"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.target.ui:id/gsp_dialog_cancel_button"
+                }
+            ]
+        }
+    ]
+}

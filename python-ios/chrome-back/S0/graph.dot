@@ -1,0 +1,168 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Chrome\l|label = Chrome\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 375\l|height = 44\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/0.0_1246.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 623\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/0.0_0.0_750.0_1246.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/0.0_1246.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeCollectionView\l|name = ContentSuggestionsCollectionIdentifier\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 623\l|index = 0\l|numberOfChildren = 13\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/0.0_0.0_750.0_1246.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 623\l|width = 355\l|height = 44\l|index = 1\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/20.0_1246.0_730.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeCell\l|name = CSHeaderIdentifier\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 298\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/0.0_0.0_750.0_596.0.png\l}"]
+	14	[label="{type = XCUIElementTypeCell\l|name = contentSuggestionsMostVisitedAccessibilityIdentifierPrefix0\l|label = Google\l|enabled = true\l|visible = true\l|x = 34\l|y = 306\l|width = 73\l|height = 100\l|index = 1\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/68.0_612.0_214.0_812.0.png\l}"]
+	15	[label="{type = XCUIElementTypeCell\l|name = contentSuggestionsMostVisitedAccessibilityIdentifierPrefix1\l|label = Facebook - Log In or Sign Up\l|enabled = true\l|visible = true\l|x = 112\l|y = 306\l|width = 73\l|height = 100\l|index = 2\l|numberOfChildren = 3\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/224.00000000000003_612.0_370.0_812.0.png\l}"]
+	16	[label="{type = XCUIElementTypeCell\l|name = contentSuggestionsMostVisitedAccessibilityIdentifierPrefix2\l|label = Chess.com - Play Chess Online - Free Games\l|enabled = true\l|visible = true\l|x = 190\l|y = 306\l|width = 73\l|height = 100\l|index = 3\l|numberOfChildren = 3\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/380.00000000000006_612.0_526.0_812.0.png\l}"]
+	17	[label="{type = XCUIElementTypeCell\l|name = contentSuggestionsMostVisitedAccessibilityIdentifierPrefix3\l|label = Wikipedia\l|enabled = true\l|visible = true\l|x = 268\l|y = 306\l|width = 73\l|height = 100\l|index = 4\l|numberOfChildren = 3\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/536.0_612.0_682.0_812.0.png\l}"]
+	18	[label="{type = XCUIElementTypeCell\l|name = contentSuggestionsMostVisitedAccessibilityIdentifierPrefix4\l|label = Bookmarks\l|enabled = true\l|visible = true\l|x = 34\l|y = 422\l|width = 73\l|height = 100\l|index = 5\l|numberOfChildren = 3\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/68.0_844.0_214.0_1044.0.png\l}"]
+	19	[label="{type = XCUIElementTypeCell\l|name = contentSuggestionsMostVisitedAccessibilityIdentifierPrefix5\l|label = Reading List\l|enabled = true\l|visible = true\l|x = 112\l|y = 422\l|width = 73\l|height = 100\l|index = 6\l|numberOfChildren = 3\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/224.00000000000003_844.0_370.0_1044.0.png\l}"]
+	20	[label="{type = XCUIElementTypeCell\l|name = contentSuggestionsMostVisitedAccessibilityIdentifierPrefix6\l|label = Recent Tabs\l|enabled = true\l|visible = true\l|x = 190\l|y = 422\l|width = 73\l|height = 100\l|index = 7\l|numberOfChildren = 3\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/380.00000000000006_844.0_526.0_1044.0.png\l}"]
+	21	[label="{type = XCUIElementTypeCell\l|name = contentSuggestionsMostVisitedAccessibilityIdentifierPrefix7\l|label = History\l|enabled = true\l|visible = true\l|x = 268\l|y = 422\l|width = 73\l|height = 100\l|index = 8\l|numberOfChildren = 3\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/536.0_844.0_682.0_1044.0.png\l}"]
+	22	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 16\l|y = 539\l|width = 343\l|height = 48\l|index = 9\l|numberOfChildren = 3\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/32.0_1078.0_718.0_1174.0.png\l}"]
+	23	[label="{type = XCUIElementTypeCell\l|name = Learn more\l|enabled = true\l|visible = true\l|x = 16\l|y = 595\l|width = 343\l|height = 48\l|index = 10\l|numberOfChildren = 3\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/32.0_1190.0_718.0_1286.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 2 pages\l|label = Vertical scroll bar, 2 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 20\l|width = 30\l|height = 603\l|index = 11\l|numberOfChildren = 0\l|numInParentLayout = 11\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/684.0_40.0_744.0_1246.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 590\l|width = 375\l|height = 30\l|index = 12\l|numberOfChildren = 0\l|numInParentLayout = 12\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/0.0_1180.0_750.0_1240.0.png\l}"]
+	26	[label="{type = XCUIElementTypeButton\l|name = Back\l|label = Back\l|enabled = false\l|visible = true\l|x = 10\l|y = 623\l|width = 44\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/20.0_1246.0_108.0_1334.0.png\l}"]
+	27	[label="{type = XCUIElementTypeButton\l|name = Forward\l|label = Forward\l|enabled = true\l|visible = true\l|x = 88\l|y = 623\l|width = 44\l|height = 44\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/176.0_1246.0_264.0_1334.0.png\l}"]
+	28	[label="{type = XCUIElementTypeButton\l|name = kToolbarNewTabButtonIdentifier\l|label = New Tab\l|enabled = true\l|visible = true\l|x = 165\l|y = 623\l|width = 45\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/330.0_1246.0_420.0_1334.0.png\l}"]
+	29	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = kToolbarStackButtonIdentifier\l|label = Show Tabs\l|enabled = true\l|visible = true\l|x = 243\l|y = 623\l|width = 45\l|height = 44\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/486.0_1246.0_576.0_1334.0.png\l}"]
+	30	[label="{type = XCUIElementTypeButton\l|name = kToolbarToolsMenuButtonIdentifier\l|label = Menu\l|enabled = true\l|visible = true\l|x = 314\l|y = 623\l|width = 44\l|height = 44\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/628.0_1246.0_716.0_1334.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 298\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/0.0_0.0_750.0_596.0.png\l}"]
+	32	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 34\l|y = 306\l|width = 73\l|height = 100\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/68.0_612.0_214.0_812.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 34\l|y = 306\l|width = 73\l|height = 100\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/68.0_612.0_214.0_812.0.png\l}"]
+	34	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 112\l|y = 306\l|width = 73\l|height = 100\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/224.00000000000003_612.0_370.0_812.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 112\l|y = 306\l|width = 73\l|height = 100\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/224.00000000000003_612.0_370.0_812.0.png\l}"]
+	36	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 190\l|y = 306\l|width = 73\l|height = 100\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/380.00000000000006_612.0_526.0_812.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 190\l|y = 306\l|width = 73\l|height = 100\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/380.00000000000006_612.0_526.0_812.0.png\l}"]
+	38	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 268\l|y = 306\l|width = 73\l|height = 100\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/536.0_612.0_682.0_812.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 268\l|y = 306\l|width = 73\l|height = 100\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/536.0_612.0_682.0_812.0.png\l}"]
+	40	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 34\l|y = 422\l|width = 73\l|height = 100\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/68.0_844.0_214.0_1044.0.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 34\l|y = 422\l|width = 73\l|height = 100\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/68.0_844.0_214.0_1044.0.png\l}"]
+	42	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 112\l|y = 422\l|width = 73\l|height = 100\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/224.00000000000003_844.0_370.0_1044.0.png\l}"]
+	43	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 112\l|y = 422\l|width = 73\l|height = 100\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/224.00000000000003_844.0_370.0_1044.0.png\l}"]
+	44	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 190\l|y = 422\l|width = 73\l|height = 100\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/380.00000000000006_844.0_526.0_1044.0.png\l}"]
+	45	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 190\l|y = 422\l|width = 73\l|height = 100\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/380.00000000000006_844.0_526.0_1044.0.png\l}"]
+	46	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 268\l|y = 422\l|width = 73\l|height = 100\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/536.0_844.0_682.0_1044.0.png\l}"]
+	47	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 268\l|y = 422\l|width = 73\l|height = 100\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/536.0_844.0_682.0_1044.0.png\l}"]
+	48	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 539\l|width = 343\l|height = 48\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/32.0_1078.0_718.0_1174.0.png\l}"]
+	49	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 595\l|width = 343\l|height = 48\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/32.0_1190.0_718.0_1286.0.png\l}"]
+	50	[label="{type = XCUIElementTypeStaticText\l|value = 1\l|name = 1\l|label = 1\l|enabled = true\l|visible = true\l|x = 258\l|y = 638\l|width = 15\l|height = 14\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/516.0_1276.0_546.0_1304.0.png\l}"]
+	51	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 298\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/0.0_0.0_750.0_596.0.png\l}"]
+	52	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 34\l|y = 306\l|width = 73\l|height = 100\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/68.0_612.0_214.0_812.0.png\l}"]
+	53	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 112\l|y = 306\l|width = 73\l|height = 100\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/224.00000000000003_612.0_370.0_812.0.png\l}"]
+	54	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 190\l|y = 306\l|width = 73\l|height = 100\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/380.00000000000006_612.0_526.0_812.0.png\l}"]
+	55	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 268\l|y = 306\l|width = 73\l|height = 100\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/536.0_612.0_682.0_812.0.png\l}"]
+	56	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 34\l|y = 422\l|width = 73\l|height = 100\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/68.0_844.0_214.0_1044.0.png\l}"]
+	57	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 112\l|y = 422\l|width = 73\l|height = 100\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/224.00000000000003_844.0_370.0_1044.0.png\l}"]
+	58	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 190\l|y = 422\l|width = 73\l|height = 100\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/380.00000000000006_844.0_526.0_1044.0.png\l}"]
+	59	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 268\l|y = 422\l|width = 73\l|height = 100\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/536.0_844.0_682.0_1044.0.png\l}"]
+	60	[label="{type = XCUIElementTypeStaticText\l|value = ARTICLES FOR YOU\l|name = ARTICLES FOR YOU\l|label = ARTICLES FOR YOU\l|enabled = true\l|visible = true\l|x = 29\l|y = 539\l|width = 122\l|height = 48\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/58.0_1078.0_302.0_1174.0.png\l}"]
+	61	[label="{type = XCUIElementTypeButton\l|name = Show\l|label = Show\l|enabled = true\l|visible = true\l|x = 312\l|y = 539\l|width = 34\l|height = 48\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/624.0_1078.0_692.0_1174.0.png\l}"]
+	62	[label="{type = XCUIElementTypeLink\l|name = Learn more about suggested content\l|label = Learn more about suggested content\l|enabled = true\l|visible = true\l|x = 75\l|y = 619\l|width = 225\l|height = 16\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/150.0_1238.0_600.0_1270.0.png\l}"]
+	63	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 50\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/0.0_40.0_750.0_140.0.png\l}"]
+	64	[label="{type = XCUIElementTypeOther\l|name = Searching with Google\l|label = Searching with Google\l|enabled = true\l|visible = true\l|x = 0\l|y = 78\l|width = 375\l|height = 120\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/0.0_156.0_750.0_396.0.png\l}"]
+	65	[label="{type = XCUIElementTypeButton\l|name = NTPHomeFakeOmniboxAccessibilityID\l|enabled = true\l|visible = true\l|x = 16\l|y = 230\l|width = 343\l|height = 50\l|index = 2\l|numberOfChildren = 5\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/32.0_460.00000000000006_718.0_560.0.png\l}"]
+	66	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 54\l|y = 318\l|width = 33\l|height = 32\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/107.99999999999999_636.0_174.0_700.0.png\l}"]
+	67	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 132\l|y = 318\l|width = 33\l|height = 32\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/264.0_636.0_330.0_700.0.png\l}"]
+	68	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 210\l|y = 318\l|width = 33\l|height = 32\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/420.00000000000006_636.0_486.00000000000006_700.0.png\l}"]
+	69	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 288\l|y = 318\l|width = 33\l|height = 32\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/576.0_636.0_642.0_700.0.png\l}"]
+	70	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 42\l|y = 422\l|width = 57\l|height = 56\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/84.0_844.0_198.0_956.0.png\l}"]
+	71	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 120\l|y = 422\l|width = 57\l|height = 56\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/240.0_844.0_354.0_956.0.png\l}"]
+	72	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 198\l|y = 422\l|width = 57\l|height = 56\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/396.0_844.0_510.0_956.0.png\l}"]
+	73	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 276\l|y = 422\l|width = 57\l|height = 56\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/552.0_844.0_666.0_956.0.png\l}"]
+	74	[label="{type = XCUIElementTypeStaticText\l|value = Show\l|name = Show\l|label = Show\l|enabled = true\l|visible = true\l|x = 312\l|y = 555\l|width = 34\l|height = 16\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/624.0_1110.0_692.0_1142.0.png\l}"]
+	75	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 50\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/0.0_40.0_750.0_140.0.png\l}"]
+	76	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 54\l|y = 318\l|width = 33\l|height = 32\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/107.99999999999999_636.0_174.0_700.0.png\l}"]
+	77	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 132\l|y = 318\l|width = 33\l|height = 32\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/264.0_636.0_330.0_700.0.png\l}"]
+	78	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 210\l|y = 318\l|width = 33\l|height = 32\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/420.00000000000006_636.0_486.00000000000006_700.0.png\l}"]
+	79	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 288\l|y = 318\l|width = 33\l|height = 32\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = chrome-back/S0/pngs/576.0_636.0_642.0_700.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	6 -> 8
+	7 -> 9
+	8 -> 10
+	9 -> 11
+	10 -> 12
+	11 -> 13
+	11 -> 14
+	11 -> 15
+	11 -> 16
+	11 -> 17
+	11 -> 18
+	11 -> 19
+	11 -> 20
+	11 -> 21
+	11 -> 22
+	11 -> 23
+	11 -> 24
+	11 -> 25
+	12 -> 26
+	12 -> 27
+	12 -> 28
+	12 -> 29
+	12 -> 30
+	13 -> 31
+	14 -> 32
+	14 -> 33
+	15 -> 34
+	15 -> 35
+	16 -> 36
+	16 -> 37
+	17 -> 38
+	17 -> 39
+	18 -> 40
+	18 -> 41
+	19 -> 42
+	19 -> 43
+	20 -> 44
+	20 -> 45
+	21 -> 46
+	21 -> 47
+	22 -> 48
+	23 -> 49
+	29 -> 50
+	31 -> 51
+	33 -> 52
+	35 -> 53
+	37 -> 54
+	39 -> 55
+	41 -> 56
+	43 -> 57
+	45 -> 58
+	47 -> 59
+	48 -> 60
+	48 -> 61
+	49 -> 62
+	51 -> 63
+	51 -> 64
+	51 -> 65
+	52 -> 66
+	53 -> 67
+	54 -> 68
+	55 -> 69
+	56 -> 70
+	57 -> 71
+	58 -> 72
+	59 -> 73
+	61 -> 74
+	63 -> 75
+	66 -> 76
+	67 -> 77
+	68 -> 78
+	69 -> 79
+
+
+}

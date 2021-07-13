@@ -1,0 +1,4 @@
+pathToElementImageCrop: guardian-category/S1/pngs/0_573_255_654.png;
+coords: {'x1': 0, 'y1': 573, 'x2': 255, 'y2': 654};
+text_identifier: { "resource-id" : "com.guardian:id/gtvNavigationTitle" };
+event: click;

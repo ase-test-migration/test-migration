@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-add-to-cart/S0/pngs/390_603_1020_675.png;
+coords: {'x1': 390, 'y1': 603, 'x2': 1020, 'y2': 675};
+text_identifier: { "content-desc" : "Color,No selection" , "resource-id" : "com.ebay.mobile:id/spinner_selection_option" };
+event: click;

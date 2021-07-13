@@ -1,0 +1,19 @@
+{ "resource-id" : "com.microsoft.todos:id/suggestions_entry_point" , "screenshotPath" : "msToDo-duedate/S8/pngs/322_1591_757_1697.png"}
+{ "content-desc" : "Add a task" , "resource-id" : "com.microsoft.todos:id/new_todo_fab" , "screenshotPath" : "msToDo-duedate/S8/pngs/866_1562_1030_1726.png"}
+{ "resource-id" : "com.microsoft.todos:id/homeview_header" , "screenshotPath" : "msToDo-duedate/S8/pngs/0_72_540_240.png"}
+{ "resource-id" : "com.microsoft.todos:id/lists_recycler_view" , "screenshotPath" : "msToDo-duedate/S8/pngs/0_240_540_1632.png"}
+{ "resource-id" : "com.microsoft.todos:id/tasks_recycler_view" , "screenshotPath" : "msToDo-duedate/S8/pngs/0_240_1080_1776.png"}
+{ "content-desc" : "Enter search" , "resource-id" : "com.microsoft.todos:id/search_icon" , "screenshotPath" : "msToDo-duedate/S8/pngs/396_84_540_228.png"}
+{ "content-desc" : "My Day, 1 tasks" , "resource-id" : "com.microsoft.todos:id/list_content" , "screenshotPath" : "msToDo-duedate/S8/pngs/0_240_528_384.png"}
+{ "content-desc" : "Important, 0 tasks" , "resource-id" : "com.microsoft.todos:id/list_content" , "screenshotPath" : "msToDo-duedate/S8/pngs/0_384_528_528.png"}
+{ "content-desc" : "Planned, 1 tasks" , "resource-id" : "com.microsoft.todos:id/list_content" , "screenshotPath" : "msToDo-duedate/S8/pngs/0_528_528_672.png"}
+{ "content-desc" : "Assigned to you, 0 tasks" , "resource-id" : "com.microsoft.todos:id/list_content" , "screenshotPath" : "msToDo-duedate/S8/pngs/0_672_528_816.png"}
+{ "content-desc" : "Tasks, 1 tasks" , "resource-id" : "com.microsoft.todos:id/list_content" , "screenshotPath" : "msToDo-duedate/S8/pngs/0_816_528_960.png"}
+{ "resource-id" : "com.microsoft.todos:id/create_list_text_view" , "screenshotPath" : "msToDo-duedate/S8/pngs/0_1632_342_1776.png"}
+{ "content-desc" : "Create group" , "resource-id" : "com.microsoft.todos:id/add_group_icon" , "screenshotPath" : "msToDo-duedate/S8/pngs/372_1632_540_1776.png"}
+{ "content-desc" : "Back" , "screenshotPath" : "msToDo-duedate/S8/pngs/0_72_168_240.png"}
+{ "content-desc" : "More options" , "screenshotPath" : "msToDo-duedate/S8/pngs/960_84_1080_228.png"}
+{ "content-desc" : "Item 1 of 1,  task Mytask, From Tasks, Added to My Day, Has due date" , "resource-id" : "com.microsoft.todos:id/task_content" , "screenshotPath" : "msToDo-duedate/S8/pngs/24_252_1056_444.png"}
+{ "content-desc" : "Incomplete task Mytask, Button" , "resource-id" : "com.microsoft.todos:id/task_checkbox" , "screenshotPath" : "msToDo-duedate/S8/pngs/36_276_180_420.png"}
+{ "resource-id" : "com.microsoft.todos:id/task_title" , "screenshotPath" : "msToDo-duedate/S8/pngs/180_287_852_352.png"}
+{ "content-desc" : "Normal task Mytask, Button" , "resource-id" : "com.microsoft.todos:id/task_star_button" , "screenshotPath" : "msToDo-duedate/S8/pngs/900_276_1044_420.png"}

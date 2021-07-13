@@ -1,0 +1,4 @@
+pathToElementImageCrop: firefox-bookmark/S5/pngs/497_917_829_976.png;
+coords: {'x1': 497, 'y1': 917, 'x2': 829, 'y2': 976};
+text_identifier: { "resource-id" : "org.mozilla.firefox:id/text" };
+event: click;

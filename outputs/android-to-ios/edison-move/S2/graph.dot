@@ -1,0 +1,128 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Email\l|label = Email\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeNavigationBar\l|name = Mail.EmailDetailView\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeToolbar\l|name = Toolbar\l|label = Toolbar\l|enabled = true\l|visible = true\l|x = 0\l|y = 618\l|width = 375\l|height = 49\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_1236.0_750.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeButton\l|name = Inbox\l|label = Inbox\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 71\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_40.0_142.0_128.0.png\l}"]
+	14	[label="{type = XCUIElementTypeButton\l|enabled = false\l|visible = true\l|x = 191\l|y = 20\l|width = 55\l|height = 44\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/382.0_40.0_492.0_128.0.png\l}"]
+	15	[label="{type = XCUIElementTypeButton\l|enabled = false\l|visible = true\l|x = 253\l|y = 20\l|width = 55\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/506.0_40.0_616.0_128.0.png\l}"]
+	16	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 315\l|y = 20\l|width = 52\l|height = 44\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/630.0_40.0_734.0_128.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 618\l|width = 375\l|height = 49\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_1236.0_750.0_1334.0.png\l}"]
+	19	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 618\l|width = 375\l|height = 49\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_1236.0_750.0_1334.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 504\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_128.0_750.0_1136.0.png\l}"]
+	22	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 367\l|width = 375\l|height = 201\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_734.0_750.0_1136.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 567\l|width = 375\l|height = 178\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_1134.0_750.0_1490.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 2 pages\l|label = Vertical scroll bar, 2 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 64\l|width = 30\l|height = 554\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/684.0_128.0_744.0_1236.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 585\l|width = 375\l|height = 30\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_1170.0_750.0_1230.0.png\l}"]
+	26	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 54\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_1246.0_107.99999999999999_1334.0.png\l}"]
+	27	[label="{type = XCUIElementTypeButton\l|enabled = false\l|visible = true\l|x = 89\l|y = 623\l|width = 43\l|height = 44\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/178.0_1246.0_264.0_1334.0.png\l}"]
+	28	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 167\l|y = 623\l|width = 42\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/334.0_1246.0_418.0_1334.0.png\l}"]
+	29	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 244\l|y = 623\l|width = 43\l|height = 44\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/487.99999999999994_1246.0_574.0_1334.0.png\l}"]
+	30	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 322\l|y = 623\l|width = 53\l|height = 44\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/644.0_1246.0_750.0_1334.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 289\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_128.0_750.0_706.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 352\l|width = 375\l|height = 216\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_704.0_750.0_1136.0.png\l}"]
+	33	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 367\l|width = 375\l|height = 201\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_734.0_750.0_1136.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 47\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_128.0_750.0_222.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 110\l|width = 375\l|height = 76\l|index = 1\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_220.0_750.0_372.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 185\l|width = 375\l|height = 168\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_370.0_750.0_706.0.png\l}"]
+	37	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 367\l|width = 375\l|height = 201\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_734.0_750.0_1136.0.png\l}"]
+	38	[label="{type = XCUIElementTypeTextView\l|value = Testing\l|enabled = true\l|visible = true\l|x = 10\l|y = 69\l|width = 350\l|height = 37\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/20.0_138.0_720.0_212.0.png\l}"]
+	39	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 10\l|y = 125\l|width = 40\l|height = 41\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/20.0_249.99999999999997_100.0_332.0.png\l}"]
+	40	[label="{type = XCUIElementTypeButton\l|name = tmejl1766\l|label = tmejl1766\l|enabled = true\l|visible = true\l|x = 60\l|y = 125\l|width = 79\l|height = 21\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/120.0_249.99999999999997_278.0_292.0.png\l}"]
+	41	[label="{type = XCUIElementTypeStaticText\l|value = 3:24 PM\l|name = 3:24 PM\l|label = 3:24 PM\l|enabled = true\l|visible = true\l|x = 144\l|y = 126\l|width = 51\l|height = 20\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/288.0_252.0_390.0_292.0.png\l}"]
+	42	[label="{type = XCUIElementTypeStaticText\l|value = To: me\l|name = To: me\l|label = To: me\l|enabled = true\l|visible = true\l|x = 60\l|y = 147\l|width = 41\l|height = 21\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/120.0_294.0_202.0_336.0.png\l}"]
+	43	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 185\l|width = 355\l|height = 158\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/20.0_370.0_730.0_686.0.png\l}"]
+	44	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	45	[label="{type = XCUIElementTypeTextView\l|name = Testing\l|label = Testing\l|enabled = true\l|visible = true\l|x = 15\l|y = 77\l|width = 59\l|height = 21\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/30.0_154.0_148.0_196.0.png\l}"]
+	46	[label="{type = XCUIElementTypeStaticText\l|value = tmejl1766\l|name = tmejl1766\l|label = tmejl1766\l|enabled = true\l|visible = true\l|x = 60\l|y = 125\l|width = 79\l|height = 21\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/120.0_249.99999999999997_278.0_292.0.png\l}"]
+	47	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 200\l|width = 355\l|height = 27\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/20.0_400.0_730.0_454.0.png\l}"]
+	48	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 236\l|width = 355\l|height = 56\l|index = 1\l|numberOfChildren = 4\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/20.0_472.0_730.0_584.0.png\l}"]
+	49	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 301\l|width = 355\l|height = 27\l|index = 2\l|numberOfChildren = 3\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/20.0_602.0_730.0_656.0.png\l}"]
+	50	[label="{type = XCUIElementTypeStaticText\l|value = Date:\l|name = Date:\l|label = Date:\l|enabled = true\l|visible = true\l|x = 20\l|y = 205\l|width = 33\l|height = 17\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/40.0_410.0_106.0_444.0.png\l}"]
+	51	[label="{type = XCUIElementTypeButton\l|name = Apr 14, 2021 at 3:24 PM\l|label = Apr 14, 2021 at 3:24 PM\l|enabled = true\l|visible = true\l|x = 65\l|y = 205\l|width = 146\l|height = 17\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/130.0_410.0_422.0_444.0.png\l}"]
+	52	[label="{type = XCUIElementTypeStaticText\l|value = From:\l|name = From:\l|label = From:\l|enabled = true\l|visible = true\l|x = 20\l|y = 241\l|width = 35\l|height = 17\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/40.0_482.0_110.0_516.0.png\l}"]
+	53	[label="{type = XCUIElementTypeButton\l|name = tmejl1766\l|label = tmejl1766\l|enabled = true\l|visible = true\l|x = 65\l|y = 241\l|width = 60\l|height = 17\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/130.0_482.0_250.0_516.0.png\l}"]
+	54	[label="{type = XCUIElementTypeButton\l|name = Verify Sender\l|label = Verify Sender\l|enabled = true\l|visible = true\l|x = 134\l|y = 240\l|width = 119\l|height = 21\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/268.0_480.00000000000006_506.0_522.0.png\l}"]
+	55	[label="{type = XCUIElementTypeButton\l|name = email@example.com\l|label = email@example.com\l|enabled = true\l|visible = true\l|x = 65\l|y = 270\l|width = 134\l|height = 17\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/130.0_540.0_398.0_574.0.png\l}"]
+	56	[label="{type = XCUIElementTypeStaticText\l|value = To:\l|name = To:\l|label = To:\l|enabled = true\l|visible = true\l|x = 20\l|y = 306\l|width = 19\l|height = 17\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/40.0_612.0_78.0_646.0.png\l}"]
+	57	[label="{type = XCUIElementTypeButton\l|name = tmejl1766\l|label = tmejl1766\l|enabled = true\l|visible = true\l|x = 65\l|y = 306\l|width = 60\l|height = 17\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/130.0_612.0_250.0_646.0.png\l}"]
+	58	[label="{type = XCUIElementTypeButton\l|name = email@example.com\l|label = email@example.com\l|enabled = true\l|visible = true\l|x = 132\l|y = 306\l|width = 134\l|height = 17\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/264.0_612.0_532.0_646.0.png\l}"]
+	59	[label="{type = XCUIElementTypeStaticText\l|value = Verify Sender\l|name = Verify Sender\l|label = Verify Sender\l|enabled = true\l|visible = true\l|x = 167\l|y = 243\l|width = 75\l|height = 15\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/edison-move/S2/pngs/334.0_485.99999999999994_484.0_516.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	8 -> 9
+	9 -> 10
+	9 -> 11
+	9 -> 12
+	10 -> 13
+	10 -> 14
+	10 -> 15
+	10 -> 16
+	11 -> 17
+	12 -> 18
+	17 -> 19
+	18 -> 20
+	19 -> 21
+	19 -> 22
+	19 -> 23
+	19 -> 24
+	19 -> 25
+	20 -> 26
+	20 -> 27
+	20 -> 28
+	20 -> 29
+	20 -> 30
+	21 -> 31
+	21 -> 32
+	22 -> 33
+	31 -> 34
+	31 -> 35
+	31 -> 36
+	33 -> 37
+	34 -> 38
+	35 -> 39
+	35 -> 40
+	35 -> 41
+	35 -> 42
+	36 -> 43
+	37 -> 44
+	38 -> 45
+	40 -> 46
+	43 -> 47
+	43 -> 48
+	43 -> 49
+	47 -> 50
+	47 -> 51
+	48 -> 52
+	48 -> 53
+	48 -> 54
+	48 -> 55
+	49 -> 56
+	49 -> 57
+	49 -> 58
+	54 -> 59
+
+
+}

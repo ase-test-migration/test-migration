@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "python-android",
+        "events": [
+            {
+                "type": "name",
+                "tag": "url",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "address",
+                "event": "send_keys",
+                "input": "chess.com"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Solve Chess Puzzles"
+            }
+        ]
+    }
+}

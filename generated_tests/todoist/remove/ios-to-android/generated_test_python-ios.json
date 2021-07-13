@@ -1,0 +1,28 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "python-ios",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "Complete",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.todoist:id/fab",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "android:id/message",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "android:id/message",
+                "event": "click"
+            }
+        ]
+    }
+}

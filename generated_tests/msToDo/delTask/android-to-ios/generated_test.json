@@ -1,0 +1,23 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "msToDo-delTask",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Test01",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Normal task",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Delete Test01",
+                "event": "click"
+            }
+        ]
+    }
+}

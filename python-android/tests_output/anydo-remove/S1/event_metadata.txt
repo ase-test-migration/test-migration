@@ -1,0 +1,4 @@
+pathToElementImageCrop: anydo-remove/S1/pngs/963_490_1052_579.png;
+coords: {'x1': 963, 'y1': 490, 'x2': 1052, 'y2': 579};
+text_identifier: { "content-desc" : "Delete task" , "resource-id" : "com.anydo:id/btnDelete" };
+event: click;

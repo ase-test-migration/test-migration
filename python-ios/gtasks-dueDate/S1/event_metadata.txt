@@ -1,0 +1,4 @@
+pathToElementImageCrop: gtasks-dueDate/S1/pngs/112.00000000000001_450.0_358.0_534.0.png;
+coords: {'x1': 112.00000000000001, 'y1': 450.0, 'x2': 358.0, 'y2': 534.0};
+text_identifier: { "label" : "Add date/time" };
+event: click;

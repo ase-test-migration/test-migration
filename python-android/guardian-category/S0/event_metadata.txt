@@ -1,0 +1,4 @@
+pathToElementImageCrop: guardian-category/S0/pngs/893_1961_1047_1977.png;
+coords: {'x1': 893, 'y1': 1961, 'x2': 1047, 'y2': 2112};
+text_identifier: { "content-desc" : "Open navigation button" , "resource-id" : "com.guardian:id/fabHomeNav" };
+event: click;

@@ -1,0 +1,60 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Wish\l|label = Wish\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|name = messageDialog\l|enabled = true\l|visible = true\l|x = 32\l|y = 145\l|width = 311\l|height = 377\l|index = 0\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S2/pngs/64.0_290.0_686.0_1044.0.png\l}"]
+	7	[label="{type = XCUIElementTypeButton\l|name = closeDialogButton\l|label = close\l|enabled = true\l|visible = true\l|x = 311\l|y = 153\l|width = 24\l|height = 25\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S2/pngs/622.0_306.0_670.0_356.0.png\l}"]
+	8	[label="{type = XCUIElementTypeStaticText\l|value = Create New Wishlist\l|name = wishlistDialogHeader\l|label = Create New Wishlist\l|enabled = true\l|visible = true\l|x = 100\l|y = 177\l|width = 175\l|height = 24\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S2/pngs/200.0_354.0_550.0_402.0.png\l}"]
+	9	[label="{type = XCUIElementTypeTextField\l|value = Enter wishlist name\l|name = wishlistTextField\l|label = \l|enabled = true\l|visible = true\l|x = 56\l|y = 225\l|width = 263\l|height = 40\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = true \l|screenshotPath = wish-wishlist/S2/pngs/112.00000000000001_450.0_638.0_530.0.png\l}"]
+	10	[label="{type = XCUIElementTypeStaticText\l|value = Suggestions:\l|name = wishlistSuggestionLabel\l|label = Suggestions:\l|enabled = true\l|visible = true\l|x = 56\l|y = 289\l|width = 263\l|height = 19\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S2/pngs/112.00000000000001_578.0_638.0_616.0.png\l}"]
+	11	[label="{type = XCUIElementTypeCollectionView\l|name = wishlistSuggestionList\l|enabled = true\l|visible = true\l|x = 56\l|y = 323\l|width = 263\l|height = 111\l|index = 4\l|numberOfChildren = 8\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S2/pngs/112.00000000000001_646.0_638.0_868.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|name = createWishlistButton\l|label = Create New Wishlist\l|enabled = false\l|visible = true\l|x = 56\l|y = 457\l|width = 263\l|height = 41\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S2/pngs/112.00000000000001_914.0_638.0_996.0.png\l}"]
+	13	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 56\l|y = 323\l|width = 79\l|height = 31\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S2/pngs/112.00000000000001_646.0_270.0_708.0.png\l}"]
+	14	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 144\l|y = 323\l|width = 73\l|height = 31\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S2/pngs/288.0_646.0_434.0_708.0.png\l}"]
+	15	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 226\l|y = 323\l|width = 69\l|height = 31\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S2/pngs/452.0_646.0_590.0_708.0.png\l}"]
+	16	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 56\l|y = 363\l|width = 102\l|height = 31\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S2/pngs/112.00000000000001_726.0_316.00000000000006_788.0.png\l}"]
+	17	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 167\l|y = 363\l|width = 65\l|height = 31\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S2/pngs/334.0_726.0_464.0_788.0.png\l}"]
+	18	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 56\l|y = 403\l|width = 89\l|height = 31\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S2/pngs/112.00000000000001_806.0_290.0_868.0.png\l}"]
+	19	[label="{type = XCUIElementTypeStaticText\l|value = Create New Wishlist\l|name = Create New Wishlist\l|label = Create New Wishlist\l|enabled = true\l|visible = true\l|x = 118\l|y = 468\l|width = 139\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S2/pngs/236.0_936.0_514.0_974.0.png\l}"]
+	20	[label="{type = XCUIElementTypeStaticText\l|value = Wishlist #1\l|name = Wishlist #1\l|label = Wishlist #1\l|enabled = true\l|visible = true\l|x = 56\l|y = 323\l|width = 79\l|height = 31\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S2/pngs/112.00000000000001_646.0_270.0_708.0.png\l}"]
+	21	[label="{type = XCUIElementTypeStaticText\l|value = Favorites\l|name = Favorites\l|label = Favorites\l|enabled = true\l|visible = true\l|x = 144\l|y = 323\l|width = 73\l|height = 31\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S2/pngs/288.0_646.0_434.0_708.0.png\l}"]
+	22	[label="{type = XCUIElementTypeStaticText\l|value = Birthday\l|name = Birthday\l|label = Birthday\l|enabled = true\l|visible = true\l|x = 226\l|y = 323\l|width = 68\l|height = 31\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S2/pngs/452.0_646.0_588.0_708.0.png\l}"]
+	23	[label="{type = XCUIElementTypeStaticText\l|value = Miscellaneous\l|name = Miscellaneous\l|label = Miscellaneous\l|enabled = true\l|visible = true\l|x = 56\l|y = 363\l|width = 101\l|height = 31\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S2/pngs/112.00000000000001_726.0_314.0_788.0.png\l}"]
+	24	[label="{type = XCUIElementTypeStaticText\l|value = Fashion\l|name = Fashion\l|label = Fashion\l|enabled = true\l|visible = true\l|x = 167\l|y = 363\l|width = 65\l|height = 31\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S2/pngs/334.0_726.0_464.0_788.0.png\l}"]
+	25	[label="{type = XCUIElementTypeStaticText\l|value = Accessories\l|name = Accessories\l|label = Accessories\l|enabled = true\l|visible = true\l|x = 56\l|y = 403\l|width = 89\l|height = 31\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-wishlist/S2/pngs/112.00000000000001_806.0_290.0_868.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	6 -> 8
+	6 -> 9
+	6 -> 10
+	6 -> 11
+	6 -> 12
+	11 -> 13
+	11 -> 14
+	11 -> 15
+	11 -> 16
+	11 -> 17
+	11 -> 18
+	12 -> 19
+	13 -> 20
+	14 -> 21
+	15 -> 22
+	16 -> 23
+	17 -> 24
+	18 -> 25
+
+
+}

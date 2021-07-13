@@ -1,0 +1,18 @@
+{ "text" : "" , "content-desc" : "Back Button" , "resource-id" : "com.cnn.mobile.android.phone:id/toolbar_back_button_container" , "screenshotPath" : "cnn-unbookmark/S3/pngs/0_171_165_320.png"}
+{ "text" : "" , "content-desc" : "Share" , "resource-id" : "com.cnn.mobile.android.phone:id/toolbar_share" , "screenshotPath" : "cnn-unbookmark/S3/pngs/860_207_937_284.png"}
+{ "text" : "" , "content-desc" : "Bookmark Selected" , "resource-id" : "com.cnn.mobile.android.phone:id/toolbar_save" , "screenshotPath" : "cnn-unbookmark/S3/pngs/981_207_1058_284.png"}
+{ "text" : "" , "content-desc" : "Home" , "resource-id" : "com.cnn.mobile.android.phone:id/home_item_menu" , "screenshotPath" : "cnn-unbookmark/S3/pngs/0_1994_270_2148.png"}
+{ "text" : "" , "content-desc" : "Search" , "resource-id" : "com.cnn.mobile.android.phone:id/search_item_menu" , "screenshotPath" : "cnn-unbookmark/S3/pngs/270_1994_540_2148.png"}
+{ "text" : "" , "content-desc" : "Saved Stories" , "resource-id" : "com.cnn.mobile.android.phone:id/saved_story_item_menu" , "screenshotPath" : "cnn-unbookmark/S3/pngs/540_1994_810_2148.png"}
+{ "text" : "" , "content-desc" : "Settings" , "resource-id" : "com.cnn.mobile.android.phone:id/settings_item_menu" , "screenshotPath" : "cnn-unbookmark/S3/pngs/810_1994_1080_2148.png"}
+{ "text" : "" , "resource-id" : "com.cnn.mobile.android.phone:id/content_view_pager" , "screenshotPath" : "cnn-unbookmark/S3/pngs/0_320_1080_1977.png"}
+{ "text" : "" , "resource-id" : "com.cnn.mobile.android.phone:id/fragment_recycler_recyclerView" , "screenshotPath" : "cnn-unbookmark/S3/pngs/0_320_1080_1977.png"}
+{ "text" : "" , "resource-id" : "com.cnn.mobile.android.phone:id/fragment_single_video_container" , "screenshotPath" : "cnn-unbookmark/S3/pngs/0_320_1080_927.png"}
+{ "text" : "" , "resource-id" : "com.cnn.mobile.android.phone:id/article_item_container" , "screenshotPath" : "cnn-unbookmark/S3/pngs/0_927_1080_1634.png"}
+{ "text" : "" , "resource-id" : "com.cnn.mobile.android.phone:id/article_item_container" , "screenshotPath" : "cnn-unbookmark/S3/pngs/0_1634_1080_1977.png"}
+{ "text" : "" , "resource-id" : "com.cnn.mobile.android.phone:id/root" , "screenshotPath" : "cnn-unbookmark/S3/pngs/0_320_1080_927.png"}
+{ "text" : "Washington  (CNN) - A US Capitol Police officer directed all outside units on the morning of January 6 to only monitor for anti-Trump agitators who want to start a fight, not any pro-Trump in the crowd,f according to the findings of a newly revealed internal investigation." , "resource-id" : "com.cnn.mobile.android.phone:id/item_article_paragraph_text" , "screenshotPath" : "cnn-unbookmark/S3/pngs/0_1634_1080_1977.png"}
+{ "text" : "" , "content-desc" : "Supporting Video" , "resource-id" : "com.cnn.mobile.android.phone:id/playBtn" , "screenshotPath" : "cnn-unbookmark/S3/pngs/415_499_664_748.png"}
+{ "text" : "US Capitol Police officer allegedly told units to only monitor for 'anti-Trump' protesters on January 6" , "resource-id" : "com.cnn.mobile.android.phone:id/item_feed_articlehead_headline" , "screenshotPath" : "cnn-unbookmark/S3/pngs/44_1004_1058_1369.png"}
+{ "text" : "Apr 21, 2021" , "resource-id" : "com.cnn.mobile.android.phone:id/timestamp" , "screenshotPath" : "cnn-unbookmark/S3/pngs/44_1484_236_1529.png"}
+{ "text" : "By Zachary Cohen, CNN" , "resource-id" : "com.cnn.mobile.android.phone:id/item_feed_articlehead_author_name" , "screenshotPath" : "cnn-unbookmark/S3/pngs/44_1413_1058_1467.png"}

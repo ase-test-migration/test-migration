@@ -1,0 +1,4 @@
+pathToElementImageCrop: bbc-search/S3/pngs/60.0_327.0_186.0_384.0.png;
+coords: {'x1': 60.0, 'y1': 327.0, 'x2': 186.0, 'y2': 384.0};
+text_identifier: { "label" : "Travel" };
+event: click;

@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-login/S1/pngs/60.0_1442.9999999999998_1182.0_1586.9999999999998.png;
+coords: {'x1': 60.0, 'y1': 1442.9999999999998, 'x2': 1182.0, 'y2': 1586.9999999999998};
+text_identifier: { "label" : "Use email or username" };
+event: click;

@@ -1,0 +1,44 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "spark-move",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Testing",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "smi general icon archive",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Tweet it",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Horizontal scroll bar, 1 page",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "PageFormatMenuButton",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "ShowPrivacyReport",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "oracle-type": "widget_exists",
+                "type": "name",
+                "tag": "Last 30 days"
+            }
+        ]
+    }
+}

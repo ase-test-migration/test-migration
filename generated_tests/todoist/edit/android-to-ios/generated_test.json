@@ -1,0 +1,65 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "todoist-edit",
+        "events": [
+            {
+                "type": "name",
+                "tag": "QuickAddButton",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "quick-add-textview",
+                "event": "send_keys",
+                "input": "task1"
+            },
+            {
+                "type": "name",
+                "tag": "quick-add-submit-button",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "quick-add-submit-button",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "task1"
+            },
+            {
+                "type": "name",
+                "tag": "item-cell-task1",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Sub-tasks",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "item-details-content-cell",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Edit Task",
+                "event": "send_keys",
+                "input": "edited name"
+            },
+            {
+                "type": "name",
+                "tag": "Save",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "edited name"
+            }
+        ]
+    }
+}

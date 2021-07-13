@@ -1,0 +1,41 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "aliExpress-Login",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.alibaba.aliexpresshd:id/hint_action"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.alibaba.aliexpresshd:id/btn_sign_in"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys",
+                    "tag": "com.alibaba.aliexpresshd:id/et_email",
+                    "input": "email@example.com"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys",
+                    "tag": "com.alibaba.aliexpresshd:id/et_password",
+                    "input": "Test0123"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.alibaba.aliexpresshd:id/rl_ali_sign_in_btn"
+                }
+            ]
+        }
+    ]
+}

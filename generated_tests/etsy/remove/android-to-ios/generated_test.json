@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "etsy-remove-from-cart",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Cart",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Remove",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "oracle-type": "widget_exists",
+                "type": "name",
+                "tag": "See trending items"
+            }
+        ]
+    }
+}

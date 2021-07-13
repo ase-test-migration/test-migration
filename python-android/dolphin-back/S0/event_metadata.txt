@@ -1,0 +1,4 @@
+pathToElementImageCrop: dolphin-send/S0/pngs/36_474_1044_590.png;
+coords: {'x1': 36, 'y1': 474, 'x2': 1044, 'y2': 590};
+text_identifier: { "resource-id" : "mobi.mgeek.TunnyBrowser:id/search_text" , "resource-id" : "mobi.mgeek.TunnyBrowser:id/search_bg_view" };
+event: click;

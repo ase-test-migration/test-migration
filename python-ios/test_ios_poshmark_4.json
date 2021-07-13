@@ -1,0 +1,43 @@
+{
+    "tests": [
+        {
+            "name": "poshmark-naviCat", 
+            "events": [
+                {
+                    "tag": "//XCUIElementTypeStaticText[@name=\"WOMEN\"]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "//XCUIElementTypeStaticText[@name=\"KIDS\"]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "adidas", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "followButton", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Following"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "14.3", 
+        "platformName": "iOS"
+    }
+}

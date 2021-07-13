@@ -1,0 +1,28 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "R3CN30038ME"
+    },
+    "tests" : [
+        {
+            "name" : "testPrivacySettings",
+            "events": [
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "Settings",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "id", 
+                    "tag" : "com.cnn.mobile.android.phone:id/tv_privacy_settings",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "Share data with third parties, This option stops the sharing of personal information with third parties for only this app on this device. To learn more about how your data is shared and for more options, including ways to opt-out across other WarnerMedia properties, please visit this section. ",
+                    "event" : "click" 
+                }
+            ]
+        }
+    ]
+}

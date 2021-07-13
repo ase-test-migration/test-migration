@@ -1,0 +1,52 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{class = hierarchy\l|rotation = 0\l|width = 1080\l|height = 2287\l|numberOfChildren = 1\l|eventGeneratedOnElement = false \l}"]
+	1	[label="{class = android.widget.FrameLayout\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [67,231][1012,1376]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	2	[label="{class = android.widget.FrameLayout\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [67,231][1012,1376]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	3	[label="{class = android.widget.FrameLayout\l|text = \l|resource-id = android:id/content\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [67,231][1012,1376]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	4	[label="{class = android.widget.LinearLayout\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [67,231][1012,1376]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	5	[label="{class = androidx.cardview.widget.CardView\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [88,242][991,1344]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	6	[label="{class = android.widget.LinearLayout\l|text = \l|resource-id = com.etsy.android:id/dialog_card\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [88,242][991,1344]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	7	[label="{class = android.widget.FrameLayout\l|text = \l|resource-id = com.etsy.android:id/inner_fragment_container\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [88,242][991,1344]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	8	[label="{class = android.widget.LinearLayout\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [88,242][991,1344]\l|displayed = true\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	9	[label="{class = android.widget.TextView\l|text = Sign In\l|resource-id = com.etsy.android:id/txt_title\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [130,284][949,331]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	10	[label="{class = android.view.View\l|text = \l|resource-id = com.etsy.android:id/divider\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [88,373][991,376]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l}"]
+	11	[label="{class = android.widget.ScrollView\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [88,376][991,1344]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-login/S2/pngs/88_376_991_1344.png\l}"]
+	12	[label="{class = android.widget.LinearLayout\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [88,376][991,1344]\l|displayed = true\l|numberOfChildren = 7\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	13	[label="{class = android.widget.EditText\l|text = Email or Username\l|resource-id = com.etsy.android:id/edit_username\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = true\l|long-clickable = true\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [130,418][949,517]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = etsy-login/S2/pngs/130_418_949_517.png\l}"]
+	14	[label="{class = android.widget.EditText\l|text = Password\l|resource-id = com.etsy.android:id/edit_password\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = true\l|password = true\l|scrollable = false\l|selected = false\l|bounds = [130,559][949,658]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-login/S2/pngs/130_559_949_658.png\l}"]
+	15	[label="{class = android.view.ViewGroup\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [88,700][991,826]\l|displayed = true\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l}"]
+	16	[label="{class = android.view.View\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [88,847][991,850]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l}"]
+	17	[label="{class = android.widget.Button\l|text = Continue with Google\l|resource-id = com.etsy.android:id/signin_button_google\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [130,903][949,1029]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-login/S2/pngs/130_903_949_1029.png\l}"]
+	18	[label="{class = android.widget.Button\l|text = Continue with Facebook\l|resource-id = com.etsy.android:id/signin_button_facebook\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [130,1050][949,1176]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-login/S2/pngs/130_1050_949_1176.png\l}"]
+	19	[label="{class = android.widget.Button\l|text = Don't have an account? Register\l|resource-id = com.etsy.android:id/switch_to_register\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [234,1197][844,1323]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-login/S2/pngs/234_1197_844_1323.png\l}"]
+	20	[label="{class = android.widget.Button\l|text = Forgot password?\l|resource-id = com.etsy.android:id/forgot_password_link\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [88,700][466,826]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-login/S2/pngs/88_700_466_826.png\l}"]
+	21	[label="{class = android.widget.Button\l|text = Sign In\l|resource-id = com.etsy.android:id/button_signin\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [702,700][949,826]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-login/S2/pngs/702_700_949_826.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	8 -> 9
+	8 -> 10
+	8 -> 11
+	11 -> 12
+	12 -> 13
+	12 -> 14
+	12 -> 15
+	12 -> 16
+	12 -> 17
+	12 -> 18
+	12 -> 19
+	15 -> 20
+	15 -> 21
+
+
+}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: abc-mynews/S4/pngs/248_1236_833_1341.png;
+coords: {'x1': 248, 'y1': 1236, 'x2': 833, 'y2': 1341};
+text_identifier: { "resource-id" : "com.abc.abcnews:id/elections_story_widget_more_options" };
+event: click;

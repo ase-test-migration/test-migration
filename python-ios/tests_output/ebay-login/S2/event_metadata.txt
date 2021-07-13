@@ -1,0 +1,6 @@
+pathToElementImageCrop: ;
+coords: ;
+text_identifier: Sign in;
+event: oracle;
+oracle-type: text_exists;
+input: Sign in;

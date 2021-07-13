@@ -1,0 +1,4 @@
+pathToElementImageCrop: anydo-add/S0/pngs/20.0_1144.0_622.0_1224.0.png;
+coords: {'x1': 20.0, 'y1': 1144.0, 'x2': 622.0, 'y2': 1224.0};
+text_identifier: { };
+event: click;

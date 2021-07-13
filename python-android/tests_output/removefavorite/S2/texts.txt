@@ -1,0 +1,9 @@
+{ "resource-id" : "com.postmates.android:id/one_feed_view_pager" , "screenshotPath" : "removefavorite/S2/pngs/0_72_1080_1776.png"}
+{ "resource-id" : "com.postmates.android:id/viewpager_profile" , "screenshotPath" : "removefavorite/S2/pngs/0_1293_1080_1776.png"}
+{ "resource-id" : "com.postmates.android:id/recyclerview_profile_favorites" , "screenshotPath" : "removefavorite/S2/pngs/0_1293_1080_1776.png"}
+{ "resource-id" : "com.postmates.android:id/tablayout_profile" , "screenshotPath" : "removefavorite/S2/pngs/60_1126_603_1291.png"}
+{ "resource-id" : "com.postmates.android:id/layout_multiple_row_carousel_item" , "screenshotPath" : "removefavorite/S2/pngs/0_1293_1080_1566.png"}
+{ "content-desc" : "Settings" , "resource-id" : "com.postmates.android:id/imagebutton_start_button" , "screenshotPath" : "removefavorite/S2/pngs/0_72_168_240.png"}
+{ "content-desc" : "Back to Homefeed" , "resource-id" : "com.postmates.android:id/imagebutton_end_button" , "screenshotPath" : "removefavorite/S2/pngs/912_72_1080_240.png"}
+{ "content-desc" : "Recent Orders" , "screenshotPath" : "removefavorite/S2/pngs/60_1126_326_1291.png"}
+{ "content-desc" : "Favorites" , "screenshotPath" : "removefavorite/S2/pngs/422_1126_603_1291.png"}

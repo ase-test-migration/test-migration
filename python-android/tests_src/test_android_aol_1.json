@@ -1,0 +1,33 @@
+{
+    "desiredCapabilities": {
+      "platformName": "Android",
+      "platformVersion": "9",
+      "deviceName": "Nexus_5_API_28",
+      "newCommandTimeout": 1000
+
+    },
+    "tests" :[
+                {
+
+                    "name" : "testBBCMyNews",
+                    "events" : [
+                      {
+                          "event": "click",
+                          "tag": "//androidx.appcompat.app.ActionBar.Tab[@content-desc=\"Main\"]/android.widget.TextView",
+                          "type": "xPath"
+                      },
+                      {
+                          "event": "click",
+                          "tag": "//androidx.appcompat.app.ActionBar.Tab[@content-desc=\"Main\"]/android.widget.TextView",
+                          "type": "xPath"
+                      },
+                      {
+                          "event": "click",
+                          "tag": "//androidx.appcompat.app.ActionBar.Tab[@content-desc=\"Coronavirus\"]/android.widget.TextView",
+                          "type": "xPath"
+                      }
+                  ]
+
+    }
+]
+}

@@ -1,0 +1,40 @@
+{
+    "tests": [
+        {
+            "name": "cnn-manage", 
+            "events": [
+                {
+                    "tag": "Saved Stories", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                },
+                {
+                    "oracle-type": "widget_exists",
+                    "tag": "com.cnn.mobile.android.phone:id/titleText",
+                    "type": "id",
+                    "event": "oracle"
+                },
+                {
+                    "tag": "com.cnn.mobile.android.phone:id/deleteButton", 
+                    "type": "id", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "android:id/button1", 
+                    "type": "id", 
+                    "event": "click"
+                },
+                {
+                    "input": "Find your saved articles and videos here",
+                    "event": "oracle",
+                    "oracle-type": "text_exists"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "emulator-5554", 
+        "platformName": "Android", 
+        "newCommandTimeout": 10000
+    }
+}

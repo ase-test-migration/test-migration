@@ -1,0 +1,5 @@
+pathToElementImageCrop: gmail-reply/S2/pngs/0.0_328.0_750.0_416.0.png;
+coords: {'x1': 0.0, 'y1': 328.0, 'x2': 750.0, 'y2': 416.0};
+text_identifier: { "label" : "Subject" };
+event: send_keys;
+input: Testing 2;

@@ -1,0 +1,18 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "newton-reply",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "Tracking Feed",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Filter Tracking Feed",
+                "event": "click"
+            }
+        ]
+    }
+}

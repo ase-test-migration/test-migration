@@ -1,0 +1,33 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer"
+    },
+    "tests" : [
+        {
+            "name" : "testSettings",
+            "events": [
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "Settings",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "xPath", 
+                    "tag" : "//XCUIElementTypeSwitch[@name=\"Reader Mode, A text-only view of the newsfeed\"]",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "xPath",
+                    "tag" : "//XCUIElementTypeSwitch[@name=\"Enable 'This is CNN', A sound effect when you open the app\"]",
+                    "event" : "click"
+                }
+
+            ]
+        }
+    ]
+}

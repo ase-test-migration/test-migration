@@ -1,0 +1,5 @@
+pathToElementImageCrop: edge-search/S1/pngs/0_173_838_314.png;
+coords: {'x1': 0, 'y1': 173, 'x2': 838, 'y2': 314};
+text_identifier: { "resource-id" : "com.microsoft.emmx:id/url_bar" };
+event: send_keys;
+input: chess.com;

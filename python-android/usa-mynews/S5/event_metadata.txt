@@ -1,0 +1,5 @@
+pathToElementImageCrop: usa-mynews/S5/pngs/207_439_790_585.png;
+coords: {'x1': 207, 'y1': 439, 'x2': 790, 'y2': 585};
+text_identifier: { "text" : "Coronavirus COVID-19" , "resource-id" : "com.usatoday.android.news:id/suggested_topic_name" };
+event: oracle;
+oracle-type: widget_exists;

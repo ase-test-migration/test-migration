@@ -1,0 +1,4 @@
+pathToElementImageCrop: myTask-edit/S1/pngs/195_535_891_604.png;
+coords: {'x1': 195, 'y1': 535, 'x2': 891, 'y2': 604};
+text_identifier: { "resource-id" : "com.weekly.app:id/text_view_tasks_title" };
+event: click;

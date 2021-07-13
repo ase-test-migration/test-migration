@@ -1,0 +1,5 @@
+pathToElementImageCrop: usa-category/S2/pngs/55_1311_1025_1643.png;
+coords: {'x1': 55, 'y1': 1311, 'x2': 1025, 'y2': 1643};
+text_identifier: { "resource-id" : "com.usatoday.android.news:id/main_text" };
+event: oracle;
+oracle-type: widget_exists;

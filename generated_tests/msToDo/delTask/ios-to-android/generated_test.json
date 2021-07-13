@@ -1,0 +1,23 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "msToDo-delTask",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "My Day, 1 tasks",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Delete task",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "android:id/button1",
+                "event": "click"
+            }
+        ]
+    }
+}

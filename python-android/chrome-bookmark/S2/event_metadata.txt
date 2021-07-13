@@ -1,0 +1,4 @@
+pathToElementImageCrop: chrome-bookmark/S2/pngs/948_171_1080_325.png;
+coords: {'x1': 948, 'y1': 171, 'x2': 1080, 'y2': 325};
+text_identifier: { "resource-id" : "com.android.chrome:id/menu_button_wrapper" , "content-desc" : "More options" , "resource-id" : "com.android.chrome:id/menu_button" };
+event: click;

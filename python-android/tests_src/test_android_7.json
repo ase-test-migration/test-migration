@@ -1,0 +1,28 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "R3CN30038ME"
+    },
+    "tests" : [
+        {
+            "name" : "testSaveStories",
+            "events": [
+                {
+                    "type" : "xPath", 
+                    "tag" : "//androidx.appcompat.app.a.c[@content-desc=\"Health\"]/android.widget.TextView",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "Bookmark",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "xPath", 
+                    "tag" : "//android.widget.FrameLayout[@content-desc=\"Saved Stories\"]/android.widget.ImageView",
+                    "event" : "click" 
+                }
+            ]
+        }
+    ]
+}

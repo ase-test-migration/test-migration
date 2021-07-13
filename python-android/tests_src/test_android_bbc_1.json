@@ -1,0 +1,36 @@
+{
+    "desiredCapabilities": {
+      "platformName": "Android",
+      "platformVersion": "9",
+      "deviceName": "Nexus_5_API_28"
+    },
+    "tests" :[
+        {
+
+            "name" : "testBBCAddTopic",
+            "events" : [
+              {
+                  "event": "click",
+                  "tag": "bbc.mobile.news.ww:id/content_card_title",
+                  "type": "id"
+              },
+              {
+                  "event": "click",
+                  "tag": "bbc.mobile.news.ww:id/headline_link",
+                  "type": "id"
+              },
+              {
+                  "event": "click",
+                  "tag": "Manage your topics",
+                  "type": "accessibilityId"
+              },
+              {
+                  "event": "click",
+                  "tag": "//android.widget.LinearLayout[@content-desc=\"Add Topics\"]/android.widget.TextView",
+                  "type": "xPath"
+              }
+          ]
+
+    }
+]
+}

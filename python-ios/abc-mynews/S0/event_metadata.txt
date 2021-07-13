@@ -1,0 +1,4 @@
+pathToElementImageCrop: abc-mynews/S0/pngs/255.0_2442.0_495.0_2586.0.png;
+coords: {'x1': 255.0, 'y1': 2442.0, 'x2': 495.0, 'y2': 2586.0};
+text_identifier: { "label" : "Interests" };
+event: click;

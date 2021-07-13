@@ -1,0 +1,33 @@
+
+{
+    "desiredCapabilities": {
+          "platformName": "iOS",
+          "platformVersion": "13.3.1",
+          "deviceName": "Someone's iPhone",
+          "udid": "auto",
+          "xcodeOrgId": "X9EN5J4J22",
+          "xcodeSigningId": "iPhone Developer"
+    },
+    "tests" : [
+        {
+            "name" : "testWishBrand",
+            "events": [
+                {
+                    "event": "click",
+                    "tag": "//XCUIElementTypeButton[@name=\"Brands\"]",
+                    "type": "xPath"
+                },
+                {
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeStaticText[@name=\"Fashion\"])[1]",
+                    "type": "xPath"
+                },
+                {
+                    "event": "click",
+                    "tag": "//XCUIElementTypeApplication[@name=\"Wish\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeCollectionView/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeCollectionView/XCUIElementTypeCell[2]/XCUIElementTypeOther[2]",
+                    "type": "xPath"
+                }
+            ]
+    }
+    ]
+}

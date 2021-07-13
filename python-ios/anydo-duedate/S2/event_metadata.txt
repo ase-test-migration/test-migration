@@ -1,0 +1,4 @@
+pathToElementImageCrop: anydo-duedate/S2/pngs/735.0_699.0_1077.0_747.0.png;
+coords: {'x1': 735.0, 'y1': 699.0, 'x2': 1077.0, 'y2': 747.0};
+text_identifier: { "label" : "Tomorrow, 9:00 AM" };
+event: click;

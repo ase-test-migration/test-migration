@@ -1,0 +1,5 @@
+pathToElementImageCrop: cnn-manage/S1/pngs/306.0_324.0_1092.0_501.0.png;
+coords: {'x1': 306.0, 'y1': 324.0, 'x2': 1092.0, 'y2': 501.0};
+text_identifier: { "label" : "Officers handcuffed the husband of one of the spa shooting victims for hours after the attacks" };
+event: oracle;
+oracle-type: widget_exists;

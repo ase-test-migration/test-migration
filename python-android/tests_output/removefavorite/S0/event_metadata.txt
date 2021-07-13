@@ -1,0 +1,4 @@
+pathToElementImageCrop: removefavorite/S0/pngs/0_72_216_288.png;
+coords: {'x1': 0, 'y1': 72, 'x2': 216, 'y2': 288};
+text_identifier: { "content-desc" : "Profile" , "resource-id" : "com.postmates.android:id/imageview_feed_toolbar_avatar" };
+event: click;

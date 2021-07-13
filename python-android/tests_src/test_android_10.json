@@ -1,0 +1,28 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "R3CN30038ME"
+    },
+    "tests" : [
+        {
+            "name" : "testNYTsubmenu",
+            "events": [
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "Sections",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "For You",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "Today",
+                    "event" : "click" 
+                }
+            ]
+        }
+    ]
+}

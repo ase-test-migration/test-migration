@@ -1,0 +1,29 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "brave-tab",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "1 open tab, tap to switch tabs"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "New tab"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Search"
+                }
+            ]
+        }
+    ]
+}

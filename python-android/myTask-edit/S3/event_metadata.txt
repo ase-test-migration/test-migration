@@ -1,0 +1,5 @@
+pathToElementImageCrop: myTask-edit/S3/pngs/29_303_1051_528.png;
+coords: {'x1': 29, 'y1': 303, 'x2': 1051, 'y2': 528};
+text_identifier: { "resource-id" : "com.weekly.app:id/edit_text_subtask" };
+event: send_keys_enter;
+input: Edited Task;

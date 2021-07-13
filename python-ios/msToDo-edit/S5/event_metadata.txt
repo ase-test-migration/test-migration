@@ -1,0 +1,4 @@
+pathToElementImageCrop: msToDo-edit/S5/pngs/192.0_344.99999999999994_405.0_422.99999999999994.png;
+coords: {'x1': 192.0, 'y1': 344.99999999999994, 'x2': 405.0, 'y2': 422.99999999999994};
+text_identifier: { "label" : "Mytask" };
+event: click;

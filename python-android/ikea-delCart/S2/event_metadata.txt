@@ -1,0 +1,4 @@
+pathToElementImageCrop: ikea-delCart/S2/pngs/58_1920_1022_2130.png;
+coords: {'x1': 58, 'y1': 1920, 'x2': 1022, 'y2': 2130};
+text_identifier: { "resource-id" : "com.ingka.ikea.app:id/design_menu_item_text" };
+event: click;

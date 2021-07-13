@@ -1,0 +1,4 @@
+pathToElementImageCrop: brave-tab/S0/pngs/689_2016_843_2148.png;
+coords: {'x1': 689, 'y1': 2016, 'x2': 843, 'y2': 2148};
+text_identifier: { "content-desc" : "1 open tab, tap to switch tabs" , "resource-id" : "com.brave.browser:id/bottom_tab_switcher_button" };
+event: click;

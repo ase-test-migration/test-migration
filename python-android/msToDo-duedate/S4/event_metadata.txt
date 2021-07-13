@@ -1,0 +1,4 @@
+pathToElementImageCrop: msToDo-duedate/S4/pngs/180_287_852_352.png;
+coords: {'x1': 180, 'y1': 287, 'x2': 852, 'y2': 352};
+text_identifier: { "resource-id" : "com.microsoft.todos:id/task_title" };
+event: click;

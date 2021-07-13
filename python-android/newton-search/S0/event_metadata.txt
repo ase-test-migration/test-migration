@@ -1,0 +1,4 @@
+pathToElementImageCrop: newton-search/S0/pngs/948_182_1080_314.png;
+coords: {'x1': 948, 'y1': 182, 'x2': 1080, 'y2': 314};
+text_identifier: { "content-desc" : "Search" , "resource-id" : "com.cloudmagic.mail:id/menu_search" };
+event: click;

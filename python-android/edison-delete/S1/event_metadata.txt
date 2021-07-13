@@ -1,0 +1,4 @@
+pathToElementImageCrop: edison-delete/S1/pngs/810_210_876_276.png;
+coords: {'x1': 810, 'y1': 210, 'x2': 876, 'y2': 276};
+text_identifier: { "resource-id" : "com.easilydo.mail:id/email_detail_trash" };
+event: click;

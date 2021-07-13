@@ -1,0 +1,38 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer"
+    },
+    "tests" : [
+        {
+            "name" : "test_accuw_submenu",
+            "events":[
+                {
+                    "event": "click",
+                    "tag": "Today",
+                    "type": "accessibilityId"
+                },
+                {
+                    "event": "click",
+                    "tag": "Hourly",
+                    "type": "accessibilityId"
+                },
+                {
+                    "event": "click",
+                    "tag": "Daily",
+                    "type": "accessibilityId"
+                },
+                {
+                    "event": "click",
+                    "tag": "Radar",
+                    "type": "accessibilityId"
+                }
+            ]
+            
+    }
+    ]
+}

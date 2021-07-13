@@ -1,0 +1,11 @@
+{"name" : "Chrome", "label" : "Chrome", "screenshotPath" : "chrome-back/S4/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "Back", "label" : "Back", "screenshotPath" : "chrome-back/S4/pngs/20.0_1246.0_108.0_1334.0.png"}
+{"name" : "Forward", "label" : "Forward", "screenshotPath" : "chrome-back/S4/pngs/176.0_1246.0_264.0_1334.0.png"}
+{"name" : "kToolbarNewTabButtonIdentifier", "label" : "New Tab", "screenshotPath" : "chrome-back/S4/pngs/330.0_1246.0_420.0_1334.0.png"}
+{"value" : "1", "name" : "kToolbarStackButtonIdentifier", "label" : "Show Tabs", "screenshotPath" : "chrome-back/S4/pngs/486.0_1246.0_576.0_1334.0.png"}
+{"name" : "kToolbarToolsMenuButtonIdentifier", "label" : "Menu", "screenshotPath" : "chrome-back/S4/pngs/628.0_1246.0_716.0_1334.0.png"}
+{"value" : "wikipedia.org Secure", "name" : "Address and search bar", "label" : "Address and search bar", "screenshotPath" : "chrome-back/S4/pngs/20.0_47.99999999999999_730.0_120.0.png"}
+{"name" : "kOmniboxShareButtonIdentifier", "label" : "Share…", "screenshotPath" : "chrome-back/S4/pngs/660.0_60.00000000000001_708.0_108.0.png"}
+{"value" : "1", "name" : "1", "label" : "1", "screenshotPath" : "chrome-back/S4/pngs/516.0_1276.0_546.0_1304.0.png"}
+{"value" : "wikipedia.org", "name" : "wikipedia.org", "label" : "wikipedia.org", "screenshotPath" : "chrome-back/S4/pngs/292.0_62.0_494.0_104.0.png"}
+{"value" : "0%", "name" : "Vertical scroll bar, 3 pages", "label" : "Vertical scroll bar, 3 pages", "screenshotPath" : "chrome-back/S4/pngs/684.0_40.0_744.0_1334.0.png"}

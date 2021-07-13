@@ -1,0 +1,4 @@
+pathToElementImageCrop: search-removefavorite/S1/pngs/249.0_428.99999999999994_687.0_503.99999999999994.png;
+coords: {'x1': 249.0, 'y1': 428.99999999999994, 'x2': 687.0, 'y2': 503.99999999999994};
+text_identifier: { "name" : "Saved restaurants" };
+event: click;

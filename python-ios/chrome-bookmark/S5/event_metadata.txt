@@ -1,0 +1,4 @@
+pathToElementImageCrop: chrome-bookmark/S5/pngs/274.0_684.0_740.0_776.0.png;
+coords: {'x1': 274.0, 'y1': 684.0, 'x2': 740.0, 'y2': 776.0};
+text_identifier: { "label" : "Bookmarks" };
+event: click;

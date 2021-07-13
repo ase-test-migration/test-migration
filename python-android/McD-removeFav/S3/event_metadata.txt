@@ -1,0 +1,4 @@
+pathToElementImageCrop: McD-removeFav/S3/pngs/53_2070_90_2107.png;
+coords: {'x1': 53, 'y1': 2070, 'x2': 90, 'y2': 2107};
+text_identifier: { "resource-id" : "com.mcdonalds.app:id/circle" , "resource-id" : "com.mcdonalds.app:id/icon" };
+event: click;

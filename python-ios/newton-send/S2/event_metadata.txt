@@ -1,0 +1,5 @@
+pathToElementImageCrop: newton-send/S2/pngs/30.0_242.0_740.0_342.0.png;
+coords: {'x1': 30.0, 'y1': 242.0, 'x2': 740.0, 'y2': 342.0};
+text_identifier: { };
+event: send_keys;
+input: Testing 2;

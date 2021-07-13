@@ -1,0 +1,4 @@
+pathToElementImageCrop: duckduckgo-tab/S1/pngs/837_182_969_314.png;
+coords: {'x1': 837, 'y1': 182, 'x2': 969, 'y2': 314};
+text_identifier: { "content-desc" : "New Tab" , "resource-id" : "com.duckduckgo.mobile.android:id/newTab" };
+event: click;

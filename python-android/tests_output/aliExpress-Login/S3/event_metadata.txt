@@ -1,0 +1,5 @@
+pathToElementImageCrop: aliExpress-Login/S3/pngs/189_484_1038_610.png;
+coords: {'x1': 189, 'y1': 484, 'x2': 1038, 'y2': 610};
+text_identifier: { "resource-id" : "com.alibaba.aliexpresshd:id/til_password" , "resource-id" : "com.alibaba.aliexpresshd:id/et_password" };
+event: send_keys;
+input: Test0123;

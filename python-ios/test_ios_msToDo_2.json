@@ -1,0 +1,70 @@
+{
+    "tests": [
+        {
+            "name": "msToDo-duedate", 
+            "events": [
+                {
+                    "tag": "My Day", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "//XCUIElementTypeApplication[@name=\"To Do\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "input": "Mytask", 
+                    "tag": "//XCUIElementTypeApplication[@name=\"To Do\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeOther", 
+                    "type": "xPath", 
+                    "event": "send_keys_enter"
+                },
+                {
+                    "input": "Tomorrow",
+                    "event": "oracle",
+                    "oracle-type": "text_invisible"
+                },
+                {
+                    "tag": "//XCUIElementTypeCell[@name=\"Mytask, Incomplete task, From Tasks\"]/XCUIElementTypeOther[2]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "//XCUIElementTypeCell[@name=\"Add due date\"]/XCUIElementTypeOther[2]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "//XCUIElementTypeStaticText[@name=\"Tomorrow\"]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Dismiss detail view", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "//XCUIElementTypeCell[@name=\"Mytask, Incomplete task, From Tasks, Due Tomorrow\"]/XCUIElementTypeOther[2]", 
+                    "type": "xPath", 
+                    "event": "oracle",
+                    "oracle-type": "widget_exists"
+                },
+                {
+                    "input": "Tomorrow",
+                    "event": "oracle",
+                    "oracle-type": "text_exists"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "14.3", 
+        "platformName": "iOS"
+    }
+}

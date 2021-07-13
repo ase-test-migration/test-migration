@@ -1,0 +1,4 @@
+pathToElementImageCrop: bbc-personalize/S4/pngs/0_171_154_325.png;
+coords: {'x1': 0, 'y1': 171, 'x2': 154, 'y2': 325};
+text_identifier: { "content-desc" : "Back" };
+event: click;

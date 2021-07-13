@@ -1,0 +1,5 @@
+{ "resource-id" : "com.android.chrome:id/compositor_view_holder" , "screenshotPath" : "chrome-tab/S1/pngs/0_171_1080_1977.png"}
+{ "resource-id" : "com.android.chrome:id/tab_switcher_toolbar" , "screenshotPath" : "chrome-tab/S1/pngs/0_171_1080_325.png"}
+{ "content-desc" : "New tab" , "resource-id" : "com.android.chrome:id/new_tab_button" , "screenshotPath" : "chrome-tab/S1/pngs/0_171_154_325.png"}
+{ "content-desc" : "1 open tab, tap to switch tabs" , "resource-id" : "com.android.chrome:id/tab_switcher_mode_tab_switcher_button" , "screenshotPath" : "chrome-tab/S1/pngs/816_171_948_325.png"}
+{ "content-desc" : "More options" , "resource-id" : "com.android.chrome:id/menu_button" , "screenshotPath" : "chrome-tab/S1/pngs/948_171_1080_325.png"}

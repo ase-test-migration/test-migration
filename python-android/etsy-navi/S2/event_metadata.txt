@@ -1,0 +1,4 @@
+pathToElementImageCrop: etsy-navi/S2/pngs/42_1070_1038_1487.png;
+coords: {'x1': 42, 'y1': 1070, 'x2': 1038, 'y2': 1487};
+text_identifier: { "resource-id" : "com.etsy.android:id/click_region" };
+event: click;

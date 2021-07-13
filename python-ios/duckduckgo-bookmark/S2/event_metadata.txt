@@ -1,0 +1,4 @@
+pathToElementImageCrop: duckduckgo-bookmark/S2/pngs/662.0_68.0_722.0_116.0.png;
+coords: {'x1': 662.0, 'y1': 68.0, 'x2': 722.0, 'y2': 116.0};
+text_identifier: { "label" : "Browsing Menu" };
+event: click;

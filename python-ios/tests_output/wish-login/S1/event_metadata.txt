@@ -1,0 +1,5 @@
+pathToElementImageCrop: wish-login/S1/pngs/72.0_717.0000000000001_1170.0_840.0000000000001.png;
+coords: {'x1': 72.0, 'y1': 717.0000000000001, 'x2': 1170.0, 'y2': 840.0000000000001};
+text_identifier: { "name" : "email" };
+event: send_keys;
+input: email@example.com;

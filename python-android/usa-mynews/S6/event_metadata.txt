@@ -1,0 +1,4 @@
+pathToElementImageCrop: usa-mynews/S6/pngs/75_476_147_548.png;
+coords: {'x1': 75, 'y1': 476, 'x2': 147, 'y2': 548};
+text_identifier: { "text" : "" , "resource-id" : "com.usatoday.android.news:id/remove_topic" };
+event: click;

@@ -1,0 +1,4 @@
+pathToElementImageCrop: guardian-search/S3/pngs/0_378_1080_552.png;
+coords: {'x1': 0, 'y1': 378, 'x2': 1080, 'y2': 552};
+text_identifier: {  };
+event: click;

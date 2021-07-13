@@ -1,0 +1,4 @@
+pathToElementImageCrop: poshmark-addShoppingCart/S1/pngs/20.0_499.99999999999994_164.0_644.0.png;
+coords: {'x1': 20.0, 'y1': 499.99999999999994, 'x2': 164.0, 'y2': 644.0};
+text_identifier: { "label" : "All Brands »" };
+event: click;

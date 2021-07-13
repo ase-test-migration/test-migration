@@ -1,0 +1,49 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "edison-move",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Testing"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//XCUIElementTypeToolbar[@name=\"Toolbar\"]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeButton[1]"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Test"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//XCUIElementTypeNavigationBar[@name=\"Inbox\"]/XCUIElementTypeButton[1]"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Test"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "oracle",
+                    "oracle-type": "widget_exists",
+                    "tag": "Testing"
+                }
+            ]
+        }
+    ]
+}

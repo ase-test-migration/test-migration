@@ -1,0 +1,39 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "testSubwayNotify",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "MORE"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.subway.mobile.subwayapp03:id/account_info_label"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.subway.mobile.subwayapp03:id/notification_contactInfo"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.subway.mobile.subwayapp03:id/emailSwitch"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.subway.mobile.subwayapp03:id/emailSwitch"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "dolphin-back",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "mobi.mgeek.TunnyBrowser:id/search_bg_view"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys_enter",
+                    "tag": "mobi.mgeek.TunnyBrowser:id/search_input",
+                    "input": "google.com"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "mobi.mgeek.TunnyBrowser:id/title"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys_enter",
+                    "tag": "mobi.mgeek.TunnyBrowser:id/search_input",
+                    "input": "wikipedia.org"
+                },
+                {
+                    "event": "back"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Google"
+                }
+            ]
+        }
+    ]
+}

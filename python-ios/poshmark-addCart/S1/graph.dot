@@ -1,0 +1,88 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Poshmark\l|label = Poshmark\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeNavigationBar\l|name = pageTitle\l|label = Listing Details\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|name = leftNavButton\l|enabled = true\l|visible = true\l|x = 8\l|y = 20\l|width = 43\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/16.0_40.0_102.0_128.0.png\l}"]
+	11	[label="{type = XCUIElementTypeStaticText\l|value = Listing Details\l|name = Listing Details\l|label = Listing Details\l|enabled = true\l|visible = true\l|x = 124\l|y = 29\l|width = 127\l|height = 25\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/248.0_58.0_502.0_108.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|name = rightNavButton1\l|enabled = true\l|visible = true\l|x = 324\l|y = 20\l|width = 43\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = true \l|screenshotPath = poshmark-addCart/S1/pngs/648.0_40.0_734.0_128.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|name = listingDetailsScreen\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	15	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 25\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	16	[label="{type = XCUIElementTypeToolbar\l|name = Toolbar\l|label = Toolbar\l|enabled = true\l|visible = true\l|x = 0\l|y = 617\l|width = 375\l|height = 50\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/0.0_1234.0_750.0_1334.0.png\l}"]
+	17	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 54\l|index = 0\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/0.0_128.0_750.0_236.0.png\l}"]
+	18	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 118\l|width = 375\l|height = 385\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/0.0_236.0_750.0_1006.0000000000001.png\l}"]
+	19	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 503\l|width = 375\l|height = 385\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/0.0_1006.0_750.0_1776.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 617\l|width = 375\l|height = 50\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/0.0_1234.0_750.0_1334.0.png\l}"]
+	21	[label="{type = XCUIElementTypeButton\l|name = userName\l|label = sak_treasures\l|enabled = true\l|visible = true\l|x = 52\l|y = 75\l|width = 195\l|height = 17\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/104.0_150.0_494.0_184.0.png\l}"]
+	22	[label="{type = XCUIElementTypeStaticText\l|value = Updated an hour ago\l|name = dateTime\l|label = Updated an hour ago\l|enabled = true\l|visible = true\l|x = 52\l|y = 90\l|width = 195\l|height = 16\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/104.0_180.0_494.0_212.0.png\l}"]
+	23	[label="{type = XCUIElementTypeStaticText\l|value = 17%\l|name = priceDropPercentage\l|label = 17%\l|enabled = true\l|visible = true\l|x = 257\l|y = 99\l|width = 36\l|height = 14\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/514.0_198.0_586.0_226.0.png\l}"]
+	24	[label="{type = XCUIElementTypeStaticText\l|value = 4\l|name = likesCounter\l|label = 4\l|enabled = true\l|visible = true\l|x = 293\l|y = 99\l|width = 36\l|height = 14\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/586.0_198.0_658.0_226.0.png\l}"]
+	25	[label="{type = XCUIElementTypeStaticText\l|value = 0\l|name = commentsCounter\l|label = 0\l|enabled = true\l|visible = true\l|x = 329\l|y = 99\l|width = 36\l|height = 14\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/658.0_198.0_730.0_226.0.png\l}"]
+	26	[label="{type = XCUIElementTypeImage\l|name = userImage\l|enabled = true\l|visible = true\l|x = 10\l|y = 75\l|width = 32\l|height = 32\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/20.0_150.0_84.0_214.0.png\l}"]
+	27	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 0\l|y = 118\l|width = 375\l|height = 375\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/0.0_236.0_750.0_986.0.png\l}"]
+	28	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 0\l|y = 503\l|width = 375\l|height = 375\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/0.0_1006.0_750.0_1756.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 617\l|width = 375\l|height = 50\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/0.0_1234.0_750.0_1334.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 617\l|width = 178\l|height = 50\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/0.0_1234.0_356.0_1334.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 188\l|y = 617\l|width = 187\l|height = 50\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/376.0_1234.0_750.0_1334.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 617\l|width = 178\l|height = 50\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/0.0_1234.0_356.0_1334.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 188\l|y = 617\l|width = 187\l|height = 50\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/376.0_1234.0_750.0_1334.0.png\l}"]
+	34	[label="{type = XCUIElementTypeStaticText\l|value = $20\l|name = bottomBarPriceLabel\l|label = $20\l|enabled = true\l|visible = true\l|x = 10\l|y = 617\l|width = 42\l|height = 50\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/20.0_1234.0_104.0_1334.0.png\l}"]
+	35	[label="{type = XCUIElementTypeStaticText\l|value = $0\l|name = bottomBarOriginalPriceLabel\l|label = $0\l|enabled = true\l|visible = true\l|x = 57\l|y = 617\l|width = 24\l|height = 50\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/114.0_1234.0_162.0_1334.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 253\l|y = 617\l|width = 122\l|height = 50\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/506.0_1234.0_750.0_1334.0.png\l}"]
+	37	[label="{type = XCUIElementTypeButton\l|name = offer\l|label = Offer\l|enabled = true\l|visible = true\l|x = 198\l|y = 631\l|width = 45\l|height = 22\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/396.0_1262.0_486.0_1306.0.png\l}"]
+	38	[label="{type = XCUIElementTypeButton\l|name = buyNow\l|label = Buy Now\l|enabled = true\l|visible = true\l|x = 253\l|y = 617\l|width = 122\l|height = 50\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/506.0_1234.0_750.0_1334.0.png\l}"]
+	39	[label="{type = XCUIElementTypeStaticText\l|value = Buy Now\l|name = Buy Now\l|label = Buy Now\l|enabled = true\l|visible = true\l|x = 277\l|y = 631\l|width = 74\l|height = 22\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S1/pngs/554.0_1262.0_702.0_1306.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	7 -> 9
+	8 -> 10
+	8 -> 11
+	8 -> 12
+	9 -> 13
+	13 -> 14
+	14 -> 15
+	14 -> 16
+	15 -> 17
+	15 -> 18
+	15 -> 19
+	16 -> 20
+	17 -> 21
+	17 -> 22
+	17 -> 23
+	17 -> 24
+	17 -> 25
+	17 -> 26
+	18 -> 27
+	19 -> 28
+	20 -> 29
+	29 -> 30
+	29 -> 31
+	30 -> 32
+	31 -> 33
+	32 -> 34
+	32 -> 35
+	33 -> 36
+	33 -> 37
+	36 -> 38
+	38 -> 39
+
+
+}

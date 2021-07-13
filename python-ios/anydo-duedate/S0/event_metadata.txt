@@ -1,0 +1,5 @@
+pathToElementImageCrop: anydo-duedate/S0/pngs/30.0_2301.0_1050.0_2421.0.png;
+coords: {'x1': 30.0, 'y1': 2301.0, 'x2': 1050.0, 'y2': 2421.0};
+text_identifier: { "label" : "" };
+event: send_keys_enter;
+input: Mytask;

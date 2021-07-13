@@ -1,0 +1,38 @@
+{
+    "tests": [
+        {
+            "name": "guardian-follow", 
+            "events": [
+                {
+                    "tag": "//XCUIElementTypeOther[@name=\"'Our community is bleeding': Asian American lawmakers say violence has reached 'crisis point'\"]", 
+                    "type": "xPath", 
+                    "event": "click"
+                },
+                {
+                    "input": "Follow Lauren Gambino",
+                    "event": "oracle",
+                    "oracle-type": "text_exists"
+                },
+                {
+                    "tag": "//XCUIElementTypeStaticText[@name=\"Follow Lauren Gambino\"]", 
+                    "type": "xPath", 
+                    "event": "click"
+                },
+                {
+                    "input": "Following Lauren Gambino",
+                    "event": "oracle",
+                    "oracle-type": "text_exists"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "14.3", 
+        "platformName": "iOS"
+    }
+}

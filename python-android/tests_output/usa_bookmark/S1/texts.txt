@@ -1,0 +1,12 @@
+{ "resource-id" : "com.usatoday.android.news:id/articles_view_pager" , "screenshotPath" : "usa_bookmark/S1/pngs/0_220_1080_2028.png"}
+{ "content-desc" : "Navigate up" , "screenshotPath" : "usa_bookmark/S1/pngs/0_66_154_220.png"}
+{ "content-desc" : "Article Text Size" , "resource-id" : "com.usatoday.android.news:id/button_articleTextSize" , "screenshotPath" : "usa_bookmark/S1/pngs/684_77_816_209.png"}
+{ "content-desc" : "Share" , "resource-id" : "com.usatoday.android.news:id/button_articleShare" , "screenshotPath" : "usa_bookmark/S1/pngs/816_77_948_209.png"}
+{ "content-desc" : "Unchecked. Save Checkbox" , "resource-id" : "com.usatoday.android.news:id/menuButtonBookmark" , "screenshotPath" : "usa_bookmark/S1/pngs/948_77_1080_209.png"}
+{ "resource-id" : "com.usatoday.android.news:id/recycler_article" , "screenshotPath" : "usa_bookmark/S1/pngs/0_943_1080_2028.png"}
+{ "resource-id" : "com.usatoday.android.news:id/follow_topic_name" , "screenshotPath" : "usa_bookmark/S1/pngs/0_829_719_936.png"}
+{ "content-desc" : "Follow Topic Checkbox" , "resource-id" : "com.usatoday.android.news:id/follow_topic_button" , "screenshotPath" : "usa_bookmark/S1/pngs/719_849_1011_915.png"}
+{ "content-desc" : "Video with CDC says US cases down, but 3 variants detected length 2:14" , "resource-id" : "com.usatoday.android.news:id/img_video_thumb" , "screenshotPath" : "usa_bookmark/S1/pngs/69_987_1011_1516.png"}
+{ "resource-id" : "com.usatoday.android.news:id/video_description" , "screenshotPath" : "usa_bookmark/S1/pngs/138_1678_942_1808.png"}
+{ "content-desc" : "%253Futm_source%253Dreachlocal%2526utm_medium%253Ddisplay%2526utm_campaign%253Dsitertlookalikecaliforniamantelfireplaceincretargeting" , "resource-id" : "aw0" , "screenshotPath" : "usa_bookmark/S1/pngs/127_1964_952_2028.png"}
+{ "resource-id" : "abgcp" , "screenshotPath" : "usa_bookmark/S1/pngs/842_1964_952_2028.png"}

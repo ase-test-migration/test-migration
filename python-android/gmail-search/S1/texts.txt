@@ -1,0 +1,15 @@
+{ "resource-id" : "com.google.android.gm:id/open_search_view_root" , "screenshotPath" : "gmail-search/S1/pngs/0_171_1080_1463.png"}
+{ "resource-id" : "com.google.android.gm:id/open_search" , "screenshotPath" : "gmail-search/S1/pngs/44_193_1036_331.png"}
+{ "resource-id" : "com.google.android.gm:id/conversation_list_parent_frame" , "screenshotPath" : "gmail-search/S1/pngs/0_171_1080_1463.png"}
+{ "content-desc" : "Open navigation drawer" , "screenshotPath" : "gmail-search/S1/pngs/44_193_198_331.png"}
+{ "resource-id" : "com.google.android.gm:id/thread_list_view" , "screenshotPath" : "gmail-search/S1/pngs/0_171_1080_1463.png"}
+{ "content-desc" : "Signed in as Some User email@example.com. Open account menu" , "resource-id" : "com.google.android.gm:id/selected_account_disc_gmail" , "screenshotPath" : "gmail-search/S1/pngs/896_196_1036_328.png"}
+{ "resource-id" : "com.google.android.gm:id/viewified_conversation_item_view" , "screenshotPath" : "gmail-search/S1/pngs/0_430_1080_678.png"}
+{ "resource-id" : "com.google.android.gm:id/viewified_conversation_item_view" , "screenshotPath" : "gmail-search/S1/pngs/0_678_1080_926.png"}
+{ "resource-id" : "com.google.android.gm:id/open_search_suggestions_list_view" , "screenshotPath" : "gmail-search/S1/pngs/0_328_1080_482.png"}
+{ "resource-id" : "com.google.android.gm:id/contact_image" , "screenshotPath" : "gmail-search/S1/pngs/0_430_198_628.png"}
+{ "resource-id" : "com.google.android.gm:id/star" , "screenshotPath" : "gmail-search/S1/pngs/948_546_1080_634.png"}
+{ "resource-id" : "com.google.android.gm:id/contact_image" , "screenshotPath" : "gmail-search/S1/pngs/0_678_198_876.png"}
+{ "resource-id" : "com.google.android.gm:id/star" , "screenshotPath" : "gmail-search/S1/pngs/948_794_1080_882.png"}
+{ "content-desc" : "Back" , "screenshotPath" : "gmail-search/S1/pngs/0_171_154_325.png"}
+{ "resource-id" : "com.google.android.gm:id/open_search_view_edit_text" , "screenshotPath" : "gmail-search/S1/pngs/198_182_1080_314.png"}

@@ -1,0 +1,40 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "etsy-login",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "You tab, 3 of 4",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.etsy.android:id/you_menu_sign_in_button",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.etsy.android:id/button_signin",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.etsy.android:id/edit_username",
+                "event": "send_keys",
+                "input": "email@example.com"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.etsy.android:id/edit_password",
+                "event": "send_keys_enter",
+                "input": "test123test"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "type": "resource-id",
+                "tag": "com.etsy.android:id/forgot_password_link"
+            }
+        ]
+    }
+}

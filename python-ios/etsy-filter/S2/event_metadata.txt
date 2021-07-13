@@ -1,0 +1,4 @@
+pathToElementImageCrop: etsy-filter/S2/pngs/548.0_196.00000000000003_726.0_292.0.png;
+coords: {'x1': 548.0, 'y1': 196.00000000000003, 'x2': 726.0, 'y2': 292.0};
+text_identifier: { "label" : "Filter" };
+event: click;

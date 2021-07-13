@@ -1,0 +1,5 @@
+pathToElementImageCrop: spark-send/S2/pngs/24.0_284.0_726.0_388.0.png;
+coords: {'x1': 24.0, 'y1': 284.0, 'x2': 726.0, 'y2': 388.0};
+text_identifier: { };
+event: send_keys;
+input: Testing 2;

@@ -1,0 +1,4 @@
+pathToElementImageCrop: msToDo-delList/S3/pngs/16.0_1074.0_734.0_1188.0.png;
+coords: {'x1': 16.0, 'y1': 1074.0, 'x2': 734.0, 'y2': 1188.0};
+text_identifier: { "name" : "Delete List" };
+event: click;

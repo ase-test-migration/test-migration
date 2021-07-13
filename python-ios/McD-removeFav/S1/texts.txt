@@ -1,0 +1,44 @@
+{"name" : "McDonald's", "label" : "McDonald's", "screenshotPath" : "McD-removeFav/S1/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "Tab Bar", "label" : "Tab Bar", "screenshotPath" : "McD-removeFav/S1/pngs/0.0_1222.0_750.0_1334.0.png"}
+{"name" : "HOME", "label" : "Home", "screenshotPath" : "McD-removeFav/S1/pngs/4.0_1224.0_146.0_1334.0.png"}
+{"value" : "1", "name" : "ORDER", "label" : "Order", "screenshotPath" : "McD-removeFav/S1/pngs/154.0_1224.0_296.0_1334.0.png"}
+{"name" : "DEALS", "label" : "Deals", "screenshotPath" : "McD-removeFav/S1/pngs/304.0_1224.0_446.0_1334.0.png"}
+{"name" : "RECENTFAVES", "label" : "Recents", "screenshotPath" : "McD-removeFav/S1/pngs/453.99999999999994_1224.0_596.0_1334.0.png"}
+{"name" : "MORE", "label" : "More", "screenshotPath" : "McD-removeFav/S1/pngs/604.0_1224.0_746.0_1334.0.png"}
+{"value" : "Order", "name" : "menuHeaderOrder", "label" : "Order", "screenshotPath" : "McD-removeFav/S1/pngs/48.0_72.0_220.0_154.0.png"}
+{"name" : "search_button", "label" : "Search", "screenshotPath" : "McD-removeFav/S1/pngs/640.0_80.0_704.0_144.0.png"}
+{"name" : "pickUpSwitcher", "label" : "selected . Pickup . Tab one of two", "screenshotPath" : "McD-removeFav/S1/pngs/48.0_208.0_208.0_258.0.png"}
+{"name" : "deliveryUpSwitcher", "label" : "McDelivery . Tab two of two", "screenshotPath" : "McD-removeFav/S1/pngs/208.0_208.0_368.0_258.0.png"}
+{"name" : "order_wall_store_name_content_view_identifier", "label" : "1071 Martin Luther King Jr Blvd", "screenshotPath" : "McD-removeFav/S1/pngs/144.0_302.0_478.0_336.0.png"}
+{"value" : "Now serving Lunch until 04:59 pm  ", "name" : "dayPartLabel", "label" : "Now serving Lunch until 04:59 pm  ", "screenshotPath" : "McD-removeFav/S1/pngs/144.0_334.0_478.0_368.0.png"}
+{"name" : "changeAddressOrLocation", "label" : "Change Location", "screenshotPath" : "McD-removeFav/S1/pngs/478.0_334.0_704.0_368.0.png"}
+{"name" : "Quickly reorder", "screenshotPath" : "McD-removeFav/S1/pngs/0.0_408.0_750.0_506.0.png"}
+{"name" : "explore_our_menu", "screenshotPath" : "McD-removeFav/S1/pngs/0.0_968.0_750.0_1112.0.png"}
+{"name" : "recent_order_view_all", "label" : "View all", "screenshotPath" : "McD-removeFav/S1/pngs/524.0_424.0_702.0_490.0.png"}
+{"value" : "Pickup", "name" : "Pickup", "label" : "Pickup", "screenshotPath" : "McD-removeFav/S1/pngs/88.0_215.99999999999997_168.0_249.99999999999997.png"}
+{"value" : "McDelivery", "name" : "McDelivery", "label" : "McDelivery", "screenshotPath" : "McD-removeFav/S1/pngs/228.0_215.99999999999997_348.0_249.99999999999997.png"}
+{"value" : "Change Location", "name" : "Change Location", "label" : "Change Location", "screenshotPath" : "McD-removeFav/S1/pngs/484.0_332.0_698.0_370.0.png"}
+{"value" : "Quickly reorder", "name" : "quickly_reorder", "label" : "Quickly reorder", "screenshotPath" : "McD-removeFav/S1/pngs/48.0_424.0_514.0_490.0.png"}
+{"name" : "recent_order_view_all", "label" : "View all", "screenshotPath" : "McD-removeFav/S1/pngs/524.0_424.0_702.0_490.0.png"}
+{"name" : "Empty list", "label" : "Empty list", "screenshotPath" : "McD-removeFav/S1/pngs/0.0_504.0_750.0_970.0.png"}
+{"name" : "explore_our_menu", "label" : "Explore our menu", "screenshotPath" : "McD-removeFav/S1/pngs/0.0_968.0_750.0_1112.0.png"}
+{"value" : "View all", "name" : "View all", "label" : "View all", "screenshotPath" : "McD-removeFav/S1/pngs/560.0_438.0_658.0_476.0.png"}
+{"value" : "View all", "name" : "View all", "label" : "View all", "screenshotPath" : "McD-removeFav/S1/pngs/560.0_438.0_658.0_476.0.png"}
+{"name" : "recent_order_banner_cell", "screenshotPath" : "McD-removeFav/S1/pngs/0.0_504.0_750.0_720.0.png"}
+{"name" : "recent_order_banner_cell", "screenshotPath" : "McD-removeFav/S1/pngs/0.0_718.0_750.0_970.0.png"}
+{"value" : "Sandwiches & Meals", "name" : "table_cell_deal_header_text", "label" : "Sandwiches & Meals", "screenshotPath" : "McD-removeFav/S1/pngs/48.0_1130.0_470.0_1188.0.png"}
+{"name" : "table_cell_vie_all_button", "label" : "View all  ", "screenshotPath" : "McD-removeFav/S1/pngs/570.0_1136.0_706.0_1196.0.png"}
+{"name" : "recent_order_banner_cell", "label" : "Apple Pie and 3 other items . ordered on . 10/06/20 - 09:17 PM", "screenshotPath" : "McD-removeFav/S1/pngs/0.0_504.0_750.0_720.0.png"}
+{"name" : "recent_order_banner_cell", "label" : "20 Piece McNuggets and 2 other items . ordered on . 09/03/20 - 09:19 PM", "screenshotPath" : "McD-removeFav/S1/pngs/0.0_718.0_750.0_970.0.png"}
+{"name" : "view_hide_order_details", "label" : "View details . Apple Pie and 3 other items . ordered on . 10/06/20 - 09:17 PM . Link . Double tap to Activate", "screenshotPath" : "McD-removeFav/S1/pngs/204.00000000000003_632.0_478.0_666.0.png"}
+{"value" : "Apple Pie + 3 Items", "name" : "recent_order_title", "label" : "Apple Pie + 3 Items", "screenshotPath" : "McD-removeFav/S1/pngs/204.00000000000003_562.0_452.0_600.0.png"}
+{"value" : "10/06/20 - 09:17 PM", "name" : "recent_order_time", "label" : "10/06/20 - 09:17 PM", "screenshotPath" : "McD-removeFav/S1/pngs/204.00000000000003_598.0_452.0_632.0.png"}
+{"name" : "reorder", "label" : "Reorder . Apple Pie and 3 other items . ordered on . 10/06/20 - 09:17 PM . Double tap to Activate", "screenshotPath" : "McD-removeFav/S1/pngs/532.0_580.0_676.0_648.0.png"}
+{"name" : "view_hide_order_details", "label" : "View details . 20 Piece McNuggets and 2 other items . ordered on . 09/03/20 - 09:19 PM . Link . Double tap to Activate", "screenshotPath" : "McD-removeFav/S1/pngs/204.00000000000003_882.0_478.0_916.0.png"}
+{"value" : "20 Piece McNuggets + 2 Items", "name" : "recent_order_title", "label" : "20 Piece McNuggets + 2 Items", "screenshotPath" : "McD-removeFav/S1/pngs/204.00000000000003_778.0_472.0_850.0.png"}
+{"value" : "09/03/20 - 09:19 PM", "name" : "recent_order_time", "label" : "09/03/20 - 09:19 PM", "screenshotPath" : "McD-removeFav/S1/pngs/204.00000000000003_848.0_472.0_882.0.png"}
+{"name" : "reorder", "label" : "Reorder . 20 Piece McNuggets and 2 other items . ordered on . 09/03/20 - 09:19 PM . Double tap to Activate", "screenshotPath" : "McD-removeFav/S1/pngs/532.0_812.0_676.0_880.0.png"}
+{"value" : "View details", "name" : "View details", "label" : "View details", "screenshotPath" : "McD-removeFav/S1/pngs/204.00000000000003_632.0_334.0_666.0.png"}
+{"value" : "Reorder", "name" : "Reorder", "label" : "Reorder", "screenshotPath" : "McD-removeFav/S1/pngs/554.0_596.0_654.0_634.0.png"}
+{"value" : "View details", "name" : "View details", "label" : "View details", "screenshotPath" : "McD-removeFav/S1/pngs/204.00000000000003_882.0_334.0_916.0.png"}
+{"value" : "Reorder", "name" : "Reorder", "label" : "Reorder", "screenshotPath" : "McD-removeFav/S1/pngs/554.0_828.0_654.0_866.0.png"}

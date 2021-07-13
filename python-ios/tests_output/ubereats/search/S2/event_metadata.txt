@@ -1,0 +1,4 @@
+pathToElementImageCrop: search/S2/pngs/0.0_678.0_1242.0_999.0.png;
+coords: {'x1': 0.0, 'y1': 678.0, 'x2': 1242.0, 'y2': 999.0};
+text_identifier: { "name" : "Horizontal scroll bar, 1 page" };
+event: click;

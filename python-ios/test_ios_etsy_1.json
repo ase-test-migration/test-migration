@@ -1,0 +1,51 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "etsy-login",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "You"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeButton[@name=\"Sign in\"])[2]"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//XCUIElementTypeButton[@name=\"Sign In\"]"
+                },
+                {
+                    "type": "xPath",
+                    "event": "send_keys",
+                    "tag": "//XCUIElementTypeOther[@name=\"Email or Username\"]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField",
+                    "input": "email@example.com"
+                },
+                {
+                    "type": "xPath",
+                    "event": "send_keys_enter",
+                    "tag": "//XCUIElementTypeOther[@name=\"Password\"]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeSecureTextField",
+                    "input": "test123test"
+                },
+                {
+                    "tag": "Home", 
+                    "type": "accessibilityId",
+                    "event": "oracle",
+                    "oracle-type": "widget_exists"
+                }
+            ]
+        }
+    ]
+}

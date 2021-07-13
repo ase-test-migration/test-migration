@@ -1,0 +1,23 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "etsy-remove-from-cart",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "Cart tab, 5 of 5, 1 new notification",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Remove Moon Landing Keycap for Cherry MX Keycap Mechanical Gaming Keyboards - Kalih Keycap - Gateron Keycap",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "type": "resource-id",
+                "tag": "com.etsy.android:id/btn_link"
+            }
+        ]
+    }
+}

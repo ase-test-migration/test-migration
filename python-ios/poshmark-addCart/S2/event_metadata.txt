@@ -1,0 +1,4 @@
+pathToElementImageCrop: poshmark-addCart/S2/pngs/0.0_1010.0_750.0_1118.0.png;
+coords: {'x1': 0.0, 'y1': 1010.0, 'x2': 750.0, 'y2': 1118.0};
+text_identifier: { "name" : "AddtoBundle" };
+event: click;

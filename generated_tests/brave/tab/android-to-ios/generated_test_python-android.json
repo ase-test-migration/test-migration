@@ -1,0 +1,23 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "python-android",
+        "events": [
+            {
+                "type": "name",
+                "tag": "TabToolbar.tabsButton",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "TabTrayController.addTabButton",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Search"
+            }
+        ]
+    }
+}

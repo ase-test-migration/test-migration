@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "python-ios",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.google.android.gm:id/open_search",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.google.android.gm:id/open_search_view_edit_text",
+                "event": "send_keys_enter",
+                "input": "Testing 1"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "Testing 1 search term"
+            }
+        ]
+    }
+}

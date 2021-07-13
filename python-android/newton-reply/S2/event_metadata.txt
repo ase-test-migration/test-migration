@@ -1,0 +1,5 @@
+pathToElementImageCrop: newton-reply/S2/pngs/51_628_1036_746.png;
+coords: {'x1': 51, 'y1': 628, 'x2': 1036, 'y2': 746};
+text_identifier: { "resource-id" : "com.cloudmagic.mail:id/composeMail" };
+event: send_keys;
+input: Testing 2;

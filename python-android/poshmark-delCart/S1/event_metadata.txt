@@ -1,0 +1,6 @@
+pathToElementImageCrop: ;
+coords: ;
+text_identifier: { Add items to your Bundle and save! };
+event: oracle;
+oracle-type: text_exists;
+input: Add items to your Bundle and save!;

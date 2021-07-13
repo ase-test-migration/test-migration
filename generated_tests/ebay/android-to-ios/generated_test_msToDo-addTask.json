@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "msToDo-addTask",
+        "events": [
+            {
+                "type": "name",
+                "tag": "screenreader_task_add_task_field",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "screenreader_task_add_task_field",
+                "event": "send_keys",
+                "input": "Test01"
+            },
+            {
+                "type": "name",
+                "tag": "screenreader_task_add_task_field",
+                "event": "click"
+            }
+        ]
+    }
+}

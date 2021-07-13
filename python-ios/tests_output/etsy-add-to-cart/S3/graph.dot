@@ -1,0 +1,66 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Etsy\l|label = Etsy\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-add-to-cart/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-add-to-cart/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-add-to-cart/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-add-to-cart/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 633\l|width = 414\l|height = 263\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-add-to-cart/S3/pngs/0.0_1899.0_1242.0_2688.0.png\l}"]
+	5	[label="{type = XCUIElementTypeNavigationBar\l|name = Size\l|enabled = true\l|visible = true\l|x = 0\l|y = 633\l|width = 414\l|height = 44\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-add-to-cart/S3/pngs/0.0_1899.0_1242.0_2031.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 633\l|width = 414\l|height = 263\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-add-to-cart/S3/pngs/0.0_1899.0_1242.0_2688.0.png\l}"]
+	7	[label="{type = XCUIElementTypeStaticText\l|value = Size\l|name = Size\l|label = Size\l|enabled = true\l|visible = true\l|x = 191\l|y = 645\l|width = 32\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-add-to-cart/S3/pngs/573.0_1935.0_669.0_1992.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 633\l|width = 414\l|height = 263\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-add-to-cart/S3/pngs/0.0_1899.0_1242.0_2688.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 677\l|width = 414\l|height = 219\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-add-to-cart/S3/pngs/0.0_2030.9999999999998_1242.0_2688.0.png\l}"]
+	10	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 677\l|width = 414\l|height = 185\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-add-to-cart/S3/pngs/0.0_2030.9999999999998_1242.0_2586.0.png\l}"]
+	11	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 677\l|width = 414\l|height = 44\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-add-to-cart/S3/pngs/0.0_2030.9999999999998_1242.0_2163.0.png\l}"]
+	12	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 721\l|width = 414\l|height = 44\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = true \l|screenshotPath = etsy-add-to-cart/S3/pngs/0.0_2163.0_1242.0_2295.0.png\l}"]
+	13	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 765\l|width = 414\l|height = 44\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-add-to-cart/S3/pngs/0.0_2295.0_1242.0_2427.0.png\l}"]
+	14	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 809\l|width = 414\l|height = 44\l|numberOfChildren = 2\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-add-to-cart/S3/pngs/0.0_2427.0_1242.0_2559.0.png\l}"]
+	15	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 853\l|width = 414\l|height = 44\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-add-to-cart/S3/pngs/0.0_2559.0_1242.0_2691.0.png\l}"]
+	16	[label="{type = XCUIElementTypeButton\l|name = 2'6"x9'8" 80x300cm [Sold out]\l|label = 2'6"x9'8" 80x300cm [Sold out]\l|enabled = false\l|visible = true\l|x = 0\l|y = 677\l|width = 414\l|height = 44\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-add-to-cart/S3/pngs/0.0_2030.9999999999998_1242.0_2163.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 720\l|width = 404\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-add-to-cart/S3/pngs/30.0_2160.0_1242.0_2163.0.png\l}"]
+	18	[label="{type = XCUIElementTypeButton\l|name = 2'6"x13'1" 80x400cm [$299.00]\l|label = 2'6"x13'1" 80x400cm [$299.00]\l|enabled = true\l|visible = true\l|x = 0\l|y = 721\l|width = 414\l|height = 44\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = etsy-add-to-cart/S3/pngs/0.0_2163.0_1242.0_2295.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 764\l|width = 404\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-add-to-cart/S3/pngs/30.0_2292.0_1242.0_2295.0.png\l}"]
+	20	[label="{type = XCUIElementTypeButton\l|name = 4'6"x6'6"  140x200cm [$168.00]\l|label = 4'6"x6'6"  140x200cm [$168.00]\l|enabled = true\l|visible = true\l|x = 0\l|y = 765\l|width = 414\l|height = 44\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-add-to-cart/S3/pngs/0.0_2295.0_1242.0_2427.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 808\l|width = 404\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-add-to-cart/S3/pngs/30.0_2424.0_1242.0_2427.0.png\l}"]
+	22	[label="{type = XCUIElementTypeButton\l|name = 5'2"x7'5"  160x230cm [$198.00]\l|label = 5'2"x7'5"  160x230cm [$198.00]\l|enabled = true\l|visible = true\l|x = 0\l|y = 809\l|width = 414\l|height = 44\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-add-to-cart/S3/pngs/0.0_2427.0_1242.0_2559.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 852\l|width = 404\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-add-to-cart/S3/pngs/30.0_2556.0_1242.0_2559.0.png\l}"]
+	24	[label="{type = XCUIElementTypeButton\l|name = 7'5"x11'  230x330cm [$399.00]\l|label = 7'5"x11'  230x330cm [$399.00]\l|enabled = true\l|visible = true\l|x = 0\l|y = 853\l|width = 414\l|height = 44\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-add-to-cart/S3/pngs/0.0_2559.0_1242.0_2691.0.png\l}"]
+	25	[label="{type = XCUIElementTypeStaticText\l|value = 2'6"x9'8" 80x300cm [Sold out]\l|name = 2'6"x9'8" 80x300cm [Sold out]\l|label = 2'6"x9'8" 80x300cm [Sold out]\l|enabled = true\l|visible = true\l|x = 10\l|y = 688\l|width = 253\l|height = 22\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-add-to-cart/S3/pngs/30.0_2064.0_789.0000000000001_2130.0.png\l}"]
+	26	[label="{type = XCUIElementTypeStaticText\l|value = 2'6"x13'1" 80x400cm [$299.00]\l|name = 2'6"x13'1" 80x400cm [$299.00]\l|label = 2'6"x13'1" 80x400cm [$299.00]\l|enabled = true\l|visible = true\l|x = 10\l|y = 732\l|width = 260\l|height = 22\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-add-to-cart/S3/pngs/30.0_2196.0_810.0_2262.0.png\l}"]
+	27	[label="{type = XCUIElementTypeStaticText\l|value = 4'6"x6'6"  140x200cm [$168.00]\l|name = 4'6"x6'6"  140x200cm [$168.00]\l|label = 4'6"x6'6"  140x200cm [$168.00]\l|enabled = true\l|visible = true\l|x = 10\l|y = 776\l|width = 266\l|height = 22\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-add-to-cart/S3/pngs/30.0_2328.0_828.0_2394.0.png\l}"]
+	28	[label="{type = XCUIElementTypeStaticText\l|value = 5'2"x7'5"  160x230cm [$198.00]\l|name = 5'2"x7'5"  160x230cm [$198.00]\l|label = 5'2"x7'5"  160x230cm [$198.00]\l|enabled = true\l|visible = true\l|x = 10\l|y = 820\l|width = 263\l|height = 22\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = etsy-add-to-cart/S3/pngs/30.0_2460.0_819.0_2526.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	5 -> 7
+	6 -> 8
+	8 -> 9
+	9 -> 10
+	10 -> 11
+	10 -> 12
+	10 -> 13
+	10 -> 14
+	10 -> 15
+	11 -> 16
+	11 -> 17
+	12 -> 18
+	12 -> 19
+	13 -> 20
+	13 -> 21
+	14 -> 22
+	14 -> 23
+	15 -> 24
+	16 -> 25
+	18 -> 26
+	20 -> 27
+	22 -> 28
+
+
+}

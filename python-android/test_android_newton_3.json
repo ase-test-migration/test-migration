@@ -1,0 +1,29 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "newton-delete",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.cloudmagic.mail:id/subject"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.cloudmagic.mail:id/imgDelete"
+                },
+                {
+                    "input": "Testing",
+                    "event": "oracle",
+                    "oracle-type": "text_invisible"
+                }
+            ]
+        }
+    ]
+}

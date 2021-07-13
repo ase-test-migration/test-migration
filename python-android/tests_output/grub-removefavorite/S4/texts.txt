@@ -1,0 +1,16 @@
+{ "content-desc" : "Restaurants" , "resource-id" : "com.grubhub.android:id/bottom_nav_search" , "screenshotPath" : "grub-removefavorite/S4/pngs/0_1608_270_1776.png"}
+{ "content-desc" : "My Grubhub" , "resource-id" : "com.grubhub.android:id/bottom_nav_my_account" , "screenshotPath" : "grub-removefavorite/S4/pngs/270_1608_540_1776.png"}
+{ "content-desc" : "Perks" , "resource-id" : "com.grubhub.android:id/bottom_nav_wallet" , "screenshotPath" : "grub-removefavorite/S4/pngs/540_1608_810_1776.png"}
+{ "content-desc" : "Bag" , "resource-id" : "com.grubhub.android:id/bottom_nav_cart" , "screenshotPath" : "grub-removefavorite/S4/pngs/810_1608_1080_1776.png"}
+{ "content-desc" : "Navigate up" , "screenshotPath" : "grub-removefavorite/S4/pngs/0_72_168_237.png"}
+{ "resource-id" : "com.grubhub.android:id/menu" , "screenshotPath" : "grub-removefavorite/S4/pngs/0_240_1080_1608.png"}
+{ "content-desc" : "saved restaurant" , "resource-id" : "com.grubhub.android:id/bookmark" , "screenshotPath" : "grub-removefavorite/S4/pngs/648_82_792_226.png"}
+{ "content-desc" : "Share" , "resource-id" : "com.grubhub.android:id/share" , "screenshotPath" : "grub-removefavorite/S4/pngs/792_82_936_226.png"}
+{ "content-desc" : "Search" , "resource-id" : "com.grubhub.android:id/search" , "screenshotPath" : "grub-removefavorite/S4/pngs/936_82_1080_226.png"}
+{ "resource-id" : "com.grubhub.android:id/menu_item_card" , "screenshotPath" : "grub-removefavorite/S4/pngs/48_1577_1032_1608.png"}
+{ "resource-id" : "com.grubhub.android:id/restaurant_header_change_location_button" , "screenshotPath" : "grub-removefavorite/S4/pngs/753_642_1080_750.png"}
+{ "resource-id" : "com.grubhub.android:id/restaurant_header_rating_container" , "screenshotPath" : "grub-removefavorite/S4/pngs/0_819_504_904.png"}
+{ "resource-id" : "com.grubhub.android:id/restaurant_header_details" , "screenshotPath" : "grub-removefavorite/S4/pngs/36_944_176_1002.png"}
+{ "content-desc" : "14 Reviews" , "resource-id" : "com.grubhub.android:id/restaurant_header_reviews" , "screenshotPath" : "grub-removefavorite/S4/pngs/248_944_518_1002.png"}
+{ "resource-id" : "com.grubhub.android:id/subscriptions_badge" , "screenshotPath" : "grub-removefavorite/S4/pngs/36_660_132_717.png"}
+{ "resource-id" : "com.grubhub.android:id/order_settings_toggle_change" , "screenshotPath" : "grub-removefavorite/S4/pngs/876_1114_1032_1222.png"}

@@ -1,0 +1,5 @@
+pathToElementImageCrop: todoist-edit/S8/pngs/0.0_357.0_1242.0_507.0.png;
+coords: {'x1': 0.0, 'y1': 357.0, 'x2': 1242.0, 'y2': 507.0};
+text_identifier: { "label" : "Save" };
+event: send_keys;
+input: edited name;

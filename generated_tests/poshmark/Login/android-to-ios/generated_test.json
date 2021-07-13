@@ -1,0 +1,35 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "poshmark-Login",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Already have an account? Tap to login!",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Poshmark",
+                "event": "send_keys",
+                "input": "TestUseri"
+            },
+            {
+                "type": "name",
+                "tag": "Forgot Password?",
+                "event": "send_keys",
+                "input": "Test.0123"
+            },
+            {
+                "type": "name",
+                "tag": "rightNavButton1",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "@TestUseri"
+            }
+        ]
+    }
+}

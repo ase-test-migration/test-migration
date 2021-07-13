@@ -1,0 +1,4 @@
+pathToElementImageCrop: gmail-moveFolder/S0/pngs/0_323_1080_558.png;
+coords: {'x1': 0, 'y1': 323, 'x2': 1080, 'y2': 558};
+text_identifier: { "resource-id" : "com.google.android.gm:id/viewified_conversation_item_view" };
+event: click;

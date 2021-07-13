@@ -1,0 +1,4 @@
+pathToElementImageCrop: aliExpress-naviCat/S2/pngs/212.0_234.0_370.0_460.0.png;
+coords: {'x1': 212.0, 'y1': 234.0, 'x2': 370.0, 'y2': 460.0};
+text_identifier: { "label" : "Recommended Categories" };
+event: click;

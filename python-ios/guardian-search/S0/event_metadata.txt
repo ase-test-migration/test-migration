@@ -1,0 +1,4 @@
+pathToElementImageCrop: guardian-search/S0/pngs/1050.0_2394.0_1206.0_2550.0.png;
+coords: {'x1': 1050.0, 'y1': 2394.0, 'x2': 1206.0, 'y2': 2550.0};
+text_identifier: { "label" : "Menu" };
+event: click;

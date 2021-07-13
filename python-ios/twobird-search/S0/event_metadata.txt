@@ -1,0 +1,4 @@
+pathToElementImageCrop: twobird-search/S0/pngs/646.0_52.0_718.0_124.0.png;
+coords: {'x1': 646.0, 'y1': 52.0, 'x2': 718.0, 'y2': 124.0};
+text_identifier: { "label" : "Thread Something else" };
+event: click;

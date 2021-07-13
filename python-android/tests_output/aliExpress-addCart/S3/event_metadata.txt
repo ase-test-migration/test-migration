@@ -1,0 +1,4 @@
+pathToElementImageCrop: aliExpress-addCart/S3/pngs/14_432_531_949.png;
+coords: {'x1': 14, 'y1': 432, 'x2': 531, 'y2': 949};
+text_identifier: { "resource-id" : "com.alibaba.aliexpresshd:id/dynamic_container" };
+event: click;

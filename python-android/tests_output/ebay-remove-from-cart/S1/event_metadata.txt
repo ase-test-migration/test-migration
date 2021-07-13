@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-remove-from-cart/S1/pngs/857_807_1032_951.png;
+coords: {'x1': 857, 'y1': 807, 'x2': 1032, 'y2': 951};
+text_identifier: { "content-desc" : "Remove - Google Home Mini Smart Speaker with Google Assistant Charcoal Chalk Coral Aqua" , "resource-id" : "com.ebay.mobile:id/item_action_remove_from_cart" };
+event: click;

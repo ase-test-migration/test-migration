@@ -1,0 +1,96 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Any.do\l|label = Any.do\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 813\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/0.0_0.0_1242.0_2439.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	8	[label="{type = XCUIElementTypeTabBar\l|enabled = true\l|visible = true\l|x = 0\l|y = 813\l|width = 414\l|height = 83\l|numberOfChildren = 3\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/0.0_2439.0_1242.0_2688.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 753\l|width = 414\l|height = 60\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/0.0_2259.0_1242.0_2439.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = Tasks\l|label = Tasks\l|enabled = true\l|visible = true\l|x = 2\l|y = 814\l|width = 134\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/6.0_2442.0_408.0_2586.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|name = Calendar\l|label = Calendar\l|enabled = true\l|visible = true\l|x = 140\l|y = 814\l|width = 134\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/420.0_2442.0_822.0_2586.0.png\l}"]
+	13	[label="{type = XCUIElementTypeButton\l|name = Settings\l|label = Settings\l|enabled = true\l|visible = true\l|x = 278\l|y = 814\l|width = 134\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/834.0_2442.0_1236.0_2586.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 761\l|width = 414\l|height = 52\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/0.0_2283.0_1242.0_2439.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 761\l|width = 414\l|height = 52\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/0.0_2283.0_1242.0_2439.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 761\l|width = 357\l|height = 52\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/0.0_2283.0_1071.0_2439.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 357\l|y = 761\l|width = 57\l|height = 52\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/1071.0_2283.0_1242.0_2439.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	21	[label="{type = XCUIElementTypeTextField\l|value = I want to...\l|label = \l|enabled = true\l|visible = true\l|x = 10\l|y = 767\l|width = 340\l|height = 40\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/30.0_2301.0_1050.0_2421.0.png\l}"]
+	22	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 367\l|y = 768\l|width = 37\l|height = 38\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/1101.0_2304.0_1212.0_2418.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 414\l|height = 793\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/0.0_60.0_1242.0_2439.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 414\l|height = 793\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/0.0_60.0_1242.0_2439.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 414\l|height = 793\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/0.0_60.0_1242.0_2439.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 414\l|height = 793\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/0.0_60.0_1242.0_2439.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 44\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/0.0_132.0_1242.0_264.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 725\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/0.0_264.0_1242.0_2439.0.png\l}"]
+	30	[label="{type = XCUIElementTypeButton\l|name = gridButton\l|enabled = true\l|visible = true\l|x = -7\l|y = 44\l|width = 66\l|height = 44\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/-21.0_132.0_176.99999999999997_264.0.png\l}"]
+	31	[label="{type = XCUIElementTypeButton\l|name = grocerylistIconPDF\l|label = grocerylistIconPDF\l|enabled = true\l|visible = true\l|x = 59\l|y = 46\l|width = 40\l|height = 40\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/177.0_138.0_297.0_258.0.png\l}"]
+	32	[label="{type = XCUIElementTypeStaticText\l|value = ALL TASKS\l|name = titleLabel\l|label = ALL TASKS\l|enabled = true\l|visible = true\l|x = 160\l|y = 44\l|width = 94\l|height = 44\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/480.0_132.0_762.0_264.0.png\l}"]
+	33	[label="{type = XCUIElementTypeButton\l|name = notifications off\l|label = notifications off\l|enabled = true\l|visible = true\l|x = 315\l|y = 46\l|width = 40\l|height = 40\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/945.0000000000001_138.0_1065.0_258.0.png\l}"]
+	34	[label="{type = XCUIElementTypeButton\l|name = moreIconUX\l|label = moreIconUX\l|enabled = true\l|visible = true\l|x = 360\l|y = 44\l|width = 47\l|height = 44\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/1080.0_132.0_1221.0_264.0.png\l}"]
+	35	[label="{type = XCUIElementTypeTable\l|name = tasksListTableView\l|label = Tasks List\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 725\l|numberOfChildren = 14\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/0.0_264.0_1242.0_2439.0.png\l}"]
+	36	[label="{type = XCUIElementTypeCell\l|name = B_0_0\l|label = B\l|enabled = true\l|visible = true\l|x = 0\l|y = 159\l|width = 414\l|height = 53\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/0.0_477.0_1242.0_636.0.png\l}"]
+	37	[label="{type = XCUIElementTypeCell\l|name = Mytask_0_0\l|label = Mytask\l|enabled = true\l|visible = true\l|x = 0\l|y = 211\l|width = 414\l|height = 53\l|numberOfChildren = 4\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/0.0_633.0_1242.0_792.0.png\l}"]
+	38	[label="{type = XCUIElementTypeStaticText\l|value = B\l|name = B\l|label = B\l|enabled = true\l|visible = true\l|x = 49\l|y = 174\l|width = 11\l|height = 21\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/147.0_522.0_180.0_585.0.png\l}"]
+	39	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 9\l|y = 164\l|width = 40\l|height = 41\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/27.0_491.99999999999994_147.0_614.9999999999999.png\l}"]
+	40	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 159\l|width = 406\l|height = 53\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/0.0_477.0_1218.0_636.0.png\l}"]
+	41	[label="{type = XCUIElementTypeStaticText\l|value = Mytask\l|name = Mytask\l|label = Mytask\l|enabled = true\l|visible = true\l|x = 49\l|y = 226\l|width = 56\l|height = 21\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/147.0_678.0_315.0_741.0.png\l}"]
+	42	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 9\l|y = 216\l|width = 40\l|height = 41\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = anydo-edit/S2/pngs/27.0_648.0_147.0_771.0.png\l}"]
+	43	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 211\l|width = 406\l|height = 53\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = true \l|screenshotPath = anydo-edit/S2/pngs/0.0_633.0_1218.0_792.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	5 -> 7
+	5 -> 8
+	6 -> 9
+	7 -> 10
+	8 -> 11
+	8 -> 12
+	8 -> 13
+	9 -> 14
+	10 -> 15
+	14 -> 16
+	15 -> 17
+	16 -> 18
+	16 -> 19
+	17 -> 20
+	18 -> 21
+	19 -> 22
+	20 -> 23
+	23 -> 24
+	24 -> 25
+	25 -> 26
+	26 -> 27
+	27 -> 28
+	27 -> 29
+	28 -> 30
+	28 -> 31
+	28 -> 32
+	28 -> 33
+	28 -> 34
+	29 -> 35
+	35 -> 36
+	35 -> 37
+	36 -> 38
+	36 -> 39
+	36 -> 40
+	37 -> 41
+	37 -> 42
+	37 -> 43
+
+
+}

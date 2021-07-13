@@ -1,0 +1,38 @@
+{"name" : "Yahoo Mail", "label" : "Yahoo Mail", "screenshotPath" : "yahoo-search/S1/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "q", "label" : "q", "screenshotPath" : "yahoo-search/S1/pngs/0.0_916.0_76.0_1008.0.png"}
+{"name" : "w", "label" : "w", "screenshotPath" : "yahoo-search/S1/pngs/74.0_916.0_150.0_1008.0.png"}
+{"name" : "e", "label" : "e", "screenshotPath" : "yahoo-search/S1/pngs/150.0_916.0_226.0_1008.0.png"}
+{"name" : "r", "label" : "r", "screenshotPath" : "yahoo-search/S1/pngs/224.00000000000003_916.0_300.0_1008.0.png"}
+{"name" : "t", "label" : "t", "screenshotPath" : "yahoo-search/S1/pngs/300.0_916.0_376.0_1008.0.png"}
+{"name" : "y", "label" : "y", "screenshotPath" : "yahoo-search/S1/pngs/374.0_916.0_450.0_1008.0.png"}
+{"name" : "u", "label" : "u", "screenshotPath" : "yahoo-search/S1/pngs/450.0_916.0_526.0_1008.0.png"}
+{"name" : "i", "label" : "i", "screenshotPath" : "yahoo-search/S1/pngs/524.0_916.0_600.0_1008.0.png"}
+{"name" : "o", "label" : "o", "screenshotPath" : "yahoo-search/S1/pngs/600.0_916.0_676.0_1008.0.png"}
+{"name" : "p", "label" : "p", "screenshotPath" : "yahoo-search/S1/pngs/674.0_916.0_750.0_1008.0.png"}
+{"name" : "a", "label" : "a", "screenshotPath" : "yahoo-search/S1/pngs/36.0_1024.0_112.0_1116.0.png"}
+{"name" : "s", "label" : "s", "screenshotPath" : "yahoo-search/S1/pngs/112.00000000000001_1024.0_188.0_1116.0.png"}
+{"name" : "d", "label" : "d", "screenshotPath" : "yahoo-search/S1/pngs/186.0_1024.0_262.0_1116.0.png"}
+{"name" : "f", "label" : "f", "screenshotPath" : "yahoo-search/S1/pngs/262.0_1024.0_338.0_1116.0.png"}
+{"name" : "g", "label" : "g", "screenshotPath" : "yahoo-search/S1/pngs/338.0_1024.0_414.0_1116.0.png"}
+{"name" : "h", "label" : "h", "screenshotPath" : "yahoo-search/S1/pngs/412.0_1024.0_488.0_1116.0.png"}
+{"name" : "j", "label" : "j", "screenshotPath" : "yahoo-search/S1/pngs/487.99999999999994_1024.0_564.0_1116.0.png"}
+{"name" : "k", "label" : "k", "screenshotPath" : "yahoo-search/S1/pngs/562.0_1024.0_638.0_1116.0.png"}
+{"name" : "l", "label" : "l", "screenshotPath" : "yahoo-search/S1/pngs/638.0_1024.0_714.0_1116.0.png"}
+{"name" : "shift", "label" : "shift", "screenshotPath" : "yahoo-search/S1/pngs/0.0_1132.0_96.0_1224.0.png"}
+{"name" : "z", "label" : "z", "screenshotPath" : "yahoo-search/S1/pngs/112.00000000000001_1132.0_188.0_1224.0.png"}
+{"name" : "x", "label" : "x", "screenshotPath" : "yahoo-search/S1/pngs/186.0_1132.0_262.0_1224.0.png"}
+{"name" : "c", "label" : "c", "screenshotPath" : "yahoo-search/S1/pngs/262.0_1132.0_338.0_1224.0.png"}
+{"name" : "v", "label" : "v", "screenshotPath" : "yahoo-search/S1/pngs/338.0_1132.0_414.0_1224.0.png"}
+{"name" : "b", "label" : "b", "screenshotPath" : "yahoo-search/S1/pngs/412.0_1132.0_488.0_1224.0.png"}
+{"name" : "n", "label" : "n", "screenshotPath" : "yahoo-search/S1/pngs/487.99999999999994_1132.0_564.0_1224.0.png"}
+{"name" : "m", "label" : "m", "screenshotPath" : "yahoo-search/S1/pngs/562.0_1132.0_638.0_1224.0.png"}
+{"name" : "delete", "label" : "delete", "screenshotPath" : "yahoo-search/S1/pngs/654.0_1132.0_750.0_1224.0.png"}
+{"name" : "more", "label" : "numbers", "screenshotPath" : "yahoo-search/S1/pngs/0.0_1240.0_94.0_1332.0.png"}
+{"name" : "Emoji", "label" : "Emoji", "screenshotPath" : "yahoo-search/S1/pngs/92.0_1240.0_188.0_1332.0.png"}
+{"name" : "dictation", "label" : "Dictate", "screenshotPath" : "yahoo-search/S1/pngs/186.0_1240.0_262.0_1332.0.png"}
+{"name" : "space", "label" : "space", "screenshotPath" : "yahoo-search/S1/pngs/262.0_1240.0_564.0_1332.0.png"}
+{"name" : "Search", "label" : "search", "screenshotPath" : "yahoo-search/S1/pngs/562.0_1240.0_750.0_1332.0.png"}
+{"name" : "Recent searches", "label" : "Recent searches", "screenshotPath" : "yahoo-search/S1/pngs/0.0_215.99999999999997_750.0_1334.0.png"}
+{"name" : "UIButton_close", "label" : "Close Search", "screenshotPath" : "yahoo-search/S1/pngs/32.0_112.0_112.0_192.0.png"}
+{"value" : "Search", "name" : "Search mail", "label" : "Search mail", "screenshotPath" : "yahoo-search/S1/pngs/128.0_112.0_626.0_192.0.png"}
+{"value" : "Recent searches", "name" : "Recent searches", "label" : "Recent searches", "screenshotPath" : "yahoo-search/S1/pngs/32.0_215.99999999999997_750.0_323.99999999999994.png"}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: wish-remove-item-from-cart/S1/pngs/1062.0_600.0_1104.0_699.0.png;
+coords: {'x1': 1062.0, 'y1': 600.0, 'x2': 1104.0, 'y2': 699.0};
+text_identifier: { "name" : "cartQuantityDropDown" };
+event: click;

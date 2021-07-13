@@ -1,0 +1,4 @@
+pathToElementImageCrop: removefavorite/S1/pngs/429_1126_603_1291.png;
+coords: {'x1': 429, 'y1': 1126, 'x2': 603, 'y2': 1291};
+text_identifier: { "content-desc" : "Favorites" };
+event: click;

@@ -1,0 +1,20 @@
+{ "resource-id" : "com.duckduckgo.mobile.android:id/focusDummy" , "screenshotPath" : "duckduckgo-back/S4/pngs/0_325_1080_1977.png"}
+{ "resource-id" : "com.duckduckgo.mobile.android:id/fireIconMenu" , "screenshotPath" : "duckduckgo-back/S4/pngs/756_171_860_325.png"}
+{ "resource-id" : "com.duckduckgo.mobile.android:id/tabsMenu" , "screenshotPath" : "duckduckgo-back/S4/pngs/882_198_948_298.png"}
+{ "resource-id" : "com.duckduckgo.mobile.android:id/browserMenu" , "screenshotPath" : "duckduckgo-back/S4/pngs/970_171_1080_325.png"}
+{ "resource-id" : "com.duckduckgo.mobile.android:id/omnibarTextInput" , "screenshotPath" : "duckduckgo-back/S4/pngs/122_193_711_303.png"}
+{ "content-desc" : "Privacy Grade" , "resource-id" : "com.duckduckgo.mobile.android:id/privacyGradeButton" , "screenshotPath" : "duckduckgo-back/S4/pngs/39_207_122_290.png"}
+{ "resource-id" : "js-lang-list-button" , "screenshotPath" : "duckduckgo-back/S4/pngs/145_1645_935_1744.png"}
+{ "content-desc" : "English 6 245 000+articles" , "resource-id" : "js-link-box-en" , "screenshotPath" : "duckduckgo-back/S4/pngs/44_765_313_938.png"}
+{ "content-desc" : "日本語 1 252 000+記事" , "resource-id" : "js-link-box-ja" , "screenshotPath" : "duckduckgo-back/S4/pngs/398_765_671_891.png"}
+{ "content-desc" : "Deutsch 2 534 000+Artikel" , "resource-id" : "js-link-box-de" , "screenshotPath" : "duckduckgo-back/S4/pngs/756_765_1028_938.png"}
+{ "content-desc" : "Español 1 659 000+artículos" , "resource-id" : "js-link-box-es" , "screenshotPath" : "duckduckgo-back/S4/pngs/44_985_313_1158.png"}
+{ "content-desc" : "Русский 1 697 000+статей" , "resource-id" : "js-link-box-ru" , "screenshotPath" : "duckduckgo-back/S4/pngs/398_985_671_1158.png"}
+{ "content-desc" : "Français 2 296 000+articles" , "resource-id" : "js-link-box-fr" , "screenshotPath" : "duckduckgo-back/S4/pngs/756_985_1028_1158.png"}
+{ "content-desc" : "Italiano 1 672 000+voci" , "resource-id" : "js-link-box-it" , "screenshotPath" : "duckduckgo-back/S4/pngs/44_1205_313_1331.png"}
+{ "content-desc" : "中文 1 175 000+條目" , "resource-id" : "js-link-box-zh" , "screenshotPath" : "duckduckgo-back/S4/pngs/398_1205_671_1331.png"}
+{ "content-desc" : "Polski 1 454 000+haseł" , "resource-id" : "js-link-box-pl" , "screenshotPath" : "duckduckgo-back/S4/pngs/756_1205_1028_1378.png"}
+{ "content-desc" : "Português 1 055 000+artigos" , "resource-id" : "js-link-box-pt" , "screenshotPath" : "duckduckgo-back/S4/pngs/44_1425_313_1598.png"}
+{ "content-desc" : "Wikimedia Foundation" , "screenshotPath" : "duckduckgo-back/S4/pngs/473_2024_830_2068.png"}
+{ "resource-id" : "searchInput" , "screenshotPath" : "duckduckgo-back/S4/pngs/24_602_902_726.png"}
+{ "resource-id" : "searchLanguage" , "screenshotPath" : "duckduckgo-back/S4/pngs/728_630_1034_699.png"}

@@ -1,0 +1,29 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "TipC-calc",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "send_keys",
+                    "tag": "0",
+                    "input": "10"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeStaticText[@name=\"$11.50\"])[1]"
+                }
+            ]
+        }
+    ]
+}

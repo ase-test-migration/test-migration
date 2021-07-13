@@ -1,0 +1,29 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "anydo-duedate",
+        "events": [
+            {
+                "type": "xPath",
+                "tag": "/XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]",
+                "event": "send_keys_enter",
+                "input": "Mytask"
+            },
+            {
+                "type": "name",
+                "tag": "Mytask",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Tomorrow, 9:00 AM",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_invisible",
+                "input": "Mar 28, 2021 9:00 AM"
+            }
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "testSubwayAddCart",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Raised Center Tabbar Order"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//XCUIElementTypeButton[@name=\"CONFIRM\"]"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "All Sandwiches menu. Tap here to select any item"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeOther[@name=\"productClassCell\"])[1]"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "cta1"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Continue Button"
+                }
+            ]
+        }
+    ]
+}

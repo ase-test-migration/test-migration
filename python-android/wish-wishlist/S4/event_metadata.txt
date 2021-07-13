@@ -1,0 +1,4 @@
+pathToElementImageCrop: wish-wishlist/S4/pngs/144_1148_936_1265.png;
+coords: {'x1': 144, 'y1': 1148, 'x2': 936, 'y2': 1265};
+text_identifier: { "resource-id" : "com.contextlogic.wish:id/create_wishlist_modal_done_button" };
+event: click;

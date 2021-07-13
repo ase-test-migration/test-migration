@@ -1,0 +1,38 @@
+{ "resource-id" : "com.google.android.apps.tasks:id/dtp_time_layout" , "screenshotPath" : "gtasks-dueDate/S2/pngs/100_1420_980_1561.png"}
+{ "resource-id" : "com.google.android.apps.tasks:id/dtp_repeat_layout" , "screenshotPath" : "gtasks-dueDate/S2/pngs/100_1561_980_1702.png"}
+{ "resource-id" : "com.google.android.apps.tasks:id/dtp_cancel" , "screenshotPath" : "gtasks-dueDate/S2/pngs/496_1702_738_1834.png"}
+{ "resource-id" : "com.google.android.apps.tasks:id/dtp_done" , "screenshotPath" : "gtasks-dueDate/S2/pngs/738_1702_980_1834.png"}
+{ "resource-id" : "android:id/day_picker_view_pager" , "screenshotPath" : "gtasks-dueDate/S2/pngs/100_485_980_1420.png"}
+{ "content-desc" : "Previous month" , "resource-id" : "android:id/prev" , "screenshotPath" : "gtasks-dueDate/S2/pngs/144_513_276_645.png"}
+{ "content-desc" : "Next month" , "resource-id" : "android:id/next" , "screenshotPath" : "gtasks-dueDate/S2/pngs/804_513_936_645.png"}
+{ "resource-id" : "android:id/month_view" , "screenshotPath" : "gtasks-dueDate/S2/pngs/100_485_980_1415.png"}
+{ "content-desc" : "01 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/595_755_705_865.png"}
+{ "content-desc" : "02 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/705_755_815_865.png"}
+{ "content-desc" : "03 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/815_755_925_865.png"}
+{ "content-desc" : "04 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/155_865_265_975.png"}
+{ "content-desc" : "05 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/265_865_375_975.png"}
+{ "content-desc" : "06 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/375_865_485_975.png"}
+{ "content-desc" : "07 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/485_865_595_975.png"}
+{ "content-desc" : "08 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/595_865_705_975.png"}
+{ "content-desc" : "09 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/705_865_815_975.png"}
+{ "content-desc" : "10 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/815_865_925_975.png"}
+{ "content-desc" : "11 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/155_975_265_1085.png"}
+{ "content-desc" : "12 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/265_975_375_1085.png"}
+{ "content-desc" : "13 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/375_975_485_1085.png"}
+{ "content-desc" : "14 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/485_975_595_1085.png"}
+{ "content-desc" : "15 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/595_975_705_1085.png"}
+{ "content-desc" : "16 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/705_975_815_1085.png"}
+{ "content-desc" : "17 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/815_975_925_1085.png"}
+{ "content-desc" : "18 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/155_1085_265_1195.png"}
+{ "content-desc" : "19 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/265_1085_375_1195.png"}
+{ "content-desc" : "20 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/375_1085_485_1195.png"}
+{ "content-desc" : "21 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/485_1085_595_1195.png"}
+{ "content-desc" : "22 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/595_1085_705_1195.png"}
+{ "content-desc" : "23 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/705_1085_815_1195.png"}
+{ "content-desc" : "24 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/815_1085_925_1195.png"}
+{ "content-desc" : "25 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/155_1195_265_1305.png"}
+{ "content-desc" : "26 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/265_1195_375_1305.png"}
+{ "content-desc" : "27 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/375_1195_485_1305.png"}
+{ "content-desc" : "28 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/485_1195_595_1305.png"}
+{ "content-desc" : "29 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/595_1195_705_1305.png"}
+{ "content-desc" : "30 April 2021" , "screenshotPath" : "gtasks-dueDate/S2/pngs/705_1195_815_1305.png"}

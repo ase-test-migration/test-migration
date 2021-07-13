@@ -1,0 +1,5 @@
+pathToElementImageCrop: usa-mynews/S7/pngs/75_344_687_413.png;
+coords: {'x1': 75, 'y1': 344, 'x2': 687, 'y2': 413};
+text_identifier: { "resource-id" : "com.usatoday.android.news:id/suggested_topic_name" };
+event: oracle;
+oracle-type: element_invisible;

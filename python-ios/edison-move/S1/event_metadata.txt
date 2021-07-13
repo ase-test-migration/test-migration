@@ -1,0 +1,4 @@
+pathToElementImageCrop: edison-move/S1/pngs/0.0_1246.0_107.99999999999999_1334.0.png;
+coords: {'x1': 0.0, 'y1': 1246.0, 'x2': 107.99999999999999, 'y2': 1334.0};
+text_identifier: { "label" : "Horizontal scroll bar, 1 page" };
+event: click;

@@ -1,0 +1,49 @@
+{
+    "tests": [
+        {
+            "name": "cnn-manage", 
+            "events": [
+                {
+                    "tag": "Saved Stories", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                },
+                {
+                    "oracle-type": "widget_exists",
+                    "tag": "Article Title",
+                    "type": "accessibilityId",
+                    "event": "oracle"
+                },
+                {
+                    "tag": "Edit", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "//XCUIElementTypeApplication[@name=\"CNN\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTable/XCUIElementTypeCell/XCUIElementTypeButton", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Remove", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                },
+                {
+                    "input": "Find your saved articles and videos here",
+                    "event": "oracle",
+                    "oracle-type": "text_exists"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "14.3", 
+        "platformName": "iOS"
+    }
+}

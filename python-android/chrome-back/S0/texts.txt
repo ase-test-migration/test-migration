@@ -1,0 +1,6 @@
+{ "resource-id" : "com.android.chrome:id/feed_stream_recycler_view" , "screenshotPath" : "chrome-back/S0/pngs/0_171_1080_1977.png"}
+{ "content-desc" : "Home" , "resource-id" : "com.android.chrome:id/home_button" , "screenshotPath" : "chrome-back/S0/pngs/0_171_132_325.png"}
+{ "content-desc" : "2 open tabs, tap to switch tabs" , "resource-id" : "com.android.chrome:id/tab_switcher_button" , "screenshotPath" : "chrome-back/S0/pngs/816_171_948_325.png"}
+{ "content-desc" : "Update available. More options" , "resource-id" : "com.android.chrome:id/menu_button" , "screenshotPath" : "chrome-back/S0/pngs/948_171_1080_325.png"}
+{ "resource-id" : "com.android.chrome:id/search_box_text" , "screenshotPath" : "chrome-back/S0/pngs/72_735_871_867.png"}
+{ "content-desc" : "Start voice search" , "resource-id" : "com.android.chrome:id/voice_search_button" , "screenshotPath" : "chrome-back/S0/pngs/904_735_1036_867.png"}

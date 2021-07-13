@@ -1,0 +1,5 @@
+{ "resource-id" : "com.guardian:id/rvSearches" , "screenshotPath" : "guardian-search/S3/pngs/0_228_1080_1776.png"}
+{ "resource-id" : "com.guardian:id/search_footer_text_view" , "screenshotPath" : "guardian-search/S3/pngs/0_900_1080_1050.png"}
+{ "content-desc" : "search" , "resource-id" : "com.guardian:id/iv_search" , "screenshotPath" : "guardian-search/S3/pngs/186_114_258_186.png"}
+{ "resource-id" : "com.guardian:id/etInput" , "screenshotPath" : "guardian-search/S3/pngs/258_84_1080_216.png"}
+{ "content-desc" : "Open Menu" , "resource-id" : "com.guardian:id/ivBackButton" , "screenshotPath" : "guardian-search/S3/pngs/24_90_144_210.png"}

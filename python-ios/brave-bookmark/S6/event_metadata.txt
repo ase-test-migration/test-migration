@@ -1,0 +1,4 @@
+pathToElementImageCrop: brave-bookmark/S6/pngs/438.0_906.0000000000001_714.0_948.0000000000001.png;
+coords: {'x1': 438.0, 'y1': 906.0000000000001, 'x2': 714.0, 'y2': 948.0000000000001};
+text_identifier: { "label" : "Bookmarks" };
+event: click;

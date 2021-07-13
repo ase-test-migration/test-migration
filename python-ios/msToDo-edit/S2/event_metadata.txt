@@ -1,0 +1,5 @@
+pathToElementImageCrop: msToDo-edit/S2/pngs/24.0_1449.0_1218.0_1611.0.png;
+coords: {'x1': 24.0, 'y1': 1449.0, 'x2': 1218.0, 'y2': 1611.0};
+text_identifier: { "label" : "Due date" };
+event: send_keys_enter;
+input: Mytask;

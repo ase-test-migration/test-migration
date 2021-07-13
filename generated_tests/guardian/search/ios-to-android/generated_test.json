@@ -1,0 +1,23 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "guardian-search",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "Open navigation button",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.guardian:id/clSearchBox",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Open Menu",
+                "event": "click"
+            }
+        ]
+    }
+}

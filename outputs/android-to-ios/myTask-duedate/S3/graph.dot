@@ -1,0 +1,50 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = My tasks\l|label = My tasks\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/myTask-duedate/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/myTask-duedate/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/myTask-duedate/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/myTask-duedate/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 77\l|y = 332\l|width = 260\l|height = 232\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/myTask-duedate/S3/pngs/231.0_996.0_1011.0_1692.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 77\l|y = 332\l|width = 260\l|height = 57\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/myTask-duedate/S3/pngs/231.0_996.0_1011.0_1167.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 77\l|y = 413\l|width = 260\l|height = 91\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/myTask-duedate/S3/pngs/231.0_1239.0_1011.0_1512.0.png\l}"]
+	7	[label="{type = XCUIElementTypeButton\l|name = CANCEL\l|label = CANCEL\l|enabled = true\l|visible = true\l|x = 175\l|y = 517\l|width = 53\l|height = 33\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/myTask-duedate/S3/pngs/525.0_1551.0_684.0_1650.0.png\l}"]
+	8	[label="{type = XCUIElementTypeButton\l|name = OK\l|label = OK\l|enabled = true\l|visible = true\l|x = 287\l|y = 517\l|width = 30\l|height = 33\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/myTask-duedate/S3/pngs/861.0_1551.0_951.0_1650.0.png\l}"]
+	9	[label="{type = XCUIElementTypeStaticText\l|value = Choose a section\l|name = Choose a section\l|label = Choose a section\l|enabled = true\l|visible = true\l|x = 89\l|y = 349\l|width = 236\l|height = 23\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/myTask-duedate/S3/pngs/267.0_1047.0_975.0_1116.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 77\l|y = 413\l|width = 260\l|height = 31\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/myTask-duedate/S3/pngs/231.0_1239.0_1011.0_1332.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 77\l|y = 443\l|width = 260\l|height = 31\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/myTask-duedate/S3/pngs/231.0_1329.0_1011.0_1422.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 77\l|y = 473\l|width = 260\l|height = 31\l|numberOfChildren = 4\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/myTask-duedate/S3/pngs/231.0_1419.0_1011.0_1512.0.png\l}"]
+	13	[label="{type = XCUIElementTypeStaticText\l|value = CANCEL\l|name = CANCEL\l|label = CANCEL\l|enabled = true\l|visible = true\l|x = 175\l|y = 523\l|width = 53\l|height = 21\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/myTask-duedate/S3/pngs/525.0_1568.9999999999998_684.0_1631.9999999999998.png\l}"]
+	14	[label="{type = XCUIElementTypeStaticText\l|value = OK\l|name = OK\l|label = OK\l|enabled = true\l|visible = true\l|x = 292\l|y = 523\l|width = 20\l|height = 21\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/myTask-duedate/S3/pngs/876.0_1568.9999999999998_936.0_1631.9999999999998.png\l}"]
+	15	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 77\l|y = 413\l|width = 260\l|height = 31\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/myTask-duedate/S3/pngs/231.0_1239.0_1011.0_1332.0.png\l}"]
+	16	[label="{type = XCUIElementTypeStaticText\l|value = Basic\l|name = Basic\l|label = Basic\l|enabled = true\l|visible = true\l|x = 133\l|y = 418\l|width = 196\l|height = 21\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/myTask-duedate/S3/pngs/399.0_1254.0_987.0_1317.0.png\l}"]
+	17	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 77\l|y = 443\l|width = 260\l|height = 31\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/myTask-duedate/S3/pngs/231.0_1329.0_1011.0_1422.0.png\l}"]
+	18	[label="{type = XCUIElementTypeStaticText\l|value = Common Tasks\l|name = Common Tasks\l|label = Common Tasks\l|enabled = true\l|visible = true\l|x = 133\l|y = 448\l|width = 196\l|height = 21\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/myTask-duedate/S3/pngs/399.0_1344.0_987.0_1407.0.png\l}"]
+	19	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 77\l|y = 473\l|width = 260\l|height = 31\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/myTask-duedate/S3/pngs/231.0_1419.0_1011.0_1512.0.png\l}"]
+	20	[label="{type = XCUIElementTypeStaticText\l|value = Folders\l|name = Folders\l|label = Folders\l|enabled = true\l|visible = true\l|x = 133\l|y = 478\l|width = 50\l|height = 21\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/myTask-duedate/S3/pngs/399.0_1434.0000000000002_549.0_1497.0000000000002.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	4 -> 7
+	4 -> 8
+	5 -> 9
+	6 -> 10
+	6 -> 11
+	6 -> 12
+	7 -> 13
+	8 -> 14
+	10 -> 15
+	10 -> 16
+	11 -> 17
+	11 -> 18
+	12 -> 19
+	12 -> 20
+
+
+}

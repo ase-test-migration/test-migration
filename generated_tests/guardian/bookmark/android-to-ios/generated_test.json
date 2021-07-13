@@ -1,0 +1,18 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "guardian-bookmark",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Live: Biden signs order to protect US supply chains as Moderna announces progress on vaccine updates",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Save for later",
+                "event": "click"
+            }
+        ]
+    }
+}

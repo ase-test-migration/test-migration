@@ -1,0 +1,23 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "ebay-login",
+        "events": [
+            {
+                "type": "name",
+                "tag": "button_signin",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "sign_in_landing_page_loaded",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Sign in"
+            }
+        ]
+    }
+}

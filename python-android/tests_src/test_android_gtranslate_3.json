@@ -1,0 +1,34 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "testGtransSaved",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Add to phrasebook"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Open navigation drawer"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.google.android.apps.translate:id/menu_phrasebook"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.google.android.apps.translate:id/card_bg_holder"
+                }
+            ]
+        }
+    ]
+}

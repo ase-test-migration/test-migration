@@ -1,0 +1,4 @@
+pathToElementImageCrop: abc_categories/S2/pngs/0_66_154_220.png;
+coords: {'x1': 0, 'y1': 66, 'x2': 154, 'y2': 220};
+text_identifier: { "content-desc" : "Open the menu" };
+event: click;

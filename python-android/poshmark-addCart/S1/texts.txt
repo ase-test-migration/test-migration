@@ -1,0 +1,11 @@
+{ "resource-id" : "com.poshmark.app:id/listing_details_list_view" , "screenshotPath" : "poshmark-addCart/S1/pngs/0_221_1080_2214.png"}
+{ "resource-id" : "com.poshmark.app:id/leftNavButton" , "screenshotPath" : "poshmark-addCart/S1/pngs/32_100_137_195.png"}
+{ "resource-id" : "com.poshmark.app:id/listing_details_offer_button" , "screenshotPath" : "poshmark-addCart/S1/pngs/571_2214_762_2287.png"}
+{ "resource-id" : "com.poshmark.app:id/listing_details_buy_button" , "screenshotPath" : "poshmark-addCart/S1/pngs/762_2214_1080_2287.png"}
+{ "content-desc" : "rightNavButton3" , "resource-id" : "com.poshmark.app:id/dressing_room_button_layout" , "screenshotPath" : "poshmark-addCart/S1/pngs/711_116_816_179.png"}
+{ "content-desc" : "rightNavButton2" , "resource-id" : "com.poshmark.app:id/shareButton" , "screenshotPath" : "poshmark-addCart/S1/pngs/816_100_932_195.png"}
+{ "content-desc" : "rightNavButton1" , "resource-id" : "com.poshmark.app:id/menuButton" , "screenshotPath" : "poshmark-addCart/S1/pngs/932_100_1048_195.png"}
+{ "resource-id" : "com.poshmark.app:id/listing_details_header_avatar" , "screenshotPath" : "poshmark-addCart/S1/pngs/32_263_127_358.png"}
+{ "resource-id" : "com.poshmark.app:id/listing_details_header_user_name" , "screenshotPath" : "poshmark-addCart/S1/pngs/148_253_718_306.png"}
+{ "resource-id" : "com.poshmark.app:id/listing_details_header_like" , "screenshotPath" : "poshmark-addCart/S1/pngs/869_253_932_316.png"}
+{ "resource-id" : "com.poshmark.app:id/listing_details_header_comment" , "screenshotPath" : "poshmark-addCart/S1/pngs/985_253_1048_316.png"}

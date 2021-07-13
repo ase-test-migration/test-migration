@@ -1,0 +1,5 @@
+pathToElementImageCrop: guardian-search/S2/pngs/60.0_288.0_1182.0_396.0.png;
+coords: {'x1': 60.0, 'y1': 288.0, 'x2': 1182.0, 'y2': 396.0};
+text_identifier: { "label" : "Search" };
+event: send_keys;
+input: travel;

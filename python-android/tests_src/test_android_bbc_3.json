@@ -1,0 +1,40 @@
+{
+    "desiredCapabilities": {
+      "platformName": "Android",
+      "platformVersion": "9",
+      "deviceName": "Nexus_5_API_28",
+      "newCommandTimeout":100000
+
+    },
+    "tests" :[
+                {
+
+                    "name" : "testBBCTopMenu",
+                    "events" : [
+                      {
+                          "event": "click",
+                          "tag": "My News",
+                          "type": "accessibilityId"
+                      },
+                      {
+                          "event": "click",
+                          "tag": "Popular",
+                          "type": "accessibilityId"
+                      },
+                      {
+                          "event": "click",
+                          "tag": "LIVE",
+                          "type": "accessibilityId"
+                      },
+                      {
+                          "event": "click",
+                          "tag": "US election 2020",
+                          "type": "accessibilityId"
+                      }
+                  ]
+
+
+
+    }
+]
+}

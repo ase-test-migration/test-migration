@@ -1,0 +1,4 @@
+pathToElementImageCrop: target-addCart/S0/pngs/32_305_815_452.png;
+coords: {'x1': 32, 'y1': 305, 'x2': 815, 'y2': 452};
+text_identifier: { "content-desc" : "Find items or offers, text field, search." , "resource-id" : "com.target.ui:id/tab_header_search_element" };
+event: click;

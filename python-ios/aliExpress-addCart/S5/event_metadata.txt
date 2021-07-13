@@ -1,0 +1,4 @@
+pathToElementImageCrop: aliExpress-addCart/S5/pngs/0.0_1230.0_750.0_1334.0.png;
+coords: {'x1': 0.0, 'y1': 1230.0, 'x2': 750.0, 'y2': 1334.0};
+text_identifier: { "label" : "Continue" };
+event: click;

@@ -1,0 +1,39 @@
+{"name" : "To Do", "label" : "To Do", "screenshotPath" : "msToDo-addTask/S1/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "Q", "label" : "Q", "screenshotPath" : "msToDo-addTask/S1/pngs/0.0_916.0_76.0_1008.0.png"}
+{"name" : "W", "label" : "W", "screenshotPath" : "msToDo-addTask/S1/pngs/74.0_916.0_150.0_1008.0.png"}
+{"name" : "E", "label" : "E", "screenshotPath" : "msToDo-addTask/S1/pngs/150.0_916.0_226.0_1008.0.png"}
+{"name" : "R", "label" : "R", "screenshotPath" : "msToDo-addTask/S1/pngs/224.00000000000003_916.0_300.0_1008.0.png"}
+{"name" : "T", "label" : "T", "screenshotPath" : "msToDo-addTask/S1/pngs/300.0_916.0_376.0_1008.0.png"}
+{"name" : "Y", "label" : "Y", "screenshotPath" : "msToDo-addTask/S1/pngs/374.0_916.0_450.0_1008.0.png"}
+{"name" : "U", "label" : "U", "screenshotPath" : "msToDo-addTask/S1/pngs/450.0_916.0_526.0_1008.0.png"}
+{"name" : "I", "label" : "I", "screenshotPath" : "msToDo-addTask/S1/pngs/524.0_916.0_600.0_1008.0.png"}
+{"name" : "O", "label" : "O", "screenshotPath" : "msToDo-addTask/S1/pngs/600.0_916.0_676.0_1008.0.png"}
+{"name" : "P", "label" : "P", "screenshotPath" : "msToDo-addTask/S1/pngs/674.0_916.0_750.0_1008.0.png"}
+{"name" : "A", "label" : "A", "screenshotPath" : "msToDo-addTask/S1/pngs/36.0_1024.0_112.0_1116.0.png"}
+{"name" : "S", "label" : "S", "screenshotPath" : "msToDo-addTask/S1/pngs/112.00000000000001_1024.0_188.0_1116.0.png"}
+{"name" : "D", "label" : "D", "screenshotPath" : "msToDo-addTask/S1/pngs/186.0_1024.0_262.0_1116.0.png"}
+{"name" : "F", "label" : "F", "screenshotPath" : "msToDo-addTask/S1/pngs/262.0_1024.0_338.0_1116.0.png"}
+{"name" : "G", "label" : "G", "screenshotPath" : "msToDo-addTask/S1/pngs/338.0_1024.0_414.0_1116.0.png"}
+{"name" : "H", "label" : "H", "screenshotPath" : "msToDo-addTask/S1/pngs/412.0_1024.0_488.0_1116.0.png"}
+{"name" : "J", "label" : "J", "screenshotPath" : "msToDo-addTask/S1/pngs/487.99999999999994_1024.0_564.0_1116.0.png"}
+{"name" : "K", "label" : "K", "screenshotPath" : "msToDo-addTask/S1/pngs/562.0_1024.0_638.0_1116.0.png"}
+{"name" : "L", "label" : "L", "screenshotPath" : "msToDo-addTask/S1/pngs/638.0_1024.0_714.0_1116.0.png"}
+{"value" : "1", "name" : "shift", "label" : "shift", "screenshotPath" : "msToDo-addTask/S1/pngs/0.0_1132.0_96.0_1224.0.png"}
+{"name" : "Z", "label" : "Z", "screenshotPath" : "msToDo-addTask/S1/pngs/112.00000000000001_1132.0_188.0_1224.0.png"}
+{"name" : "X", "label" : "X", "screenshotPath" : "msToDo-addTask/S1/pngs/186.0_1132.0_262.0_1224.0.png"}
+{"name" : "C", "label" : "C", "screenshotPath" : "msToDo-addTask/S1/pngs/262.0_1132.0_338.0_1224.0.png"}
+{"name" : "V", "label" : "V", "screenshotPath" : "msToDo-addTask/S1/pngs/338.0_1132.0_414.0_1224.0.png"}
+{"name" : "B", "label" : "B", "screenshotPath" : "msToDo-addTask/S1/pngs/412.0_1132.0_488.0_1224.0.png"}
+{"name" : "N", "label" : "N", "screenshotPath" : "msToDo-addTask/S1/pngs/487.99999999999994_1132.0_564.0_1224.0.png"}
+{"name" : "M", "label" : "M", "screenshotPath" : "msToDo-addTask/S1/pngs/562.0_1132.0_638.0_1224.0.png"}
+{"name" : "delete", "label" : "delete", "screenshotPath" : "msToDo-addTask/S1/pngs/654.0_1132.0_750.0_1224.0.png"}
+{"name" : "more", "label" : "numbers", "screenshotPath" : "msToDo-addTask/S1/pngs/0.0_1240.0_94.0_1332.0.png"}
+{"name" : "dictation", "label" : "Dictate", "screenshotPath" : "msToDo-addTask/S1/pngs/92.0_1240.0_188.0_1332.0.png"}
+{"name" : "space", "label" : "space", "screenshotPath" : "msToDo-addTask/S1/pngs/186.0_1240.0_564.0_1332.0.png"}
+{"name" : "Return", "label" : "return", "screenshotPath" : "msToDo-addTask/S1/pngs/562.0_1240.0_750.0_1332.0.png"}
+{"value" : "Add a Task", "name" : "screenreader_task_add_task_field", "label" : "Add a task", "screenshotPath" : "msToDo-addTask/S1/pngs/16.0_678.0_734.0_786.0.png"}
+{"name" : "L", "label" : "L", "screenshotPath" : "msToDo-addTask/S1/pngs/16.0_676.0_128.0_788.0.png"}
+{"value" : "0%", "name" : "Vertical scroll bar, 1 page", "label" : "Vertical scroll bar, 1 page", "screenshotPath" : "msToDo-addTask/S1/pngs/668.0_781.9999999999999_728.0_885.9999999999999.png"}
+{"name" : "Tasks", "label" : "Tasks", "screenshotPath" : "msToDo-addTask/S1/pngs/48.0_781.9999999999999_124.0_885.9999999999999.png"}
+{"name" : "Remind me", "label" : "Remind me", "screenshotPath" : "msToDo-addTask/S1/pngs/140.0_781.9999999999999_216.0_885.9999999999999.png"}
+{"name" : "Due date", "label" : "Due date", "screenshotPath" : "msToDo-addTask/S1/pngs/232.0_781.9999999999999_308.0_885.9999999999999.png"}

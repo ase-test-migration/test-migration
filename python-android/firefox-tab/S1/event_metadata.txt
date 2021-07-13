@@ -1,0 +1,4 @@
+pathToElementImageCrop: firefox-tab/S1/pngs/860_1928_1036_1977.png;
+coords: {'x1': 860, 'y1': 1928, 'x2': 1036, 'y2': 2112};
+text_identifier: { "content-desc" : "Add tab" , "resource-id" : "org.mozilla.firefox:id/new_tab_button" };
+event: click;

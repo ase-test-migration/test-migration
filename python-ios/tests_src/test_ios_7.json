@@ -1,0 +1,32 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer"
+    },
+    "tests" : [
+        {
+            "name" : "testSaveStories",
+            "events": [
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "Health",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "xPath", 
+                    "tag" : "(//XCUIElementTypeButton[@name=\"save\"])[1]",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "Saved Stories",
+                    "event" : "click" 
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: removefavorite/S2/pngs/0_1293_1080_1566.png;
+coords: {'x1': 0, 'y1': 1293, 'x2': 1080, 'y2': 1566};
+text_identifier: { "resource-id" : "com.postmates.android:id/layout_multiple_row_carousel_item" };
+event: click;

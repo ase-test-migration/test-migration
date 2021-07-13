@@ -1,0 +1,4 @@
+pathToElementImageCrop: todoist-add/S2/pngs/948_1331_1080_1463.png;
+coords: {'x1': 948, 'y1': 1331, 'x2': 1080, 'y2': 1463};
+text_identifier: { "content-desc" : "Add" , "resource-id" : "android:id/button1" };
+event: click;

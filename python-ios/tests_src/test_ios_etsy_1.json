@@ -1,0 +1,40 @@
+{
+    "tests": [
+        {
+            "name": "etsy-login", 
+            "events": [
+                {
+                    "tag": "(//XCUIElementTypeButton[@name=\"I already have an account\"])[2]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "input": "email@example.com", 
+                    "tag": "//XCUIElementTypeOther[@name=\"Email or Username\"]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTextField", 
+                    "type": "xPath", 
+                    "event": "send_keys"
+                }, 
+                {
+                    "input": "testtest123", 
+                    "tag": "//XCUIElementTypeOther[@name=\"Password\"]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeSecureTextField", 
+                    "type": "xPath", 
+                    "event": "send_keys"
+                }, 
+                {
+                    "tag": "//XCUIElementTypeButton[@name=\"Sign in\"]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "Someone's iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "13.4.1", 
+        "platformName": "iOS"
+    }
+}

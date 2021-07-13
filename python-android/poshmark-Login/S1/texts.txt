@@ -1,0 +1,6 @@
+{ "resource-id" : "com.poshmark.app:id/leftNavButton" , "screenshotPath" : "poshmark-Login/S1/pngs/32_100_137_195.png"}
+{ "content-desc" : "rightNavButton1" , "resource-id" : "com.poshmark.app:id/nextButton" , "screenshotPath" : "poshmark-Login/S1/pngs/850_100_1048_195.png"}
+{ "resource-id" : "com.poshmark.app:id/buttonForgotPassword" , "screenshotPath" : "poshmark-Login/S1/pngs/336_690_743_851.png"}
+{ "content-desc" : "username" , "resource-id" : "com.poshmark.app:id/usernameTxt" , "screenshotPath" : "poshmark-Login/S1/pngs/26_329_1054_451.png"}
+{ "content-desc" : "password" , "resource-id" : "com.poshmark.app:id/passwordTxt" , "screenshotPath" : "poshmark-Login/S1/pngs/26_506_1054_648.png"}
+{ "content-desc" : "Show password" , "resource-id" : "com.poshmark.app:id/text_input_end_icon" , "screenshotPath" : "poshmark-Login/S1/pngs/928_506_1054_624.png"}

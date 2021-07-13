@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "ebay-remove-from-cart",
+        "events": [
+            {
+                "type": "name",
+                "tag": "button_Cart",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "button_shoppingCart_item",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "oracle-type": "widget_exists",
+                "type": "name",
+                "tag": "eBay shopping cart"
+            }
+        ]
+    }
+}

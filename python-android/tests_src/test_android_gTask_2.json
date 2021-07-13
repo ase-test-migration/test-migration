@@ -1,0 +1,35 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "R3CN30038ME",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "gTask-newList",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Switch task lists or account"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.support.v7.widget.RecyclerView/android.support.v7.widget.LinearLayoutCompat[2]/android.widget.CheckedTextView"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys",
+                    "tag": "com.google.android.apps.tasks:id/edit_list_title",
+                    "input": "Sample List"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.google.android.apps.tasks:id/done_button"
+                }
+            ]
+        }
+    ]
+}

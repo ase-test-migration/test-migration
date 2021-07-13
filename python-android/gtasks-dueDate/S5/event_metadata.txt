@@ -1,0 +1,5 @@
+pathToElementImageCrop: gtasks-dueDate/S5/pngs/165_724_631_812.png;
+coords: {'x1': 165, 'y1': 724, 'x2': 631, 'y2': 812};
+text_identifier: { "resource-id" : "com.google.android.apps.tasks:id/edit_scheduled_time_chip" };
+event: oracle;
+oracle-type: widget_exists;

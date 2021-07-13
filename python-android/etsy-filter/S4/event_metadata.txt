@@ -1,0 +1,6 @@
+pathToElementImageCrop: ;
+coords: ;
+text_identifier: { Space Keycap };
+event: oracle;
+oracle-type: text_exists;
+input: Space Keycap;

@@ -1,0 +1,80 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = To Do\l|label = To Do\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeSheet\l|name = Keep track of everything\l|label = Keep track of everything\l|enabled = true\l|visible = true\l|x = 8\l|y = 599\l|width = 398\l|height = 263\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/24.0_1797.0_1218.0_2586.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 599\l|width = 398\l|height = 263\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/24.0_1797.0_1218.0_2586.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 599\l|width = 398\l|height = 198\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/24.0_1797.0_1218.0_2391.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 805\l|width = 398\l|height = 57\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/24.0_2415.0_1218.0_2586.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 599\l|width = 398\l|height = 198\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/24.0_1797.0_1218.0_2391.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 805\l|width = 398\l|height = 57\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/24.0_2415.0_1218.0_2586.0.png\l}"]
+	9	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 8\l|y = 599\l|width = 398\l|height = 84\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/24.0_1797.0_1218.0_2049.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 682\l|width = 398\l|height = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/24.0_2046.0_1218.0_2049.0.png\l}"]
+	11	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 8\l|y = 682\l|width = 398\l|height = 115\l|numberOfChildren = 3\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/24.0_2046.0_1218.0_2391.0.png\l}"]
+	12	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 8\l|y = 805\l|width = 398\l|height = 57\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/24.0_2415.0_1218.0_2586.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 599\l|width = 398\l|height = 84\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/24.0_1797.0_1218.0_2049.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 682\l|width = 398\l|height = 1\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/24.0_2046.0_1218.0_2049.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 682\l|width = 398\l|height = 115\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/24.0_2046.0_1218.0_2391.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 1 page\l|label = Vertical scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 373\l|y = 682\l|width = 30\l|height = 115\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/1119.0_2046.0_1209.0_2391.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 8\l|y = 764\l|width = 398\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/24.0_2292.0_1218.0_2382.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 805\l|width = 398\l|height = 57\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/24.0_2415.0_1218.0_2586.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 8\l|y = 830\l|width = 398\l|height = 29\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/24.0_2490.0_1218.0_2577.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 24\l|y = 613\l|width = 366\l|height = 46\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/72.0_1839.0_1170.0_1977.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 682\l|width = 398\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/24.0_2046.0_1218.0_2049.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 682\l|width = 398\l|height = 115\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/24.0_2046.0_1218.0_2391.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 805\l|width = 398\l|height = 57\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/24.0_2415.0_1218.0_2586.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 24\l|y = 613\l|width = 366\l|height = 46\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/72.0_1839.0_1170.0_1977.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 682\l|width = 398\l|height = 58\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/24.0_2046.0_1218.0_2220.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 739\l|width = 398\l|height = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/24.0_2217.0_1218.0_2220.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 740\l|width = 398\l|height = 57\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/24.0_2220.0_1218.0_2391.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 805\l|width = 398\l|height = 57\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/24.0_2415.0_1218.0_2586.0.png\l}"]
+	29	[label="{type = XCUIElementTypeStaticText\l|value = Keep track of everything\l|name = Keep track of everything\l|label = Keep track of everything\l|enabled = true\l|visible = true\l|x = 24\l|y = 613\l|width = 366\l|height = 18\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/72.0_1839.0_1170.0_1893.0.png\l}"]
+	30	[label="{type = XCUIElementTypeStaticText\l|value = Get reminded when it's time to complete a task.\l|name = Get reminded when it's time to complete a task.\l|label = Get reminded when it's time to complete a task.\l|enabled = true\l|visible = true\l|x = 24\l|y = 641\l|width = 366\l|height = 18\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/72.0_1923.0_1170.0_1977.0.png\l}"]
+	31	[label="{type = XCUIElementTypeButton\l|name = Turn on notifications\l|label = Turn on notifications\l|enabled = true\l|visible = true\l|x = 8\l|y = 682\l|width = 398\l|height = 58\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/24.0_2046.0_1218.0_2220.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 739\l|width = 398\l|height = 1\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/24.0_2217.0_1218.0_2220.0.png\l}"]
+	33	[label="{type = XCUIElementTypeButton\l|name = Not now\l|label = Not now\l|enabled = true\l|visible = true\l|x = 8\l|y = 740\l|width = 398\l|height = 57\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/24.0_2220.0_1218.0_2391.0.png\l}"]
+	34	[label="{type = XCUIElementTypeButton\l|name = Cancel\l|label = Cancel\l|enabled = true\l|visible = true\l|x = 8\l|y = 805\l|width = 398\l|height = 57\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/24.0_2415.0_1218.0_2586.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 739\l|width = 398\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-edit/S8/pngs/24.0_2217.0_1218.0_2220.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	5 -> 7
+	6 -> 8
+	7 -> 9
+	7 -> 10
+	7 -> 11
+	8 -> 12
+	9 -> 13
+	10 -> 14
+	11 -> 15
+	11 -> 16
+	11 -> 17
+	12 -> 18
+	12 -> 19
+	13 -> 20
+	14 -> 21
+	15 -> 22
+	18 -> 23
+	20 -> 24
+	22 -> 25
+	22 -> 26
+	22 -> 27
+	23 -> 28
+	24 -> 29
+	24 -> 30
+	25 -> 31
+	26 -> 32
+	27 -> 33
+	28 -> 34
+	32 -> 35
+
+
+}

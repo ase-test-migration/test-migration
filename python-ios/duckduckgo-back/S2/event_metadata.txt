@@ -1,0 +1,4 @@
+pathToElementImageCrop: duckduckgo-back/S2/pngs/88.0_52.0_562.0_132.0.png;
+coords: {'x1': 88.0, 'y1': 52.0, 'x2': 562.0, 'y2': 132.0};
+text_identifier: { "name" : "searchEntry" };
+event: click;

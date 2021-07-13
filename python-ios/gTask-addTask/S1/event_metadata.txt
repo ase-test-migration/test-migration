@@ -1,0 +1,5 @@
+pathToElementImageCrop: gTask-addTask/S1/pngs/48.0_740.0_702.0_782.0.png;
+coords: {'x1': 48.0, 'y1': 740.0, 'x2': 702.0, 'y2': 782.0};
+text_identifier: {  };
+event: send_keys;
+input: Test01;

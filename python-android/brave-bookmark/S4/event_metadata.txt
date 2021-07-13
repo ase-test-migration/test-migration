@@ -1,0 +1,4 @@
+pathToElementImageCrop: brave-bookmark/S4/pngs/365_572_987_704.png;
+coords: {'x1': 365, 'y1': 572, 'x2': 987, 'y2': 704};
+text_identifier: { "content-desc" : "Bookmarks" , "resource-id" : "com.brave.browser:id/menu_item_text" };
+event: click;

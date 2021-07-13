@@ -1,0 +1,4 @@
+pathToElementImageCrop: poshmark-addCart/S0/pngs/21_1156_244_1379.png;
+coords: {'x1': 21, 'y1': 1156, 'x2': 244, 'y2': 1379};
+text_identifier: { "content-desc" : "shop_likes0:Nike Dri Fit OU Oklahoma University Polo Sz L" , "resource-id" : "com.poshmark.app:id/coverShotViewBig_v2" };
+event: click;

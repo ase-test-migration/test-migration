@@ -1,0 +1,4 @@
+pathToElementImageCrop: msToDo-delTask/S1/pngs/630.0_1242.0_718.0_1330.0.png;
+coords: {'x1': 630.0, 'y1': 1242.0, 'x2': 718.0, 'y2': 1330.0};
+text_identifier: { "label" : "Delete Test01" };
+event: click;

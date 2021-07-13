@@ -1,0 +1,35 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "chrome-search",
+        "events": [
+            {
+                "type": "name",
+                "tag": "NTPHomeFakeOmniboxAccessibilityID",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Address",
+                "event": "send_keys_enter",
+                "input": "google.com"
+            },
+            {
+                "type": "name",
+                "tag": "Address and search bar",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Address",
+                "event": "send_keys_enter",
+                "input": "chess.com"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Play Chess for Free"
+            }
+        ]
+    }
+}

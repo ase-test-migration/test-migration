@@ -1,0 +1,110 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Wish\l|label = Wish\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeNavigationBar\l|name = Cart\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeButton\l|name = closeDialogButton\l|label = closeDialogButton\l|enabled = true\l|visible = true\l|x = 16\l|y = 27\l|width = 30\l|height = 30\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/32.0_53.99999999999999_92.0_114.0.png\l}"]
+	7	[label="{type = XCUIElementTypeStaticText\l|value = Cart\l|name = pageTitle\l|label = Cart\l|enabled = true\l|visible = true\l|x = 169\l|y = 30\l|width = 37\l|height = 24\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/338.0_60.00000000000001_412.0_108.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 531\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/0.0_128.0_750.0_1190.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 595\l|width = 375\l|height = 72\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/0.0_1190.0_750.0_1334.0.png\l}"]
+	15	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 47\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/0.0_128.0_750.0_222.0.png\l}"]
+	16	[label="{type = XCUIElementTypeCell\l|name = cartItemCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 110\l|width = 375\l|height = 131\l|index = 1\l|numberOfChildren = 8\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/0.0_220.0_750.0_482.0.png\l}"]
+	17	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 241\l|width = 375\l|height = 47\l|index = 2\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/0.0_482.0_750.0_576.0.png\l}"]
+	18	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 287\l|width = 375\l|height = 349\l|index = 3\l|numberOfChildren = 13\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/0.0_574.0_750.0_1272.0.png\l}"]
+	19	[label="{type = XCUIElementTypeButton\l|name = checkoutButton\l|label = Checkout\l|enabled = true\l|visible = true\l|x = 16\l|y = 611\l|width = 343\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/32.0_1222.0_718.0_1302.0.png\l}"]
+	20	[label="{type = XCUIElementTypeStaticText\l|value = Items in Cart\l|name = Items in Cart\l|label = Items in Cart\l|enabled = true\l|visible = true\l|x = 16\l|y = 80\l|width = 87\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/32.0_160.0_206.0_198.0.png\l}"]
+	21	[label="{type = XCUIElementTypeStaticText\l|value = $29.00\l|name = cartItemCrossedOutPrice\l|label = $29.00\l|enabled = true\l|visible = true\l|x = 311\l|y = 153\l|width = 48\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/622.0_306.0_718.0_344.0.png\l}"]
+	22	[label="{type = XCUIElementTypeStaticText\l|value = Purple\l|name = cartItemSizeColor\l|label = Purple\l|enabled = true\l|visible = true\l|x = 96\l|y = 153\l|width = 199\l|height = 16\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/192.0_306.0_590.0_338.0.png\l}"]
+	23	[label="{type = XCUIElementTypeStaticText\l|value = Shipping:  $7.00\l|name = cartItemShipping\l|label = Shipping:  $7.00\l|enabled = true\l|visible = true\l|x = 96\l|y = 173\l|width = 199\l|height = 16\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/192.0_346.0_590.0_378.0.png\l}"]
+	24	[label="{type = XCUIElementTypeStaticText\l|value = Estimated delivery by Apr 7 - Apr 19\l|name = cartItemShippingDate\l|label = Estimated delivery by Apr 7 - Apr 19\l|enabled = true\l|visible = true\l|x = 96\l|y = 193\l|width = 199\l|height = 32\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/192.0_386.0_590.0_450.0.png\l}"]
+	25	[label="{type = XCUIElementTypeImage\l|name = cartItemImage\l|enabled = true\l|visible = true\l|x = 16\l|y = 126\l|width = 64\l|height = 66\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/32.0_252.0_160.0_384.0.png\l}"]
+	26	[label="{type = XCUIElementTypeStaticText\l|value = 1 Pcs Ht801 Non-Contact Forehead Temperature Tool High Precision Thermometer\l|name = cartItemNames\l|label = 1 Pcs Ht801 Non-Contact Forehead Temperature Tool High Precision Thermometer\l|enabled = true\l|visible = true\l|x = 96\l|y = 126\l|width = 199\l|height = 19\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/192.0_252.0_590.0_290.0.png\l}"]
+	27	[label="{type = XCUIElementTypeStaticText\l|value = $24.00\l|name = cartItemPrice\l|label = $24.00\l|enabled = true\l|visible = true\l|x = 311\l|y = 126\l|width = 48\l|height = 19\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/622.0_252.0_718.0_290.0.png\l}"]
+	28	[label="{type = XCUIElementTypeStaticText\l|value = 1\l|name = cartQuantityDropDown\l|label = 1\l|enabled = true\l|visible = true\l|x = 315\l|y = 193\l|width = 14\l|height = 32\l|index = 7\l|numberOfChildren = 0\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/630.0_386.0_658.0_450.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 241\l|width = 375\l|height = 47\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/0.0_482.0_750.0_576.0.png\l}"]
+	30	[label="{type = XCUIElementTypeStaticText\l|value = Order Summary\l|name = Order Summary\l|label = Order Summary\l|enabled = true\l|visible = true\l|x = 16\l|y = 257\l|width = 108\l|height = 19\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/32.0_514.0_247.99999999999997_552.0.png\l}"]
+	31	[label="{type = XCUIElementTypeButton\l|name = viewCouponsButton\l|label = View available coupons  \l|enabled = true\l|visible = true\l|x = 0\l|y = 343\l|width = 205\l|height = 37\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/0.0_685.9999999999999_410.0_759.9999999999999.png\l}"]
+	32	[label="{type = XCUIElementTypeButton\l|name = applyButton\l|label = Apply\l|enabled = true\l|visible = true\l|x = 271\l|y = 303\l|width = 88\l|height = 41\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/542.0_606.0_718.0_688.0.png\l}"]
+	33	[label="{type = XCUIElementTypeTextView\l|value = By tapping 'Checkout', you agree to the Terms of Use and Privacy Policy\l|enabled = true\l|visible = true\l|x = 16\l|y = 584\l|width = 343\l|height = 48\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/32.0_1168.0_718.0_1264.0.png\l}"]
+	34	[label="{type = XCUIElementTypeStaticText\l|value = 30 Day Free Return and Refund\l|name = cartRefundPolicy\l|label = 30 Day Free Return and Refund\l|enabled = true\l|visible = true\l|x = 40\l|y = 534\l|width = 319\l|height = 16\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/80.0_1068.0_718.0_1100.0.png\l}"]
+	35	[label="{type = XCUIElementTypeStaticText\l|value = Item Total\l|name = cartSummaryTitleItemTotal\l|label = Item Total\l|enabled = true\l|visible = true\l|x = 16\l|y = 404\l|width = 64\l|height = 19\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/32.0_808.0_160.0_846.0.png\l}"]
+	36	[label="{type = XCUIElementTypeStaticText\l|value = $24.00\l|name = cartSummaryAmountItemTotal\l|label = $24.00\l|enabled = true\l|visible = true\l|x = 311\l|y = 404\l|width = 48\l|height = 19\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/622.0_808.0_718.0_846.0.png\l}"]
+	37	[label="{type = XCUIElementTypeStaticText\l|value = Shipping\l|name = cartSummaryTitleShipping\l|label = Shipping\l|enabled = true\l|visible = true\l|x = 16\l|y = 431\l|width = 58\l|height = 19\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/32.0_862.0_148.0_900.0.png\l}"]
+	38	[label="{type = XCUIElementTypeStaticText\l|value = $7.00\l|name = cartSummaryAmountShipping\l|label = $7.00\l|enabled = true\l|visible = true\l|x = 322\l|y = 431\l|width = 37\l|height = 19\l|index = 7\l|numberOfChildren = 0\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/644.0_862.0_718.0_900.0.png\l}"]
+	39	[label="{type = XCUIElementTypeStaticText\l|value = Order Total\l|name = cartSummaryTitleOrderTotal\l|label = Order Total\l|enabled = true\l|visible = true\l|x = 16\l|y = 457\l|width = 74\l|height = 19\l|index = 8\l|numberOfChildren = 0\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/32.0_914.0_180.0_952.0.png\l}"]
+	40	[label="{type = XCUIElementTypeStaticText\l|value = $31.00\l|name = cartSummaryAmountOrderTotal\l|label = $31.00\l|enabled = true\l|visible = true\l|x = 314\l|y = 457\l|width = 45\l|height = 19\l|index = 9\l|numberOfChildren = 0\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/628.0_914.0_718.0_952.0.png\l}"]
+	41	[label="{type = XCUIElementTypeStaticText\l|value = Taxes included where applicable\l|name = Taxes included where applicable\l|label = Taxes included where applicable\l|enabled = true\l|visible = true\l|x = 16\l|y = 484\l|width = 343\l|height = 16\l|index = 10\l|numberOfChildren = 0\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/32.0_968.0_718.0_1000.0.png\l}"]
+	42	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 287\l|width = 375\l|height = 349\l|index = 11\l|numberOfChildren = 1\l|numInParentLayout = 11\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/0.0_574.0_750.0_1272.0.png\l}"]
+	43	[label="{type = XCUIElementTypeTextField\l|value = Enter Promo Code\l|name = promoCodeTextField\l|label = \l|enabled = true\l|visible = true\l|x = 16\l|y = 303\l|width = 247\l|height = 41\l|index = 12\l|numberOfChildren = 0\l|numInParentLayout = 12\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/32.0_606.0_526.0_688.0.png\l}"]
+	44	[label="{type = XCUIElementTypeStaticText\l|value = Checkout\l|name = Checkout\l|label = Checkout\l|enabled = true\l|visible = true\l|x = 150\l|y = 620\l|width = 75\l|height = 22\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/300.0_1240.0_450.0_1284.0.png\l}"]
+	45	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 241\l|width = 375\l|height = 47\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/0.0_482.0_750.0_576.0.png\l}"]
+	46	[label="{type = XCUIElementTypeStaticText\l|value = View available coupons  \l|name = View available coupons  \l|label = View available coupons  \l|enabled = true\l|visible = true\l|x = 16\l|y = 351\l|width = 173\l|height = 21\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/32.0_702.0000000000001_378.0_744.0000000000001.png\l}"]
+	47	[label="{type = XCUIElementTypeStaticText\l|value = Apply\l|name = Apply\l|label = Apply\l|enabled = true\l|visible = true\l|x = 295\l|y = 314\l|width = 40\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/590.0_628.0_670.0_666.0.png\l}"]
+	48	[label="{type = XCUIElementTypeTextView\l|name = By tapping 'Checkout', you agree to the Terms of Use and Privacy Policy\l|label = By tapping 'Checkout', you agree to the Terms of Use and Privacy Policy\l|enabled = true\l|visible = true\l|x = 16\l|y = 584\l|width = 343\l|height = 36\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/32.0_1168.0_718.0_1240.0.png\l}"]
+	49	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 287\l|width = 375\l|height = 349\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/0.0_574.0_750.0_1272.0.png\l}"]
+	50	[label="{type = XCUIElementTypeLink\l|name = Terms of Use\l|label = Terms of Use\l|enabled = true\l|visible = true\l|x = 242\l|y = 584\l|width = 75\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/wish-wishlist/S3/pngs/484.0_1168.0_634.0_1208.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	3 -> 5
+	4 -> 6
+	4 -> 7
+	5 -> 8
+	8 -> 9
+	9 -> 10
+	10 -> 11
+	11 -> 12
+	12 -> 13
+	12 -> 14
+	13 -> 15
+	13 -> 16
+	13 -> 17
+	13 -> 18
+	14 -> 19
+	15 -> 20
+	16 -> 21
+	16 -> 22
+	16 -> 23
+	16 -> 24
+	16 -> 25
+	16 -> 26
+	16 -> 27
+	16 -> 28
+	17 -> 29
+	17 -> 30
+	18 -> 31
+	18 -> 32
+	18 -> 33
+	18 -> 34
+	18 -> 35
+	18 -> 36
+	18 -> 37
+	18 -> 38
+	18 -> 39
+	18 -> 40
+	18 -> 41
+	18 -> 42
+	18 -> 43
+	19 -> 44
+	29 -> 45
+	31 -> 46
+	32 -> 47
+	33 -> 48
+	42 -> 49
+	48 -> 50
+
+
+}

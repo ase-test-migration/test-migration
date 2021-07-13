@@ -1,0 +1,34 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "cnn-unbookmark",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "Saved Stories",
+                "event": "click"
+            },
+            {
+                "type": "xPath",
+                "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.view.ViewGroup/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Bookmark Selected",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Saved Stories",
+                "event": "click"
+            },
+            {
+                "event": "oracle-element_invisible",
+                "oracle-type": "element_invisible",
+                "type": "xPath",
+                "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.view.ViewGroup/android.widget.RelativeLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout"
+            }
+        ]
+    }
+}

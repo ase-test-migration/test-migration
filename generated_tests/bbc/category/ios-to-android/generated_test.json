@@ -1,0 +1,23 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "bbc-category",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "Search",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "bbc.mobile.news.ww:id/chip_item",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "type": "accessibilityId",
+                "tag": "Navigate up"
+            }
+        ]
+    }
+}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: wish-delCart/S3/pngs/286.0_752.0_464.0_790.0.png;
+coords: {'x1': 286.0, 'y1': 752.0, 'x2': 464.0, 'y2': 790.0};
+text_identifier: { "label" : "Remove item" };
+event: click;

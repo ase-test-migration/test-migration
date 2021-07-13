@@ -1,0 +1,4 @@
+pathToElementImageCrop: todoist-changedate/S3/pngs/159.00000000000003_1463.9999999999998_1095.0_1523.9999999999998.png;
+coords: {'x1': 159.00000000000003, 'y1': 1463.9999999999998, 'x2': 1095.0, 'y2': 1523.9999999999998};
+text_identifier: { "label" : "This Weekend" };
+event: click;

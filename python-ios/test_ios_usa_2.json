@@ -1,0 +1,34 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "usa-category",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Sections tab"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "CORONAVIRUS SUBSECTION"
+                },
+                {
+                    "tag": "For most vulnerable, these clinics are trusted, accessible and vital to vaccine rollout",
+                    "type": "accessibilityId",
+                    "event": "oracle",
+                    "oracle-type": "widget_exists"
+                }
+            ]
+        }
+    ]
+}

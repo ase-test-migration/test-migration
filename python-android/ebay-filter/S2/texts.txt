@@ -1,0 +1,17 @@
+{ "text" : "" , "resource-id" : "com.ebay.mobile:id/primary_toolbar" , "screenshotPath" : "ebay-filter/S2/pngs/0_74_1080_221.png"}
+{ "text" : "" , "content-desc" : "Main navigation, notification is pending, open" , "screenshotPath" : "ebay-filter/S2/pngs/0_74_147_221.png"}
+{ "text" : "" , "content-desc" : "Search" , "resource-id" : "com.ebay.mobile:id/menu_search" , "screenshotPath" : "ebay-filter/S2/pngs/702_84_828_210.png"}
+{ "text" : "" , "content-desc" : "Image search options" , "resource-id" : "com.ebay.mobile:id/menu_image_search" , "screenshotPath" : "ebay-filter/S2/pngs/828_84_954_210.png"}
+{ "text" : "" , "content-desc" : "Cart, 1 item, button." , "resource-id" : "com.ebay.mobile:id/menu_cart" , "screenshotPath" : "ebay-filter/S2/pngs/954_84_1080_210.png"}
+{ "text" : "Sort" , "resource-id" : "com.ebay.mobile:id/fab_sort" , "screenshotPath" : "ebay-filter/S2/pngs/312_2258_516_2274.png"}
+{ "text" : "Filter" , "resource-id" : "com.ebay.mobile:id/fab_filter" , "screenshotPath" : "ebay-filter/S2/pngs/542_2258_792_2274.png"}
+{ "text" : "Saved" , "resource-id" : "com.ebay.mobile:id/button_follow" , "screenshotPath" : "ebay-filter/S2/pngs/63_231_666_357.png"}
+{ "text" : "Sort" , "resource-id" : "com.ebay.mobile:id/button_sort" , "screenshotPath" : "ebay-filter/S2/pngs/666_231_839_357.png"}
+{ "text" : "Filter" , "content-desc" : "Filter" , "resource-id" : "com.ebay.mobile:id/button_filter" , "screenshotPath" : "ebay-filter/S2/pngs/839_231_1059_357.png"}
+{ "text" : "" , "resource-id" : "com.ebay.mobile:id/recycler_view_main" , "screenshotPath" : "ebay-filter/S2/pngs/0_368_1080_2200.png"}
+{ "text" : "" , "resource-id" : "com.ebay.mobile:id/cell_collection_item" , "screenshotPath" : "ebay-filter/S2/pngs/21_368_1059_865.png"}
+{ "text" : "" , "resource-id" : "com.ebay.mobile:id/cell_collection_item" , "screenshotPath" : "ebay-filter/S2/pngs/21_886_1059_1479.png"}
+{ "text" : "" , "resource-id" : "com.ebay.mobile:id/cell_collection_item" , "screenshotPath" : "ebay-filter/S2/pngs/21_1500_1059_2008.png"}
+{ "text" : "" , "resource-id" : "com.ebay.mobile:id/cell_collection_item" , "screenshotPath" : "ebay-filter/S2/pngs/21_2029_1059_2200.png"}
+{ "text" : "" , "content-desc" : "watch Xiaomi Mijia Thermometer Hygrometer 2 Wireless Bluetooth Humidity Sensor APPCtrl" , "resource-id" : "com.ebay.mobile:id/heart_icon_container" , "screenshotPath" : "ebay-filter/S2/pngs/912_718_1038_844.png"}
+{ "text" : "" , "content-desc" : "watch 3 Pcs Xiaomi Bluetooth LCD Thermometer Hygrometer 2 Digital Humidity Sensor" , "resource-id" : "com.ebay.mobile:id/heart_icon_container" , "screenshotPath" : "ebay-filter/S2/pngs/912_1332_1038_1458.png"}

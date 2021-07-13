@@ -1,0 +1,4 @@
+pathToElementImageCrop: poshmark-naviCat/S3/pngs/280.0_120.00000000000001_470.0_180.00000000000003.png;
+coords: {'x1': 280.0, 'y1': 120.00000000000001, 'x2': 470.0, 'y2': 180.00000000000003};
+text_identifier: { "label" : "Follow" };
+event: click;

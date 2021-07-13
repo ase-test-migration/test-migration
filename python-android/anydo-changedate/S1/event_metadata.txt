@@ -1,0 +1,5 @@
+pathToElementImageCrop: anydo-changedate/S1/pngs/117_122_928_189.png;
+coords: {'x1': 117, 'y1': 122, 'x2': 928, 'y2': 189};
+text_identifier: { "resource-id" : "com.anydo:id/task_title_edit_text" };
+event: send_keys_enter;
+input: mytask;

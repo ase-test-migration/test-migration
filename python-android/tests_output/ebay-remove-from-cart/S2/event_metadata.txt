@@ -1,0 +1,5 @@
+pathToElementImageCrop: ebay-remove-from-cart/S2/pngs/0_1105_1080_1222.png;
+coords: {'x1': 0, 'y1': 1105, 'x2': 1080, 'y2': 1222};
+text_identifier: { "resource-id" : "com.ebay.mobile:id/empty_cart_message" };
+event: oracle;
+oracle-type: widget_exists;

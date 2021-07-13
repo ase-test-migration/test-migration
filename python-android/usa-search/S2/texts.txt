@@ -1,0 +1,3 @@
+{ "content-desc" : "Up navigation button" , "resource-id" : "com.usatoday.android.news:id/image_search_back" , "screenshotPath" : "usa-search/S2/pngs/0_75_144_243.png"}
+{ "resource-id" : "com.usatoday.android.news:id/edit_text_search" , "screenshotPath" : "usa-search/S2/pngs/144_75_936_243.png"}
+{ "content-desc" : "Voice Search" , "resource-id" : "com.usatoday.android.news:id/voice_sarch" , "screenshotPath" : "usa-search/S2/pngs/936_75_1080_243.png"}

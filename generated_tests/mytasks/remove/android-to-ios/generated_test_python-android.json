@@ -1,0 +1,23 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "python-android",
+        "events": [
+            {
+                "type": "name",
+                "tag": "testing",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "add task light single scale",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "add task light single scale",
+                "event": "click"
+            }
+        ]
+    }
+}

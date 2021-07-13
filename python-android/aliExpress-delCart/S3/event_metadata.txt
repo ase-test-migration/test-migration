@@ -1,0 +1,4 @@
+pathToElementImageCrop: aliExpress-delCart/S3/pngs/771_1254_978_1380.png;
+coords: {'x1': 771, 'y1': 1254, 'x2': 978, 'y2': 1380};
+text_identifier: { "resource-id" : "com.alibaba.aliexpresshd:id/buttonDefaultPositive" };
+event: click;

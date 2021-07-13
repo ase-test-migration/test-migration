@@ -1,0 +1,6 @@
+pathToElementImageCrop: ;
+coords: ;
+text_identifier: { Testing 1 search term };
+event: oracle;
+oracle-type: text_exists;
+input: Testing 1 search term;

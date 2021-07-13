@@ -1,0 +1,4 @@
+pathToElementImageCrop: cnn-manage/S0/pngs/648_1608_864_1776.png;
+coords: {'x1': 648, 'y1': 1608, 'x2': 864, 'y2': 1848};
+text_identifier: { "content-desc" : "Saved Stories" , "resource-id" : "com.cnn.mobile.android.phone:id/saved_story_item_menu" };
+event: click;

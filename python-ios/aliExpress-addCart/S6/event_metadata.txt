@@ -1,0 +1,5 @@
+pathToElementImageCrop: aliExpress-addCart/S6/pngs/524.0_58.0_550.0_84.0.png;
+coords: {'x1': 524.0, 'y1': 58.0, 'x2': 550.0, 'y2': 84.0};
+text_identifier: { "label" : "1" };
+event: oracle;
+oracle-type: widget_exists;

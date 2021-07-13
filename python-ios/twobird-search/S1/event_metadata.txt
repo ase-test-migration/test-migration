@@ -1,0 +1,5 @@
+pathToElementImageCrop: twobird-search/S1/pngs/120.0_64.0_638.0_112.0.png;
+coords: {'x1': 120.0, 'y1': 64.0, 'x2': 638.0, 'y2': 112.0};
+text_identifier: {  };
+event: send_keys;
+input: Testing 1;

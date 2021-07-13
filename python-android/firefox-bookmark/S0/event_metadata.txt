@@ -1,0 +1,4 @@
+pathToElementImageCrop: firefox-bookmark/S0/pngs/22_2016_849_2126.png;
+coords: {'x1': 22, 'y1': 2016, 'x2': 849, 'y2': 2126};
+text_identifier: { "content-desc" : "Search or enter address" , "resource-id" : "org.mozilla.firefox:id/toolbar_wrapper" };
+event: click;

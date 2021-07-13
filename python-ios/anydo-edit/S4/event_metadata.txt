@@ -1,0 +1,5 @@
+pathToElementImageCrop: anydo-edit/S4/pngs/60.0_312.0_1062.0_432.0.png;
+coords: {'x1': 60.0, 'y1': 312.0, 'x2': 1062.0, 'y2': 432.0};
+text_identifier: { "value" : "Mytask" };
+event: send_keys_enter;
+input: Editedtask;

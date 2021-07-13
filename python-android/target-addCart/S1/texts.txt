@@ -1,0 +1,16 @@
+{ "resource-id" : "com.target.ui:id/searching_scroll_view" , "screenshotPath" : "target-addCart/S1/pngs/0_211_1080_1533.png"}
+{ "content-desc" : "Exit search" , "resource-id" : "com.target.ui:id/backButton" , "screenshotPath" : "target-addCart/S1/pngs/0_95_126_221.png"}
+{ "resource-id" : "com.target.ui:id/searchField" , "screenshotPath" : "target-addCart/S1/pngs/126_130_828_187.png"}
+{ "content-desc" : "Voice search" , "resource-id" : "com.target.ui:id/voiceSearchButton" , "screenshotPath" : "target-addCart/S1/pngs/828_95_954_221.png"}
+{ "content-desc" : "Scan product" , "resource-id" : "com.target.ui:id/scanButton" , "screenshotPath" : "target-addCart/S1/pngs/954_95_1080_221.png"}
+{ "resource-id" : "com.target.ui:id/clear_search_history" , "screenshotPath" : "target-addCart/S1/pngs/912_635_1038_701.png"}
+{ "resource-id" : "com.target.ui:id/product_search_recent_search_list" , "screenshotPath" : "target-addCart/S1/pngs/42_725_1038_977.png"}
+{ "resource-id" : "com.target.ui:id/recommendations_carousel_recycler_view" , "screenshotPath" : "target-addCart/S1/pngs/0_358_1080_614.png"}
+{ "content-desc" : " Coca-Cola - 12pk/12 fl oz Cans (item 1 of 8)" , "screenshotPath" : "target-addCart/S1/pngs/42_358_298_614.png"}
+{ "content-desc" : " Filtrete Allergen Bacteria and Virus Air Filter 1500 MPR (item 2 of 8)" , "screenshotPath" : "target-addCart/S1/pngs/319_358_575_614.png"}
+{ "content-desc" : " Extra Large Cleansing Cloths - 48ct - up &#38; up&#8482; (item 3 of 8)" , "screenshotPath" : "target-addCart/S1/pngs/596_358_852_614.png"}
+{ "content-desc" : " Universal Waterproof Bed Underpad - Room Essentials&#8482; (item 4 of 8)" , "screenshotPath" : "target-addCart/S1/pngs/873_358_1080_614.png"}
+{ "content-desc" : "Coke" , "resource-id" : "com.target.ui:id/search_recent_history_title" , "screenshotPath" : "target-addCart/S1/pngs/42_767_975_817.png"}
+{ "content-desc" : "edit search for Coke" , "resource-id" : "com.target.ui:id/search_edit_recent_history_image" , "screenshotPath" : "target-addCart/S1/pngs/975_767_1038_830.png"}
+{ "content-desc" : "coke" , "resource-id" : "com.target.ui:id/search_recent_history_title" , "screenshotPath" : "target-addCart/S1/pngs/42_893_975_943.png"}
+{ "content-desc" : "edit search for coke" , "resource-id" : "com.target.ui:id/search_edit_recent_history_image" , "screenshotPath" : "target-addCart/S1/pngs/975_893_1038_956.png"}

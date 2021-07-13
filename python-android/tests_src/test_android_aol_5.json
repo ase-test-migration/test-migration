@@ -1,0 +1,35 @@
+{
+    "desiredCapabilities": {
+      "platformName": "Android",
+      "platformVersion": "9",
+      "deviceName": "Nexus_5_API_28",
+      "newCommandTimeout": 1000
+
+    },
+    "tests" :[
+                {
+
+                    "name" : "testAOLVideo",
+                    "events" : [
+                        {
+                            "event": "click",
+                            "tag": "//android.widget.LinearLayout[@content-desc=\"Tab 5 of 5, Settings is not selected\"]/android.widget.ImageView",
+                            "type": "xPath"
+                        },
+                        {
+                            "event": "click",
+                            "tag": "com.aol.mobile.aolapp:id/settings_editions",
+                            "type": "id"
+                        },
+                        {
+                            "event": "click",
+                            "tag": "France is not selected",
+                            "type": "accessibilityId"
+                        }
+                    ]
+
+
+
+    }
+]
+}

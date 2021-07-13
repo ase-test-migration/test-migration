@@ -1,0 +1,44 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = To Do\l|label = To Do\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-duedate/S7/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-duedate/S7/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-duedate/S7/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeButton\l|name = Dismiss\l|label = Dismiss\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 414\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-duedate/S7/pngs/0.0_0.0_1242.0_1242.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 414\l|width = 414\l|height = 482\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-duedate/S7/pngs/0.0_1242.0_1242.0_2688.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 414\l|width = 414\l|height = 482\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-duedate/S7/pngs/0.0_1242.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 414\l|width = 414\l|height = 482\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-duedate/S7/pngs/0.0_1242.0_1242.0_2688.0.png\l}"]
+	7	[label="{type = XCUIElementTypeButton\l|name = Expand\l|label = Expand\l|enabled = true\l|visible = true\l|x = 0\l|y = 414\l|width = 414\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-duedate/S7/pngs/0.0_1242.0_1242.0_1302.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 434\l|width = 414\l|height = 462\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-duedate/S7/pngs/0.0_1302.0_1242.0_2688.0.png\l}"]
+	9	[label="{type = XCUIElementTypeNavigationBar\l|name = Suggestions\l|enabled = true\l|visible = true\l|x = 0\l|y = 434\l|width = 414\l|height = 44\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-duedate/S7/pngs/0.0_1302.0_1242.0_1434.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 434\l|width = 414\l|height = 462\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-duedate/S7/pngs/0.0_1302.0_1242.0_2688.0.png\l}"]
+	11	[label="{type = XCUIElementTypeStaticText\l|value = Suggestions\l|name = Suggestions\l|label = Suggestions\l|enabled = true\l|visible = true\l|x = 154\l|y = 445\l|width = 106\l|height = 22\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-duedate/S7/pngs/462.0_1335.0_780.0_1401.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|name = Done\l|label = Done\l|enabled = true\l|visible = true\l|x = 354\l|y = 434\l|width = 48\l|height = 44\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-duedate/S7/pngs/1062.0_1302.0_1206.0_1434.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 434\l|width = 414\l|height = 462\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-duedate/S7/pngs/0.0_1302.0_1242.0_2688.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 478\l|width = 414\l|height = 418\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-duedate/S7/pngs/0.0_1434.0000000000002_1242.0_2688.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 478\l|width = 414\l|height = 418\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-duedate/S7/pngs/0.0_1434.0000000000002_1242.0_2688.0.png\l}"]
+	16	[label="{type = XCUIElementTypeStaticText\l|value = Add a Task\l|name = Add a Task\l|label = Add a Task\l|enabled = true\l|visible = true\l|x = 47\l|y = 720\l|width = 320\l|height = 25\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-duedate/S7/pngs/141.0_2160.0_1101.0_2235.0.png\l}"]
+	17	[label="{type = XCUIElementTypeStaticText\l|value = You don't have any suggestions yet.\l|name = You don't have any suggestions yet.\l|label = You don't have any suggestions yet.\l|enabled = true\l|visible = true\l|x = 47\l|y = 756\l|width = 320\l|height = 24\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/msToDo-duedate/S7/pngs/141.0_2268.0_1101.0_2340.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	2 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	6 -> 8
+	8 -> 9
+	8 -> 10
+	9 -> 11
+	9 -> 12
+	10 -> 13
+	13 -> 14
+	14 -> 15
+	15 -> 16
+	15 -> 17
+
+
+}

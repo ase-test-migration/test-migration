@@ -1,0 +1,23 @@
+{"name" : "Firefox", "label" : "Firefox", "screenshotPath" : "firefox-bookmark/S5/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "Action Sheet", "screenshotPath" : "firefox-bookmark/S5/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "Context Menu", "screenshotPath" : "firefox-bookmark/S5/pngs/12.0_412.00000000000006_738.0_1198.0.png"}
+{"name" : "PhotonMenu.close", "label" : "Close", "screenshotPath" : "firefox-bookmark/S5/pngs/12.0_1210.0_738.0_1322.0.png"}
+{"name" : "menu-sync", "label" : "Sign in to Sync", "screenshotPath" : "firefox-bookmark/S5/pngs/12.0_424.0_738.0_512.0.png"}
+{"name" : "key", "label" : "Logins & Passwords", "screenshotPath" : "firefox-bookmark/S5/pngs/12.0_512.0_738.0_600.0.png"}
+{"name" : "menu-Home", "label" : "Home", "screenshotPath" : "firefox-bookmark/S5/pngs/12.0_628.0_738.0_716.0.png"}
+{"name" : "menu-library", "label" : "Your Library", "screenshotPath" : "firefox-bookmark/S5/pngs/12.0_716.0000000000001_738.0_804.0000000000001.png"}
+{"name" : "menu-NoImageMode", "label" : "Block Images", "screenshotPath" : "firefox-bookmark/S5/pngs/12.0_832.0_738.0_920.0.png"}
+{"name" : "menu-NightMode", "label" : "Enable Night Mode", "screenshotPath" : "firefox-bookmark/S5/pngs/12.0_920.0000000000001_738.0_1008.0000000000001.png"}
+{"name" : "whatsnew", "label" : "What's New", "screenshotPath" : "firefox-bookmark/S5/pngs/12.0_1008.0_738.0_1096.0.png"}
+{"name" : "menu-Settings", "label" : "Settings", "screenshotPath" : "firefox-bookmark/S5/pngs/12.0_1096.0_738.0_1184.0.png"}
+{"value" : "Close", "name" : "Close", "label" : "Close", "screenshotPath" : "firefox-bookmark/S5/pngs/324.0_1242.0_426.0_1290.0.png"}
+{"value" : "Sign in to Sync", "name" : "Sign in to Sync", "label" : "Sign in to Sync", "screenshotPath" : "firefox-bookmark/S5/pngs/124.0_448.0_350.0_490.0.png"}
+{"value" : "Logins & Passwords", "name" : "Logins & Passwords", "label" : "Logins & Passwords", "screenshotPath" : "firefox-bookmark/S5/pngs/124.0_536.0_430.0_578.0.png"}
+{"value" : "Home", "name" : "Home", "label" : "Home", "screenshotPath" : "firefox-bookmark/S5/pngs/124.0_652.0_216.0_694.0.png"}
+{"value" : "Your Library", "name" : "Your Library", "label" : "Your Library", "screenshotPath" : "firefox-bookmark/S5/pngs/124.0_740.0_308.0_782.0.png"}
+{"value" : "Block Images", "name" : "Block Images", "label" : "Block Images", "screenshotPath" : "firefox-bookmark/S5/pngs/124.0_856.0_328.0_898.0.png"}
+{"name" : "disabled", "screenshotPath" : "firefox-bookmark/S5/pngs/638.0_854.0_706.0_898.0.png"}
+{"value" : "Enable Night Mode", "name" : "Enable Night Mode", "label" : "Enable Night Mode", "screenshotPath" : "firefox-bookmark/S5/pngs/124.0_944.0_414.0_986.0.png"}
+{"name" : "disabled", "screenshotPath" : "firefox-bookmark/S5/pngs/638.0_942.0_706.0_986.0.png"}
+{"value" : "What's New", "name" : "What's New", "label" : "What's New", "screenshotPath" : "firefox-bookmark/S5/pngs/124.0_1032.0_308.0_1074.0.png"}
+{"value" : "Settings", "name" : "Settings", "label" : "Settings", "screenshotPath" : "firefox-bookmark/S5/pngs/124.0_1120.0_250.0_1162.0.png"}

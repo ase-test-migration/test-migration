@@ -1,0 +1,4 @@
+pathToElementImageCrop: gmail-reply/S3/pngs/837_182_969_314.png;
+coords: {'x1': 837, 'y1': 182, 'x2': 969, 'y2': 314};
+text_identifier: { "content-desc" : "Send" , "resource-id" : "com.google.android.gm:id/send" };
+event: click;

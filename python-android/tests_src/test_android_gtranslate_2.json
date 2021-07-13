@@ -1,0 +1,30 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "testGtransTrans",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.google.android.apps.translate:id/touch_to_type_text"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys",
+                    "tag": "com.google.android.apps.translate:id/edit_input",
+                    "input": "Hello"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Show details"
+                }
+            ]
+        }
+    ]
+}

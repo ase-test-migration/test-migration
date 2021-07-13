@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-add-to-cart/S2/pngs/414_783_1020_855.png;
+coords: {'x1': 414, 'y1': 783, 'x2': 1020, 'y2': 855};
+text_identifier: { "content-desc" : "Quantity,1,5 available" , "resource-id" : "com.ebay.mobile:id/quantity_selection_spinner" };
+event: click;

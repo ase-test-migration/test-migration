@@ -1,0 +1,4 @@
+pathToElementImageCrop: gmail-move/S3/pngs/144.0_186.0_718.0_226.0.png;
+coords: {'x1': 144.0, 'y1': 186.0, 'x2': 718.0, 'y2': 226.0};
+text_identifier: { "label" : "Social" };
+event: click;

@@ -1,0 +1,4 @@
+pathToElementImageCrop: msToDo-edit/S0/pngs/168.0_342.0_345.0_405.0.png;
+coords: {'x1': 168.0, 'y1': 342.0, 'x2': 345.0, 'y2': 405.0};
+text_identifier: { "label" : "My Day" };
+event: click;

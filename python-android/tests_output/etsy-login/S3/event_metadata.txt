@@ -1,0 +1,5 @@
+pathToElementImageCrop: etsy-login/S3/pngs/72_445_1008_558.png;
+coords: {'x1': 72, 'y1': 445, 'x2': 1008, 'y2': 558};
+text_identifier: { "resource-id" : "com.etsy.android:id/edit_password" };
+event: send_keys;
+input: testtest123;

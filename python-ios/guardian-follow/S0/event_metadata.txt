@@ -1,0 +1,4 @@
+pathToElementImageCrop: guardian-follow/S0/pngs/32.0_332.0_718.0_520.0.png;
+coords: {'x1': 32.0, 'y1': 332.0, 'x2': 718.0, 'y2': 520.0};
+text_identifier: { "label" : "Live / Washington tense as America awaits Derek Chauvin verdict" };
+event: click;

@@ -1,0 +1,4 @@
+pathToElementImageCrop: twobird-delMail/S0/pngs/0_828_1080_1027.png;
+coords: {'x1': 0, 'y1': 828, 'x2': 1080, 'y2': 1027};
+text_identifier: { "content-desc" : "Thread TestUser, finish setting up your new Google Account" };
+event: click;

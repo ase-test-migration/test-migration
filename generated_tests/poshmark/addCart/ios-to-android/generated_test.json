@@ -1,0 +1,28 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "poshmark-addCart",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.poshmark.app:id/rightSupplementText",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.poshmark.app:id/coverShotViewBig_v2",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Brandy Melville",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "Nike"
+            }
+        ]
+    }
+}

@@ -1,0 +1,5 @@
+pathToElementImageCrop: etsy-login/S3/pngs/32.0_232.0_718.0_328.0.png;
+coords: {'x1': 32.0, 'y1': 232.0, 'x2': 718.0, 'y2': 328.0};
+text_identifier: { "label" : "" };
+event: send_keys;
+input: email@example.com;

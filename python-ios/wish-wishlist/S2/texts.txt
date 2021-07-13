@@ -1,0 +1,15 @@
+{"name" : "Wish", "label" : "Wish", "screenshotPath" : "wish-wishlist/S2/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "messageDialog", "screenshotPath" : "wish-wishlist/S2/pngs/64.0_290.0_686.0_1044.0.png"}
+{"name" : "closeDialogButton", "label" : "close", "screenshotPath" : "wish-wishlist/S2/pngs/622.0_306.0_670.0_356.0.png"}
+{"value" : "Create New Wishlist", "name" : "wishlistDialogHeader", "label" : "Create New Wishlist", "screenshotPath" : "wish-wishlist/S2/pngs/200.0_354.0_550.0_402.0.png"}
+{"value" : "Enter wishlist name", "name" : "wishlistTextField", "label" : "", "screenshotPath" : "wish-wishlist/S2/pngs/112.00000000000001_450.0_638.0_530.0.png"}
+{"value" : "Suggestions:", "name" : "wishlistSuggestionLabel", "label" : "Suggestions:", "screenshotPath" : "wish-wishlist/S2/pngs/112.00000000000001_578.0_638.0_616.0.png"}
+{"name" : "wishlistSuggestionList", "screenshotPath" : "wish-wishlist/S2/pngs/112.00000000000001_646.0_638.0_868.0.png"}
+{"name" : "createWishlistButton", "label" : "Create New Wishlist", "screenshotPath" : "wish-wishlist/S2/pngs/112.00000000000001_914.0_638.0_996.0.png"}
+{"value" : "Create New Wishlist", "name" : "Create New Wishlist", "label" : "Create New Wishlist", "screenshotPath" : "wish-wishlist/S2/pngs/236.0_936.0_514.0_974.0.png"}
+{"value" : "Wishlist #1", "name" : "Wishlist #1", "label" : "Wishlist #1", "screenshotPath" : "wish-wishlist/S2/pngs/112.00000000000001_646.0_270.0_708.0.png"}
+{"value" : "Favorites", "name" : "Favorites", "label" : "Favorites", "screenshotPath" : "wish-wishlist/S2/pngs/288.0_646.0_434.0_708.0.png"}
+{"value" : "Birthday", "name" : "Birthday", "label" : "Birthday", "screenshotPath" : "wish-wishlist/S2/pngs/452.0_646.0_588.0_708.0.png"}
+{"value" : "Miscellaneous", "name" : "Miscellaneous", "label" : "Miscellaneous", "screenshotPath" : "wish-wishlist/S2/pngs/112.00000000000001_726.0_314.0_788.0.png"}
+{"value" : "Fashion", "name" : "Fashion", "label" : "Fashion", "screenshotPath" : "wish-wishlist/S2/pngs/334.0_726.0_464.0_788.0.png"}
+{"value" : "Accessories", "name" : "Accessories", "label" : "Accessories", "screenshotPath" : "wish-wishlist/S2/pngs/112.00000000000001_806.0_290.0_868.0.png"}

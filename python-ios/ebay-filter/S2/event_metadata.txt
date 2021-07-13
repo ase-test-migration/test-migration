@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-filter/S2/pngs/620.0_128.0_726.0_216.0.png;
+coords: {'x1': 620.0, 'y1': 128.0, 'x2': 726.0, 'y2': 216.0};
+text_identifier: { "label" : "Filter" };
+event: click;

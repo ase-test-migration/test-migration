@@ -1,0 +1,18 @@
+{ "content-desc" : "Main navigation, open" , "screenshotPath" : "ebay-bid/S4/pngs/0_74_147_221.png"}
+{ "content-desc" : "Search" , "resource-id" : "com.ebay.mobile:id/menu_search" , "screenshotPath" : "ebay-bid/S4/pngs/702_84_828_210.png"}
+{ "content-desc" : "Image search options" , "resource-id" : "com.ebay.mobile:id/menu_image_search" , "screenshotPath" : "ebay-bid/S4/pngs/828_84_954_210.png"}
+{ "content-desc" : "Cart, 1 item, button." , "resource-id" : "com.ebay.mobile:id/menu_cart" , "screenshotPath" : "ebay-bid/S4/pngs/954_84_1080_210.png"}
+{ "resource-id" : "com.ebay.mobile:id/recycler_view_main" , "screenshotPath" : "ebay-bid/S4/pngs/0_368_1080_2287.png"}
+{ "content-desc" : "Filter" , "resource-id" : "com.ebay.mobile:id/button_filter" , "screenshotPath" : "ebay-bid/S4/pngs/902_221_1080_368.png"}
+{ "resource-id" : "com.ebay.mobile:id/recyclerview_items" , "screenshotPath" : "ebay-bid/S4/pngs/42_1493_1038_2287.png"}
+{ "resource-id" : "com.ebay.mobile:id/cell_collection_item" , "screenshotPath" : "ebay-bid/S4/pngs/42_1535_1038_1955.png"}
+{ "resource-id" : "com.ebay.mobile:id/cell_collection_item" , "screenshotPath" : "ebay-bid/S4/pngs/42_1997_1038_2287.png"}
+{ "content-desc" : "Results" , "resource-id" : "com.ebay.mobile:id/textview_header_title" , "screenshotPath" : "ebay-bid/S4/pngs/42_1329_1048_1399.png"}
+{ "resource-id" : "com.ebay.mobile:id/container_title" , "screenshotPath" : "ebay-bid/S4/pngs/42_379_1038_595.png"}
+{ "resource-id" : "com.ebay.mobile:id/recyclerview_items" , "screenshotPath" : "ebay-bid/S4/pngs/0_595_1080_1015.png"}
+{ "resource-id" : "com.ebay.mobile:id/container_title" , "screenshotPath" : "ebay-bid/S4/pngs/42_1018_1038_1234.png"}
+{ "resource-id" : "com.ebay.mobile:id/uxcomp_guidance_hybrid_vertical_container" , "screenshotPath" : "ebay-bid/S4/pngs/42_595_420_973.png"}
+{ "resource-id" : "com.ebay.mobile:id/uxcomp_guidance_hybrid_vertical_container" , "screenshotPath" : "ebay-bid/S4/pngs/441_595_819_973.png"}
+{ "resource-id" : "com.ebay.mobile:id/uxcomp_guidance_hybrid_vertical_container" , "screenshotPath" : "ebay-bid/S4/pngs/840_595_1080_973.png"}
+{ "content-desc" : "More options" , "resource-id" : "com.ebay.mobile:id/search_overflow_icon" , "screenshotPath" : "ebay-bid/S4/pngs/891_1586_1017_1691.png"}
+{ "content-desc" : "More options" , "resource-id" : "com.ebay.mobile:id/search_overflow_icon" , "screenshotPath" : "ebay-bid/S4/pngs/891_2022_1017_2127.png"}

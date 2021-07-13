@@ -1,0 +1,71 @@
+{
+    "tests": [
+        {
+            "name": "msToDo-edit", 
+            "events": [
+                {
+                    "tag": "My Day", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "//XCUIElementTypeApplication[@name=\"To Do\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[2]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "input": "Mytask", 
+                    "tag": "//XCUIElementTypeApplication[@name=\"To Do\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[3]/XCUIElementTypeOther", 
+                    "type": "xPath", 
+                    "event": "send_keys_enter"
+                },
+                {
+                    "tag": "Mytask",
+                    "type": "accessibilityId",
+                    "event": "oracle",
+                    "oracle-type": "assert_equal",
+                    "attribute": "label",
+                    "value": "Mytask"
+                },
+                {
+                    "tag": "Mytask", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Mytask", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "input": "Editedtask", 
+                    "tag": "Task title", 
+                    "type": "accessibilityId", 
+                    "event": "send_keys_enter"
+                }, 
+                {
+                    "tag": "Dismiss detail view", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                },
+                {
+                    "tag": "Editedtask",
+                    "type": "accessibilityId",
+                    "event": "oracle",
+                    "oracle-type": "assert_equal",
+                    "attribute": "label",
+                    "value": "Editedtask"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "14.3", 
+        "platformName": "iOS"
+    }
+}

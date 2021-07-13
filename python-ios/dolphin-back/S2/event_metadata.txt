@@ -1,0 +1,4 @@
+pathToElementImageCrop: dolphin-back/S2/pngs/88.0_50.0_732.0_118.0.png;
+coords: {'x1': 88.0, 'y1': 50.0, 'x2': 732.0, 'y2': 118.0};
+text_identifier: { "label" : "address bar ic bookmark top ta" };
+event: click;

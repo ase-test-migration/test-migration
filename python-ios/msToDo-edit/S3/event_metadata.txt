@@ -1,0 +1,7 @@
+pathToElementImageCrop: msToDo-edit/S3/pngs/192.0_525.0_351.0_585.0.png;
+coords: {'x1': 192.0, 'y1': 525.0, 'x2': 351.0, 'y2': 585.0};
+text_identifier: { "label" : "Mytask" };
+event: oracle;
+oracle-type: assert_equal;
+attribute: label;
+value: Mytask;

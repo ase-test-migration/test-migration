@@ -1,0 +1,10 @@
+{ "resource-id" : "com.microsoft.todos:id/homeview_header" , "screenshotPath" : "msToDo-duedate/S0/pngs/0_72_1080_240.png"}
+{ "resource-id" : "com.microsoft.todos:id/lists_recycler_view" , "screenshotPath" : "msToDo-duedate/S0/pngs/0_240_1080_1632.png"}
+{ "content-desc" : "Enter search" , "resource-id" : "com.microsoft.todos:id/search_icon" , "screenshotPath" : "msToDo-duedate/S0/pngs/936_84_1080_228.png"}
+{ "content-desc" : "My Day, 0 tasks" , "resource-id" : "com.microsoft.todos:id/list_content" , "screenshotPath" : "msToDo-duedate/S0/pngs/12_240_1068_384.png"}
+{ "content-desc" : "Important, 0 tasks" , "resource-id" : "com.microsoft.todos:id/list_content" , "screenshotPath" : "msToDo-duedate/S0/pngs/12_384_1068_528.png"}
+{ "content-desc" : "Planned, 0 tasks" , "resource-id" : "com.microsoft.todos:id/list_content" , "screenshotPath" : "msToDo-duedate/S0/pngs/12_528_1068_672.png"}
+{ "content-desc" : "Assigned to you, 0 tasks" , "resource-id" : "com.microsoft.todos:id/list_content" , "screenshotPath" : "msToDo-duedate/S0/pngs/12_672_1068_816.png"}
+{ "content-desc" : "Tasks" , "resource-id" : "com.microsoft.todos:id/list_content" , "screenshotPath" : "msToDo-duedate/S0/pngs/12_816_1068_960.png"}
+{ "resource-id" : "com.microsoft.todos:id/create_list_text_view" , "screenshotPath" : "msToDo-duedate/S0/pngs/0_1632_882_1776.png"}
+{ "content-desc" : "Create group" , "resource-id" : "com.microsoft.todos:id/add_group_icon" , "screenshotPath" : "msToDo-duedate/S0/pngs/912_1632_1080_1776.png"}

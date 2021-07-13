@@ -1,0 +1,10 @@
+{ "resource-id" : "org.mozilla.firefox:id/tabLayout" , "screenshotPath" : "firefox-tab/S1/pngs/0_171_1080_1977.png"}
+{ "content-desc" : "Add tab" , "resource-id" : "org.mozilla.firefox:id/new_tab_button" , "screenshotPath" : "firefox-tab/S1/pngs/860_1928_1036_1977.png"}
+{ "resource-id" : "org.mozilla.firefox:id/topBar" , "screenshotPath" : "firefox-tab/S1/pngs/0_808_1080_1028.png"}
+{ "resource-id" : "org.mozilla.firefox:id/tab_layout" , "screenshotPath" : "firefox-tab/S1/pngs/0_808_540_1028.png"}
+{ "content-desc" : "Open tabs menu" , "resource-id" : "org.mozilla.firefox:id/tab_tray_overflow" , "screenshotPath" : "firefox-tab/S1/pngs/948_852_1080_984.png"}
+{ "resource-id" : "org.mozilla.firefox:id/tabsTray" , "screenshotPath" : "firefox-tab/S1/pngs/0_1031_1080_1977.png"}
+{ "resource-id" : "org.mozilla.firefox:id/tab_item" , "screenshotPath" : "firefox-tab/S1/pngs/0_1031_1080_1273.png"}
+{ "content-desc" : "1 open tab. Tap to switch tabs." , "screenshotPath" : "firefox-tab/S1/pngs/0_808_270_1028.png"}
+{ "content-desc" : "Private tabs" , "screenshotPath" : "firefox-tab/S1/pngs/270_808_540_1028.png"}
+{ "content-desc" : "Close tab Wikipedia" , "resource-id" : "org.mozilla.firefox:id/mozac_browser_tabstray_close" , "screenshotPath" : "firefox-tab/S1/pngs/948_1031_1080_1273.png"}

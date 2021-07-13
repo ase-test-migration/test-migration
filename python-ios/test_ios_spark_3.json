@@ -1,0 +1,54 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "spark-move",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Testing"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "smi general icon more"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//XCUIElementTypeStaticText[@name=\"Move\"]"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeStaticText[@name=\"Important\"])[1]"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "icon sidebar n"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//XCUIElementTypeCell[@name=\"Important\"]/XCUIElementTypeOther/XCUIElementTypeOther"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "oracle",
+                    "oracle-type": "widget_exists",
+                    "tag": "Testing"
+                }
+            ]
+        }
+    ]
+}

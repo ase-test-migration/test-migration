@@ -1,0 +1,4 @@
+pathToElementImageCrop: gmail-move/S4/pngs/32.0_56.0_136.0_152.0.png;
+coords: {'x1': 32.0, 'y1': 56.0, 'x2': 136.0, 'y2': 152.0};
+text_identifier: { "label" : "Navigation menu" };
+event: click;

@@ -1,0 +1,34 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Wish\l|label = Wish\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S3/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|name = messageDialog\l|enabled = true\l|visible = true\l|x = 32\l|y = 320\l|width = 350\l|height = 256\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S3/pngs/96.0_960.0_1146.0_1728.0.png\l}"]
+	6	[label="{type = XCUIElementTypeButton\l|name = closeDialogButton\l|label = close\l|enabled = true\l|visible = true\l|x = 350\l|y = 328\l|width = 24\l|height = 25\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S3/pngs/1050.0_983.9999999999999_1122.0_1059.0.png\l}"]
+	7	[label="{type = XCUIElementTypeStaticText\l|value = Remove this item from cart?\l|name = messageDialogHeaderLabel\l|label = Remove this item from cart?\l|enabled = true\l|visible = true\l|x = 56\l|y = 440\l|width = 302\l|height = 24\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S3/pngs/168.0_1320.0_1074.0_1392.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 56\l|y = 479\l|width = 302\l|height = 73\l|numberOfChildren = 2\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S3/pngs/168.0_1437.0_1074.0_1656.0.png\l}"]
+	9	[label="{type = XCUIElementTypeButton\l|name = messageDialogRemoveItem\l|label = Remove item\l|enabled = true\l|visible = true\l|x = 56\l|y = 479\l|width = 302\l|height = 41\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = remove-item-from-cart/S3/pngs/168.0_1437.0_1074.0_1560.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|name = Save for later\l|label = Save for later\l|enabled = true\l|visible = true\l|x = 56\l|y = 535\l|width = 302\l|height = 17\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S3/pngs/168.0_1605.0_1074.0_1656.0.png\l}"]
+	11	[label="{type = XCUIElementTypeStaticText\l|value = Remove item\l|name = Remove item\l|label = Remove item\l|enabled = true\l|visible = true\l|x = 162\l|y = 490\l|width = 90\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S3/pngs/486.0_1470.0_756.0_1527.0.png\l}"]
+	12	[label="{type = XCUIElementTypeStaticText\l|value = Save for later\l|name = Save for later\l|label = Save for later\l|enabled = true\l|visible = true\l|x = 163\l|y = 534\l|width = 88\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S3/pngs/489.00000000000006_1602.0000000000002_753.0_1659.0000000000002.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	5 -> 7
+	5 -> 8
+	8 -> 9
+	8 -> 10
+	9 -> 11
+	10 -> 12
+
+
+}

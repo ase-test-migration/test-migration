@@ -1,0 +1,124 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = ABC News\l|label = ABC News\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 4\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 852\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_132.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 852\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_132.0_1242.0_2688.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 852\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_132.0_1242.0_2688.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 852\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_132.0_1242.0_2688.0.png\l}"]
+	9	[label="{type = XCUIElementTypeTabBar\l|enabled = true\l|visible = true\l|x = 0\l|y = 813\l|width = 414\l|height = 83\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_2439.0_1242.0_2688.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 852\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_132.0_1242.0_2688.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = News\l|label = News\l|enabled = true\l|visible = true\l|x = 2\l|y = 814\l|width = 80\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/6.0_2442.0_246.0_2586.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|name = Interests\l|label = Interests\l|enabled = true\l|visible = true\l|x = 85\l|y = 814\l|width = 80\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = true \l|screenshotPath = abc-mynews/S0/pngs/255.0_2442.0_495.0_2586.0.png\l}"]
+	13	[label="{type = XCUIElementTypeButton\l|name = Live\l|label = Live\l|enabled = true\l|visible = true\l|x = 168\l|y = 814\l|width = 78\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/504.00000000000006_2442.0_738.0_2586.0.png\l}"]
+	14	[label="{type = XCUIElementTypeButton\l|name = Shows\l|label = Shows\l|enabled = true\l|visible = true\l|x = 249\l|y = 814\l|width = 80\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/747.0_2442.0_987.0_2586.0.png\l}"]
+	15	[label="{type = XCUIElementTypeButton\l|name = Listen\l|label = Listen\l|enabled = true\l|visible = true\l|x = 332\l|y = 814\l|width = 80\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/996.0_2442.0_1236.0_2586.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 852\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_132.0_1242.0_2688.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 852\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_132.0_1242.0_2688.0.png\l}"]
+	18	[label="{type = XCUIElementTypeNavigationBar\l|name = Top Stories\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 44\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_132.0_1242.0_264.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 852\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_132.0_1242.0_2688.0.png\l}"]
+	20	[label="{type = XCUIElementTypeButton\l|name = hamburger\l|label = hamburger\l|enabled = true\l|visible = true\l|x = 12\l|y = 44\l|width = 35\l|height = 44\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/36.0_132.0_141.0_264.0.png\l}"]
+	21	[label="{type = XCUIElementTypeStaticText\l|value = Top Stories\l|name = Top Stories\l|label = Top Stories\l|enabled = true\l|visible = true\l|x = 162\l|y = 50\l|width = 90\l|height = 32\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/486.0_150.0_756.0_246.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 852\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_132.0_1242.0_2688.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 808\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_264.0_1242.0_2688.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 808\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_264.0_1242.0_2688.0.png\l}"]
+	25	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 808\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_264.0_1242.0_2688.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 808\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_264.0_1242.0_2688.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 808\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_264.0_1242.0_2688.0.png\l}"]
+	28	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 808\l|numberOfChildren = 10\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_264.0_1242.0_2688.0.png\l}"]
+	29	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 89\l|width = 414\l|height = 425\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_267.0_1242.0_1542.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 514\l|width = 414\l|height = 10\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_1542.0_1242.0_1572.0.png\l}"]
+	31	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 525\l|width = 414\l|height = 294\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_1575.0_1242.0_2457.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 26 pages\l|label = Vertical scroll bar, 26 pages\l|enabled = true\l|visible = true\l|x = 381\l|y = 103\l|width = 30\l|height = 710\l|numberOfChildren = 0\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/1143.0_309.0_1233.0_2439.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 31\l|y = 780\l|width = 352\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/93.0_2340.0_1149.0_2430.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 89\l|width = 414\l|height = 425\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_267.0_1242.0_1542.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 514\l|width = 414\l|height = 10\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_1542.0_1242.0_1572.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 525\l|width = 414\l|height = 294\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_1575.0_1242.0_2457.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 305\l|width = 414\l|height = 95\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_915.0_1242.0_1200.0.png\l}"]
+	38	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 414\l|width = 414\l|height = 90\l|numberOfChildren = 4\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_1242.0_1242.0_1512.0.png\l}"]
+	39	[label="{type = XCUIElementTypeStaticText\l|value = Lucy Nicholson/Reuters, FILE\l|name = Lucy Nicholson/Reuters, FILE\l|label = Lucy Nicholson/Reuters, FILE\l|enabled = true\l|visible = true\l|x = 321\l|y = 505\l|width = 89\l|height = 7\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/963.0_1515.0_1230.0_1536.0.png\l}"]
+	40	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 514\l|width = 414\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_1542.0_1242.0_1545.0.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 525\l|width = 414\l|height = 233\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_1575.0_1242.0_2274.0.png\l}"]
+	42	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 758\l|width = 414\l|height = 61\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_2274.0_1242.0_2457.0.png\l}"]
+	43	[label="{type = XCUIElementTypeStaticText\l|value = California among worst in getting vaccines to vulnerable populations: CDC report\l|name = California among worst in getting vaccines to vulnerable populations: CDC report\l|label = California among worst in getting vaccines to vulnerable populations: CDC report\l|enabled = true\l|visible = true\l|x = 20\l|y = 305\l|width = 378\l|height = 71\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/60.0_915.0_1194.0_1128.0.png\l}"]
+	44	[label="{type = XCUIElementTypeStaticText\l|value = Mar 21, 2:57 pm\l|name = Mar 21, 2:57 pm\l|label = Mar 21, 2:57 pm\l|enabled = true\l|visible = true\l|x = 20\l|y = 385\l|width = 374\l|height = 15\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/60.0_1155.0_1182.0_1200.0.png\l}"]
+	45	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 414\l|width = 414\l|height = 30\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_1242.0_1242.0_1332.0.png\l}"]
+	46	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 458\l|width = 414\l|height = 30\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_1374.0_1242.0_1464.0.png\l}"]
+	47	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 525\l|width = 414\l|height = 233\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_1575.0_1242.0_2274.0.png\l}"]
+	48	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 773\l|width = 374\l|height = 47\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/60.0_2319.0_1182.0_2460.0.png\l}"]
+	49	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 414\l|width = 414\l|height = 30\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_1242.0_1242.0_1332.0.png\l}"]
+	50	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 458\l|width = 414\l|height = 30\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_1374.0_1242.0_1464.0.png\l}"]
+	51	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 525\l|width = 414\l|height = 233\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_1575.0_1242.0_2274.0.png\l}"]
+	52	[label="{type = XCUIElementTypeStaticText\l|value = ABC News Live\l|name = ABC News Live\l|label = ABC News Live\l|enabled = true\l|visible = true\l|x = 20\l|y = 773\l|width = 374\l|height = 22\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/60.0_2319.0_1182.0_2385.0.png\l}"]
+	53	[label="{type = XCUIElementTypeStaticText\l|value = +\l|name = +\l|label = +\l|enabled = true\l|visible = true\l|x = 20\l|y = 421\l|width = 7\l|height = 16\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/60.0_1263.0_81.0_1311.0.png\l}"]
+	54	[label="{type = XCUIElementTypeStaticText\l|value = Rite Aid apologizes after undocumented immigrants denied COVID-19 vaccine\l|name = Rite Aid apologizes after undocumented immigrants denied COVID-19 vaccine\l|label = Rite Aid apologizes after undocumented immigrants denied COVID-19 vaccine\l|enabled = true\l|visible = true\l|x = 37\l|y = 414\l|width = 357\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/111.0_1242.0_1182.0_1332.0.png\l}"]
+	55	[label="{type = XCUIElementTypeStaticText\l|value = +\l|name = +\l|label = +\l|enabled = true\l|visible = true\l|x = 20\l|y = 466\l|width = 7\l|height = 15\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/60.0_1398.0_81.0_1443.0.png\l}"]
+	56	[label="{type = XCUIElementTypeStaticText\l|value = Dying of loneliness: What COVID-19 has taught us about the opioid epidemic\l|name = Dying of loneliness: What COVID-19 has taught us about the opioid epidemic\l|label = Dying of loneliness: What COVID-19 has taught us about the opioid epidemic\l|enabled = true\l|visible = true\l|x = 37\l|y = 458\l|width = 357\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/111.0_1374.0_1182.0_1464.0.png\l}"]
+	57	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 0\l|y = 525\l|width = 414\l|height = 233\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc-mynews/S0/pngs/0.0_1575.0_1242.0_2274.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	7 -> 9
+	8 -> 10
+	9 -> 11
+	9 -> 12
+	9 -> 13
+	9 -> 14
+	9 -> 15
+	10 -> 16
+	16 -> 17
+	17 -> 18
+	17 -> 19
+	18 -> 20
+	18 -> 21
+	19 -> 22
+	22 -> 23
+	23 -> 24
+	24 -> 25
+	25 -> 26
+	26 -> 27
+	27 -> 28
+	28 -> 29
+	28 -> 30
+	28 -> 31
+	28 -> 32
+	28 -> 33
+	29 -> 34
+	30 -> 35
+	31 -> 36
+	34 -> 37
+	34 -> 38
+	34 -> 39
+	35 -> 40
+	36 -> 41
+	36 -> 42
+	37 -> 43
+	37 -> 44
+	38 -> 45
+	38 -> 46
+	41 -> 47
+	42 -> 48
+	45 -> 49
+	46 -> 50
+	47 -> 51
+	48 -> 52
+	49 -> 53
+	49 -> 54
+	50 -> 55
+	50 -> 56
+	51 -> 57
+
+
+}

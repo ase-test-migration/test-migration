@@ -1,0 +1,4 @@
+pathToElementImageCrop: poshmark-addShoppingCart/S2/pngs/160.0_888.0_226.0_954.0.png;
+coords: {'x1': 160.0, 'y1': 888.0, 'x2': 226.0, 'y2': 954.0};
+text_identifier: { "label" : "icon addbundle" };
+event: click;

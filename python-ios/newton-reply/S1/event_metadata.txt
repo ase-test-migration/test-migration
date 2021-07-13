@@ -1,0 +1,4 @@
+pathToElementImageCrop: newton-reply/S1/pngs/250.0_800.0_500.0_936.0.png;
+coords: {'x1': 250.0, 'y1': 800.0, 'x2': 500.0, 'y2': 936.0};
+text_identifier: { "label" : "conversation reply all" };
+event: click;

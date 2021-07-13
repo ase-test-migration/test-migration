@@ -1,0 +1,43 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "twobird-moveFolder",
+            "events": [
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeOther[@name=\"Thread TestUser, finish setting up your new Google Account\"])[4]"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeOther[@name=\"TestUser, finish setting up your new Google Account Started 2 hours ago with you GC Google Community Team  9:39 AM Vertical scroll bar, 4 pages Horizontal scroll bar, 1 page Reply to Google Community Team SvgButton.Snooze\"])[6]/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeOther[@name=\"TestUser, finish setting up your new Google Account Started 2 hours ago with you GC Google Community Team  9:39 AM Vertical scroll bar, 4 pages Horizontal scroll bar, 1 page Reply to Google Community Team SvgButton.Snooze\"])[6]/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeOther[@name=\"Inbox\"])[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther"
+                },
+                {
+                    "event": "oracle",
+                    "oracle-type": "text_exists",
+                    "input": "Pinned"
+                }
+            ]
+        }
+    ]
+}

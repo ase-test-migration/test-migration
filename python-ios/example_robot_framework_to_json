@@ -1,0 +1,14 @@
+# accessibility id=Watch
+Click Element    accessibility id=Watch
+Click Element    accessibility id=Watch
+# accessibility id=OK
+Click Element    accessibility id=OK
+# xpath=//XCUIElementTypeButton[@name="Continue"]
+Click Element    xpath=//XCUIElementTypeButton[@name="Continue"]
+# accessibility id=composeButton
+Click Element    accessibility id=composeButton
+Tap    accessibility id=composeButton    263    227
+Tap    accessibility id=composeButton    352    482
+# accessibility id=messageBodyField
+Click Element    accessibility id=messageBodyField
+Input Text    accessibility id=messageBodyField    Pozdrav

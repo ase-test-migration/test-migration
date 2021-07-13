@@ -1,0 +1,44 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "brave-bookmark",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.brave.browser:id/url_bar",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.brave.browser:id/url_bar",
+                "event": "send_keys_enter",
+                "input": "google.com"
+            },
+            {
+                "type": "xPath",
+                "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout[2]/android.webkit.WebView/android.view.View/android.view.View[4]/android.widget.Button[2]",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Voice Search",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.android.permissioncontroller:id/permission_allow_always_button",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "More",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.google.android.googlequicksearchbox:id/menu_tip_accept_button",
+                "event": "click"
+            }
+        ]
+    }
+}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: addOrder/S2/pngs/86_1527_482_1579.png;
+coords: {'x1': 86, 'y1': 1527, 'x2': 482, 'y2': 1579};
+text_identifier: { "resource-id" : "com.ubercab.eats:id/ub__menu_carousel_item_title" };
+event: click;

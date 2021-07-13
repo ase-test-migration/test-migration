@@ -1,0 +1,148 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = DuckDuckGo\l|label = DuckDuckGo\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 52\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/0.0_40.0_750.0_144.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 69\l|width = 375\l|height = 3\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/0.0_138.0_750.0_144.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 546\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/0.0_144.0_750.0_1236.0.png\l}"]
+	8	[label="{type = XCUIElementTypeToolbar\l|name = Toolbar\l|label = Toolbar\l|enabled = true\l|visible = true\l|x = 0\l|y = 618\l|width = 375\l|height = 49\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/0.0_1236.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 52\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/0.0_40.0_750.0_144.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 546\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/0.0_144.0_750.0_1236.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 618\l|width = 375\l|height = 49\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/0.0_1236.0_750.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 26\l|width = 309\l|height = 40\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/16.0_52.0_634.0_132.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 331\l|y = 34\l|width = 30\l|height = 24\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/662.0_68.0_722.0_116.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 546\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/0.0_144.0_750.0_1236.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 618\l|width = 359\l|height = 49\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/0.0_1236.0_718.0_1334.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 26\l|width = 309\l|height = 40\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/16.0_52.0_634.0_132.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 14\l|y = 26\l|width = 297\l|height = 40\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/28.000000000000004_52.0_622.0_132.0.png\l}"]
+	18	[label="{type = XCUIElementTypeButton\l|name = Browsing Menu\l|label = Browsing Menu\l|enabled = true\l|visible = true\l|x = 331\l|y = 34\l|width = 30\l|height = 24\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/662.0_68.0_722.0_116.0.png\l}"]
+	19	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 546\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/0.0_144.0_750.0_1236.0.png\l}"]
+	20	[label="{type = XCUIElementTypeButton\l|name = Browse Back\l|label = Browse Back\l|enabled = false\l|visible = true\l|x = 0\l|y = 618\l|width = 45\l|height = 49\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/0.0_1236.0_90.0_1334.0.png\l}"]
+	21	[label="{type = XCUIElementTypeButton\l|name = Browse Forward\l|label = Browse Forward\l|enabled = false\l|visible = true\l|x = 93\l|y = 618\l|width = 35\l|height = 49\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/186.0_1236.0_256.0_1334.0.png\l}"]
+	22	[label="{type = XCUIElementTypeButton\l|name = Fire\l|label = Close all tabs and clear data\l|enabled = true\l|visible = true\l|x = 175\l|y = 618\l|width = 30\l|height = 49\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/350.0_1236.0_410.0_1334.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 253\l|y = 620\l|width = 29\l|height = 45\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = true \l|screenshotPath = duckduckgo-bookmark/S4/pngs/506.0_1240.0_564.0_1330.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 330\l|y = 620\l|width = 29\l|height = 45\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/660.0_1240.0_718.0_1330.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 14\l|y = 26\l|width = 267\l|height = 40\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/28.000000000000004_52.0_562.0_132.0.png\l}"]
+	26	[label="{type = XCUIElementTypeButton\l|name = Refresh Page\l|label = Refresh Page\l|enabled = true\l|visible = true\l|x = 281\l|y = 34\l|width = 30\l|height = 24\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/562.0_68.0_622.0_116.0.png\l}"]
+	27	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 546\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/0.0_144.0_750.0_1236.0.png\l}"]
+	28	[label="{type = XCUIElementTypeButton\l|name = Bookmarks\l|label = Bookmarks\l|enabled = true\l|visible = true\l|x = 253\l|y = 620\l|width = 29\l|height = 45\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = duckduckgo-bookmark/S4/pngs/506.0_1240.0_564.0_1330.0.png\l}"]
+	29	[label="{type = XCUIElementTypeButton\l|name = Tabs\l|label = Tab Switcher\l|enabled = true\l|visible = true\l|x = 330\l|y = 620\l|width = 29\l|height = 45\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/660.0_1240.0_718.0_1330.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 14\l|y = 26\l|width = 150\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/28.000000000000004_52.0_328.0_132.0.png\l}"]
+	31	[label="{type = XCUIElementTypeSearchField\l|value = https://www.google.com/\l|name = searchEntry\l|enabled = true\l|visible = true\l|x = 44\l|y = 26\l|width = 237\l|height = 40\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/88.0_52.0_562.0_132.0.png\l}"]
+	32	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 546\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/0.0_144.0_750.0_1236.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 2 pages\l|label = Vertical scroll bar, 2 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 72\l|width = 30\l|height = 546\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/684.0_144.0_744.0_1236.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 585\l|width = 375\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/0.0_1170.0_750.0_1230.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|name = siteRating\l|enabled = false\l|visible = true\l|x = 14\l|y = 26\l|width = 30\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/28.000000000000004_52.0_88.0_132.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 14\l|y = 26\l|width = 30\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/28.000000000000004_52.0_88.0_132.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	39	[label="{type = XCUIElementTypeButton\l|name = Privacy grade D\l|label = Privacy grade D\l|enabled = true\l|visible = true\l|x = 18\l|y = 35\l|width = 22\l|height = 22\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/36.0_70.0_80.0_114.0.png\l}"]
+	40	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 546\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/0.0_144.0_750.0_1236.0.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|name = Google\l|label = Google\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 637\l|index = 0\l|numberOfChildren = 11\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/0.0_144.0_750.0_1418.0.png\l}"]
+	42	[label="{type = XCUIElementTypeOther\l|name = banner\l|label = banner\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 52\l|index = 2\l|numberOfChildren = 5\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/0.0_144.0_750.0_248.0.png\l}"]
+	43	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 107\l|y = 176\l|width = 161\l|height = 75\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/214.0_352.0_536.0_502.0.png\l}"]
+	44	[label="{type = XCUIElementTypeOther\l|name = search\l|label = search\l|enabled = true\l|visible = true\l|x = 8\l|y = 266\l|width = 359\l|height = 40\l|index = 4\l|numberOfChildren = 4\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/16.0_532.0_734.0_612.0.png\l}"]
+	45	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 330\l|width = 375\l|height = 28\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/0.0_660.0_750.0_716.0.png\l}"]
+	46	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 526\l|width = 378\l|height = 36\l|index = 6\l|numberOfChildren = 1\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/0.0_1052.0_756.0_1124.0.png\l}"]
+	47	[label="{type = XCUIElementTypeButton\l|name = Главни мени\l|label = Главни мени\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 56\l|height = 52\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/0.0_144.0_112.00000000000001_248.0.png\l}"]
+	48	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 56\l|y = 72\l|width = 41\l|height = 48\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/112.00000000000001_144.0_194.0_240.0.png\l}"]
+	49	[label="{type = XCUIElementTypeLink\l|name = СЛИКЕ\l|label = СЛИКЕ\l|enabled = true\l|visible = true\l|x = 113\l|y = 88\l|width = 44\l|height = 15\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/226.0_176.0_314.0_206.0.png\l}"]
+	50	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 185\l|y = 72\l|width = 191\l|height = 48\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/370.0_144.0_752.0_240.0.png\l}"]
+	51	[label="{type = XCUIElementTypeImage\l|name = Google\l|label = Google\l|enabled = true\l|visible = true\l|x = 107\l|y = 184\l|width = 161\l|height = 56\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/214.0_368.0_536.0_480.0.png\l}"]
+	52	[label="{type = XCUIElementTypeButton\l|name = Google претрага\l|label = Google претрага\l|enabled = true\l|visible = true\l|x = 11\l|y = 269\l|width = 32\l|height = 34\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/22.0_538.0_86.0_606.0.png\l}"]
+	53	[label="{type = XCUIElementTypeOther\l|name = Тражи\l|label = Тражи\l|enabled = true\l|visible = true\l|x = 42\l|y = 274\l|width = 279\l|height = 25\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/84.0_548.0_642.0_598.0.png\l}"]
+	54	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 58\l|y = 330\l|width = 259\l|height = 28\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/116.0_660.0_634.0_716.0.png\l}"]
+	55	[label="{type = XCUIElementTypeStaticText\l|value = Србија\l|name = Србија\l|label = Србија\l|enabled = true\l|visible = true\l|x = 12\l|y = 533\l|width = 52\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/24.0_1066.0_128.0_1106.0.png\l}"]
+	56	[label="{type = XCUIElementTypeStaticText\l|value = СВЕ\l|name = СВЕ\l|label = СВЕ\l|enabled = true\l|visible = true\l|x = 64\l|y = 88\l|width = 26\l|height = 15\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/128.0_176.0_180.0_206.0.png\l}"]
+	57	[label="{type = XCUIElementTypeStaticText\l|value = СЛИКЕ\l|name = СЛИКЕ\l|label = СЛИКЕ\l|enabled = true\l|visible = true\l|x = 113\l|y = 88\l|width = 44\l|height = 15\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/226.0_176.0_314.0_206.0.png\l}"]
+	58	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 185\l|y = 72\l|width = 187\l|height = 48\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/370.0_144.0_744.0_240.0.png\l}"]
+	59	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 72\l|y = 330\l|width = 114\l|height = 28\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/144.0_660.0_372.0_716.0.png\l}"]
+	60	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 190\l|y = 330\l|width = 113\l|height = 28\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/380.00000000000006_660.0_606.0_716.0.png\l}"]
+	61	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 189\l|y = 76\l|width = 41\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/378.0_152.0_460.0_232.0.png\l}"]
+	62	[label="{type = XCUIElementTypeLink\l|name = Пријавите се\l|label = Пријавите се\l|enabled = true\l|visible = true\l|x = 257\l|y = 86\l|width = 90\l|height = 19\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/514.0_172.00000000000003_694.0_210.00000000000003.png\l}"]
+	63	[label="{type = XCUIElementTypeStaticText\l|value = Google се нуди на:\l|name = Google се нуди на:\l|label = Google се нуди на:\l|enabled = true\l|visible = true\l|x = 72\l|y = 336\l|width = 115\l|height = 16\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/144.0_672.0_374.0_704.0.png\l}"]
+	64	[label="{type = XCUIElementTypeLink\l|name = srpski\l|label = srpski\l|enabled = true\l|visible = true\l|x = 198\l|y = 336\l|width = 35\l|height = 16\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/396.0_672.0_466.0_704.0.png\l}"]
+	65	[label="{type = XCUIElementTypeLink\l|name = English\l|label = English\l|enabled = true\l|visible = true\l|x = 252\l|y = 336\l|width = 43\l|height = 16\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/504.00000000000006_672.0_590.0_704.0.png\l}"]
+	66	[label="{type = XCUIElementTypeButton\l|name = Google апликације\l|label = Google апликације\l|enabled = true\l|visible = true\l|x = 189\l|y = 76\l|width = 41\l|height = 40\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/378.0_152.0_460.0_232.0.png\l}"]
+	67	[label="{type = XCUIElementTypeStaticText\l|value = Пријавите се\l|name = Пријавите се\l|label = Пријавите се\l|enabled = true\l|visible = true\l|x = 257\l|y = 86\l|width = 90\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/514.0_172.00000000000003_694.0_210.00000000000003.png\l}"]
+	68	[label="{type = XCUIElementTypeStaticText\l|value = srpski\l|name = srpski\l|label = srpski\l|enabled = true\l|visible = true\l|x = 198\l|y = 336\l|width = 35\l|height = 16\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/396.0_672.0_466.0_704.0.png\l}"]
+	69	[label="{type = XCUIElementTypeStaticText\l|value = nglish\l|name = English\l|label = English\l|enabled = true\l|visible = true\l|x = 252\l|y = 336\l|width = 43\l|height = 16\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-bookmark/S4/pngs/504.00000000000006_672.0_590.0_704.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	4 -> 7
+	4 -> 8
+	5 -> 9
+	7 -> 10
+	8 -> 11
+	9 -> 12
+	9 -> 13
+	10 -> 14
+	11 -> 15
+	12 -> 16
+	12 -> 17
+	13 -> 18
+	14 -> 19
+	15 -> 20
+	15 -> 21
+	15 -> 22
+	15 -> 23
+	15 -> 24
+	17 -> 25
+	17 -> 26
+	19 -> 27
+	23 -> 28
+	24 -> 29
+	25 -> 30
+	25 -> 31
+	27 -> 32
+	27 -> 33
+	27 -> 34
+	30 -> 35
+	32 -> 36
+	35 -> 37
+	36 -> 38
+	37 -> 39
+	38 -> 40
+	40 -> 41
+	41 -> 42
+	41 -> 43
+	41 -> 44
+	41 -> 45
+	41 -> 46
+	42 -> 47
+	42 -> 48
+	42 -> 49
+	42 -> 50
+	43 -> 51
+	44 -> 52
+	44 -> 53
+	45 -> 54
+	46 -> 55
+	48 -> 56
+	49 -> 57
+	50 -> 58
+	54 -> 59
+	54 -> 60
+	58 -> 61
+	58 -> 62
+	59 -> 63
+	60 -> 64
+	60 -> 65
+	61 -> 66
+	62 -> 67
+	64 -> 68
+	65 -> 69
+
+
+}

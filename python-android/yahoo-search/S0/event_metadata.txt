@@ -1,0 +1,4 @@
+pathToElementImageCrop: yahoo-search/S0/pngs/948_193_1058_303.png;
+coords: {'x1': 948, 'y1': 193, 'x2': 1058, 'y2': 303};
+text_identifier: { "content-desc" : "Search mail" , "resource-id" : "com.yahoo.mobile.client.android.mail:id/right_button_2" };
+event: click;

@@ -1,0 +1,8 @@
+{ "content-desc" : "settings" , "resource-id" : "com.usatoday.android.news:id/settings_gear" , "screenshotPath" : "usa-search/S0/pngs/846_120_918_192.png"}
+{ "content-desc" : "Search for news and sections" , "resource-id" : "com.usatoday.android.news:id/search_the_app" , "screenshotPath" : "usa-search/S0/pngs/936_84_1080_228.png"}
+{ "content-desc" : "Top Stories" , "resource-id" : "com.usatoday.android.news:id/top_stories_tab" , "screenshotPath" : "usa-search/S0/pngs/0_1608_216_1776.png"}
+{ "content-desc" : "Popular" , "resource-id" : "com.usatoday.android.news:id/most_popular_tab" , "screenshotPath" : "usa-search/S0/pngs/216_1608_432_1776.png"}
+{ "content-desc" : "Sections" , "resource-id" : "com.usatoday.android.news:id/sections_tab" , "screenshotPath" : "usa-search/S0/pngs/432_1608_648_1776.png"}
+{ "content-desc" : "My Topics" , "resource-id" : "com.usatoday.android.news:id/alerts_tab" , "screenshotPath" : "usa-search/S0/pngs/648_1608_864_1776.png"}
+{ "content-desc" : "Saved" , "resource-id" : "com.usatoday.android.news:id/saved_articles_tab" , "screenshotPath" : "usa-search/S0/pngs/864_1608_1080_1776.png"}
+{ "resource-id" : "com.usatoday.android.news:id/list" , "screenshotPath" : "usa-search/S0/pngs/0_243_1080_1608.png"}

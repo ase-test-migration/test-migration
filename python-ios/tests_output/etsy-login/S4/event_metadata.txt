@@ -1,0 +1,5 @@
+pathToElementImageCrop: etsy-login/S4/pngs/48.0_579.0_1194.0_720.0.png;
+coords: {'x1': 48.0, 'y1': 579.0, 'x2': 1194.0, 'y2': 720.0};
+text_identifier: { "name" : "Continue with Apple" };
+event: send_keys;
+input: testtest123;

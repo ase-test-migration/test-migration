@@ -1,0 +1,5 @@
+pathToElementImageCrop: anydo-duedate/S5/pngs/60.0_600.0_261.0_645.0.png;
+coords: {'x1': 60.0, 'y1': 600.0, 'x2': 261.0, 'y2': 645.0};
+text_identifier: { "label" : "DUE DATE" };
+event: oracle;
+oracle-type: widget_exists;

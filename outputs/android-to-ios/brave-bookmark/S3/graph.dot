@@ -1,0 +1,142 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Brave\l|label = Brave\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 73\l|index = 2\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/0.0_40.0_750.0_186.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 93\l|width = 375\l|height = 530\l|index = 3\l|numberOfChildren = 3\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/0.0_186.0_750.0_1246.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 375\l|height = 44\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/0.0_1246.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 29\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/0.0_128.0_750.0_186.0.png\l}"]
+	13	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 93\l|width = 375\l|height = 530\l|index = 1\l|numberOfChildren = 8\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/0.0_186.0_750.0_1246.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|name = Navigation Toolbar\l|label = Navigation Toolbar\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/0.0_1246.0_750.0_1334.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 20\l|width = 355\l|height = 44\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/20.0_40.0_730.0_128.0.png\l}"]
+	16	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 29\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/0.0_128.0_750.0_186.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 93\l|width = 375\l|height = 530\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/0.0_186.0_750.0_1246.0.png\l}"]
+	18	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 20\l|y = 93\l|width = 335\l|height = 110\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/40.0_186.0_710.0_406.0.png\l}"]
+	19	[label="{type = XCUIElementTypeCell\l|name = Youtube\l|label = Youtube\l|enabled = true\l|visible = true\l|x = 8\l|y = 209\l|width = 82\l|height = 93\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/16.0_417.99999999999994_180.0_604.0.png\l}"]
+	20	[label="{type = XCUIElementTypeCell\l|name = Amazon\l|label = Amazon\l|enabled = true\l|visible = true\l|x = 100\l|y = 209\l|width = 83\l|height = 93\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/200.0_417.99999999999994_366.0_604.0.png\l}"]
+	21	[label="{type = XCUIElementTypeCell\l|name = Wikipedia\l|label = Wikipedia\l|enabled = true\l|visible = true\l|x = 192\l|y = 209\l|width = 83\l|height = 93\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/384.0_417.99999999999994_550.0_604.0.png\l}"]
+	22	[label="{type = XCUIElementTypeCell\l|name = Twitter\l|label = Twitter\l|enabled = true\l|visible = true\l|x = 285\l|y = 209\l|width = 82\l|height = 93\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/570.0_417.99999999999994_734.0_604.0.png\l}"]
+	23	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 328\l|width = 375\l|height = 25\l|index = 6\l|numberOfChildren = 1\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/0.0_656.0_750.0_706.0.png\l}"]
+	24	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 16\l|y = 591\l|width = 343\l|height = 371\l|index = 7\l|numberOfChildren = 1\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/32.0_1182.0_718.0_1924.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/0.0_1246.0_750.0_1334.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 25\l|width = 355\l|height = 34\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/20.0_50.0_730.0_118.0.png\l}"]
+	27	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 188\l|height = 29\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/0.0_128.0_376.0_186.0.png\l}"]
+	28	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 187\l|y = 64\l|width = 188\l|height = 29\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/374.0_128.0_750.0_186.0.png\l}"]
+	29	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 102\l|y = 413\l|width = 171\l|height = 170\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/204.00000000000003_826.0_546.0_1166.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 93\l|width = 335\l|height = 110\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/40.0_186.0_710.0_406.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 209\l|width = 82\l|height = 93\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/16.0_417.99999999999994_180.0_604.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 100\l|y = 209\l|width = 83\l|height = 93\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/200.0_417.99999999999994_366.0_604.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 192\l|y = 209\l|width = 83\l|height = 93\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/384.0_417.99999999999994_550.0_604.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 285\l|y = 209\l|width = 82\l|height = 93\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/570.0_417.99999999999994_734.0_604.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 328\l|width = 375\l|height = 25\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/0.0_656.0_750.0_706.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 591\l|width = 343\l|height = 371\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/32.0_1182.0_718.0_1924.0.png\l}"]
+	37	[label="{type = XCUIElementTypeButton\l|name = TabToolbar.backButton\l|label = Back\l|enabled = false\l|visible = true\l|x = 0\l|y = 623\l|width = 75\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/0.0_1246.0_150.0_1334.0.png\l}"]
+	38	[label="{type = XCUIElementTypeButton\l|name = TabToolbar.forwardButton\l|label = Forward\l|enabled = false\l|visible = true\l|x = 75\l|y = 623\l|width = 75\l|height = 44\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/150.0_1246.0_300.0_1334.0.png\l}"]
+	39	[label="{type = XCUIElementTypeButton\l|name = TabToolbar.searchButton\l|label = ntp search\l|enabled = true\l|visible = true\l|x = 150\l|y = 623\l|width = 75\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/300.0_1246.0_450.0_1334.0.png\l}"]
+	40	[label="{type = XCUIElementTypeButton\l|value = 2\l|name = TabToolbar.tabsButton\l|label = Show Tabs\l|enabled = true\l|visible = true\l|x = 225\l|y = 623\l|width = 75\l|height = 44\l|index = 3\l|numberOfChildren = 2\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/450.0_1246.0_600.0_1334.0.png\l}"]
+	41	[label="{type = XCUIElementTypeButton\l|name = Menu\l|label = Menu\l|enabled = true\l|visible = true\l|x = 300\l|y = 623\l|width = 75\l|height = 44\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/600.0_1246.0_750.0_1334.0.png\l}"]
+	42	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 25\l|width = 355\l|height = 34\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/20.0_50.0_730.0_118.0.png\l}"]
+	43	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 188\l|height = 29\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/0.0_128.0_376.0_186.0.png\l}"]
+	44	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 187\l|y = 64\l|width = 188\l|height = 29\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/374.0_128.0_750.0_186.0.png\l}"]
+	45	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 93\l|width = 335\l|height = 110\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/40.0_186.0_710.0_406.0.png\l}"]
+	46	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 145\l|y = 328\l|width = 85\l|height = 25\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/290.0_656.0_460.0_706.0.png\l}"]
+	47	[label="{type = XCUIElementTypeButton\l|name = Nicola Sturgeon accuses Alex Salmond of being an attention-seeker who 'loves the limelight'. 1 hour ago. Daily Mail\l|label = Nicola Sturgeon accuses Alex Salmond of being an attention-seeker who 'loves the limelight'. 1 hour ago. Daily Mail\l|enabled = true\l|visible = true\l|x = 16\l|y = 591\l|width = 343\l|height = 371\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/32.0_1182.0_718.0_1924.0.png\l}"]
+	48	[label="{type = XCUIElementTypeStaticText\l|value = 2\l|name = 2\l|label = 2\l|enabled = true\l|visible = true\l|x = 253\l|y = 635\l|width = 19\l|height = 20\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/506.0_1270.0_544.0_1310.0.png\l}"]
+	49	[label="{type = XCUIElementTypeTextField\l|value = Search or enter address\l|name = url\l|label = \l|enabled = true\l|visible = true\l|x = 18\l|y = 31\l|width = 235\l|height = 22\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/36.0_62.0_506.00000000000006_106.0.png\l}"]
+	50	[label="{type = XCUIElementTypeButton\l|name = TabToolbar.stopReloadButton\l|label = Reload\l|enabled = true\l|visible = true\l|x = 258\l|y = 25\l|width = 28\l|height = 34\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/516.0_50.0_572.0_118.0.png\l}"]
+	51	[label="{type = XCUIElementTypeButton\l|name = urlBar-shieldsButton\l|label = Brave Panel\l|enabled = true\l|visible = true\l|x = 291\l|y = 25\l|width = 34\l|height = 34\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/582.0_50.0_650.0_118.0.png\l}"]
+	52	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 1\l|height = 29\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/0.0_128.0_2.0_186.0.png\l}"]
+	53	[label="{type = XCUIElementTypeStaticText\l|value = Google\l|name = Google\l|label = Google\l|enabled = true\l|visible = true\l|x = 16\l|y = 64\l|width = 140\l|height = 29\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/32.0_128.0_312.0_186.0.png\l}"]
+	54	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 187\l|y = 64\l|width = 1\l|height = 29\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/374.0_128.0_376.0_186.0.png\l}"]
+	55	[label="{type = XCUIElementTypeStaticText\l|value = New Tab\l|name = New Tab\l|label = New Tab\l|enabled = true\l|visible = true\l|x = 203\l|y = 64\l|width = 140\l|height = 29\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/406.0_128.0_686.0_186.0.png\l}"]
+	56	[label="{type = XCUIElementTypeButton\l|name = close tab bar\l|label = close tab bar\l|enabled = true\l|visible = true\l|x = 343\l|y = 64\l|width = 30\l|height = 29\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/686.0_128.0_746.0_186.0.png\l}"]
+	57	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 374\l|y = 64\l|width = 1\l|height = 29\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/748.0_128.0_750.0_186.0.png\l}"]
+	58	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 93\l|width = 112\l|height = 110\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/40.0_186.0_264.0_406.0.png\l}"]
+	59	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 131\l|y = 93\l|width = 113\l|height = 110\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/262.0_186.0_488.0_406.0.png\l}"]
+	60	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 243\l|y = 93\l|width = 112\l|height = 110\l|index = 2\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/486.0_186.0_710.0_406.0.png\l}"]
+	61	[label="{type = XCUIElementTypeStaticText\l|value = 82\l|name = 82\l|label = 82\l|enabled = true\l|visible = true\l|x = 20\l|y = 119\l|width = 112\l|height = 39\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/40.0_238.0_264.0_316.0.png\l}"]
+	62	[label="{type = XCUIElementTypeStaticText\l|value = Trackers & Ads Blocked\l|name = Trackers & Ads Blocked\l|label = Trackers & Ads Blocked\l|enabled = true\l|visible = true\l|x = 20\l|y = 162\l|width = 112\l|height = 25\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/40.0_324.0_264.0_374.0.png\l}"]
+	63	[label="{type = XCUIElementTypeStaticText\l|value = 2.5 MB\l|name = 2.5 MB\l|label = 2.5 MB\l|enabled = true\l|visible = true\l|x = 131\l|y = 119\l|width = 113\l|height = 39\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/262.0_238.0_488.0_316.0.png\l}"]
+	64	[label="{type = XCUIElementTypeStaticText\l|value = Est. Data  Saved\l|name = Est. Data  Saved\l|label = Est. Data  Saved\l|enabled = true\l|visible = true\l|x = 131\l|y = 162\l|width = 113\l|height = 25\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/262.0_324.0_488.0_374.0.png\l}"]
+	65	[label="{type = XCUIElementTypeStaticText\l|value = 4s\l|name = 4s\l|label = 4s\l|enabled = true\l|visible = true\l|x = 243\l|y = 119\l|width = 112\l|height = 39\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/486.0_238.0_710.0_316.0.png\l}"]
+	66	[label="{type = XCUIElementTypeStaticText\l|value = Est. Time  Saved\l|name = Est. Time  Saved\l|label = Est. Time  Saved\l|enabled = true\l|visible = true\l|x = 243\l|y = 162\l|width = 112\l|height = 25\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/brave-bookmark/S3/pngs/486.0_324.0_710.0_374.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	7 -> 9
+	7 -> 10
+	8 -> 11
+	8 -> 12
+	9 -> 13
+	10 -> 14
+	11 -> 15
+	12 -> 16
+	13 -> 17
+	13 -> 18
+	13 -> 19
+	13 -> 20
+	13 -> 21
+	13 -> 22
+	13 -> 23
+	13 -> 24
+	14 -> 25
+	15 -> 26
+	16 -> 27
+	16 -> 28
+	17 -> 29
+	18 -> 30
+	19 -> 31
+	20 -> 32
+	21 -> 33
+	22 -> 34
+	23 -> 35
+	24 -> 36
+	25 -> 37
+	25 -> 38
+	25 -> 39
+	25 -> 40
+	25 -> 41
+	26 -> 42
+	27 -> 43
+	28 -> 44
+	30 -> 45
+	35 -> 46
+	36 -> 47
+	40 -> 48
+	42 -> 49
+	42 -> 50
+	42 -> 51
+	43 -> 52
+	43 -> 53
+	44 -> 54
+	44 -> 55
+	44 -> 56
+	44 -> 57
+	45 -> 58
+	45 -> 59
+	45 -> 60
+	58 -> 61
+	58 -> 62
+	59 -> 63
+	59 -> 64
+	60 -> 65
+	60 -> 66
+
+
+}

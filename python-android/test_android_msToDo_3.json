@@ -1,0 +1,67 @@
+{
+    "tests": [
+        {
+            "name": "msToDo-edit", 
+            "events": [
+                {
+                    "tag": "//android.view.ViewGroup[@content-desc=\"My Day, 0 tasks\"]/android.widget.TextView", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Add a task", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "input": "Mytask", 
+                    "tag": "com.microsoft.todos:id/create_task_edit_text", 
+                    "type": "id", 
+                    "event": "send_keys_enter"
+                },
+                {
+                    "tag": "com.microsoft.todos:id/task_title",
+                    "type": "id",
+                    "event": "oracle",
+                    "oracle-type": "assert_equal",
+                    "attribute": "text",
+                    "value": "Mytask"
+                },
+                {
+                    "tag": "com.microsoft.todos:id/task_title", 
+                    "type": "id", 
+                    "event": "click"
+                },
+                {
+                    "tag": "com.microsoft.todos:id/task_title",
+                    "type": "id",
+                    "event": "click"
+                },
+                {
+                    "input": "Editedtask", 
+                    "tag": "com.microsoft.todos:id/task_title_edit", 
+                    "type": "id", 
+                    "event": "send_keys_enter"
+                }, 
+                {
+                    "tag": "Dismiss detail view", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "com.microsoft.todos:id/task_title", 
+                    "type": "id", 
+                    "event": "oracle",
+                    "oracle-type": "assert_equal",
+                    "attribute": "text",
+                    "value": "Editedtask"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "emulator-5554", 
+        "platformName": "Android", 
+        "newCommandTimeout": 0
+    }
+}

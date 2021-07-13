@@ -1,0 +1,4 @@
+pathToElementImageCrop: duckduckgo-search/S0/pngs/127_193_711_303.png;
+coords: {'x1': 127, 'y1': 193, 'x2': 711, 'y2': 303};
+text_identifier: { "resource-id" : "com.duckduckgo.mobile.android:id/omnibarTextInput" };
+event: click;

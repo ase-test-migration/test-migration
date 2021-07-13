@@ -1,0 +1,60 @@
+{"name" : "Firefox", "label" : "Firefox", "screenshotPath" : "firefox-back/S1/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "q", "label" : "q", "screenshotPath" : "firefox-back/S1/pngs/0.0_916.0_76.0_1008.0.png"}
+{"name" : "w", "label" : "w", "screenshotPath" : "firefox-back/S1/pngs/74.0_916.0_150.0_1008.0.png"}
+{"name" : "e", "label" : "e", "screenshotPath" : "firefox-back/S1/pngs/150.0_916.0_226.0_1008.0.png"}
+{"name" : "r", "label" : "r", "screenshotPath" : "firefox-back/S1/pngs/224.00000000000003_916.0_300.0_1008.0.png"}
+{"name" : "t", "label" : "t", "screenshotPath" : "firefox-back/S1/pngs/300.0_916.0_376.0_1008.0.png"}
+{"name" : "y", "label" : "y", "screenshotPath" : "firefox-back/S1/pngs/374.0_916.0_450.0_1008.0.png"}
+{"name" : "u", "label" : "u", "screenshotPath" : "firefox-back/S1/pngs/450.0_916.0_526.0_1008.0.png"}
+{"name" : "i", "label" : "i", "screenshotPath" : "firefox-back/S1/pngs/524.0_916.0_600.0_1008.0.png"}
+{"name" : "o", "label" : "o", "screenshotPath" : "firefox-back/S1/pngs/600.0_916.0_676.0_1008.0.png"}
+{"name" : "p", "label" : "p", "screenshotPath" : "firefox-back/S1/pngs/674.0_916.0_750.0_1008.0.png"}
+{"name" : "a", "label" : "a", "screenshotPath" : "firefox-back/S1/pngs/36.0_1024.0_112.0_1116.0.png"}
+{"name" : "s", "label" : "s", "screenshotPath" : "firefox-back/S1/pngs/112.00000000000001_1024.0_188.0_1116.0.png"}
+{"name" : "d", "label" : "d", "screenshotPath" : "firefox-back/S1/pngs/186.0_1024.0_262.0_1116.0.png"}
+{"name" : "f", "label" : "f", "screenshotPath" : "firefox-back/S1/pngs/262.0_1024.0_338.0_1116.0.png"}
+{"name" : "g", "label" : "g", "screenshotPath" : "firefox-back/S1/pngs/338.0_1024.0_414.0_1116.0.png"}
+{"name" : "h", "label" : "h", "screenshotPath" : "firefox-back/S1/pngs/412.0_1024.0_488.0_1116.0.png"}
+{"name" : "j", "label" : "j", "screenshotPath" : "firefox-back/S1/pngs/487.99999999999994_1024.0_564.0_1116.0.png"}
+{"name" : "k", "label" : "k", "screenshotPath" : "firefox-back/S1/pngs/562.0_1024.0_638.0_1116.0.png"}
+{"name" : "l", "label" : "l", "screenshotPath" : "firefox-back/S1/pngs/638.0_1024.0_714.0_1116.0.png"}
+{"name" : "shift", "label" : "shift", "screenshotPath" : "firefox-back/S1/pngs/0.0_1132.0_96.0_1224.0.png"}
+{"name" : "z", "label" : "z", "screenshotPath" : "firefox-back/S1/pngs/112.00000000000001_1132.0_188.0_1224.0.png"}
+{"name" : "x", "label" : "x", "screenshotPath" : "firefox-back/S1/pngs/186.0_1132.0_262.0_1224.0.png"}
+{"name" : "c", "label" : "c", "screenshotPath" : "firefox-back/S1/pngs/262.0_1132.0_338.0_1224.0.png"}
+{"name" : "v", "label" : "v", "screenshotPath" : "firefox-back/S1/pngs/338.0_1132.0_414.0_1224.0.png"}
+{"name" : "b", "label" : "b", "screenshotPath" : "firefox-back/S1/pngs/412.0_1132.0_488.0_1224.0.png"}
+{"name" : "n", "label" : "n", "screenshotPath" : "firefox-back/S1/pngs/487.99999999999994_1132.0_564.0_1224.0.png"}
+{"name" : "m", "label" : "m", "screenshotPath" : "firefox-back/S1/pngs/562.0_1132.0_638.0_1224.0.png"}
+{"name" : "delete", "label" : "delete", "screenshotPath" : "firefox-back/S1/pngs/654.0_1132.0_750.0_1224.0.png"}
+{"name" : "more", "label" : "numbers", "screenshotPath" : "firefox-back/S1/pngs/0.0_1240.0_94.0_1332.0.png"}
+{"name" : "Emoji", "label" : "Emoji", "screenshotPath" : "firefox-back/S1/pngs/92.0_1240.0_188.0_1332.0.png"}
+{"name" : "dictation", "label" : "Dictate", "screenshotPath" : "firefox-back/S1/pngs/186.0_1240.0_262.0_1332.0.png"}
+{"name" : "space", "label" : "space", "screenshotPath" : "firefox-back/S1/pngs/262.0_1240.0_536.0_1332.0.png"}
+{"name" : ".", "label" : ".", "screenshotPath" : "firefox-back/S1/pngs/534.0_1240.0_610.0_1332.0.png"}
+{"name" : "Go", "label" : "go", "screenshotPath" : "firefox-back/S1/pngs/610.0_1240.0_750.0_1332.0.png"}
+{"name" : "urlBar-cancel", "label" : "Back", "screenshotPath" : "firefox-back/S1/pngs/0.0_70.0_88.0_160.0.png"}
+{"name" : "urlBar-scanQRCode", "label" : "Scan QR Code", "screenshotPath" : "firefox-back/S1/pngs/662.0_70.0_750.0_160.0.png"}
+{"name" : "TopSitesCell", "screenshotPath" : "firefox-back/S1/pngs/12.0_270.0_738.0_698.0.png"}
+{"value" : "0%", "name" : "Vertical scroll bar, 5 pages", "label" : "Vertical scroll bar, 5 pages", "screenshotPath" : "firefox-back/S1/pngs/684.0_190.0_744.0_902.0.png"}
+{"value" : "0%", "name" : "Horizontal scroll bar, 1 page", "label" : "Horizontal scroll bar, 1 page", "screenshotPath" : "firefox-back/S1/pngs/0.0_835.9999999999999_750.0_895.9999999999999.png"}
+{"value" : "Search or enter address", "name" : "address", "label" : "Address and Search", "screenshotPath" : "firefox-back/S1/pngs/112.00000000000001_74.0_638.0_156.0.png"}
+{"value" : "Top Sites", "name" : "topSitesTitle", "label" : "Top Sites", "screenshotPath" : "firefox-back/S1/pngs/82.0_198.0_222.0_262.0.png"}
+{"value" : "Your Library", "name" : "libraryTitle", "label" : "Your Library", "screenshotPath" : "firefox-back/S1/pngs/82.0_716.0000000000001_268.0_780.0000000000001.png"}
+{"name" : "libraryMoreButton", "label" : "See All", "screenshotPath" : "firefox-back/S1/pngs/278.0_716.0000000000001_710.0_780.0000000000001.png"}
+{"value" : "Search or enter address", "name" : "url", "label" : "Address Bar", "screenshotPath" : "firefox-back/S1/pngs/116.0_92.0_654.0_138.0.png"}
+{"value" : "See All", "name" : "See All", "label" : "See All", "screenshotPath" : "firefox-back/S1/pngs/612.0_730.0_710.0_766.0.png"}
+{"name" : "Bookmarks", "label" : "Bookmarks", "screenshotPath" : "firefox-back/S1/pngs/40.0_788.0_194.0_976.0.png"}
+{"name" : "Reading List", "label" : "Reading List", "screenshotPath" : "firefox-back/S1/pngs/212.0_788.0_366.0_976.0.png"}
+{"name" : "Downloads", "label" : "Downloads", "screenshotPath" : "firefox-back/S1/pngs/384.0_788.0_538.0_976.0.png"}
+{"name" : "Synced Tabs", "label" : "Synced Tabs", "screenshotPath" : "firefox-back/S1/pngs/558.0_788.0_710.0_976.0.png"}
+{"name" : "TopSite", "label" : "wikipedia", "screenshotPath" : "firefox-back/S1/pngs/40.0_270.0_186.0_456.0.png"}
+{"name" : "TopSite", "label" : "chess.com", "screenshotPath" : "firefox-back/S1/pngs/214.0_270.0_360.0_456.0.png"}
+{"name" : "TopSite", "label" : "facebook", "screenshotPath" : "firefox-back/S1/pngs/388.0_270.0_534.0_456.0.png"}
+{"name" : "TopSite", "label" : "youtube", "screenshotPath" : "firefox-back/S1/pngs/562.0_270.0_708.0_456.0.png"}
+{"name" : "TopSite", "label" : "amazon", "screenshotPath" : "firefox-back/S1/pngs/40.0_484.0_186.0_670.0.png"}
+{"name" : "TopSite", "label" : "twitter", "screenshotPath" : "firefox-back/S1/pngs/214.0_484.0_360.0_670.0.png"}
+{"name" : "menu Bookmark", "label" : "menu Bookmark", "screenshotPath" : "firefox-back/S1/pngs/53.99999999999999_788.0_178.0_912.0.png"}
+{"name" : "menu panel ReadingList", "label" : "menu panel ReadingList", "screenshotPath" : "firefox-back/S1/pngs/228.0_788.0_350.0_912.0.png"}
+{"name" : "menu panel Downloads", "label" : "menu panel Downloads", "screenshotPath" : "firefox-back/S1/pngs/400.0_788.0_524.0_912.0.png"}
+{"name" : "menu sync", "label" : "menu sync", "screenshotPath" : "firefox-back/S1/pngs/572.0_788.0_696.0_912.0.png"}

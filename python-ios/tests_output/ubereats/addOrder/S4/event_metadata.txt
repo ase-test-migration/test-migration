@@ -1,0 +1,4 @@
+pathToElementImageCrop: addOrder/S4/pngs/24.0_2394.0_1218.0_2562.0.png;
+coords: {'x1': 24.0, 'y1': 2394.0, 'x2': 1218.0, 'y2': 2562.0};
+text_identifier: { "name" : "store_item_add_to_cart" };
+event: click;

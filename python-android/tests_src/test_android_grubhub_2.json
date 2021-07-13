@@ -1,0 +1,45 @@
+{
+    "tests": [
+        {
+            "name": "grub-removefavorite", 
+            "events": [
+                {
+                    "tag": "My Grubhub", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                },
+                {
+                    "input": "1 Saved restaurant",
+                    "type": "text_exists",
+                    "event": "oracle"
+                },
+                {
+                    "tag": "com.grubhub.android:id/diner_favorites", 
+                    "type": "id", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "favorites restaurant name", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "saved restaurant", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "save restaurant", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+          "platformName": "Android",
+          "platformVersion": "9",
+          "deviceName": "Nexus_5_API_28",
+          "newCommandTimeout": 1000
+    }
+}

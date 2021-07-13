@@ -1,0 +1,4 @@
+pathToElementImageCrop: McD-search/S1/pngs/740_502_1013_550.png;
+coords: {'x1': 740, 'y1': 502, 'x2': 1013, 'y2': 550};
+text_identifier: { "resource-id" : "com.mcdonalds.app:id/location_or_address_text" };
+event: click;

@@ -1,0 +1,34 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "python-ios",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.todoist:id/fab",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "android:id/message",
+                "event": "send_keys",
+                "input": "testing"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Add",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "android:id/message",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "testing"
+            }
+        ]
+    }
+}

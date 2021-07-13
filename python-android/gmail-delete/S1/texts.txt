@@ -1,0 +1,17 @@
+{ "resource-id" : "com.google.android.gm:id/item_pager" , "screenshotPath" : "gmail-delete/S1/pngs/0_171_1080_1977.png"}
+{ "content-desc" : "Navigate up" , "screenshotPath" : "gmail-delete/S1/pngs/0_171_154_325.png"}
+{ "resource-id" : "com.google.android.gm:id/conversation_topmost_overlay" , "screenshotPath" : "gmail-delete/S1/pngs/0_171_1080_1977.png"}
+{ "content-desc" : "Archive" , "resource-id" : "com.google.android.gm:id/archive" , "screenshotPath" : "gmail-delete/S1/pngs/573_182_705_314.png"}
+{ "content-desc" : "Delete" , "resource-id" : "com.google.android.gm:id/delete" , "screenshotPath" : "gmail-delete/S1/pngs/705_182_837_314.png"}
+{ "content-desc" : "Mark unread" , "resource-id" : "com.google.android.gm:id/inside_conversation_unread" , "screenshotPath" : "gmail-delete/S1/pngs/837_182_969_314.png"}
+{ "content-desc" : "More options" , "screenshotPath" : "gmail-delete/S1/pngs/969_182_1080_314.png"}
+{ "resource-id" : "com.google.android.gm:id/upper_header" , "screenshotPath" : "gmail-delete/S1/pngs/0_491_1080_711.png"}
+{ "resource-id" : "com.google.android.gm:id/subject_and_folder_view" , "screenshotPath" : "gmail-delete/S1/pngs/55_367_948_449.png"}
+{ "content-desc" : "Add star" , "resource-id" : "com.google.android.gm:id/conversation_header_star" , "screenshotPath" : "gmail-delete/S1/pngs/948_342_1080_474.png"}
+{ "content-desc" : "Reply" , "resource-id" : "com.google.android.gm:id/reply" , "screenshotPath" : "gmail-delete/S1/pngs/838_535_970_667.png"}
+{ "content-desc" : "More options" , "resource-id" : "com.google.android.gm:id/overflow" , "screenshotPath" : "gmail-delete/S1/pngs/970_535_1080_667.png"}
+{ "resource-id" : "com.google.android.gm:id/reply_button" , "screenshotPath" : "gmail-delete/S1/pngs/44_1971_360_1977.png"}
+{ "resource-id" : "com.google.android.gm:id/reply_all_button" , "screenshotPath" : "gmail-delete/S1/pngs/382_1971_698_1977.png"}
+{ "resource-id" : "com.google.android.gm:id/forward_button" , "screenshotPath" : "gmail-delete/S1/pngs/720_1971_1036_1977.png"}
+{ "content-desc" : "Show contact information for Some User" , "resource-id" : "com.google.android.gm:id/contact_badge" , "screenshotPath" : "gmail-delete/S1/pngs/44_546_154_656.png"}
+{ "resource-id" : "com.google.android.gm:id/recipient_summary_container" , "screenshotPath" : "gmail-delete/S1/pngs/198_596_364_707.png"}

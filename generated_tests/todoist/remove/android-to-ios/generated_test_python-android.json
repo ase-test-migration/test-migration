@@ -1,0 +1,28 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "python-android",
+        "events": [
+            {
+                "type": "name",
+                "tag": "testing",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "More",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Delete Task",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Delete task",
+                "event": "click"
+            }
+        ]
+    }
+}

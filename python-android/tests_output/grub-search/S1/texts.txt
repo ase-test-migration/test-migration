@@ -1,0 +1,7 @@
+{ "content-desc" : "Navigate up" , "resource-id" : "com.grubhub.android:id/search_autocomplete_back" , "screenshotPath" : "grub-search/S1/pngs/12_72_156_216.png"}
+{ "resource-id" : "com.grubhub.android:id/search_bar_autocomplete_results_container" , "screenshotPath" : "grub-search/S1/pngs/0_387_1080_1608.png"}
+{ "content-desc" : "Search Bar Field" , "resource-id" : "com.grubhub.android:id/search_edit_text" , "screenshotPath" : "grub-search/S1/pngs/48_258_1032_366.png"}
+{ "resource-id" : "com.grubhub.android:id/search_autocomplete_recycler_view" , "screenshotPath" : "grub-search/S1/pngs/0_390_1080_1608.png"}
+{ "resource-id" : "com.grubhub.android:id/search_results" , "screenshotPath" : "grub-search/S1/pngs/0_399_1080_1608.png"}
+{ "resource-id" : "com.grubhub.android:id/cashbackMinibarRelativeLayout" , "screenshotPath" : "grub-search/S1/pngs/48_411_1032_600.png"}
+{ "resource-id" : "com.grubhub.android:id/restaurant_card" , "screenshotPath" : "grub-search/S1/pngs/48_624_1032_1069.png"}

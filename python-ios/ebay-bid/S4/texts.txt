@@ -1,0 +1,29 @@
+{"name" : "eBay", "label" : "eBay", "screenshotPath" : "ebay-bid/S4/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "Tab Bar", "label" : "Tab Bar", "screenshotPath" : "ebay-bid/S4/pngs/0.0_1236.0_750.0_1334.0.png"}
+{"value" : "1", "name" : "tab_home", "label" : "Home", "screenshotPath" : "ebay-bid/S4/pngs/4.0_1238.0_146.0_1334.0.png"}
+{"name" : "tab_my_ebay", "label" : "My eBay", "screenshotPath" : "ebay-bid/S4/pngs/154.0_1238.0_296.0_1334.0.png"}
+{"name" : "tab_search", "label" : "Search", "screenshotPath" : "ebay-bid/S4/pngs/304.0_1238.0_446.0_1334.0.png"}
+{"name" : "tab_notifications", "label" : "Notifications", "screenshotPath" : "ebay-bid/S4/pngs/453.99999999999994_1238.0_596.0_1334.0.png"}
+{"name" : "tab_selling", "label" : "Selling", "screenshotPath" : "ebay-bid/S4/pngs/604.0_1238.0_746.0_1334.0.png"}
+{"name" : "Antiquities", "screenshotPath" : "ebay-bid/S4/pngs/0.0_40.0_750.0_128.0.png"}
+{"name" : "button_navigation_icon", "label" : "Back", "screenshotPath" : "ebay-bid/S4/pngs/0.0_40.0_88.0_128.0.png"}
+{"value" : "Antiquities", "name" : "Antiquities", "label" : "Antiquities", "screenshotPath" : "ebay-bid/S4/pngs/288.0_64.0_462.0_104.0.png"}
+{"name" : "button_Cart", "label" : "Cart, 1 Item", "screenshotPath" : "ebay-bid/S4/pngs/640.0_40.0_750.0_128.0.png"}
+{"value" : "1", "name" : "textview_cart_items_count", "label" : "1", "screenshotPath" : "ebay-bid/S4/pngs/712.0_50.0_724.0_80.0.png"}
+{"name" : "button_filterCard", "label" : "Filter", "screenshotPath" : "ebay-bid/S4/pngs/600.0_130.0_770.0_218.0.png"}
+{"value" : "0%", "name" : "Vertical scroll bar, 8 pages", "label" : "Vertical scroll bar, 8 pages", "screenshotPath" : "ebay-bid/S4/pngs/684.0_222.0_744.0_1236.0.png"}
+{"value" : "0%", "name" : "Horizontal scroll bar, 1 page", "label" : "Horizontal scroll bar, 1 page", "screenshotPath" : "ebay-bid/S4/pngs/0.0_1170.0_750.0_1230.0.png"}
+{"value" : "Shop by", "name" : "textview_header_title", "label" : "Shop by", "screenshotPath" : "ebay-bid/S4/pngs/32.0_270.0_718.0_310.0.png"}
+{"name" : "Results , 1-12 of 95,631 Results", "label" : "Results , 1-12 of 95,631 Results", "screenshotPath" : "ebay-bid/S4/pngs/32.0_792.0_718.0_876.0.png"}
+{"name" : "cell_item", "label" : "Damaged Roman Fibula With Good Enamel, $20.09, 12 bids, 11 hours 25 minutes, $13.78 shipping, From United Kingdom", "screenshotPath" : "ebay-bid/S4/pngs/0.0_906.0000000000001_750.0_1220.0.png"}
+{"name" : "cell_item", "label" : "Good Sized Roman Fibula With Enamel Traces, $15.72, 7 bids, 11 hours 28 minutes, $13.78 shipping, From United Kingdom", "screenshotPath" : "ebay-bid/S4/pngs/0.0_1218.0_750.0_1532.0.png"}
+{"name" : "container_items", "screenshotPath" : "ebay-bid/S4/pngs/0.0_332.0_750.0_414.0.png"}
+{"name" : "container_items", "screenshotPath" : "ebay-bid/S4/pngs/0.0_436.0_750.0_722.0.png"}
+{"name" : "Damaged Roman Fibula With Good Enamel, $20.09, 12 bids, 11 hours 25 minutes, $13.78 shipping, From United Kingdom", "label" : "Damaged Roman Fibula With Good Enamel, $20.09, 12 bids, 11 hours 25 minutes, $13.78 shipping, From United Kingdom", "screenshotPath" : "ebay-bid/S4/pngs/0.0_906.0000000000001_750.0_1220.0.png"}
+{"name" : "item_action_menu", "label" : "ic actionbar overflow", "screenshotPath" : "ebay-bid/S4/pngs/726.0_922.0_734.0_956.0.png"}
+{"name" : "Good Sized Roman Fibula With Enamel Traces, $15.72, 7 bids, 11 hours 28 minutes, $13.78 shipping, From United Kingdom", "label" : "Good Sized Roman Fibula With Enamel Traces, $15.72, 7 bids, 11 hours 28 minutes, $13.78 shipping, From United Kingdom", "screenshotPath" : "ebay-bid/S4/pngs/0.0_1218.0_750.0_1532.0.png"}
+{"value" : "1", "name" : "Category", "label" : "Category", "screenshotPath" : "ebay-bid/S4/pngs/32.0_332.0_204.0_398.0.png"}
+{"name" : "Material", "label" : "Material", "screenshotPath" : "ebay-bid/S4/pngs/218.0_332.0_378.0_398.0.png"}
+{"name" : "query_image_model", "label" : "Roman", "screenshotPath" : "ebay-bid/S4/pngs/32.0_436.0_300.0_706.0.png"}
+{"name" : "query_image_model", "label" : "The Americas", "screenshotPath" : "ebay-bid/S4/pngs/316.0_436.0_584.0_706.0.png"}
+{"name" : "query_image_model", "label" : "Egyptian", "screenshotPath" : "ebay-bid/S4/pngs/600.0_436.0_868.0_706.0.png"}

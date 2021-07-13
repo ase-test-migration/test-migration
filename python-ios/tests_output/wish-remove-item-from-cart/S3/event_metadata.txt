@@ -1,0 +1,4 @@
+pathToElementImageCrop: wish-remove-item-from-cart/S3/pngs/168.0_1437.0_1074.0_1560.0.png;
+coords: {'x1': 168.0, 'y1': 1437.0, 'x2': 1074.0, 'y2': 1560.0};
+text_identifier: { "name" : "messageDialogRemoveItem" };
+event: click;

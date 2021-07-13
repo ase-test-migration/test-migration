@@ -1,0 +1,23 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "python-ios",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.duckduckgo.mobile.android:id/tabsMenu",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Close",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "Search or enter address"
+            }
+        ]
+    }
+}

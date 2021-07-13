@@ -1,0 +1,30 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "testSearch",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.yelp.android:id/home_screen_search_bar"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys",
+                    "tag": "com.yelp.android:id/searchbar",
+                    "input": "pizza"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Search Yelp"
+                }
+            ]
+        }
+    ]
+}

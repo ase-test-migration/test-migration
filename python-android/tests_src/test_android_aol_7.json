@@ -1,0 +1,25 @@
+{
+    "tests": [
+        {
+            "name": "newsearch", 
+            "events": [
+                {
+                    "tag": "Search or type URL", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "input": "biden", 
+                    "tag": "Search or type URL", 
+                    "type": "accessibilityId", 
+                    "event": "send_keys"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "emulator-5554", 
+        "platformName": "Android", 
+        "newCommandTimeout": 0
+    }
+}

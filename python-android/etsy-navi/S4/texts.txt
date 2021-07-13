@@ -1,0 +1,32 @@
+{ "resource-id" : "com.etsy.android:id/app_bar_toolbar" , "screenshotPath" : "etsy-navi/S4/pngs/0_74_1080_221.png"}
+{ "content-desc" : "Home tab, 1 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_home" , "screenshotPath" : "etsy-navi/S4/pngs/0_2214_216_2287.png"}
+{ "content-desc" : "Favorites tab, 2 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_favorites" , "screenshotPath" : "etsy-navi/S4/pngs/216_2214_432_2287.png"}
+{ "content-desc" : "Updates tab, 3 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_updates" , "screenshotPath" : "etsy-navi/S4/pngs/432_2214_648_2287.png"}
+{ "content-desc" : "You tab, 4 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_you" , "screenshotPath" : "etsy-navi/S4/pngs/648_2214_864_2287.png"}
+{ "content-desc" : "Cart tab, 5 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_cart" , "screenshotPath" : "etsy-navi/S4/pngs/864_2214_1080_2287.png"}
+{ "content-desc" : "Navigate up" , "screenshotPath" : "etsy-navi/S4/pngs/0_74_147_221.png"}
+{ "resource-id" : "com.etsy.android:id/listing_container" , "screenshotPath" : "etsy-navi/S4/pngs/0_221_1080_2214.png"}
+{ "content-desc" : "Share Button" , "resource-id" : "com.etsy.android:id/menu_share" , "screenshotPath" : "etsy-navi/S4/pngs/953_84_1080_210.png"}
+{ "resource-id" : "com.etsy.android:id/scrollview" , "screenshotPath" : "etsy-navi/S4/pngs/0_221_1080_2214.png"}
+{ "resource-id" : "com.etsy.android:id/shop_header_background" , "screenshotPath" : "etsy-navi/S4/pngs/0_221_1080_368.png"}
+{ "content-desc" : "Remove Kitangle Corner Kitty Litter Box from your favorites" , "resource-id" : "com.etsy.android:id/button_favorite_listing" , "screenshotPath" : "etsy-navi/S4/pngs/969_389_1069_489.png"}
+{ "resource-id" : "com.etsy.android:id/shop_header_name" , "screenshotPath" : "etsy-navi/S4/pngs/158_251_831_289.png"}
+{ "content-desc" : "Rating: 4.75 out of 5,  reviews" , "resource-id" : "com.etsy.android:id/shop_rating" , "screenshotPath" : "etsy-navi/S4/pngs/852_221_1038_368.png"}
+{ "content-desc" : "Product pictures or videos panel with thumbnails" , "resource-id" : "com.etsy.android:id/viewpager_listing_images" , "screenshotPath" : "etsy-navi/S4/pngs/0_368_1080_1088.png"}
+{ "resource-id" : "com.etsy.android:id/listing_panel_purchase" , "screenshotPath" : "etsy-navi/S4/pngs/0_1309_1080_2214.png"}
+{ "resource-id" : "com.etsy.android:id/listing_title_smaller" , "screenshotPath" : "etsy-navi/S4/pngs/0_1351_584_1389.png"}
+{ "content-desc" : "Product picture 1 of 10" , "resource-id" : "com.etsy.android:id/image" , "screenshotPath" : "etsy-navi/S4/pngs/0_368_1080_1088.png"}
+{ "resource-id" : "com.etsy.android:id/button_express_checkout" , "screenshotPath" : "etsy-navi/S4/pngs/42_2066_1038_2192.png"}
+{ "resource-id" : "com.etsy.android:id/custom_looping_recyclerview" , "screenshotPath" : "etsy-navi/S4/pngs/0_1109_1080_1298.png"}
+{ "content-desc" : "Pay it in 4 interest-free installments with Klarna " , "resource-id" : "com.etsy.android:id/listing_text_klarna_info" , "screenshotPath" : "etsy-navi/S4/pngs/42_1490_1038_1591.png"}
+{ "resource-id" : "com.etsy.android:id/text_free_shipping_body" , "screenshotPath" : "etsy-navi/S4/pngs/42_1670_307_1708.png"}
+{ "resource-id" : "com.etsy.android:id/listing_thumbnail_layout" , "screenshotPath" : "etsy-navi/S4/pngs/21_1109_210_1298.png"}
+{ "resource-id" : "com.etsy.android:id/listing_thumbnail_layout" , "screenshotPath" : "etsy-navi/S4/pngs/231_1109_420_1298.png"}
+{ "resource-id" : "com.etsy.android:id/listing_thumbnail_layout" , "screenshotPath" : "etsy-navi/S4/pngs/441_1109_630_1298.png"}
+{ "resource-id" : "com.etsy.android:id/listing_thumbnail_layout" , "screenshotPath" : "etsy-navi/S4/pngs/651_1109_840_1298.png"}
+{ "resource-id" : "com.etsy.android:id/listing_thumbnail_layout" , "screenshotPath" : "etsy-navi/S4/pngs/861_1109_1050_1298.png"}
+{ "resource-id" : "com.etsy.android:id/listing_thumbnail_layout" , "screenshotPath" : "etsy-navi/S4/pngs/1071_1109_1080_1298.png"}
+{ "resource-id" : "com.etsy.android:id/redesigned_variation_selector_1" , "screenshotPath" : "etsy-navi/S4/pngs/42_1750_1038_1876.png"}
+{ "resource-id" : "com.etsy.android:id/redesigned_quantity_selector" , "screenshotPath" : "etsy-navi/S4/pngs/42_1908_1038_2034.png"}
+{ "content-desc" : "Show dropdown menu" , "resource-id" : "com.etsy.android:id/text_input_end_icon" , "screenshotPath" : "etsy-navi/S4/pngs/912_1750_1038_1876.png"}
+{ "content-desc" : "Show dropdown menu" , "resource-id" : "com.etsy.android:id/text_input_end_icon" , "screenshotPath" : "etsy-navi/S4/pngs/912_1908_1038_2034.png"}

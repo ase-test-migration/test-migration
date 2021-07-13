@@ -1,0 +1,4 @@
+pathToElementImageCrop: guardian-bookmark/S0/pngs/16.0_332.0_734.0_1278.0.png;
+coords: {'x1': 16.0, 'y1': 332.0, 'x2': 734.0, 'y2': 1278.0};
+text_identifier: { "label" : "Horizontal scroll bar, 1 page" };
+event: click;

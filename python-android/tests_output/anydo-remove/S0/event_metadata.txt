@@ -1,0 +1,4 @@
+pathToElementImageCrop: anydo-remove/S0/pngs/50_512_94_565.png;
+coords: {'x1': 50, 'y1': 512, 'x2': 94, 'y2': 565};
+text_identifier: { "content-desc" : "Mark as complete" , "resource-id" : "com.anydo:id/mark_as_complete" };
+event: click;

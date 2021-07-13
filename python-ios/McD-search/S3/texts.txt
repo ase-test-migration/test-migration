@@ -1,0 +1,45 @@
+{"name" : "McDonald's", "label" : "McDonald's", "screenshotPath" : "McD-search/S3/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "Select Location", "screenshotPath" : "McD-search/S3/pngs/0.0_40.0_750.0_128.0.png"}
+{"name" : "store_search_view", "label" : "store_search_view", "screenshotPath" : "McD-search/S3/pngs/12.0_107.99999999999999_738.0_248.0.png"}
+{"name" : "slide_close", "label" : "Close", "screenshotPath" : "McD-search/S3/pngs/16.0_40.0_90.0_128.0.png"}
+{"value" : "Store Selection Screen", "name" : "Store Selection Screen", "label" : "Store Selection Screen", "screenshotPath" : "McD-search/S3/pngs/258.0_40.0_494.0_128.0.png"}
+{"name" : "toolbar_search", "label" : "search", "screenshotPath" : "McD-search/S3/pngs/560.0_40.0_642.0_128.0.png"}
+{"name" : "toolbar_right_icon", "label" : "List view", "screenshotPath" : "McD-search/S3/pngs/658.0_40.0_734.0_128.0.png"}
+{"name" : "search", "screenshotPath" : "McD-search/S3/pngs/48.0_152.0_618.0_218.0.png"}
+{"name" : "Filter", "label" : "Filter", "screenshotPath" : "McD-search/S3/pngs/630.0_154.0_706.0_216.0.png"}
+{"value" : "Filter", "name" : "Filter", "label" : "Filter", "screenshotPath" : "McD-search/S3/pngs/636.0_166.0_700.0_204.0.png"}
+{"name" : "current_location", "label" : "FindMeIcon", "screenshotPath" : "McD-search/S3/pngs/640.0_821.9999999999999_704.0_887.9999999999999.png"}
+{"name" : "location_map", "label" : "Map view", "screenshotPath" : "McD-search/S3/pngs/0.0_128.0_750.0_928.0.png"}
+{"name" : "q", "label" : "q", "screenshotPath" : "McD-search/S3/pngs/0.0_916.0_76.0_1008.0.png"}
+{"name" : "w", "label" : "w", "screenshotPath" : "McD-search/S3/pngs/74.0_916.0_150.0_1008.0.png"}
+{"name" : "e", "label" : "e", "screenshotPath" : "McD-search/S3/pngs/150.0_916.0_226.0_1008.0.png"}
+{"name" : "r", "label" : "r", "screenshotPath" : "McD-search/S3/pngs/224.00000000000003_916.0_300.0_1008.0.png"}
+{"name" : "t", "label" : "t", "screenshotPath" : "McD-search/S3/pngs/300.0_916.0_376.0_1008.0.png"}
+{"name" : "y", "label" : "y", "screenshotPath" : "McD-search/S3/pngs/374.0_916.0_450.0_1008.0.png"}
+{"name" : "u", "label" : "u", "screenshotPath" : "McD-search/S3/pngs/450.0_916.0_526.0_1008.0.png"}
+{"name" : "i", "label" : "i", "screenshotPath" : "McD-search/S3/pngs/524.0_916.0_600.0_1008.0.png"}
+{"name" : "o", "label" : "o", "screenshotPath" : "McD-search/S3/pngs/600.0_916.0_676.0_1008.0.png"}
+{"name" : "p", "label" : "p", "screenshotPath" : "McD-search/S3/pngs/674.0_916.0_750.0_1008.0.png"}
+{"name" : "a", "label" : "a", "screenshotPath" : "McD-search/S3/pngs/36.0_1024.0_112.0_1116.0.png"}
+{"name" : "s", "label" : "s", "screenshotPath" : "McD-search/S3/pngs/112.00000000000001_1024.0_188.0_1116.0.png"}
+{"name" : "d", "label" : "d", "screenshotPath" : "McD-search/S3/pngs/186.0_1024.0_262.0_1116.0.png"}
+{"name" : "f", "label" : "f", "screenshotPath" : "McD-search/S3/pngs/262.0_1024.0_338.0_1116.0.png"}
+{"name" : "g", "label" : "g", "screenshotPath" : "McD-search/S3/pngs/338.0_1024.0_414.0_1116.0.png"}
+{"name" : "h", "label" : "h", "screenshotPath" : "McD-search/S3/pngs/412.0_1024.0_488.0_1116.0.png"}
+{"name" : "j", "label" : "j", "screenshotPath" : "McD-search/S3/pngs/487.99999999999994_1024.0_564.0_1116.0.png"}
+{"name" : "k", "label" : "k", "screenshotPath" : "McD-search/S3/pngs/562.0_1024.0_638.0_1116.0.png"}
+{"name" : "l", "label" : "l", "screenshotPath" : "McD-search/S3/pngs/638.0_1024.0_714.0_1116.0.png"}
+{"name" : "shift", "label" : "shift", "screenshotPath" : "McD-search/S3/pngs/0.0_1132.0_96.0_1224.0.png"}
+{"name" : "z", "label" : "z", "screenshotPath" : "McD-search/S3/pngs/112.00000000000001_1132.0_188.0_1224.0.png"}
+{"name" : "x", "label" : "x", "screenshotPath" : "McD-search/S3/pngs/186.0_1132.0_262.0_1224.0.png"}
+{"name" : "c", "label" : "c", "screenshotPath" : "McD-search/S3/pngs/262.0_1132.0_338.0_1224.0.png"}
+{"name" : "v", "label" : "v", "screenshotPath" : "McD-search/S3/pngs/338.0_1132.0_414.0_1224.0.png"}
+{"name" : "b", "label" : "b", "screenshotPath" : "McD-search/S3/pngs/412.0_1132.0_488.0_1224.0.png"}
+{"name" : "n", "label" : "n", "screenshotPath" : "McD-search/S3/pngs/487.99999999999994_1132.0_564.0_1224.0.png"}
+{"name" : "m", "label" : "m", "screenshotPath" : "McD-search/S3/pngs/562.0_1132.0_638.0_1224.0.png"}
+{"name" : "delete", "label" : "delete", "screenshotPath" : "McD-search/S3/pngs/654.0_1132.0_750.0_1224.0.png"}
+{"name" : "more", "label" : "numbers", "screenshotPath" : "McD-search/S3/pngs/0.0_1240.0_94.0_1332.0.png"}
+{"name" : "Emoji", "label" : "Emoji", "screenshotPath" : "McD-search/S3/pngs/92.0_1240.0_188.0_1332.0.png"}
+{"name" : "dictation", "label" : "Dictate", "screenshotPath" : "McD-search/S3/pngs/186.0_1240.0_262.0_1332.0.png"}
+{"name" : "space", "label" : "space", "screenshotPath" : "McD-search/S3/pngs/262.0_1240.0_564.0_1332.0.png"}
+{"name" : "Search", "label" : "search", "screenshotPath" : "McD-search/S3/pngs/562.0_1240.0_750.0_1332.0.png"}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: poshmark-naviCat/S2/pngs/32.0_360.0_680.0_448.0.png;
+coords: {'x1': 32.0, 'y1': 360.0, 'x2': 680.0, 'y2': 448.0};
+text_identifier: { "label" : "adidas" };
+event: click;

@@ -1,0 +1,4 @@
+pathToElementImageCrop: usa-bookmark/S0/pngs/55_1171_1025_1337.png;
+coords: {'x1': 55, 'y1': 1171, 'x2': 1025, 'y2': 1337};
+text_identifier: { "resource-id" : "com.usatoday.android.news:id/main_text" };
+event: click;

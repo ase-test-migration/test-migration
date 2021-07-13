@@ -1,0 +1,5 @@
+{ "content-desc" : "Close" , "resource-id" : "com.ebay.mobile:id/home" , "screenshotPath" : "ebay-login/S1/pngs/0_72_168_240.png"}
+{ "resource-id" : "com.ebay.mobile:id/button_classic" , "screenshotPath" : "ebay-login/S1/pngs/48_936_1032_1116.png"}
+{ "resource-id" : "com.ebay.mobile:id/button_google" , "screenshotPath" : "ebay-login/S1/pngs/48_1140_1032_1320.png"}
+{ "resource-id" : "com.ebay.mobile:id/button_facebook" , "screenshotPath" : "ebay-login/S1/pngs/48_1344_1032_1524.png"}
+{ "resource-id" : "com.ebay.mobile:id/button_create_account" , "screenshotPath" : "ebay-login/S1/pngs/48_1548_1032_1728.png"}

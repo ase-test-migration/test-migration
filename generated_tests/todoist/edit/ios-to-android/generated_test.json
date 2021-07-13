@@ -1,0 +1,65 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "todoist-edit",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.todoist:id/fab",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "android:id/message",
+                "event": "send_keys",
+                "input": "task1"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Add",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.todoist:id/section",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "task1"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.todoist:id/root",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Overflow menu",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.todoist:id/edit",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.todoist:id/item_content",
+                "event": "send_keys",
+                "input": "edited name"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Submit",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "edited name"
+            }
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{"name" : "Firefox", "label" : "Firefox", "screenshotPath" : "firefox-back/S2/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "contentView", "label" : "Web content", "screenshotPath" : "firefox-back/S2/pngs/0.0_190.0_750.0_1242.0.png"}
+{"name" : "Navigation Toolbar", "label" : "Navigation Toolbar", "screenshotPath" : "firefox-back/S2/pngs/0.0_1242.0_750.0_1334.0.png"}
+{"value" : "3%", "name" : "Vertical scroll bar, 2 pages", "label" : "Vertical scroll bar, 2 pages", "screenshotPath" : "firefox-back/S2/pngs/684.0_190.0_744.0_1242.0.png"}
+{"value" : "0%", "name" : "Horizontal scroll bar, 1 page", "label" : "Horizontal scroll bar, 1 page", "screenshotPath" : "firefox-back/S2/pngs/0.0_1176.0_750.0_1236.0.png"}
+{"name" : "TabToolbar.backButton", "label" : "Back", "screenshotPath" : "firefox-back/S2/pngs/0.0_1242.0_150.0_1334.0.png"}
+{"name" : "TabToolbar.forwardButton", "label" : "Forward", "screenshotPath" : "firefox-back/S2/pngs/150.0_1242.0_300.0_1334.0.png"}
+{"name" : "TabToolbar.multiStateButton", "label" : "Reload", "screenshotPath" : "firefox-back/S2/pngs/300.0_1242.0_450.0_1334.0.png"}
+{"value" : "1", "name" : "TabToolbar.tabsButton", "label" : "Show Tabs", "screenshotPath" : "firefox-back/S2/pngs/450.0_1242.0_600.0_1334.0.png"}
+{"name" : "TabToolbar.menuButton", "label" : "Menu", "screenshotPath" : "firefox-back/S2/pngs/600.0_1242.0_750.0_1334.0.png"}
+{"value" : "www.google.com/?gws_rd=ssl", "name" : "url", "label" : "Address Bar", "screenshotPath" : "firefox-back/S2/pngs/160.0_92.0_578.0_138.0.png"}
+{"name" : "TabLocationView.reloadButton", "label" : "Reload page", "screenshotPath" : "firefox-back/S2/pngs/578.0_70.0_646.0_160.0.png"}
+{"name" : "TabLocationView.pageOptionsButton", "label" : "Page Options Menu", "screenshotPath" : "firefox-back/S2/pngs/648.0_70.0_736.0_160.0.png"}
+{"name" : "TabLocationView.trackingProtectionButton", "label" : "tracking protection", "screenshotPath" : "firefox-back/S2/pngs/14.000000000000002_70.0_102.0_160.0.png"}
+{"value" : "1", "name" : "1", "label" : "1", "screenshotPath" : "firefox-back/S2/pngs/500.0_1264.0_550.0_1312.0.png"}
+{"name" : "Google", "label" : "Google", "screenshotPath" : "firefox-back/S2/pngs/0.0_188.0_750.0_1310.0.png"}
+{"name" : "banner", "label" : "banner", "screenshotPath" : "firefox-back/S2/pngs/0.0_188.0_750.0_292.0.png"}
+{"name" : "search", "label" : "search", "screenshotPath" : "firefox-back/S2/pngs/16.0_576.0_734.0_656.0.png"}
+{"name" : "Главни мени", "label" : "Главни мени", "screenshotPath" : "firefox-back/S2/pngs/0.0_188.0_112.00000000000001_292.0.png"}
+{"name" : "СЛИКЕ", "label" : "СЛИКЕ", "screenshotPath" : "firefox-back/S2/pngs/226.0_220.0_314.0_250.0.png"}
+{"name" : "Google", "label" : "Google", "screenshotPath" : "firefox-back/S2/pngs/214.0_412.00000000000006_536.0_524.0.png"}
+{"name" : "Google претрага", "label" : "Google претрага", "screenshotPath" : "firefox-back/S2/pngs/22.0_582.0_86.0_650.0.png"}
+{"name" : "Тражи", "label" : "Тражи", "screenshotPath" : "firefox-back/S2/pngs/84.0_592.0_642.0_642.0.png"}
+{"value" : "Србија", "name" : "Србија", "label" : "Србија", "screenshotPath" : "firefox-back/S2/pngs/24.0_1070.0_128.0_1110.0.png"}
+{"name" : "Приватност", "label" : "Приватност", "screenshotPath" : "firefox-back/S2/pngs/338.0_1168.0_484.0_1200.0.png"}
+{"name" : "Услови", "label" : "Услови", "screenshotPath" : "firefox-back/S2/pngs/536.0_1168.0_626.0_1200.0.png"}
+{"value" : "СВЕ", "name" : "СВЕ", "label" : "СВЕ", "screenshotPath" : "firefox-back/S2/pngs/128.0_220.0_180.0_250.0.png"}
+{"value" : "СЛИКЕ", "name" : "СЛИКЕ", "label" : "СЛИКЕ", "screenshotPath" : "firefox-back/S2/pngs/226.0_220.0_314.0_250.0.png"}
+{"name" : "Подешавања", "label" : "Подешавања", "screenshotPath" : "firefox-back/S2/pngs/70.0_1168.0_286.0_1200.0.png"}
+{"value" : "Приватност", "name" : "Приватност", "label" : "Приватност", "screenshotPath" : "firefox-back/S2/pngs/338.0_1168.0_484.0_1200.0.png"}
+{"value" : "Услови", "name" : "Услови", "label" : "Услови", "screenshotPath" : "firefox-back/S2/pngs/536.0_1168.0_626.0_1200.0.png"}
+{"name" : "Пријавите се", "label" : "Пријавите се", "screenshotPath" : "firefox-back/S2/pngs/514.0_215.99999999999997_694.0_253.99999999999997.png"}
+{"value" : "Google се нуди на:", "name" : "Google се нуди на:", "label" : "Google се нуди на:", "screenshotPath" : "firefox-back/S2/pngs/144.0_716.0000000000001_374.0_748.0000000000001.png"}
+{"name" : "srpski", "label" : "srpski", "screenshotPath" : "firefox-back/S2/pngs/396.0_716.0000000000001_466.0_748.0000000000001.png"}
+{"name" : "English", "label" : "English", "screenshotPath" : "firefox-back/S2/pngs/504.00000000000006_716.0000000000001_590.0_748.0000000000001.png"}
+{"name" : "Google апликације", "label" : "Google апликације", "screenshotPath" : "firefox-back/S2/pngs/378.0_196.00000000000003_460.0_276.0.png"}
+{"value" : "Пријавите се", "name" : "Пријавите се", "label" : "Пријавите се", "screenshotPath" : "firefox-back/S2/pngs/514.0_215.99999999999997_694.0_253.99999999999997.png"}
+{"value" : "srpski", "name" : "srpski", "label" : "srpski", "screenshotPath" : "firefox-back/S2/pngs/396.0_716.0000000000001_466.0_748.0000000000001.png"}
+{"value" : "nglish", "name" : "English", "label" : "English", "screenshotPath" : "firefox-back/S2/pngs/504.00000000000006_716.0000000000001_590.0_748.0000000000001.png"}

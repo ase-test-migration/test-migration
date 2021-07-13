@@ -1,0 +1,4 @@
+pathToElementImageCrop: gTask-addTask/S2/pngs/876_1360_1038_1507.png;
+coords: {'x1': 876, 'y1': 1360, 'x2': 1038, 'y2': 1507};
+text_identifier: { "resource-id" : "com.google.android.apps.tasks:id/add_task_done" };
+event: click;

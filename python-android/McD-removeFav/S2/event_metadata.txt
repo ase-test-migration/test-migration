@@ -1,0 +1,5 @@
+pathToElementImageCrop: McD-removeFav/S2/pngs/540_1876_1080_2002.png;
+coords: {'x1': 540, 'y1': 1876, 'x2': 1080, 'y2': 2002};
+text_identifier: { "content-desc" : "Favorites
+Tab 2 of 2 not selected" };
+event: click;

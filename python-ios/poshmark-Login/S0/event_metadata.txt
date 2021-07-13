@@ -1,0 +1,4 @@
+pathToElementImageCrop: poshmark-Login/S0/pngs/30.0_1126.0_720.0_1186.0.png;
+coords: {'x1': 30.0, 'y1': 1126.0, 'x2': 720.0, 'y2': 1186.0};
+text_identifier: { "label" : "Already have an account? Tap to login!" };
+event: click;

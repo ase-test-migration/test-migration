@@ -1,0 +1,4 @@
+pathToElementImageCrop: chrome-back/S0/pngs/72_735_871_867.png;
+coords: {'x1': 72, 'y1': 735, 'x2': 871, 'y2': 867};
+text_identifier: { "resource-id" : "com.android.chrome:id/search_box_text" };
+event: click;

@@ -1,0 +1,24 @@
+{ "resource-id" : "com.mcdonalds.app:id/content_view" , "screenshotPath" : "McD-search/S0/pngs/0_74_1080_2287.png"}
+{ "resource-id" : "com.mcdonalds.app:id/toolbar" , "screenshotPath" : "McD-search/S0/pngs/0_74_1080_200.png"}
+{ "resource-id" : "com.mcdonalds.app:id/page_root" , "screenshotPath" : "McD-search/S0/pngs/0_200_1080_2214.png"}
+{ "resource-id" : "com.mcdonalds.app:id/toolbar" , "screenshotPath" : "McD-search/S0/pngs/0_74_1080_200.png"}
+{ "resource-id" : "com.mcdonalds.app:id/page_content_holder" , "screenshotPath" : "McD-search/S0/pngs/0_200_1080_2214.png"}
+{ "content-desc" : "Home tab 1 of 5" , "screenshotPath" : "McD-search/S0/pngs/0_2214_216_2287.png"}
+{ "content-desc" : "Order tab 2 of 5" , "screenshotPath" : "McD-search/S0/pngs/216_2214_432_2287.png"}
+{ "content-desc" : "Deals tab 3 of 5" , "screenshotPath" : "McD-search/S0/pngs/432_2214_648_2287.png"}
+{ "content-desc" : "Recents tab 4 of 5" , "screenshotPath" : "McD-search/S0/pngs/648_2214_864_2287.png"}
+{ "content-desc" : "More tab 5 of 5" , "screenshotPath" : "McD-search/S0/pngs/864_2214_1080_2287.png"}
+{ "content-desc" : " " , "resource-id" : "com.mcdonalds.app:id/toolbar_center_image" , "screenshotPath" : "McD-search/S0/pngs/451_74_629_200.png"}
+{ "resource-id" : "com.mcdonalds.app:id/nestedScrollView" , "screenshotPath" : "McD-search/S0/pngs/0_200_1080_2214.png"}
+{ "content-desc" : "Your McCafé    ® Rewards" , "resource-id" : "com.mcdonalds.app:id/punch_header" , "screenshotPath" : "McD-search/S0/pngs/63_886_1017_971.png"}
+{ "content-desc" : "Free Fries
+taste better
+Especially when they're all yours
+" , "resource-id" : "com.mcdonalds.app:id/hero_parent" , "screenshotPath" : "McD-search/S0/pngs/0_200_1080_729.png"}
+{ "content-desc" : "Fresh and golden medium fries." , "resource-id" : "com.mcdonalds.app:id/background_image_view" , "screenshotPath" : "McD-search/S0/pngs/0_200_1080_729.png"}
+{ "content-desc" : "Get free medium fries with minimum $1 Mobile Order and Pay purchase, tax excluded. Valid 1 time every Friday through June 27th, 2021 at participating McDonald's. Mobile Order and Pay at participating McDonald's. App registration required." , "resource-id" : "com.mcdonalds.app:id/legal_text" , "screenshotPath" : "McD-search/S0/pngs/63_740_1017_833.png"}
+{ "resource-id" : "com.mcdonalds.app:id/tv_menu_title" , "screenshotPath" : "McD-search/S0/pngs/63_1612_746_1697.png"}
+{ "resource-id" : "com.mcdonalds.app:id/menu_category_list" , "screenshotPath" : "McD-search/S0/pngs/0_1739_1080_2214.png"}
+{ "content-desc" : "Get Free Fries button" , "resource-id" : "com.mcdonalds.app:id/left_button" , "screenshotPath" : "McD-search/S0/pngs/63_582_527_687.png"}
+{ "content-desc" : "Get a free McCafé®, Buy 5 McCafé drinks, get 1 free* >, You have 5 punches" , "resource-id" : "com.mcdonalds.app:id/deal_card_view_newpunch" , "screenshotPath" : "McD-search/S0/pngs/63_984_1017_1480.png"}
+{ "resource-id" : "com.mcdonalds.app:id/viewFullMenu" , "screenshotPath" : "McD-search/S0/pngs/809_1629_975_1680.png"}

@@ -1,0 +1,34 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "dolphin-history",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "mobi.mgeek.TunnyBrowser:id/search_text",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "mobi.mgeek.TunnyBrowser:id/search_input",
+                "event": "send_keys_enter",
+                "input": "chess.com"
+            },
+            {
+                "type": "xPath",
+                "tag": "/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ListView/android.widget.FrameLayout",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "mobi.mgeek.TunnyBrowser:id/lock",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "Chess.com"
+            }
+        ]
+    }
+}

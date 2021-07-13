@@ -1,0 +1,4 @@
+pathToElementImageCrop: poshmark-naviCat/S0/pngs/140.0_166.0_250.0_198.0.png;
+coords: {'x1': 140.0, 'y1': 166.0, 'x2': 250.0, 'y2': 198.0};
+text_identifier: { "label" : "WOMEN" };
+event: click;

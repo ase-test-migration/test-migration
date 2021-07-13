@@ -1,0 +1,4 @@
+pathToElementImageCrop: dolphin-tab/S0/pngs/620.0_1246.0_708.0_1334.0.png;
+coords: {'x1': 620.0, 'y1': 1246.0, 'x2': 708.0, 'y2': 1334.0};
+text_identifier: { "label" : "1" };
+event: click;

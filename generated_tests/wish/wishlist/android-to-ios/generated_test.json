@@ -1,0 +1,39 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "wish-wishlist",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Brands",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Recently Viewed",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "cartBarButton",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "applyButton",
+                "event": "send_keys",
+                "input": "Favorites"
+            },
+            {
+                "type": "name",
+                "tag": "checkoutButton",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_invisible",
+                "input": "Create New Wishlist"
+            }
+        ]
+    }
+}

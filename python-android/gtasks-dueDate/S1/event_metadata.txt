@@ -1,0 +1,4 @@
+pathToElementImageCrop: gtasks-dueDate/S1/pngs/165_738_1025_797.png;
+coords: {'x1': 165, 'y1': 738, 'x2': 1025, 'y2': 797};
+text_identifier: { "resource-id" : "com.google.android.apps.tasks:id/edit_due_date_hint" };
+event: click;

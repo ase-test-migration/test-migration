@@ -1,0 +1,4 @@
+pathToElementImageCrop: guardian-category/S1/pngs/15.0_588.0_891.0_657.0.png;
+coords: {'x1': 15.0, 'y1': 588.0, 'x2': 891.0, 'y2': 657.0};
+text_identifier: { "label" : "Politics" };
+event: click;

@@ -1,0 +1,4 @@
+pathToElementImageCrop: gtasks-dueDate/S3/pngs/624.0_608.0_726.0_682.0.png;
+coords: {'x1': 624.0, 'y1': 608.0, 'x2': 726.0, 'y2': 682.0};
+text_identifier: { "label" : "Done" };
+event: click;

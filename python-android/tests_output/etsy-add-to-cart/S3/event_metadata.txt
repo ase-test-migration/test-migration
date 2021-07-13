@@ -1,0 +1,4 @@
+pathToElementImageCrop: etsy-add-midle/S3/pngs/48_1141_1032_1285.png;
+coords: {'x1': 48, 'y1': 1141, 'x2': 1032, 'y2': 1285};
+text_identifier: { "resource-id" : "com.etsy.android:id/button_express_checkout" };
+event: click;

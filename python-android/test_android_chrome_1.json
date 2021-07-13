@@ -1,0 +1,44 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "chrome-back",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.android.chrome:id/search_box_text"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys_enter",
+                    "tag": "com.android.chrome:id/url_bar",
+                    "input": "google.com"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.android.chrome:id/url_bar"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys_enter",
+                    "tag": "com.android.chrome:id/url_bar",
+                    "input": "wikipedia.org"
+                },
+                {
+                    "event": "back"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Google"
+                }
+            ]
+        }
+    ]
+}

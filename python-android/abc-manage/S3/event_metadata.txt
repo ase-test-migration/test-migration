@@ -1,0 +1,4 @@
+pathToElementImageCrop: abc-manage/S3/pngs/0_940_1080_1150.png;
+coords: {'x1': 0, 'y1': 940, 'x2': 1080, 'y2': 1150};
+text_identifier: { "resource-id" : "com.abc.abcnews:id/manage_interests_interest_sort_button" };
+event: click;

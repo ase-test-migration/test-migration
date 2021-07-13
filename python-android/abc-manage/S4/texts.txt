@@ -1,0 +1,8 @@
+{ "content-desc" : "Navigate up" , "screenshotPath" : "abc-manage/S4/pngs/0_72_168_240.png"}
+{ "resource-id" : "com.abc.abcnews:id/manage_interests_recycler_view" , "screenshotPath" : "abc-manage/S4/pngs/0_240_1080_1776.png"}
+{ "resource-id" : "com.abc.abcnews:id/manage_interests_button_container" , "screenshotPath" : "abc-manage/S4/pngs/0_1290_1080_1500.png"}
+{ "resource-id" : "com.abc.abcnews:id/manage_interests_interest_container" , "screenshotPath" : "abc-manage/S4/pngs/0_380_1080_590.png"}
+{ "resource-id" : "com.abc.abcnews:id/manage_interests_remove_button" , "screenshotPath" : "abc-manage/S4/pngs/845_380_1080_590.png"}
+{ "resource-id" : "com.abc.abcnews:id/manage_interests_date_sort_button" , "screenshotPath" : "abc-manage/S4/pngs/0_730_1080_940.png"}
+{ "resource-id" : "com.abc.abcnews:id/manage_interests_interest_sort_button" , "screenshotPath" : "abc-manage/S4/pngs/0_940_1080_1150.png"}
+{ "resource-id" : "com.abc.abcnews:id/manage_interests_switch" , "screenshotPath" : "abc-manage/S4/pngs/850_410_1020_560.png"}

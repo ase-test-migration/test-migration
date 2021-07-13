@@ -1,0 +1,39 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "guardian-follow",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Live\u00a0/ Washington tense as America awaits Derek Chauvin verdict"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//XCUIElementTypeLink[@name=\"Joan E Greve\"]"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//XCUIElementTypeButton[@name=\"Get notifications\"]"
+                },
+                {
+                    "type": "xPath",
+                    "event": "oracle",
+                    "oracle-type": "widget_exists",
+                    "tag": "//XCUIElementTypeButton[@name=\"Stop notifications\"]"
+                }
+            ]
+        }
+    ]
+}

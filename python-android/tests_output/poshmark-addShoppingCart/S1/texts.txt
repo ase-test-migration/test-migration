@@ -1,0 +1,29 @@
+{ "resource-id" : "com.poshmark.app:id/feedTab" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/0_2214_216_2287.png"}
+{ "resource-id" : "com.poshmark.app:id/shopTab" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/216_2215_432_2287.png"}
+{ "resource-id" : "com.poshmark.app:id/sellTab" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/432_2214_648_2287.png"}
+{ "resource-id" : "com.poshmark.app:id/newsTab" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/648_2214_864_2287.png"}
+{ "resource-id" : "com.poshmark.app:id/userTab" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/864_2214_1080_2287.png"}
+{ "resource-id" : "com.poshmark.app:id/size_tabs_view_pager" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/0_584_1080_2214.png"}
+{ "resource-id" : "com.poshmark.app:id/boutiques_recycler_view" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/0_715_1080_2214.png"}
+{ "resource-id" : "com.poshmark.app:id/tabs" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/0_481_1080_584.png"}
+{ "resource-id" : "com.poshmark.app:id/experience_container" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/26_605_181_693.png"}
+{ "resource-id" : "com.poshmark.app:id/search_container" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/716_584_849_715.png"}
+{ "resource-id" : "com.poshmark.app:id/filter_container" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/849_584_973_715.png"}
+{ "resource-id" : "com.poshmark.app:id/sort_filter_container" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/973_607_1080_692.png"}
+{ "resource-id" : "com.poshmark.app:id/channel_covershot" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/0_74_1080_481.png"}
+{ "resource-id" : "com.poshmark.app:id/leftNavButton" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/32_100_137_195.png"}
+{ "resource-id" : "com.poshmark.app:id/menu" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/47_628_89_670.png"}
+{ "content-desc" : "Listings" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/0_481_540_584.png"}
+{ "content-desc" : "Sellers" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/540_481_1080_584.png"}
+{ "content-desc" : "coverShot0" , "resource-id" : "com.poshmark.app:id/covershotView" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/21_757_519_1255.png"}
+{ "content-desc" : "coverShot1" , "resource-id" : "com.poshmark.app:id/covershotView" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/561_757_1059_1255.png"}
+{ "content-desc" : "coverShot2" , "resource-id" : "com.poshmark.app:id/covershotView" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/21_1612_519_2110.png"}
+{ "content-desc" : "coverShot3" , "resource-id" : "com.poshmark.app:id/covershotView" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/561_1612_1059_2110.png"}
+{ "resource-id" : "com.poshmark.app:id/followFollowingButton" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/395_231_684_323.png"}
+{ "content-desc" : "rightNavButton1" , "resource-id" : "com.poshmark.app:id/customButton" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/932_100_1048_195.png"}
+{ "content-desc" : "Like" , "resource-id" : "com.poshmark.app:id/likeButton" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/21_1465_187_1570.png"}
+{ "content-desc" : "Add to Bundle" , "resource-id" : "com.poshmark.app:id/addToBundleButton" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/187_1465_353_1570.png"}
+{ "resource-id" : "com.poshmark.app:id/shareButton" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/353_1465_519_1570.png"}
+{ "content-desc" : "Like" , "resource-id" : "com.poshmark.app:id/likeButton" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/561_1465_727_1570.png"}
+{ "content-desc" : "Add to Bundle" , "resource-id" : "com.poshmark.app:id/addToBundleButton" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/727_1465_893_1570.png"}
+{ "resource-id" : "com.poshmark.app:id/shareButton" , "screenshotPath" : "poshmark-addShoppingCart/S1/pngs/893_1465_1059_1570.png"}

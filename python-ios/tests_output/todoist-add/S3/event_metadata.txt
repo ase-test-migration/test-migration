@@ -1,0 +1,4 @@
+pathToElementImageCrop: todoist-add/S3/pngs/0.0_0.0_750.0_602.0.png;
+coords: {'x1': 0.0, 'y1': 0.0, 'x2': 750.0, 'y2': 602.0};
+text_identifier: { "label" : "to doist" };
+event: click;

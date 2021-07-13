@@ -1,0 +1,5 @@
+pathToElementImageCrop: gmail-send/S2/pngs/44_635_1036_790.png;
+coords: {'x1': 44, 'y1': 635, 'x2': 1036, 'y2': 790};
+text_identifier: { "resource-id" : "com.google.android.gm:id/subject" };
+event: send_keys;
+input: Testing 2;

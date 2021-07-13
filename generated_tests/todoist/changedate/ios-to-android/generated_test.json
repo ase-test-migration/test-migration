@@ -1,0 +1,52 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "todoist-changedate",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.todoist:id/root",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.todoist:id/item_due",
+                "event": "oracle-assert_equal"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.todoist:id/item_due",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.todoist:id/scheduler",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "19 April 2021",
+                "event": "oracle-assert_equal",
+                "attribute": "text ",
+                "value": "19 April 2021"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "19 April 2021",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.todoist:id/scheduler",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "26 April 2021",
+                "event": "oracle-assert_equal",
+                "attribute": "text ",
+                "value": "26 April 2021"
+            }
+        ]
+    }
+}

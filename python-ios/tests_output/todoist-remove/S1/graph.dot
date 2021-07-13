@@ -1,0 +1,70 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = to doist\l|label = to doist\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 313\l|width = 375\l|height = 354\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/0.0_626.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 313\l|width = 375\l|height = 354\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/0.0_626.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 313\l|width = 375\l|height = 22\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/0.0_626.0_750.0_670.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 334\l|width = 375\l|height = 333\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/0.0_668.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 334\l|width = 375\l|height = 333\l|index = 0\l|numberOfChildren = 8\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/0.0_668.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeButton\l|name = Close\l|label = Close\l|enabled = true\l|visible = true\l|x = 333\l|y = 343\l|width = 28\l|height = 29\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/666.0_685.9999999999999_722.0_743.9999999999999.png\l}"]
+	10	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 334\l|width = 375\l|height = 48\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/0.0_668.0_750.0_764.0.png\l}"]
+	11	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 382\l|width = 375\l|height = 48\l|index = 2\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/0.0_764.0_750.0_860.0.png\l}"]
+	12	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 430\l|width = 375\l|height = 56\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/0.0_860.0_750.0_972.0.png\l}"]
+	13	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 485\l|width = 375\l|height = 1\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/0.0_970.0_750.0_972.0.png\l}"]
+	14	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 486\l|width = 375\l|height = 53\l|index = 5\l|numberOfChildren = 6\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/0.0_971.9999999999999_750.0_1078.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|name = Sub-tasks\l|enabled = true\l|visible = true\l|x = 0\l|y = 538\l|width = 375\l|height = 51\l|index = 6\l|numberOfChildren = 1\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/0.0_1076.0_750.0_1178.0.png\l}"]
+	16	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 588\l|width = 375\l|height = 53\l|index = 7\l|numberOfChildren = 1\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/0.0_1176.0_750.0_1282.0.png\l}"]
+	17	[label="{type = XCUIElementTypeStaticText\l|value = Inbox\l|name = Inbox\l|label = Inbox\l|enabled = true\l|visible = true\l|x = 51\l|y = 348\l|width = 40\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/102.00000000000001_696.0_182.0_736.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 7\l|y = 387\l|width = 44\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/14.000000000000002_774.0_102.0_862.0.png\l}"]
+	19	[label="{type = XCUIElementTypeTextView\l|value = testing\l|enabled = true\l|visible = true\l|x = 53\l|y = 395\l|width = 282\l|height = 25\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/106.0_790.0_670.0_840.0.png\l}"]
+	20	[label="{type = XCUIElementTypeButton\l|name = Today\l|label = Today\l|enabled = true\l|visible = true\l|x = 50\l|y = 438\l|width = 85\l|height = 40\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/100.0_876.0_270.0_956.0.png\l}"]
+	21	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 485\l|width = 375\l|height = 1\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/0.0_970.0_750.0_972.0.png\l}"]
+	22	[label="{type = XCUIElementTypeButton\l|name = FlagOutline\l|label = FlagOutline\l|enabled = true\l|visible = true\l|x = 90\l|y = 486\l|width = 44\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/180.0_971.9999999999999_268.0_1060.0.png\l}"]
+	23	[label="{type = XCUIElementTypeButton\l|name = AlarmClock\l|label = AlarmClock\l|enabled = true\l|visible = true\l|x = 138\l|y = 486\l|width = 44\l|height = 44\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/276.0_971.9999999999999_364.0_1060.0.png\l}"]
+	24	[label="{type = XCUIElementTypeButton\l|name = Comment\l|label = Comment\l|enabled = true\l|visible = true\l|x = 186\l|y = 486\l|width = 44\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/372.0_971.9999999999999_460.0_1060.0.png\l}"]
+	25	[label="{type = XCUIElementTypeButton\l|name = More\l|label = More\l|enabled = true\l|visible = true\l|x = 323\l|y = 486\l|width = 44\l|height = 44\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = true \l|screenshotPath = todoist-remove/S1/pngs/646.0_971.9999999999999_734.0_1060.0.png\l}"]
+	26	[label="{type = XCUIElementTypeButton\l|name = Label\l|label = Label\l|enabled = true\l|visible = true\l|x = 42\l|y = 486\l|width = 44\l|height = 44\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/84.0_971.9999999999999_172.0_1060.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 538\l|width = 375\l|height = 1\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/0.0_1076.0_750.0_1078.0.png\l}"]
+	28	[label="{type = XCUIElementTypeStaticText\l|value = Sub-tasks\l|name = Sub-tasks\l|label = Sub-tasks\l|enabled = true\l|visible = true\l|x = 54\l|y = 553\l|width = 305\l|height = 21\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/107.99999999999999_1106.0_718.0_1148.0.png\l}"]
+	29	[label="{type = XCUIElementTypeStaticText\l|value = Add Sub-task\l|name = Add Sub-task\l|label = Add Sub-task\l|enabled = true\l|visible = true\l|x = 88\l|y = 600\l|width = 271\l|height = 29\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/176.0_1200.0_718.0_1258.0.png\l}"]
+	30	[label="{type = XCUIElementTypeTextView\l|name = testing\l|label = testing\l|enabled = true\l|visible = true\l|x = 53\l|y = 395\l|width = 60\l|height = 25\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S1/pngs/106.0_790.0_226.0_840.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	5 -> 7
+	7 -> 8
+	7 -> 9
+	8 -> 10
+	8 -> 11
+	8 -> 12
+	8 -> 13
+	8 -> 14
+	8 -> 15
+	8 -> 16
+	10 -> 17
+	11 -> 18
+	11 -> 19
+	12 -> 20
+	13 -> 21
+	14 -> 22
+	14 -> 23
+	14 -> 24
+	14 -> 25
+	14 -> 26
+	14 -> 27
+	15 -> 28
+	16 -> 29
+	19 -> 30
+
+
+}

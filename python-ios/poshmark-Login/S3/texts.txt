@@ -1,0 +1,44 @@
+{"name" : "Poshmark", "label" : "Poshmark", "screenshotPath" : "poshmark-Login/S3/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "pageTitle", "label" : "Login", "screenshotPath" : "poshmark-Login/S3/pngs/0.0_40.0_750.0_128.0.png"}
+{"name" : "leftNavButton", "screenshotPath" : "poshmark-Login/S3/pngs/16.0_40.0_102.0_128.0.png"}
+{"value" : "Login", "name" : "Login", "label" : "Login", "screenshotPath" : "poshmark-Login/S3/pngs/326.0_58.0_426.0_108.0.png"}
+{"name" : "rightNavButton1", "label" : "Login", "screenshotPath" : "poshmark-Login/S3/pngs/634.0_40.0_734.0_128.0.png"}
+{"name" : "Typing Predictions", "label" : "Typing Predictions", "screenshotPath" : "poshmark-Login/S3/pngs/0.0_814.0_750.0_902.0.png"}
+{"name" : "q", "label" : "q", "screenshotPath" : "poshmark-Login/S3/pngs/0.0_916.0_76.0_1008.0.png"}
+{"name" : "w", "label" : "w", "screenshotPath" : "poshmark-Login/S3/pngs/74.0_916.0_150.0_1008.0.png"}
+{"name" : "e", "label" : "e", "screenshotPath" : "poshmark-Login/S3/pngs/150.0_916.0_226.0_1008.0.png"}
+{"name" : "r", "label" : "r", "screenshotPath" : "poshmark-Login/S3/pngs/224.00000000000003_916.0_300.0_1008.0.png"}
+{"name" : "t", "label" : "t", "screenshotPath" : "poshmark-Login/S3/pngs/300.0_916.0_376.0_1008.0.png"}
+{"name" : "y", "label" : "y", "screenshotPath" : "poshmark-Login/S3/pngs/374.0_916.0_450.0_1008.0.png"}
+{"name" : "u", "label" : "u", "screenshotPath" : "poshmark-Login/S3/pngs/450.0_916.0_526.0_1008.0.png"}
+{"name" : "i", "label" : "i", "screenshotPath" : "poshmark-Login/S3/pngs/524.0_916.0_600.0_1008.0.png"}
+{"name" : "o", "label" : "o", "screenshotPath" : "poshmark-Login/S3/pngs/600.0_916.0_676.0_1008.0.png"}
+{"name" : "p", "label" : "p", "screenshotPath" : "poshmark-Login/S3/pngs/674.0_916.0_750.0_1008.0.png"}
+{"name" : "a", "label" : "a", "screenshotPath" : "poshmark-Login/S3/pngs/36.0_1024.0_112.0_1116.0.png"}
+{"name" : "s", "label" : "s", "screenshotPath" : "poshmark-Login/S3/pngs/112.00000000000001_1024.0_188.0_1116.0.png"}
+{"name" : "d", "label" : "d", "screenshotPath" : "poshmark-Login/S3/pngs/186.0_1024.0_262.0_1116.0.png"}
+{"name" : "f", "label" : "f", "screenshotPath" : "poshmark-Login/S3/pngs/262.0_1024.0_338.0_1116.0.png"}
+{"name" : "g", "label" : "g", "screenshotPath" : "poshmark-Login/S3/pngs/338.0_1024.0_414.0_1116.0.png"}
+{"name" : "h", "label" : "h", "screenshotPath" : "poshmark-Login/S3/pngs/412.0_1024.0_488.0_1116.0.png"}
+{"name" : "j", "label" : "j", "screenshotPath" : "poshmark-Login/S3/pngs/487.99999999999994_1024.0_564.0_1116.0.png"}
+{"name" : "k", "label" : "k", "screenshotPath" : "poshmark-Login/S3/pngs/562.0_1024.0_638.0_1116.0.png"}
+{"name" : "l", "label" : "l", "screenshotPath" : "poshmark-Login/S3/pngs/638.0_1024.0_714.0_1116.0.png"}
+{"name" : "shift", "label" : "shift", "screenshotPath" : "poshmark-Login/S3/pngs/0.0_1132.0_96.0_1224.0.png"}
+{"name" : "z", "label" : "z", "screenshotPath" : "poshmark-Login/S3/pngs/112.00000000000001_1132.0_188.0_1224.0.png"}
+{"name" : "x", "label" : "x", "screenshotPath" : "poshmark-Login/S3/pngs/186.0_1132.0_262.0_1224.0.png"}
+{"name" : "c", "label" : "c", "screenshotPath" : "poshmark-Login/S3/pngs/262.0_1132.0_338.0_1224.0.png"}
+{"name" : "v", "label" : "v", "screenshotPath" : "poshmark-Login/S3/pngs/338.0_1132.0_414.0_1224.0.png"}
+{"name" : "b", "label" : "b", "screenshotPath" : "poshmark-Login/S3/pngs/412.0_1132.0_488.0_1224.0.png"}
+{"name" : "n", "label" : "n", "screenshotPath" : "poshmark-Login/S3/pngs/487.99999999999994_1132.0_564.0_1224.0.png"}
+{"name" : "m", "label" : "m", "screenshotPath" : "poshmark-Login/S3/pngs/562.0_1132.0_638.0_1224.0.png"}
+{"name" : "delete", "label" : "delete", "screenshotPath" : "poshmark-Login/S3/pngs/654.0_1132.0_750.0_1224.0.png"}
+{"name" : "more", "label" : "numbers", "screenshotPath" : "poshmark-Login/S3/pngs/0.0_1240.0_188.0_1332.0.png"}
+{"name" : "space", "label" : "space", "screenshotPath" : "poshmark-Login/S3/pngs/186.0_1240.0_564.0_1332.0.png"}
+{"name" : "Go", "label" : "go", "screenshotPath" : "poshmark-Login/S3/pngs/562.0_1240.0_750.0_1332.0.png"}
+{"value" : "Username or email", "name" : "Username or email", "label" : "Username or email", "screenshotPath" : "poshmark-Login/S3/pngs/0.0_198.0_180.0_284.0.png"}
+{"value" : "TestUseri", "name" : "usernameTextEdit", "label" : "", "screenshotPath" : "poshmark-Login/S3/pngs/220.0_198.0_750.0_284.0.png"}
+{"value" : "Password", "name" : "Password", "label" : "Password", "screenshotPath" : "poshmark-Login/S3/pngs/0.0_286.0_180.0_372.0.png"}
+{"value" : "•••••••••", "name" : "passwordTextEdit", "label" : "", "screenshotPath" : "poshmark-Login/S3/pngs/220.0_286.0_750.0_372.0.png"}
+{"value" : "Forgot Password?", "name" : "Forgot Password?", "label" : "Forgot Password?", "screenshotPath" : "poshmark-Login/S3/pngs/0.0_374.0_750.0_464.0.png"}
+{"name" : "Clear text", "label" : "Clear text", "screenshotPath" : "poshmark-Login/S3/pngs/700.0_310.0_740.0_348.0.png"}
+{"name" : "Passwords", "label" : "Passwords", "screenshotPath" : "poshmark-Login/S3/pngs/60.0_814.0_690.0_902.0.png"}

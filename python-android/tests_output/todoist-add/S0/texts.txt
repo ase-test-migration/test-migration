@@ -1,0 +1,9 @@
+{ "resource-id" : "com.todoist:id/fab" , "screenshotPath" : "todoist-add/S0/pngs/882_1950_1036_1977.png"}
+{ "resource-id" : "com.todoist:id/toolbar" , "screenshotPath" : "todoist-add/S0/pngs/0_171_1080_325.png"}
+{ "resource-id" : "android:id/list" , "screenshotPath" : "todoist-add/S0/pngs/0_171_1080_1977.png"}
+{ "content-desc" : "Change the current view" , "screenshotPath" : "todoist-add/S0/pngs/0_171_154_325.png"}
+{ "resource-id" : "com.todoist:id/section" , "screenshotPath" : "todoist-add/S0/pngs/0_347_1080_457.png"}
+{ "resource-id" : "com.todoist:id/root" , "screenshotPath" : "todoist-add/S0/pngs/0_460_1080_642.png"}
+{ "content-desc" : "Search" , "resource-id" : "com.todoist:id/menu_content_search" , "screenshotPath" : "todoist-add/S0/pngs/837_182_969_314.png"}
+{ "content-desc" : "More options" , "screenshotPath" : "todoist-add/S0/pngs/969_182_1080_314.png"}
+{ "content-desc" : "Complete" , "resource-id" : "com.todoist:id/checkmark" , "screenshotPath" : "todoist-add/S0/pngs/39_487_116_564.png"}

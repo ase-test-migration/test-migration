@@ -1,0 +1,21 @@
+{ "resource-id" : "com.microsoft.todos:id/suggestions_entry_point" , "screenshotPath" : "msToDo-delTask/S0/pngs/348_2198_732_2287.png"}
+{ "content-desc" : "Add a task" , "resource-id" : "com.microsoft.todos:id/new_todo_fab" , "screenshotPath" : "msToDo-delTask/S0/pngs/891_2172_1038_2287.png"}
+{ "resource-id" : "com.microsoft.todos:id/homeview_header" , "screenshotPath" : "msToDo-delTask/S0/pngs/0_74_540_221.png"}
+{ "resource-id" : "com.microsoft.todos:id/lists_recycler_view" , "screenshotPath" : "msToDo-delTask/S0/pngs/0_221_540_2235.png"}
+{ "resource-id" : "com.microsoft.todos:id/tasks_recycler_view" , "screenshotPath" : "msToDo-delTask/S0/pngs/0_430_1080_2287.png"}
+{ "content-desc" : "Enter search" , "resource-id" : "com.microsoft.todos:id/search_icon" , "screenshotPath" : "msToDo-delTask/S0/pngs/413_85_540_212.png"}
+{ "content-desc" : "My Day, 1 tasks" , "resource-id" : "com.microsoft.todos:id/list_content" , "screenshotPath" : "msToDo-delTask/S0/pngs/0_221_529_347.png"}
+{ "content-desc" : "Important, 0 tasks" , "resource-id" : "com.microsoft.todos:id/list_content" , "screenshotPath" : "msToDo-delTask/S0/pngs/0_347_529_473.png"}
+{ "content-desc" : "Planned, 0 tasks" , "resource-id" : "com.microsoft.todos:id/list_content" , "screenshotPath" : "msToDo-delTask/S0/pngs/0_473_529_599.png"}
+{ "content-desc" : "Assigned to you, 0 tasks" , "resource-id" : "com.microsoft.todos:id/list_content" , "screenshotPath" : "msToDo-delTask/S0/pngs/0_599_529_725.png"}
+{ "content-desc" : "Flagged email" , "resource-id" : "com.microsoft.todos:id/list_content" , "screenshotPath" : "msToDo-delTask/S0/pngs/0_725_529_851.png"}
+{ "content-desc" : "Tasks, 1 tasks" , "resource-id" : "com.microsoft.todos:id/list_content" , "screenshotPath" : "msToDo-delTask/S0/pngs/0_851_529_1044.png"}
+{ "content-desc" : "Sample List" , "resource-id" : "com.microsoft.todos:id/list_content" , "screenshotPath" : "msToDo-delTask/S0/pngs/0_1044_529_1170.png"}
+{ "resource-id" : "com.microsoft.todos:id/create_list_text_view" , "screenshotPath" : "msToDo-delTask/S0/pngs/0_2235_367_2287.png"}
+{ "content-desc" : "Create group" , "resource-id" : "com.microsoft.todos:id/add_group_icon" , "screenshotPath" : "msToDo-delTask/S0/pngs/393_2235_540_2287.png"}
+{ "content-desc" : "Back" , "screenshotPath" : "msToDo-delTask/S0/pngs/0_74_147_221.png"}
+{ "content-desc" : "More options" , "screenshotPath" : "msToDo-delTask/S0/pngs/975_84_1080_210.png"}
+{ "content-desc" : "Item 1 of 1,  task Test01, From Tasks, Added to My Day" , "resource-id" : "com.microsoft.todos:id/task_content" , "screenshotPath" : "msToDo-delTask/S0/pngs/21_441_1059_610.png"}
+{ "content-desc" : "Incomplete task Test01, Button" , "resource-id" : "com.microsoft.todos:id/task_checkbox" , "screenshotPath" : "msToDo-delTask/S0/pngs/31_462_158_589.png"}
+{ "resource-id" : "com.microsoft.todos:id/task_title" , "screenshotPath" : "msToDo-delTask/S0/pngs/158_472_880_529.png"}
+{ "content-desc" : "Normal task Test01, Button" , "resource-id" : "com.microsoft.todos:id/task_star_button" , "screenshotPath" : "msToDo-delTask/S0/pngs/922_463_1048_589.png"}

@@ -1,0 +1,30 @@
+{ "resource-id" : "com.etsy.android:id/app_bar_toolbar" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/0_74_1080_221.png"}
+{ "content-desc" : "Home tab, 1 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_home" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/0_2214_216_2287.png"}
+{ "content-desc" : "Favorites tab, 2 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_favorites" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/216_2214_432_2287.png"}
+{ "content-desc" : "Updates tab, 3 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_updates" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/432_2214_648_2287.png"}
+{ "content-desc" : "You tab, 4 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_you" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/648_2214_864_2287.png"}
+{ "content-desc" : "Cart tab, 5 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_cart" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/864_2214_1080_2287.png"}
+{ "content-desc" : "Navigate up" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/0_74_147_221.png"}
+{ "resource-id" : "com.etsy.android:id/listing_container" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/0_221_1080_2214.png"}
+{ "content-desc" : "Share Button" , "resource-id" : "com.etsy.android:id/menu_share" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/953_84_1080_210.png"}
+{ "resource-id" : "com.etsy.android:id/scrollview" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/0_221_1080_2214.png"}
+{ "resource-id" : "com.etsy.android:id/shop_header_background" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/0_221_1080_368.png"}
+{ "content-desc" : "Add ZAHRA | Antique Persian Heriz Pattern Oriental Rug, Hand-knotted texture, Traditional decor, Mid-century Modern, Navy blue, Red, Area Rugs to favorites" , "resource-id" : "com.etsy.android:id/button_favorite_listing" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/969_389_1069_489.png"}
+{ "resource-id" : "com.etsy.android:id/shop_header_name" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/158_251_831_289.png"}
+{ "content-desc" : "Rating: 4.8933 out of 5,  reviews" , "resource-id" : "com.etsy.android:id/shop_rating" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/852_221_1038_368.png"}
+{ "content-desc" : "Product pictures or videos panel with thumbnails" , "resource-id" : "com.etsy.android:id/viewpager_listing_images" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/0_368_1080_1397.png"}
+{ "resource-id" : "com.etsy.android:id/listing_panel_purchase" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/0_1618_1080_2214.png"}
+{ "resource-id" : "com.etsy.android:id/listing_title_smaller" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/0_1660_1080_1738.png"}
+{ "content-desc" : "Product picture 1 of 11" , "resource-id" : "com.etsy.android:id/image" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/0_368_1080_1397.png"}
+{ "resource-id" : "com.etsy.android:id/custom_looping_recyclerview" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/0_1418_1080_1607.png"}
+{ "content-desc" : "Pay it in 4 interest-free installments with Klarna " , "resource-id" : "com.etsy.android:id/listing_text_klarna_info" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/42_1841_1038_1942.png"}
+{ "resource-id" : "com.etsy.android:id/listing_thumbnail_layout" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/21_1418_210_1607.png"}
+{ "resource-id" : "com.etsy.android:id/listing_thumbnail_layout" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/231_1418_420_1607.png"}
+{ "resource-id" : "com.etsy.android:id/listing_thumbnail_layout" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/441_1418_630_1607.png"}
+{ "resource-id" : "com.etsy.android:id/listing_thumbnail_layout" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/651_1418_840_1607.png"}
+{ "resource-id" : "com.etsy.android:id/listing_thumbnail_layout" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/861_1418_1050_1607.png"}
+{ "resource-id" : "com.etsy.android:id/listing_thumbnail_layout" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/1071_1418_1080_1607.png"}
+{ "resource-id" : "com.etsy.android:id/redesigned_variation_selector_1" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/42_2052_1038_2178.png"}
+{ "resource-id" : "com.etsy.android:id/redesigned_quantity_selector" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/42_2210_1038_2214.png"}
+{ "content-desc" : "Show dropdown menu" , "resource-id" : "com.etsy.android:id/text_input_end_icon" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/912_2052_1038_2178.png"}
+{ "content-desc" : "Show dropdown menu" , "resource-id" : "com.etsy.android:id/text_input_end_icon" , "screenshotPath" : "etsy-add-to-cart/S2/pngs/912_2210_1038_2214.png"}

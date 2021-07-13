@@ -1,0 +1,22 @@
+{ "resource-id" : "com.android.chrome:id/compositor_view_holder" , "screenshotPath" : "chrome-back/S4/pngs/0_171_1080_1977.png"}
+{ "content-desc" : "Home" , "resource-id" : "com.android.chrome:id/home_button" , "screenshotPath" : "chrome-back/S4/pngs/0_171_132_325.png"}
+{ "resource-id" : "com.android.chrome:id/url_bar" , "screenshotPath" : "chrome-back/S4/pngs/247_179_789_317.png"}
+{ "content-desc" : "2 open tabs, tap to switch tabs" , "resource-id" : "com.android.chrome:id/tab_switcher_button" , "screenshotPath" : "chrome-back/S4/pngs/816_171_948_325.png"}
+{ "resource-id" : "root" , "screenshotPath" : "chrome-back/S4/pngs/0_325_1080_1977.png"}
+{ "content-desc" : "Connection is secure. Site information" , "resource-id" : "com.android.chrome:id/location_bar_status_icon" , "screenshotPath" : "chrome-back/S4/pngs/159_171_236_325.png"}
+{ "content-desc" : "Update available. More options" , "resource-id" : "com.android.chrome:id/menu_button" , "screenshotPath" : "chrome-back/S4/pngs/948_171_1080_325.png"}
+{ "content-desc" : "Complete list of languages" , "screenshotPath" : "chrome-back/S4/pngs/761_1603_819_1661.png"}
+{ "content-desc" : "About" , "screenshotPath" : "chrome-back/S4/pngs/404_1694_486_1733.png"}
+{ "content-desc" : "Help" , "screenshotPath" : "chrome-back/S4/pngs/511_1694_577_1733.png"}
+{ "content-desc" : "facebook" , "screenshotPath" : "chrome-back/S4/pngs/385_479_695_589.png"}
+{ "resource-id" : "signup-button" , "screenshotPath" : "chrome-back/S4/pngs/319_1139_764_1240.png"}
+{ "content-desc" : "Shqip" , "screenshotPath" : "chrome-back/S4/pngs/244_1513_332_1554.png"}
+{ "content-desc" : "Bosanski" , "screenshotPath" : "chrome-back/S4/pngs/220_1559_357_1603.png"}
+{ "content-desc" : "Português (Brasil)" , "screenshotPath" : "chrome-back/S4/pngs/156_1609_423_1653.png"}
+{ "content-desc" : "Српски" , "screenshotPath" : "chrome-back/S4/pngs/731_1463_849_1504.png"}
+{ "content-desc" : "Magyar" , "screenshotPath" : "chrome-back/S4/pngs/734_1513_847_1554.png"}
+{ "content-desc" : "Español" , "screenshotPath" : "chrome-back/S4/pngs/731_1559_852_1603.png"}
+{ "content-desc" : "Get Facebook for Android and browse faster." , "screenshotPath" : "chrome-back/S4/pngs/0_325_1080_457.png"}
+{ "content-desc" : "Forgot Password?" , "resource-id" : "forgot-password-link" , "screenshotPath" : "chrome-back/S4/pngs/385_1271_698_1320.png"}
+{ "resource-id" : "m_login_password" , "screenshotPath" : "chrome-back/S4/pngs/44_745_1039_869.png"}
+{ "resource-id" : "m_login_email" , "screenshotPath" : "chrome-back/S4/pngs/44_608_1039_726.png"}

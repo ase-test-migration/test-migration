@@ -1,0 +1,39 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "gtasks-dueDate",
+        "events": [
+            {
+                "type": "name",
+                "tag": "No date",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Add a new task",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Y",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "v",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Done",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "oracle-type": "widget_exists",
+                "type": "name",
+                "tag": "Horizontal scroll bar, 1 page"
+            }
+        ]
+    }
+}

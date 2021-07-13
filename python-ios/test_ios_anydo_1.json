@@ -1,0 +1,56 @@
+{
+    "tests": [
+        {
+            "name": "anydo-changedate", 
+            "events": [
+                {
+                    "tag": "//XCUIElementTypeApplication[@name=\"Any.do\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "input": "mytask", 
+                    "tag": "//XCUIElementTypeOther[@name=\"mainView\"]/XCUIElementTypeScrollView/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeButton", 
+                    "type": "xPath", 
+                    "event": "send_keys_enter"
+                },
+                {
+                    "input": "Mar 28, 2021 9:00 AM",
+                    "event": "oracle",
+                    "oracle-type": "text_invisible"
+                },
+                {
+                    "tag": "//XCUIElementTypeButton[@name=\"Set time\"]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "y": "565", 
+                    "x": "223", 
+                    "type": "coordinate", 
+                    "event": "click"
+                }, 
+                {
+                    "y": "830", 
+                    "x": "308", 
+                    "type": "coordinate", 
+                    "event": "click"
+                },
+                {
+                    "input": "Mar 28, 2021 9:00 AM",
+                    "event": "oracle",
+                    "oracle-type": "text_exists"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "14.3", 
+        "platformName": "iOS"
+    }
+}

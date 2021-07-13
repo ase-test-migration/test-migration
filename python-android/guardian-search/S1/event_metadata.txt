@@ -1,0 +1,4 @@
+pathToElementImageCrop: guardian-search/S1/pngs/12_84_648_213.png;
+coords: {'x1': 12, 'y1': 84, 'x2': 648, 'y2': 213};
+text_identifier: { "resource-id" : "com.guardian:id/clSearchBox" };
+event: click;

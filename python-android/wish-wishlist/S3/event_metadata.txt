@@ -1,0 +1,5 @@
+pathToElementImageCrop: wish-wishlist/S3/pngs/144_915_936_1040.png;
+coords: {'x1': 144, 'y1': 915, 'x2': 936, 'y2': 1040};
+text_identifier: { "resource-id" : "com.contextlogic.wish:id/create_wishlist_name_text" };
+event: send_keys;
+input: Favorites;

@@ -1,0 +1,156 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Grubhub\l|label = Grubhub\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeTabBar\l|name = bottom_bar_navigation\l|enabled = true\l|visible = true\l|x = 0\l|y = 813\l|width = 414\l|height = 83\l|numberOfChildren = 7\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_2439.0_1242.0_2688.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|name = cart_badge - (null)\l|enabled = true\l|visible = true\l|x = -2\l|y = 811\l|width = 28\l|height = 53\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/-6.0_2433.0_78.0_2592.0.png\l}"]
+	9	[label="{type = XCUIElementTypeButton\l|value = Restaurants\l|name = Search\l|label = Tab bar\l|enabled = true\l|visible = true\l|x = 2\l|y = 814\l|width = 100\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/6.0_2442.0_306.0_2586.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|value = My Grubhub\l|name = My Grubhub\l|label = Tab bar\l|enabled = true\l|visible = true\l|x = 106\l|y = 814\l|width = 99\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/318.00000000000006_2442.0_615.0_2586.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|value = Perks\l|name = Perks\l|label = Tab bar\l|enabled = true\l|visible = true\l|x = 209\l|y = 814\l|width = 100\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/627.0_2442.0_927.0_2586.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|value = Bag\l|name = Bag\l|label = Tab bar\l|enabled = true\l|visible = true\l|x = 313\l|y = 814\l|width = 99\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/939.0_2442.0_1236.0_2586.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	14	[label="{type = XCUIElementTypeNavigationBar\l|name = My Grubhub\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 44\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_132.0_1242.0_264.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	16	[label="{type = XCUIElementTypeStaticText\l|value = My Grubhub\l|name = My Grubhub\l|label = My Grubhub\l|enabled = true\l|visible = true\l|x = 153\l|y = 49\l|width = 108\l|height = 29\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/458.99999999999994_147.0_783.0_234.0.png\l}"]
+	17	[label="{type = XCUIElementTypeButton\l|name = Account Settings\l|label = Account Settings\l|enabled = true\l|visible = true\l|x = 359\l|y = 44\l|width = 43\l|height = 44\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/1077.0_132.0_1206.0_264.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 725\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_264.0_1242.0_2439.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 725\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_264.0_1242.0_2439.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 725\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_264.0_1242.0_2439.0.png\l}"]
+	22	[label="{type = XCUIElementTypeCollectionView\l|name = My Account Collection View\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 725\l|numberOfChildren = 10\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_264.0_1242.0_2439.0.png\l}"]
+	23	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 100\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_264.0_1242.0_564.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|name = CollectionViewHeader.Item3\l|enabled = true\l|visible = true\l|x = 0\l|y = 188\l|width = 414\l|height = 41\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_564.0_1242.0_687.0.png\l}"]
+	25	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 228\l|width = 414\l|height = 276\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_684.0_1242.0_1512.0.png\l}"]
+	26	[label="{type = XCUIElementTypeCell\l|name = referAFriend.textBannerCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 503\l|width = 414\l|height = 50\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_1509.0_1242.0_1659.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|name = CollectionViewHeader.Item5\l|enabled = true\l|visible = true\l|x = 0\l|y = 552\l|width = 414\l|height = 42\l|numberOfChildren = 2\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_1656.0_1242.0_1782.0.png\l}"]
+	28	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 593\l|width = 414\l|height = 130\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_1778.9999999999998_1242.0_2169.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|name = CollectionViewHeader.Item7\l|enabled = true\l|visible = true\l|x = 0\l|y = 747\l|width = 414\l|height = 41\l|numberOfChildren = 1\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_2241.0_1242.0_2364.0.png\l}"]
+	30	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 787\l|width = 414\l|height = 224\l|numberOfChildren = 1\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_2361.0_1242.0_3033.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 2 pages\l|label = Vertical scroll bar, 2 pages\l|enabled = true\l|visible = true\l|x = 381\l|y = 88\l|width = 30\l|height = 725\l|numberOfChildren = 0\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/1143.0_264.0_1233.0_2439.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 780\l|width = 414\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_2340.0_1242.0_2430.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 100\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_264.0_1242.0_564.0.png\l}"]
+	34	[label="{type = XCUIElementTypeStaticText\l|value = Past orders\l|name = Past orders\l|label = Past orders\l|enabled = true\l|visible = true\l|x = 16\l|y = 196\l|width = 382\l|height = 24\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/48.0_588.0_1194.0_660.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 228\l|width = 414\l|height = 276\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_684.0_1242.0_1512.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 503\l|width = 414\l|height = 50\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_1509.0_1242.0_1659.0.png\l}"]
+	37	[label="{type = XCUIElementTypeStaticText\l|value = More food near you\l|name = More food near you\l|label = More food near you\l|enabled = true\l|visible = true\l|x = 16\l|y = 560\l|width = 296\l|height = 25\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/48.0_1680.0_936.0_1755.0.png\l}"]
+	38	[label="{type = XCUIElementTypeButton\l|name = All cuisines\l|label = All cuisines\l|enabled = true\l|visible = true\l|x = 312\l|y = 554\l|width = 86\l|height = 37\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/936.0_1662.0_1194.0_1773.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 593\l|width = 414\l|height = 130\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_1778.9999999999998_1242.0_2169.0.png\l}"]
+	40	[label="{type = XCUIElementTypeStaticText\l|value = Your saved restaurants\l|name = Your saved restaurants\l|label = Your saved restaurants\l|enabled = true\l|visible = true\l|x = 16\l|y = 755\l|width = 382\l|height = 24\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/48.0_2265.0_1194.0_2337.0.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 787\l|width = 414\l|height = 224\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_2361.0_1242.0_3033.0.png\l}"]
+	42	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 110\l|width = 55\l|height = 56\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/48.0_330.0_213.0_498.0.png\l}"]
+	43	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 83\l|y = 109\l|width = 315\l|height = 59\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/249.0_327.0_1194.0_504.0.png\l}"]
+	44	[label="{type = XCUIElementTypeCollectionView\l|name = Past Orders Carousel\l|enabled = true\l|visible = true\l|x = 0\l|y = 228\l|width = 414\l|height = 276\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_684.0_1242.0_1512.0.png\l}"]
+	45	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 503\l|width = 414\l|height = 50\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_1509.0_1242.0_1659.0.png\l}"]
+	46	[label="{type = XCUIElementTypeStaticText\l|value = All cuisines\l|name = All cuisines\l|label = All cuisines\l|enabled = true\l|visible = true\l|x = 328\l|y = 565\l|width = 70\l|height = 15\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/984.0_1694.9999999999998_1194.0_1739.9999999999998.png\l}"]
+	47	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 593\l|width = 414\l|height = 130\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_1778.9999999999998_1242.0_2169.0.png\l}"]
+	48	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 787\l|width = 414\l|height = 224\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_2361.0_1242.0_3033.0.png\l}"]
+	49	[label="{type = XCUIElementTypeStaticText\l|value = Good evening!\l|name = Greeting\l|label = Good evening!\l|enabled = true\l|visible = true\l|x = 83\l|y = 109\l|width = 307\l|height = 27\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/249.0_327.0_1170.0_408.0.png\l}"]
+	50	[label="{type = XCUIElementTypeButton\l|name = Saved restaurants\l|label = 1 saved restaurant\l|enabled = true\l|visible = true\l|x = 83\l|y = 143\l|width = 146\l|height = 25\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = true \l|screenshotPath = search-removefavorite/S1/pngs/249.0_428.99999999999994_687.0_503.99999999999994.png\l}"]
+	51	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 16\l|y = 228\l|width = 381\l|height = 260\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/48.0_684.0_1191.0_1464.0.png\l}"]
+	52	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 503\l|width = 414\l|height = 49\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_1509.0_1242.0_1656.0.png\l}"]
+	53	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 503\l|width = 414\l|height = 50\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/0.0_1509.0_1242.0_1659.0.png\l}"]
+	54	[label="{type = XCUIElementTypeCell\l|name = cuisine ribbon cell 0\l|enabled = true\l|visible = true\l|x = 16\l|y = 605\l|width = 86\l|height = 106\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/48.0_1815.0_306.0_2133.0.png\l}"]
+	55	[label="{type = XCUIElementTypeCell\l|name = cuisine ribbon cell 1\l|enabled = true\l|visible = true\l|x = 118\l|y = 605\l|width = 86\l|height = 106\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/354.0_1815.0_612.0_2133.0.png\l}"]
+	56	[label="{type = XCUIElementTypeCell\l|name = cuisine ribbon cell 2\l|enabled = true\l|visible = true\l|x = 220\l|y = 605\l|width = 86\l|height = 106\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/660.0_1815.0_918.0_2133.0.png\l}"]
+	57	[label="{type = XCUIElementTypeCell\l|name = cuisine ribbon cell 3\l|enabled = true\l|visible = true\l|x = 322\l|y = 605\l|width = 86\l|height = 106\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/966.0_1815.0_1224.0_2133.0.png\l}"]
+	58	[label="{type = XCUIElementTypeCell\l|name = Saved restaurant cell 0\l|enabled = true\l|visible = true\l|x = 16\l|y = 787\l|width = 352\l|height = 208\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/48.0_2361.0_1104.0_2985.0.png\l}"]
+	59	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 384\l|y = 787\l|width = 352\l|height = 208\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/1152.0_2361.0_2208.0_2985.0.png\l}"]
+	60	[label="{type = XCUIElementTypeStaticText\l|value = 1 saved restaurant\l|name = 1 saved restaurant\l|label = 1 saved restaurant\l|enabled = true\l|visible = true\l|x = 111\l|y = 148\l|width = 118\l|height = 15\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/333.00000000000006_444.0_687.0_489.0.png\l}"]
+	61	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 228\l|width = 381\l|height = 260\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/48.0_684.0_1191.0_1464.0.png\l}"]
+	62	[label="{type = XCUIElementTypeStaticText\l|value = Refer a friend, get $10.00\l|name = Refer a friend, get $10.00\l|label = Refer a friend, get $10.00\l|enabled = true\l|visible = true\l|x = 123\l|y = 520\l|width = 168\l|height = 15\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/369.0_1560.0000000000002_873.0_1605.0000000000002.png\l}"]
+	63	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 605\l|width = 86\l|height = 106\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/48.0_1815.0_306.0_2133.0.png\l}"]
+	64	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 118\l|y = 605\l|width = 86\l|height = 106\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/354.0_1815.0_612.0_2133.0.png\l}"]
+	65	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 220\l|y = 605\l|width = 86\l|height = 106\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/660.0_1815.0_918.0_2133.0.png\l}"]
+	66	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 322\l|y = 605\l|width = 86\l|height = 106\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/966.0_1815.0_1224.0_2133.0.png\l}"]
+	67	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 787\l|width = 352\l|height = 208\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/48.0_2361.0_1104.0_2985.0.png\l}"]
+	68	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 384\l|y = 787\l|width = 352\l|height = 208\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/1152.0_2361.0_2208.0_2985.0.png\l}"]
+	69	[label="{type = XCUIElementTypeStaticText\l|value = Explore new restaurants\l|name = Explore new restaurants\l|label = Explore new restaurants\l|enabled = true\l|visible = true\l|x = 28\l|y = 345\l|width = 357\l|height = 26\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/84.0_1035.0_1155.0_1113.0.png\l}"]
+	70	[label="{type = XCUIElementTypeStaticText\l|value = National Picks\l|name = National Picks\l|label = National Picks\l|enabled = true\l|visible = true\l|x = 16\l|y = 693\l|width = 86\l|height = 18\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/48.0_2079.0_306.0_2133.0.png\l}"]
+	71	[label="{type = XCUIElementTypeStaticText\l|value = Asian\l|name = Asian\l|label = Asian\l|enabled = true\l|visible = true\l|x = 118\l|y = 693\l|width = 86\l|height = 18\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/354.0_2079.0_612.0_2133.0.png\l}"]
+	72	[label="{type = XCUIElementTypeStaticText\l|value = Salads\l|name = Salads\l|label = Salads\l|enabled = true\l|visible = true\l|x = 220\l|y = 693\l|width = 86\l|height = 18\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/660.0_2079.0_918.0_2133.0.png\l}"]
+	73	[label="{type = XCUIElementTypeStaticText\l|value = Sandwiches\l|name = Sandwiches\l|label = Sandwiches\l|enabled = true\l|visible = true\l|x = 322\l|y = 693\l|width = 86\l|height = 18\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = search-removefavorite/S1/pngs/966.0_2079.0_1224.0_2133.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	5 -> 7
+	6 -> 8
+	6 -> 9
+	6 -> 10
+	6 -> 11
+	6 -> 12
+	7 -> 13
+	13 -> 14
+	13 -> 15
+	14 -> 16
+	14 -> 17
+	15 -> 18
+	18 -> 19
+	19 -> 20
+	20 -> 21
+	21 -> 22
+	22 -> 23
+	22 -> 24
+	22 -> 25
+	22 -> 26
+	22 -> 27
+	22 -> 28
+	22 -> 29
+	22 -> 30
+	22 -> 31
+	22 -> 32
+	23 -> 33
+	24 -> 34
+	25 -> 35
+	26 -> 36
+	27 -> 37
+	27 -> 38
+	28 -> 39
+	29 -> 40
+	30 -> 41
+	33 -> 42
+	33 -> 43
+	35 -> 44
+	36 -> 45
+	38 -> 46
+	39 -> 47
+	41 -> 48
+	43 -> 49
+	43 -> 50
+	44 -> 51
+	45 -> 52
+	45 -> 53
+	47 -> 54
+	47 -> 55
+	47 -> 56
+	47 -> 57
+	48 -> 58
+	48 -> 59
+	50 -> 60
+	51 -> 61
+	52 -> 62
+	54 -> 63
+	55 -> 64
+	56 -> 65
+	57 -> 66
+	58 -> 67
+	59 -> 68
+	61 -> 69
+	63 -> 70
+	64 -> 71
+	65 -> 72
+	66 -> 73
+
+
+}

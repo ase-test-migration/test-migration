@@ -1,0 +1,4 @@
+pathToElementImageCrop: msToDo-completeTask/S0/pngs/16.0_278.0_128.0_404.0.png;
+coords: {'x1': 16.0, 'y1': 278.0, 'x2': 128.0, 'y2': 404.0};
+text_identifier: { "name" : "screenreader_task_check_button" };
+event: click;

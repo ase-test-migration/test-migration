@@ -1,0 +1,4 @@
+pathToElementImageCrop: myTask-duedate/S2/pngs/270.0_2433.0_516.0_2532.0.png;
+coords: {'x1': 270.0, 'y1': 2433.0, 'x2': 516.0, 'y2': 2532.0};
+text_identifier: { "label" : "toolbar calendar" };
+event: click;

@@ -1,0 +1,4 @@
+pathToElementImageCrop: duckduckgo-back/S4/pngs/0.0_1236.0_90.0_1334.0.png;
+coords: {'x1': 0.0, 'y1': 1236.0, 'x2': 90.0, 'y2': 1334.0};
+text_identifier: { "label" : "Browse Back" };
+event: back;

@@ -1,0 +1,4 @@
+pathToElementImageCrop: aliExpress-delCart/S0/pngs/693_2228_819_2287.png;
+coords: {'x1': 693, 'y1': 2228, 'x2': 819, 'y2': 2361};
+text_identifier: { "resource-id" : "com.alibaba.aliexpresshd:id/icon" };
+event: click;

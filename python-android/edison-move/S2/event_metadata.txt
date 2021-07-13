@@ -1,0 +1,4 @@
+pathToElementImageCrop: edison-move/S2/pngs/248_1573_920_1632.png;
+coords: {'x1': 248, 'y1': 1573, 'x2': 920, 'y2': 1632};
+text_identifier: { "resource-id" : "com.easilydo.mail:id/text_view" };
+event: click;

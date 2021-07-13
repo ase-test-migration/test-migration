@@ -1,0 +1,4 @@
+pathToElementImageCrop: spark-send/S3/pngs/652.0_122.0_740.0_170.0.png;
+coords: {'x1': 652.0, 'y1': 122.0, 'x2': 740.0, 'y2': 170.0};
+text_identifier: { "label" : "sm composer icon send stop sha" };
+event: click;

@@ -1,0 +1,46 @@
+{
+    "tests": [
+        {
+            "name": "wish-Login", 
+            "events": [
+                {
+                    "tag": "signInPageButton", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "input": "email@example.com", 
+                    "tag": "email", 
+                    "type": "accessibilityId", 
+                    "event": "send_keys"
+                }, 
+                {
+                    "input": "Test.0123",
+                    "tag": "password", 
+                    "type": "accessibilityId", 
+                    "event": "send_keys"
+                }, 
+                {
+                    "tag": "signInActionButton", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Popular"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "Someone's iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "13.4.1", 
+        "platformName": "iOS"
+        
+    }
+}

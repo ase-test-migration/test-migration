@@ -1,0 +1,4 @@
+pathToElementImageCrop: wish-addCart/S1/pngs/673_1929_1058_2039.png;
+coords: {'x1': 673, 'y1': 1929, 'x2': 1058, 'y2': 2039};
+text_identifier: { "resource-id" : "com.contextlogic.wish:id/add_to_cart_button" };
+event: click;

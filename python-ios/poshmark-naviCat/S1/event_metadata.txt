@@ -1,0 +1,4 @@
+pathToElementImageCrop: poshmark-naviCat/S1/pngs/416.0_166.0_476.0_198.0.png;
+coords: {'x1': 416.0, 'y1': 166.0, 'x2': 476.0, 'y2': 198.0};
+text_identifier: { "label" : "KIDS" };
+event: click;

@@ -1,0 +1,33 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer"
+    },
+    "tests" : [
+        {
+            "name" : "testSMNregionSettings",
+            "events": [
+                {
+                    "event": "click",
+                    "tag": "Settings",
+                    "type": "accessibilityId"
+                },
+                {
+                    "event": "click",
+                    "tag": "//XCUIElementTypeCell[@name=\"crui_settingsView_editionCell\"]",
+                    "type": "xPath"
+                },
+                {
+                    "event": "click",
+                    "tag": "crui_editionView_en_ALL",
+                    "type": "accessibilityId"
+                }
+            ]
+            
+    }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "test_WP_TopMenu",
+            "events": [
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//androidx.appcompat.app.ActionBar.Tab[@content-desc=\"Politics\"]/android.widget.TextView"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//androidx.appcompat.app.ActionBar.Tab[@content-desc=\"Opinions\"]/android.widget.TextView"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//androidx.appcompat.app.ActionBar.Tab[@content-desc=\"Investigations\"]/android.widget.TextView"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//androidx.appcompat.app.ActionBar.Tab[@content-desc=\"Election 2020\"]/android.widget.TextView"
+                }
+            ]
+        }
+    ]
+}

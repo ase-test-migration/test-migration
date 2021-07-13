@@ -1,0 +1,4 @@
+pathToElementImageCrop: wish-login/S3/pngs/72.0_1029.0_1170.0_1152.0.png;
+coords: {'x1': 72.0, 'y1': 1029.0, 'x2': 1170.0, 'y2': 1152.0};
+text_identifier: { "name" : "signInActionButton" };
+event: click;

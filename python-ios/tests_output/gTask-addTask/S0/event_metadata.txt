@@ -1,0 +1,4 @@
+pathToElementImageCrop: gTask-addTask/S0/pngs/318.0_1162.0_432.0_1274.0.png;
+coords: {'x1': 318.0, 'y1': 1162.0, 'x2': 432.0, 'y2': 1274.0};
+text_identifier: { "name" : "Add a new task" };
+event: click;

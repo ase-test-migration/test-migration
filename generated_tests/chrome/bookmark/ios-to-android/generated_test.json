@@ -1,0 +1,19 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "chrome-bookmark",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.android.chrome:id/search_box_text",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.android.chrome:id/url_bar",
+                "event": "send_keys_enter",
+                "input": "google.com"
+            }
+        ]
+    }
+}

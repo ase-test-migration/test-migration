@@ -1,0 +1,15 @@
+{"name" : "Edge", "label" : "Edge", "screenshotPath" : "edge-tab/S1/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "TabCenterCollectionView", "screenshotPath" : "edge-tab/S1/pngs/0.0_130.0_750.0_1334.0.png"}
+{"value" : "0%", "name" : "Vertical scroll bar, 1 page", "label" : "Vertical scroll bar, 1 page", "screenshotPath" : "edge-tab/S1/pngs/684.0_130.0_744.0_1334.0.png"}
+{"value" : "0%", "name" : "Horizontal scroll bar, 1 page", "label" : "Horizontal scroll bar, 1 page", "screenshotPath" : "edge-tab/S1/pngs/0.0_1268.0_750.0_1328.0.png"}
+{"name" : "TabCenterCloseAllButton", "label" : "Close all", "screenshotPath" : "edge-tab/S1/pngs/32.0_1256.0_148.0_1316.0.png"}
+{"name" : "TabCenterNewTabButton", "label" : "Open a new tab", "screenshotPath" : "edge-tab/S1/pngs/320.0_1234.0_430.0_1338.0.png"}
+{"name" : "Done", "label" : "Done", "screenshotPath" : "edge-tab/S1/pngs/644.0_1256.0_718.0_1316.0.png"}
+{"name" : "TabCenterCellCloseButton", "label" : "Close tab New tab", "screenshotPath" : "edge-tab/S1/pngs/272.0_402.0_368.0_500.0.png"}
+{"name" : "NormalModeBrowsingButton", "label" : "Selected, Current Tabs tab, tab 1 of 3", "screenshotPath" : "edge-tab/S1/pngs/32.0_40.0_240.0_126.00000000000001.png"}
+{"name" : "PrivateModeBrowsingButton", "label" : "Unselected, InPrivate tab, tab 2 of 3", "screenshotPath" : "edge-tab/S1/pngs/270.0_40.0_480.0_126.00000000000001.png"}
+{"name" : "SyncedTabButton", "label" : "Unselected, Recent Tabs tab, tab 3 of 3", "screenshotPath" : "edge-tab/S1/pngs/510.00000000000006_40.0_718.0_126.00000000000001.png"}
+{"value" : "Tabs", "name" : "Tabs", "label" : "Tabs", "screenshotPath" : "edge-tab/S1/pngs/102.00000000000001_64.0_170.0_102.0.png"}
+{"value" : "InPrivate", "name" : "InPrivate", "label" : "InPrivate", "screenshotPath" : "edge-tab/S1/pngs/314.0_64.0_436.0_102.0.png"}
+{"value" : "Recent Tabs", "name" : "Recent Tabs", "label" : "Recent Tabs", "screenshotPath" : "edge-tab/S1/pngs/530.0_64.0_700.0_102.0.png"}
+{"value" : "Tab 1 of 1 is New tab", "name" : "Tab 1 of 1 is New tab", "label" : "Tab 1 of 1 is New tab", "screenshotPath" : "edge-tab/S1/pngs/56.00000000000001_414.0_272.0_488.0.png"}

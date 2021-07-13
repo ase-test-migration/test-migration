@@ -1,0 +1,4 @@
+pathToElementImageCrop: abc-manage/S1/pngs/1002.0_159.0_1182.0_237.0.png;
+coords: {'x1': 1002.0, 'y1': 159.0, 'x2': 1182.0, 'y2': 237.0};
+text_identifier: { "label" : "Manage" };
+event: click;

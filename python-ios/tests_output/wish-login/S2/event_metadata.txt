@@ -1,0 +1,5 @@
+pathToElementImageCrop: wish-login/S2/pngs/72.0_861.0_1170.0_984.0.png;
+coords: {'x1': 72.0, 'y1': 861.0, 'x2': 1170.0, 'y2': 984.0};
+text_identifier: { "name" : "password" };
+event: send_keys;
+input: Sa0440583535;

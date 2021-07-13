@@ -1,0 +1,30 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "msToDo-addTask",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Add a task"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys",
+                    "tag": "com.microsoft.todos:id/create_task_edit_text",
+                    "input": "Test01"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Add a task"
+                }
+            ]
+        }
+    ]
+}

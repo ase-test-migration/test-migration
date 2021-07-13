@@ -1,0 +1,4 @@
+pathToElementImageCrop: gmail-reply/S3/pngs/550.0_40.0_646.0_152.0.png;
+coords: {'x1': 550.0, 'y1': 40.0, 'x2': 646.0, 'y2': 152.0};
+text_identifier: { "label" : "Send" };
+event: click;

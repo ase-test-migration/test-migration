@@ -1,0 +1,4 @@
+pathToElementImageCrop: aliExpress-addCart/S6/pngs/431_2268_648_2287.png;
+coords: {'x1': 431, 'y1': 2268, 'x2': 648, 'y2': 2361};
+text_identifier: { "resource-id" : "com.alibaba.aliexpresshd:id/tv_apply_options" };
+event: click;

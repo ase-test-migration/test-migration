@@ -1,0 +1,4 @@
+pathToElementImageCrop: dolphin-tab/S1/pngs/296.0_1250.0_680.0_1334.0.png;
+coords: {'x1': 296.0, 'y1': 1250.0, 'x2': 680.0, 'y2': 1334.0};
+text_identifier: { "label" : "Create a New Tab" };
+event: click;

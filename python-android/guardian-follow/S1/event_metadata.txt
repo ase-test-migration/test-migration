@@ -1,0 +1,4 @@
+pathToElementImageCrop: guardian-follow/S1/pngs/33_1260_302_1317.png;
+coords: {'x1': 33, 'y1': 1260, 'x2': 302, 'y2': 1317};
+text_identifier: { "content-desc" : "Joan E Greve" };
+event: click;

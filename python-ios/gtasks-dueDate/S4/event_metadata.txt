@@ -1,0 +1,5 @@
+pathToElementImageCrop: gtasks-dueDate/S4/pngs/128.0_460.00000000000006_514.0_524.0.png;
+coords: {'x1': 128.0, 'y1': 460.00000000000006, 'x2': 514.0, 'y2': 524.0};
+text_identifier: { "label" : "Date and time" };
+event: oracle;
+oracle-type: widget_exists;

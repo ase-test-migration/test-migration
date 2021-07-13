@@ -1,0 +1,56 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Firefox\l|label = Firefox\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-tab/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-tab/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-tab/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-tab/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-tab/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-tab/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-tab/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|name = Tabs Tray\l|label = Tabs Tray\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-tab/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 64\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-tab/S1/pngs/0.0_40.0_750.0_168.0.png\l}"]
+	9	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 601\l|index = 2\l|numberOfChildren = 3\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-tab/S1/pngs/0.0_40.0_750.0_1242.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 621\l|width = 375\l|height = 46\l|index = 3\l|numberOfChildren = 3\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-tab/S1/pngs/0.0_1242.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 35\l|width = 355\l|height = 39\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-tab/S1/pngs/20.0_70.0_730.0_148.0.png\l}"]
+	12	[label="{type = XCUIElementTypeTextField\l|value = Search Tabs\l|label = \l|enabled = true\l|visible = true\l|x = 20\l|y = 35\l|width = 335\l|height = 39\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-tab/S1/pngs/40.0_70.0_710.0_148.0.png\l}"]
+	13	[label="{type = XCUIElementTypeCell\l|name = Wikipedia\l|label = Wikipedia\l|enabled = true\l|visible = true\l|x = 15\l|y = 99\l|width = 165\l|height = 192\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-tab/S1/pngs/30.0_198.0_360.0_582.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 1 page\l|label = Vertical scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 342\l|y = 20\l|width = 30\l|height = 601\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-tab/S1/pngs/684.0_40.0_744.0_1242.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 588\l|width = 375\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-tab/S1/pngs/0.0_1176.0_750.0_1236.0.png\l}"]
+	16	[label="{type = XCUIElementTypeButton\l|value = Off\l|name = TabTrayController.maskButton\l|label = Private Mode\l|enabled = true\l|visible = true\l|x = 32\l|y = 621\l|width = 44\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-tab/S1/pngs/64.0_1242.0_152.0_1330.0.png\l}"]
+	17	[label="{type = XCUIElementTypeButton\l|name = TabTrayController.removeTabsButton\l|label = Close All Tabs\l|enabled = true\l|visible = true\l|x = 165\l|y = 621\l|width = 45\l|height = 44\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-tab/S1/pngs/330.0_1242.0_420.0_1330.0.png\l}"]
+	18	[label="{type = XCUIElementTypeButton\l|name = TabTrayController.addTabButton\l|label = Add Tab\l|enabled = true\l|visible = true\l|x = 299\l|y = 621\l|width = 44\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = true \l|screenshotPath = firefox-tab/S1/pngs/598.0_1242.0_686.0_1330.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 99\l|width = 165\l|height = 192\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-tab/S1/pngs/30.0_198.0_360.0_582.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 99\l|width = 165\l|height = 192\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-tab/S1/pngs/30.0_198.0_360.0_582.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 99\l|width = 165\l|height = 32\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-tab/S1/pngs/30.0_198.0_360.0_262.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 99\l|width = 165\l|height = 32\l|index = 2\l|numberOfChildren = 3\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-tab/S1/pngs/30.0_198.0_360.0_262.0.png\l}"]
+	23	[label="{type = XCUIElementTypeButton\l|name = tab close\l|label = tab close\l|enabled = true\l|visible = true\l|x = 148\l|y = 99\l|width = 32\l|height = 32\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-tab/S1/pngs/296.0_198.0_360.0_262.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	7 -> 9
+	7 -> 10
+	8 -> 11
+	8 -> 12
+	9 -> 13
+	9 -> 14
+	9 -> 15
+	10 -> 16
+	10 -> 17
+	10 -> 18
+	13 -> 19
+	19 -> 20
+	20 -> 21
+	21 -> 22
+	22 -> 23
+
+
+}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: twobird-moveFolder/S2/pngs/32.0_68.0_104.0_140.0.png;
+coords: {'x1': 32.0, 'y1': 68.0, 'x2': 104.0, 'y2': 140.0};
+text_identifier: { "label" : "TestUser, finish setting up your new Google Account Started 2 hours ago with you GC Google Community Team  9:39 AM Vertical scroll bar, 4 pages Horizontal scroll bar, 1 page" };
+event: click;

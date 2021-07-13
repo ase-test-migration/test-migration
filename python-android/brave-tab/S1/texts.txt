@@ -1,0 +1,6 @@
+{ "resource-id" : "com.brave.browser:id/compositor_view_holder" , "screenshotPath" : "brave-tab/S1/pngs/0_171_1080_1977.png"}
+{ "resource-id" : "com.brave.browser:id/bottom_controls" , "screenshotPath" : "brave-tab/S1/pngs/0_1994_1080_2148.png"}
+{ "resource-id" : "com.brave.browser:id/tab_switcher_toolbar" , "screenshotPath" : "brave-tab/S1/pngs/0_171_1080_325.png"}
+{ "content-desc" : "More options" , "resource-id" : "com.brave.browser:id/menu_button_wrapper" , "screenshotPath" : "brave-tab/S1/pngs/893_2016_1047_2148.png"}
+{ "content-desc" : "New tab" , "resource-id" : "com.brave.browser:id/bottom_new_tab_button" , "screenshotPath" : "brave-tab/S1/pngs/463_2016_617_2148.png"}
+{ "resource-id" : "com.brave.browser:id/menu_button" , "screenshotPath" : "brave-tab/S1/pngs/893_2016_1047_2148.png"}

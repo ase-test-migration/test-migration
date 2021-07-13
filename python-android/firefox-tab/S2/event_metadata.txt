@@ -1,0 +1,6 @@
+pathToElementImageCrop: ;
+coords: ;
+text_identifier: { Search or enter address };
+event: oracle;
+oracle-type: text_exists;
+input: Search or enter address;

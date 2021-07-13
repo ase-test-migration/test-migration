@@ -1,0 +1,4 @@
+pathToElementImageCrop: gtasks-edit/S1/pngs/30.0_248.0_716.0_342.0.png;
+coords: {'x1': 30.0, 'y1': 248.0, 'x2': 716.0, 'y2': 342.0};
+text_identifier: { "label" : "Task title" };
+event: click;

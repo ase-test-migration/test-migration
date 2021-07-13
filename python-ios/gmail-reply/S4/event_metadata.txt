@@ -1,0 +1,4 @@
+pathToElementImageCrop: gmail-reply/S4/pngs/0.0_40.0_112.00000000000001_152.0.png;
+coords: {'x1': 0.0, 'y1': 40.0, 'x2': 112.00000000000001, 'y2': 152.0};
+text_identifier: { "label" : "Close" };
+event: back;

@@ -1,0 +1,5 @@
+pathToElementImageCrop: usa-search/S2/pngs/144_75_936_243.png;
+coords: {'x1': 144, 'y1': 75, 'x2': 936, 'y2': 243};
+text_identifier: { "resource-id" : "com.usatoday.android.news:id/edit_text_search" };
+event: send_keys_enter;
+input: travel;

@@ -1,0 +1,5 @@
+pathToElementImageCrop: etsy-remove-from-cart/S2/pngs/188.0_1096.0_562.0_1192.0.png;
+coords: {'x1': 188.0, 'y1': 1096.0, 'x2': 562.0, 'y2': 1192.0};
+text_identifier: { "label" : "See trending items" };
+event: oracle;
+oracle-type: widget_exists;

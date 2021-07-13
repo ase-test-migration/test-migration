@@ -1,0 +1,4 @@
+pathToElementImageCrop: poshmark-naviCat/S2/pngs/26_1192_1054_1267.png;
+coords: {'x1': 26, 'y1': 1192, 'x2': 1054, 'y2': 1267};
+text_identifier: { "resource-id" : "com.poshmark.app:id/metaItemTextView" };
+event: click;

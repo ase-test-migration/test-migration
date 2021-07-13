@@ -1,0 +1,10 @@
+{"name" : "Firefox", "label" : "Firefox", "screenshotPath" : "firefox-tab/S1/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "Tabs Tray", "label" : "Tabs Tray", "screenshotPath" : "firefox-tab/S1/pngs/0.0_0.0_750.0_1334.0.png"}
+{"value" : "Search Tabs", "label" : "", "screenshotPath" : "firefox-tab/S1/pngs/40.0_70.0_710.0_148.0.png"}
+{"name" : "Wikipedia", "label" : "Wikipedia", "screenshotPath" : "firefox-tab/S1/pngs/30.0_198.0_360.0_582.0.png"}
+{"value" : "0%", "name" : "Vertical scroll bar, 1 page", "label" : "Vertical scroll bar, 1 page", "screenshotPath" : "firefox-tab/S1/pngs/684.0_40.0_744.0_1242.0.png"}
+{"value" : "0%", "name" : "Horizontal scroll bar, 1 page", "label" : "Horizontal scroll bar, 1 page", "screenshotPath" : "firefox-tab/S1/pngs/0.0_1176.0_750.0_1236.0.png"}
+{"value" : "Off", "name" : "TabTrayController.maskButton", "label" : "Private Mode", "screenshotPath" : "firefox-tab/S1/pngs/64.0_1242.0_152.0_1330.0.png"}
+{"name" : "TabTrayController.removeTabsButton", "label" : "Close All Tabs", "screenshotPath" : "firefox-tab/S1/pngs/330.0_1242.0_420.0_1330.0.png"}
+{"name" : "TabTrayController.addTabButton", "label" : "Add Tab", "screenshotPath" : "firefox-tab/S1/pngs/598.0_1242.0_686.0_1330.0.png"}
+{"name" : "tab close", "label" : "tab close", "screenshotPath" : "firefox-tab/S1/pngs/296.0_198.0_360.0_262.0.png"}

@@ -1,0 +1,10 @@
+{ "text" : "" , "resource-id" : "com.ebay.mobile:id/pager" , "screenshotPath" : "ebay-filter/S1/pngs/0_410_1080_1419.png"}
+{ "text" : "" , "content-desc" : "Back" , "resource-id" : "com.ebay.mobile:id/back_button" , "screenshotPath" : "ebay-filter/S1/pngs/21_95_127_242.png"}
+{ "text" : "" , "resource-id" : "com.ebay.mobile:id/textbox_search_bar" , "screenshotPath" : "ebay-filter/S1/pngs/127_95_932_242.png"}
+{ "text" : "" , "content-desc" : "Image search options" , "resource-id" : "com.ebay.mobile:id/button_image_search" , "screenshotPath" : "ebay-filter/S1/pngs/932_95_1059_242.png"}
+{ "text" : "" , "resource-id" : "com.ebay.mobile:id/tab_header" , "screenshotPath" : "ebay-filter/S1/pngs/0_263_1080_410.png"}
+{ "text" : "" , "resource-id" : "android:id/list" , "screenshotPath" : "ebay-filter/S1/pngs/0_410_1080_1419.png"}
+{ "text" : "" , "content-desc" : "Recent, tab 1 of 2" , "screenshotPath" : "ebay-filter/S1/pngs/0_263_540_410.png"}
+{ "text" : "" , "content-desc" : "Saved, tab 2 of 2" , "screenshotPath" : "ebay-filter/S1/pngs/540_263_1080_410.png"}
+{ "text" : "Search for anything" , "resource-id" : "com.ebay.mobile:id/search_src_text" , "screenshotPath" : "ebay-filter/S1/pngs/148_121_848_216.png"}
+{ "text" : "" , "content-desc" : "Voice search" , "resource-id" : "com.ebay.mobile:id/search_voice_btn" , "screenshotPath" : "ebay-filter/S1/pngs/848_95_911_242.png"}

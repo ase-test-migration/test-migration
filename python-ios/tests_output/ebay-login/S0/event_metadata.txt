@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-login/S0/pngs/645.0_857.9999999999999_1068.0_1010.9999999999999.png;
+coords: {'x1': 645.0, 'y1': 857.9999999999999, 'x2': 1068.0, 'y2': 1010.9999999999999};
+text_identifier: { "label" : "Sign In" };
+event: click;

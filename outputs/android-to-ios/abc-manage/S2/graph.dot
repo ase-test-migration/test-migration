@@ -1,0 +1,90 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = ABC News\l|label = ABC News\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 852\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/0.0_132.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 852\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/0.0_132.0_1242.0_2688.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 852\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/0.0_132.0_1242.0_2688.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 852\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/0.0_132.0_1242.0_2688.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 852\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/0.0_132.0_1242.0_2688.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 852\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/0.0_132.0_1242.0_2688.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 852\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/0.0_132.0_1242.0_2688.0.png\l}"]
+	12	[label="{type = XCUIElementTypeNavigationBar\l|name = Manage\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 44\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/0.0_132.0_1242.0_264.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 852\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/0.0_132.0_1242.0_2688.0.png\l}"]
+	14	[label="{type = XCUIElementTypeStaticText\l|value = Manage\l|name = Manage\l|label = Manage\l|enabled = true\l|visible = true\l|x = 172\l|y = 56\l|width = 70\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/516.0_168.0_726.0_228.0.png\l}"]
+	15	[label="{type = XCUIElementTypeButton\l|name = Done\l|label = Done\l|enabled = true\l|visible = true\l|x = 360\l|y = 53\l|width = 34\l|height = 26\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/1080.0_159.0_1182.0_237.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 852\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/0.0_132.0_1242.0_2688.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 852\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/0.0_132.0_1242.0_2688.0.png\l}"]
+	18	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 852\l|numberOfChildren = 11\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/0.0_132.0_1242.0_2688.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|name = INTERESTS • Toggle interest notifications ON/OFF • Swipe to remove an interest\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 72\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/0.0_264.0_1242.0_480.0.png\l}"]
+	20	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 159\l|width = 414\l|height = 72\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/0.0_477.0_1242.0_693.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 230\l|width = 414\l|height = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/0.0_689.9999999999999_1242.0_695.9999999999999.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|name = VIEW INTERESTS BY\l|enabled = true\l|visible = true\l|x = 0\l|y = 231\l|width = 414\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/0.0_693.0_1242.0_837.0.png\l}"]
+	23	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 278\l|width = 414\l|height = 72\l|numberOfChildren = 4\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/0.0_834.0_1242.0_1050.0.png\l}"]
+	24	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 349\l|width = 414\l|height = 72\l|numberOfChildren = 2\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/0.0_1047.0_1242.0_1263.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 420\l|width = 414\l|height = 2\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/0.0_1260.0_1242.0_1266.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|name = MY ACCOUNT\l|enabled = true\l|visible = true\l|x = 0\l|y = 421\l|width = 414\l|height = 47\l|numberOfChildren = 1\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/0.0_1263.0_1242.0_1404.0.png\l}"]
+	27	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 467\l|width = 414\l|height = 72\l|numberOfChildren = 2\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/0.0_1400.9999999999998_1242.0_1616.9999999999998.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 538\l|width = 414\l|height = 2\l|numberOfChildren = 0\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/0.0_1614.0_1242.0_1620.0.png\l}"]
+	29	[label="{type = XCUIElementTypeStaticText\l|value = INTERESTS • Toggle interest notifications ON/OFF • Swipe to remove an interest\l|name = INTERESTS • Toggle interest notifications ON/OFF • Swipe to remove an interest\l|label = INTERESTS • Toggle interest notifications ON/OFF • Swipe to remove an interest\l|enabled = true\l|visible = true\l|x = 19\l|y = 99\l|width = 376\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/57.0_297.0_1185.0_444.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 229\l|width = 360\l|height = 2\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/45.0_687.0_1125.0_693.0.png\l}"]
+	31	[label="{type = XCUIElementTypeStaticText\l|value = Coronavirus\l|name = Coronavirus\l|label = Coronavirus\l|enabled = true\l|visible = true\l|x = 39\l|y = 187\l|width = 280\l|height = 16\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/117.0_561.0_957.0_609.0.png\l}"]
+	32	[label="{type = XCUIElementTypeSwitch\l|value = 0\l|name = Coronavirus\l|label = Coronavirus\l|enabled = true\l|visible = true\l|x = 324\l|y = 179\l|width = 51\l|height = 32\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/972.0_537.0_1125.0_633.0.png\l}"]
+	33	[label="{type = XCUIElementTypeStaticText\l|value = VIEW INTERESTS BY\l|name = VIEW INTERESTS BY\l|label = VIEW INTERESTS BY\l|enabled = true\l|visible = true\l|x = 19\l|y = 246\l|width = 376\l|height = 17\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/57.0_738.0000000000001_1185.0_789.0000000000001.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 347\l|width = 414\l|height = 2\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/0.0_1041.0_1242.0_1047.0.png\l}"]
+	35	[label="{type = XCUIElementTypeStaticText\l|value = Date (most recent first)\l|name = Date (most recent first)\l|label = Date (most recent first)\l|enabled = true\l|visible = true\l|x = 35\l|y = 305\l|width = 327\l|height = 17\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/105.0_915.0_1086.0_966.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 418\l|width = 360\l|height = 2\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/45.0_1254.0_1125.0_1260.0.png\l}"]
+	37	[label="{type = XCUIElementTypeStaticText\l|value = Interest\l|name = Interest\l|label = Interest\l|enabled = true\l|visible = true\l|x = 35\l|y = 376\l|width = 359\l|height = 17\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/105.0_1128.0_1182.0_1179.0.png\l}"]
+	38	[label="{type = XCUIElementTypeStaticText\l|value = MY ACCOUNT\l|name = MY ACCOUNT\l|label = MY ACCOUNT\l|enabled = true\l|visible = true\l|x = 19\l|y = 436\l|width = 376\l|height = 17\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/57.0_1308.0_1185.0_1359.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 536\l|width = 360\l|height = 2\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/45.0_1608.0_1125.0_1614.0.png\l}"]
+	40	[label="{type = XCUIElementTypeStaticText\l|value = Log In To ABC News Account\l|name = Log In To ABC News Account\l|label = Log In To ABC News Account\l|enabled = true\l|visible = true\l|x = 35\l|y = 495\l|width = 359\l|height = 17\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/abc-manage/S2/pngs/105.0_1484.9999999999998_1182.0_1535.9999999999998.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	8 -> 9
+	9 -> 10
+	10 -> 11
+	11 -> 12
+	11 -> 13
+	12 -> 14
+	12 -> 15
+	13 -> 16
+	16 -> 17
+	17 -> 18
+	18 -> 19
+	18 -> 20
+	18 -> 21
+	18 -> 22
+	18 -> 23
+	18 -> 24
+	18 -> 25
+	18 -> 26
+	18 -> 27
+	18 -> 28
+	19 -> 29
+	20 -> 30
+	20 -> 31
+	20 -> 32
+	22 -> 33
+	23 -> 34
+	23 -> 35
+	24 -> 36
+	24 -> 37
+	26 -> 38
+	27 -> 39
+	27 -> 40
+
+
+}

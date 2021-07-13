@@ -1,0 +1,5 @@
+pathToElementImageCrop: duckduckgo-back/S3/pngs/127_193_959_303.png;
+coords: {'x1': 127, 'y1': 193, 'x2': 959, 'y2': 303};
+text_identifier: { "resource-id" : "com.duckduckgo.mobile.android:id/omnibarTextInput" };
+event: send_keys_enter;
+input: wikipedia.org;

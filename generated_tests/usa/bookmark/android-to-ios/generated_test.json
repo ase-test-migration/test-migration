@@ -1,0 +1,18 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "usa-bookmark",
+        "events": [
+            {
+                "type": "name",
+                "tag": "White House to distribute more than 25 million masks",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Share",
+                "event": "click"
+            }
+        ]
+    }
+}

@@ -1,0 +1,114 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Spark\l|label = Spark\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 2\l|numberOfChildren = 3\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 16\l|width = 375\l|height = 52\l|index = 1\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/0.0_32.0_750.0_136.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 618\l|width = 375\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/0.0_1236.0_750.0_1238.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 618\l|width = 375\l|height = 49\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/0.0_1236.0_750.0_1334.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 24\l|y = 626\l|width = 327\l|height = 32\l|index = 2\l|numberOfChildren = 6\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/48.0_1252.0_702.0_1316.0.png\l}"]
+	19	[label="{type = XCUIElementTypeScrollView\l|name = currentThreadMessageView\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	20	[label="{type = XCUIElementTypeButton\l|name = smi navigation icon back\l|label = smi navigation icon back\l|enabled = true\l|visible = true\l|x = 10\l|y = 26\l|width = 32\l|height = 32\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/20.0_52.0_84.0_116.0.png\l}"]
+	21	[label="{type = XCUIElementTypeButton\l|name = smi toolbar icon share badged\l|label = smi toolbar icon share badged\l|enabled = true\l|visible = true\l|x = 293\l|y = 26\l|width = 32\l|height = 32\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/586.0_52.0_650.0_116.0.png\l}"]
+	22	[label="{type = XCUIElementTypeButton\l|name = smi general icon pin\l|label = smi general icon pin\l|enabled = true\l|visible = true\l|x = 333\l|y = 26\l|width = 32\l|height = 32\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/666.0_52.0_730.0_116.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 24\l|y = 626\l|width = 46\l|height = 32\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/48.0_1252.0_140.0_1316.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 69\l|y = 626\l|width = 60\l|height = 32\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/138.0_1252.0_258.0_1316.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 128\l|y = 626\l|width = 60\l|height = 32\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/256.0_1252.0_376.0_1316.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 187\l|y = 626\l|width = 60\l|height = 32\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/374.0_1252.0_494.0_1316.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 246\l|y = 626\l|width = 60\l|height = 32\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/492.0_1252.0_612.0_1316.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 305\l|y = 626\l|width = 46\l|height = 32\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = true \l|screenshotPath = spark-move/S1/pngs/610.0_1252.0_702.0_1316.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 68\l|width = 375\l|height = 61\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/0.0_136.0_750.0_258.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 132\l|width = 375\l|height = 137\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/0.0_264.0_750.0_538.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 1 page\l|label = Vertical scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 342\l|y = 20\l|width = 30\l|height = 598\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/684.0_40.0_744.0_1236.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 585\l|width = 375\l|height = 30\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/0.0_1170.0_750.0_1230.0.png\l}"]
+	33	[label="{type = XCUIElementTypeButton\l|name = smi general icon markasunread\l|label = smi general icon markasunread\l|enabled = true\l|visible = true\l|x = 24\l|y = 626\l|width = 46\l|height = 32\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/48.0_1252.0_140.0_1316.0.png\l}"]
+	34	[label="{type = XCUIElementTypeButton\l|name = smi general icon reply\l|label = smi general icon reply\l|enabled = true\l|visible = true\l|x = 69\l|y = 626\l|width = 60\l|height = 32\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/138.0_1252.0_258.0_1316.0.png\l}"]
+	35	[label="{type = XCUIElementTypeButton\l|name = smi general icon archive\l|label = smi general icon archive\l|enabled = true\l|visible = true\l|x = 128\l|y = 626\l|width = 60\l|height = 32\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/256.0_1252.0_376.0_1316.0.png\l}"]
+	36	[label="{type = XCUIElementTypeButton\l|name = smi general icon forward\l|label = smi general icon forward\l|enabled = true\l|visible = true\l|x = 187\l|y = 626\l|width = 60\l|height = 32\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/374.0_1252.0_494.0_1316.0.png\l}"]
+	37	[label="{type = XCUIElementTypeButton\l|name = smi general icon snooze\l|label = smi general icon snooze\l|enabled = true\l|visible = true\l|x = 246\l|y = 626\l|width = 60\l|height = 32\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/492.0_1252.0_612.0_1316.0.png\l}"]
+	38	[label="{type = XCUIElementTypeButton\l|name = smi general icon more\l|label = smi general icon more\l|enabled = true\l|visible = true\l|x = 305\l|y = 626\l|width = 46\l|height = 32\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = spark-move/S1/pngs/610.0_1252.0_702.0_1316.0.png\l}"]
+	39	[label="{type = XCUIElementTypeStaticText\l|value = Testing\l|name = threadViewSubject\l|label = Testing\l|enabled = true\l|visible = true\l|x = 12\l|y = 88\l|width = 351\l|height = 21\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/24.0_176.0_726.0_218.0.png\l}"]
+	40	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 132\l|width = 375\l|height = 137\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/0.0_264.0_750.0_538.0.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 132\l|width = 375\l|height = 137\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/0.0_264.0_750.0_538.0.png\l}"]
+	42	[label="{type = XCUIElementTypeButton\l|name = smi general icon reply\l|label = smi general icon reply\l|enabled = true\l|visible = true\l|x = 287\l|y = 230\l|width = 32\l|height = 33\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/574.0_460.00000000000006_638.0_526.0.png\l}"]
+	43	[label="{type = XCUIElementTypeButton\l|name = smi general icon forward\l|label = smi general icon forward\l|enabled = true\l|visible = true\l|x = 331\l|y = 230\l|width = 32\l|height = 33\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/662.0_460.00000000000006_726.0_526.0.png\l}"]
+	44	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 132\l|width = 375\l|height = 73\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/0.0_264.0_750.0_410.0.png\l}"]
+	45	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 206\l|width = 375\l|height = 19\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/0.0_412.00000000000006_750.0_450.00000000000006.png\l}"]
+	46	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 132\l|width = 375\l|height = 73\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/0.0_264.0_750.0_410.0.png\l}"]
+	47	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 206\l|width = 351\l|height = 19\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/24.0_412.00000000000006_726.0_450.00000000000006.png\l}"]
+	48	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 152\l|width = 32\l|height = 33\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/24.0_304.0_88.0_370.0.png\l}"]
+	49	[label="{type = XCUIElementTypeStaticText\l|value = Some User\l|name = Some User\l|label = Some User\l|enabled = true\l|visible = true\l|x = 52\l|y = 148\l|width = 105\l|height = 21\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/104.0_296.0_314.0_338.0.png\l}"]
+	50	[label="{type = XCUIElementTypeStaticText\l|value = To: Some User\l|name = To: Some User\l|label = To: Some User\l|enabled = true\l|visible = true\l|x = 52\l|y = 171\l|width = 107\l|height = 17\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/104.0_342.0_318.0_376.0.png\l}"]
+	51	[label="{type = XCUIElementTypeButton\l|name = sm toolbar icon more\l|label = sm toolbar icon more\l|enabled = true\l|visible = true\l|x = 331\l|y = 164\l|width = 32\l|height = 33\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/662.0_328.0_726.0_394.0.png\l}"]
+	52	[label="{type = XCUIElementTypeStaticText\l|value = No content.\l|name = ThreadViewerMessageTextPartLabel\l|label = No content.\l|enabled = true\l|visible = true\l|x = 12\l|y = 206\l|width = 351\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-move/S1/pngs/24.0_412.00000000000006_726.0_450.00000000000006.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	8 -> 9
+	9 -> 10
+	10 -> 11
+	10 -> 12
+	10 -> 13
+	11 -> 14
+	12 -> 15
+	13 -> 16
+	13 -> 17
+	13 -> 18
+	14 -> 19
+	15 -> 20
+	15 -> 21
+	15 -> 22
+	18 -> 23
+	18 -> 24
+	18 -> 25
+	18 -> 26
+	18 -> 27
+	18 -> 28
+	19 -> 29
+	19 -> 30
+	19 -> 31
+	19 -> 32
+	23 -> 33
+	24 -> 34
+	25 -> 35
+	26 -> 36
+	27 -> 37
+	28 -> 38
+	29 -> 39
+	30 -> 40
+	40 -> 41
+	40 -> 42
+	40 -> 43
+	41 -> 44
+	41 -> 45
+	44 -> 46
+	45 -> 47
+	46 -> 48
+	46 -> 49
+	46 -> 50
+	46 -> 51
+	47 -> 52
+
+
+}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: aliExpress-naviCat/S1/pngs/0.0_448.0_180.0_608.0.png;
+coords: {'x1': 0.0, 'y1': 448.0, 'x2': 180.0, 'y2': 608.0};
+text_identifier: { "label" : "ae search icCameraLine 48" };
+event: click;

@@ -1,0 +1,4 @@
+pathToElementImageCrop: gTask-gTask-completeTask/S1/pngs/516.0_1258.0_712.0_1294.0.png;
+coords: {'x1': 516.0, 'y1': 1258.0, 'x2': 712.0, 'y2': 1294.0};
+text_identifier: { "name" : "Mark complete" };
+event: click;

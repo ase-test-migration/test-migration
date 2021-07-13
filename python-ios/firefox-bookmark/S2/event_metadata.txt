@@ -1,0 +1,4 @@
+pathToElementImageCrop: firefox-bookmark/S2/pngs/648.0_70.0_736.0_160.0.png;
+coords: {'x1': 648.0, 'y1': 70.0, 'x2': 736.0, 'y2': 160.0};
+text_identifier: { "label" : "Page Options Menu" };
+event: click;

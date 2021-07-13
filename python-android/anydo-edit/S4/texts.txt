@@ -1,0 +1,10 @@
+{ "resource-id" : "com.anydo:id/touch_outside" , "screenshotPath" : "anydo-edit/S4/pngs/0_72_1080_1029.png"}
+{ "resource-id" : "com.anydo:id/tabLayout" , "screenshotPath" : "anydo-edit/S4/pngs/0_288_860_408.png"}
+{ "resource-id" : "com.anydo:id/btnSave" , "screenshotPath" : "anydo-edit/S4/pngs/860_336_1080_408.png"}
+{ "resource-id" : "com.anydo:id/taskDetailsRecycler" , "screenshotPath" : "anydo-edit/S4/pngs/0_408_1080_1029.png"}
+{ "content-desc" : "TASK DETAILS" , "screenshotPath" : "anydo-edit/S4/pngs/21_288_338_408.png"}
+{ "content-desc" : "ACTIVITY" , "screenshotPath" : "anydo-edit/S4/pngs/338_288_565_408.png"}
+{ "resource-id" : "com.anydo:id/taskTitle" , "screenshotPath" : "anydo-edit/S4/pngs/54_438_1026_556.png"}
+{ "resource-id" : "com.anydo:id/labelsRecycler" , "screenshotPath" : "anydo-edit/S4/pngs/54_616_1026_714.png"}
+{ "resource-id" : "com.anydo:id/reminderButtonSetTime" , "screenshotPath" : "anydo-edit/S4/pngs/54_888_525_1008.png"}
+{ "resource-id" : "com.anydo:id/reminderButtonTomorrow" , "screenshotPath" : "anydo-edit/S4/pngs/555_888_1026_1008.png"}

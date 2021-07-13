@@ -1,0 +1,9 @@
+{ "resource-id" : "com.android.chrome:id/app_menu_list" , "screenshotPath" : "chrome-bookmark/S3/pngs/354_187_1064_1977.png"}
+{ "content-desc" : "Forward" , "resource-id" : "com.android.chrome:id/button_one" , "screenshotPath" : "chrome-bookmark/S3/pngs/354_187_496_319.png"}
+{ "content-desc" : "Bookmark" , "resource-id" : "com.android.chrome:id/button_two" , "screenshotPath" : "chrome-bookmark/S3/pngs/496_187_638_319.png"}
+{ "content-desc" : "Download" , "resource-id" : "com.android.chrome:id/button_three" , "screenshotPath" : "chrome-bookmark/S3/pngs/638_187_780_319.png"}
+{ "content-desc" : "Page info" , "resource-id" : "com.android.chrome:id/button_four" , "screenshotPath" : "chrome-bookmark/S3/pngs/780_187_922_319.png"}
+{ "content-desc" : "Refresh" , "resource-id" : "com.android.chrome:id/button_five" , "screenshotPath" : "chrome-bookmark/S3/pngs/922_187_1064_319.png"}
+{ "content-desc" : "Share…" , "resource-id" : "com.android.chrome:id/title" , "screenshotPath" : "chrome-bookmark/S3/pngs/354_1280_1064_1412.png"}
+{ "content-desc" : "Turn on Request desktop site" , "resource-id" : "com.android.chrome:id/title" , "screenshotPath" : "chrome-bookmark/S3/pngs/354_1676_910_1808.png"}
+{ "resource-id" : "com.android.chrome:id/checkbox" , "screenshotPath" : "chrome-bookmark/S3/pngs/910_1676_1064_1808.png"}

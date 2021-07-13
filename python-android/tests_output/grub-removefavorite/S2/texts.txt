@@ -1,0 +1,11 @@
+{ "content-desc" : "Account Settings" , "resource-id" : "com.grubhub.android:id/account_settings_menu_item" , "screenshotPath" : "grub-removefavorite/S2/pngs/936_84_1080_228.png"}
+{ "content-desc" : "Restaurants" , "resource-id" : "com.grubhub.android:id/bottom_nav_search" , "screenshotPath" : "grub-removefavorite/S2/pngs/0_1608_270_1776.png"}
+{ "content-desc" : "My Grubhub" , "resource-id" : "com.grubhub.android:id/bottom_nav_my_account" , "screenshotPath" : "grub-removefavorite/S2/pngs/270_1608_540_1776.png"}
+{ "content-desc" : "Perks" , "resource-id" : "com.grubhub.android:id/bottom_nav_wallet" , "screenshotPath" : "grub-removefavorite/S2/pngs/540_1608_810_1776.png"}
+{ "content-desc" : "Bag" , "resource-id" : "com.grubhub.android:id/bottom_nav_cart" , "screenshotPath" : "grub-removefavorite/S2/pngs/810_1608_1080_1776.png"}
+{ "resource-id" : "com.grubhub.android:id/account_scroll_view" , "screenshotPath" : "grub-removefavorite/S2/pngs/0_240_1080_1608.png"}
+{ "resource-id" : "com.grubhub.android:id/diner_favorites_container" , "screenshotPath" : "grub-removefavorite/S2/pngs/261_367_640_427.png"}
+{ "resource-id" : "com.grubhub.android:id/restaurant_recycler_view" , "screenshotPath" : "grub-removefavorite/S2/pngs/0_1169_1080_1608.png"}
+{ "resource-id" : "com.grubhub.android:id/all_cuisines" , "screenshotPath" : "grub-removefavorite/S2/pngs/811_537_1032_599.png"}
+{ "resource-id" : "com.grubhub.android:id/cuisines_recycler_view" , "screenshotPath" : "grub-removefavorite/S2/pngs/0_671_1080_984.png"}
+{ "resource-id" : "com.grubhub.android:id/save_icon" , "screenshotPath" : "grub-removefavorite/S2/pngs/822_1205_930_1319.png"}

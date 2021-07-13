@@ -1,0 +1,19 @@
+{"name" : "Email", "label" : "Email", "screenshotPath" : "edison-move/S2/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "Move Messages", "screenshotPath" : "edison-move/S2/pngs/0.0_40.0_750.0_128.0.png"}
+{"name" : "Cancel", "label" : "Cancel", "screenshotPath" : "edison-move/S2/pngs/16.0_40.0_144.0_128.0.png"}
+{"value" : "Move Messages", "name" : "Move Messages", "label" : "Move Messages", "screenshotPath" : "edison-move/S2/pngs/243.99999999999997_64.0_500.0_106.0.png"}
+{"name" : "New Mailbox", "label" : "New Mailbox", "screenshotPath" : "edison-move/S2/pngs/512.0_50.0_718.0_118.0.png"}
+{"name" : "email@example.com", "screenshotPath" : "edison-move/S2/pngs/0.0_128.0_750.0_216.0.png"}
+{"value" : "email@example.com", "name" : "email@example.com", "label" : "email@example.com", "screenshotPath" : "edison-move/S2/pngs/30.0_164.0_298.0_196.0.png"}
+{"value" : "Inbox", "name" : "Inbox", "label" : "Inbox", "screenshotPath" : "edison-move/S2/pngs/121.99999999999999_220.0_206.0_304.0.png"}
+{"value" : "Drafts", "name" : "Drafts", "label" : "Drafts", "screenshotPath" : "edison-move/S2/pngs/121.99999999999999_308.0_216.0_392.0.png"}
+{"value" : "Sent", "name" : "Sent", "label" : "Sent", "screenshotPath" : "edison-move/S2/pngs/121.99999999999999_396.0_192.0_480.0.png"}
+{"value" : "Important", "name" : "Important", "label" : "Important", "screenshotPath" : "edison-move/S2/pngs/121.99999999999999_484.0_272.0_568.0.png"}
+{"value" : "Flagged", "name" : "Flagged", "label" : "Flagged", "screenshotPath" : "edison-move/S2/pngs/121.99999999999999_572.0_246.0_656.0.png"}
+{"value" : "Spam", "name" : "Spam", "label" : "Spam", "screenshotPath" : "edison-move/S2/pngs/121.99999999999999_660.0_210.0_744.0.png"}
+{"value" : "Trash", "name" : "Trash", "label" : "Trash", "screenshotPath" : "edison-move/S2/pngs/121.99999999999999_748.0_208.0_832.0.png"}
+{"value" : "All Mail", "name" : "All Mail", "label" : "All Mail", "screenshotPath" : "edison-move/S2/pngs/121.99999999999999_835.9999999999999_232.0_919.9999999999999.png"}
+{"value" : "Newton", "name" : "Newton", "label" : "Newton", "screenshotPath" : "edison-move/S2/pngs/121.99999999999999_924.0_240.0_1008.0.png"}
+{"value" : "Doped", "name" : "Doped", "label" : "Doped", "screenshotPath" : "edison-move/S2/pngs/192.0_1012.0_294.0_1096.0.png"}
+{"value" : "Test", "name" : "Test", "label" : "Test", "screenshotPath" : "edison-move/S2/pngs/121.99999999999999_1100.0_188.0_1184.0.png"}
+{"value" : "low-priority", "name" : "low-priority", "label" : "low-priority", "screenshotPath" : "edison-move/S2/pngs/192.0_1188.0_368.0_1272.0.png"}

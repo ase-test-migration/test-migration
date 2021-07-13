@@ -1,0 +1,4 @@
+pathToElementImageCrop: cnn-manage/S2/pngs/846_549_918_657.png;
+coords: {'x1': 846, 'y1': 549, 'x2': 918, 'y2': 657};
+text_identifier: { "content-desc" : "Delete" , "resource-id" : "com.cnn.mobile.android.phone:id/deleteButton" };
+event: click;

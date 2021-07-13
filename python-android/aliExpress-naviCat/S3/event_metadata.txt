@@ -1,0 +1,6 @@
+pathToElementImageCrop: ;
+coords: ;
+text_identifier: { T-Shirts };
+event: oracle;
+oracle-type: text_exists;
+input: T-Shirts;

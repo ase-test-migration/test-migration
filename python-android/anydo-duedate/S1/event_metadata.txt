@@ -1,0 +1,4 @@
+pathToElementImageCrop: anydo-duedate/S1/pngs/132_437_278_499.png;
+coords: {'x1': 132, 'y1': 437, 'x2': 278, 'y2': 499};
+text_identifier: { "resource-id" : "com.anydo:id/title" };
+event: click;

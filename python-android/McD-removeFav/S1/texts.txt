@@ -1,0 +1,35 @@
+{ "resource-id" : "com.mcdonalds.app:id/content_view" , "screenshotPath" : "McD-removeFav/S1/pngs/0_74_1080_2287.png"}
+{ "resource-id" : "com.mcdonalds.app:id/page_root" , "screenshotPath" : "McD-removeFav/S1/pngs/0_74_1080_2214.png"}
+{ "resource-id" : "com.mcdonalds.app:id/page_content_holder" , "screenshotPath" : "McD-removeFav/S1/pngs/0_74_1080_2214.png"}
+{ "content-desc" : "Home tab 1 of 5" , "screenshotPath" : "McD-removeFav/S1/pngs/0_2214_216_2287.png"}
+{ "content-desc" : "Order tab 2 of 5" , "screenshotPath" : "McD-removeFav/S1/pngs/216_2214_432_2287.png"}
+{ "content-desc" : "Deals tab 3 of 5" , "screenshotPath" : "McD-removeFav/S1/pngs/432_2214_648_2287.png"}
+{ "content-desc" : "Recents tab 4 of 5" , "screenshotPath" : "McD-removeFav/S1/pngs/648_2214_864_2287.png"}
+{ "content-desc" : "More tab 5 of 5" , "screenshotPath" : "McD-removeFav/S1/pngs/864_2214_1080_2287.png"}
+{ "resource-id" : "com.mcdonalds.app:id/order_wall_header_title" , "screenshotPath" : "McD-removeFav/S1/pngs/69_155_552_254.png"}
+{ "content-desc" : "Search" , "resource-id" : "com.mcdonalds.app:id/order_wall_header_search_icon" , "screenshotPath" : "McD-removeFav/S1/pngs/942_175_997_230.png"}
+{ "resource-id" : "com.mcdonalds.app:id/new_address" , "screenshotPath" : "McD-removeFav/S1/pngs/207_451_691_502.png"}
+{ "resource-id" : "com.mcdonalds.app:id/new_pick_up_text" , "screenshotPath" : "McD-removeFav/S1/pngs/207_502_691_543.png"}
+{ "resource-id" : "com.mcdonalds.app:id/location_or_address_text" , "screenshotPath" : "McD-removeFav/S1/pngs/740_502_1013_550.png"}
+{ "resource-id" : "com.mcdonalds.app:id/radio_pickup" , "screenshotPath" : "McD-removeFav/S1/pngs/69_327_287_392.png"}
+{ "resource-id" : "com.mcdonalds.app:id/radio_mcDelivery" , "screenshotPath" : "McD-removeFav/S1/pngs/287_327_505_392.png"}
+{ "resource-id" : "com.mcdonalds.app:id/order_scroll_view" , "screenshotPath" : "McD-removeFav/S1/pngs/0_604_1080_2214.png"}
+{ "resource-id" : "com.mcdonalds.app:id/explore_our_menu" , "screenshotPath" : "McD-removeFav/S1/pngs/63_1334_1080_1385.png"}
+{ "resource-id" : "com.mcdonalds.app:id/categories_carousel" , "screenshotPath" : "McD-removeFav/S1/pngs/0_1427_1080_2136.png"}
+{ "resource-id" : "com.mcdonalds.app:id/quickly_reorder" , "screenshotPath" : "McD-removeFav/S1/pngs/63_622_837_707.png"}
+{ "resource-id" : "com.mcdonalds.app:id/view_all_recent_orders" , "screenshotPath" : "McD-removeFav/S1/pngs/837_653_1017_701.png"}
+{ "content-desc" : "Double Quarter Pounder with Cheese Meal and 2 other items ordered on 01/04/21 - 04:09 PM" , "screenshotPath" : "McD-removeFav/S1/pngs/0_731_1080_1005.png"}
+{ "content-desc" : "Big Mac and 1 other item ordered on 11/11/20 - 08:04 PM" , "screenshotPath" : "McD-removeFav/S1/pngs/0_1005_1080_1226.png"}
+{ "resource-id" : "com.mcdonalds.app:id/recent_order_parent_layout" , "screenshotPath" : "McD-removeFav/S1/pngs/63_734_1017_1005.png"}
+{ "resource-id" : "com.mcdonalds.app:id/recent_order_parent_layout" , "screenshotPath" : "McD-removeFav/S1/pngs/63_1008_1017_1226.png"}
+{ "resource-id" : "com.mcdonalds.app:id/category_title" , "screenshotPath" : "McD-removeFav/S1/pngs/63_1469_850_1554.png"}
+{ "resource-id" : "com.mcdonalds.app:id/fullMenuLayout" , "screenshotPath" : "McD-removeFav/S1/pngs/850_1487_1017_1535.png"}
+{ "resource-id" : "com.mcdonalds.app:id/category_list" , "screenshotPath" : "McD-removeFav/S1/pngs/63_1580_1080_2136.png"}
+{ "content-desc" : "Reorder Double Quarter Pounder with Cheese Meal and 2 other items ordered on 01/04/21 - 04:09 PM button" , "resource-id" : "com.mcdonalds.app:id/recent_order_reorder" , "screenshotPath" : "McD-removeFav/S1/pngs/796_820_991_916.png"}
+{ "content-desc" : "Reorder Big Mac and 1 other item ordered on 11/11/20 - 08:04 PM button" , "resource-id" : "com.mcdonalds.app:id/recent_order_reorder" , "screenshotPath" : "McD-removeFav/S1/pngs/796_1069_991_1165.png"}
+{ "resource-id" : "com.mcdonalds.app:id/carousel_tile_layout" , "screenshotPath" : "McD-removeFav/S1/pngs/63_1580_373_2050.png"}
+{ "resource-id" : "com.mcdonalds.app:id/carousel_tile_layout" , "screenshotPath" : "McD-removeFav/S1/pngs/373_1580_683_2136.png"}
+{ "resource-id" : "com.mcdonalds.app:id/carousel_tile_layout" , "screenshotPath" : "McD-removeFav/S1/pngs/683_1580_993_2093.png"}
+{ "resource-id" : "com.mcdonalds.app:id/carousel_tile_layout" , "screenshotPath" : "McD-removeFav/S1/pngs/993_1580_1080_2050.png"}
+{ "content-desc" : "View Details Double Quarter Pounder with Cheese Meal and 2 other items ordered on 01/04/21 - 04:09 PM Link" , "resource-id" : "com.mcdonalds.app:id/recent_order_details" , "screenshotPath" : "McD-removeFav/S1/pngs/218_916_404_973.png"}
+{ "content-desc" : "View Details Big Mac and 1 other item ordered on 11/11/20 - 08:04 PM Link" , "resource-id" : "com.mcdonalds.app:id/recent_order_details" , "screenshotPath" : "McD-removeFav/S1/pngs/218_1140_404_1197.png"}

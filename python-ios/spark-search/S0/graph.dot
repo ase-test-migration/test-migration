@@ -1,0 +1,86 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Spark\l|label = Spark\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 72\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/0.0_0.0_750.0_144.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 595\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/0.0_144.0_750.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 5\l|y = 22\l|width = 44\l|height = 50\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/10.0_44.0_98.0_144.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 54\l|y = 22\l|width = 223\l|height = 50\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/107.99999999999999_44.0_554.0_144.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 282\l|y = 22\l|width = 44\l|height = 50\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = true \l|screenshotPath = spark-search/S0/pngs/564.0_44.0_652.0_144.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 326\l|y = 22\l|width = 44\l|height = 50\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/652.0_44.0_740.0_144.0.png\l}"]
+	17	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 595\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/0.0_144.0_750.0_1334.0.png\l}"]
+	18	[label="{type = XCUIElementTypeButton\l|name = icon sidebar n\l|enabled = true\l|visible = true\l|x = 5\l|y = 22\l|width = 44\l|height = 50\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/10.0_44.0_98.0_144.0.png\l}"]
+	19	[label="{type = XCUIElementTypeStaticText\l|value = Smart Inbox\l|name = Smart Inbox\l|label = Smart Inbox\l|enabled = true\l|visible = true\l|x = 54\l|y = 37\l|width = 92\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/107.99999999999999_74.0_292.0_114.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|value = ON\l|name = smart-inbox-switch:mode-smart\l|enabled = true\l|visible = true\l|x = 162\l|y = 36\l|width = 40\l|height = 22\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/324.0_72.0_404.0_116.0.png\l}"]
+	21	[label="{type = XCUIElementTypeButton\l|name = search_button\l|label = 8F6FDF2B F777 4407 A809 DF1B01\l|enabled = true\l|visible = true\l|x = 282\l|y = 22\l|width = 44\l|height = 50\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = spark-search/S0/pngs/564.0_44.0_652.0_144.0.png\l}"]
+	22	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 326\l|y = 22\l|width = 44\l|height = 50\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/652.0_44.0_740.0_144.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 240\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/0.0_144.0_750.0_624.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 1 page\l|label = Vertical scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 342\l|y = 72\l|width = 30\l|height = 595\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/684.0_144.0_744.0_1334.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 634\l|width = 375\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/0.0_1268.0_750.0_1328.0.png\l}"]
+	26	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 162\l|y = 36\l|width = 40\l|height = 22\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/324.0_72.0_404.0_116.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/0.0_144.0_750.0_232.0.png\l}"]
+	28	[label="{type = XCUIElementTypeCell\l|value = unseen & unpinned & noAttachment & gmailMessageId:1691702198022442611 & 2021-02-14 & 21:02 & to:Test Test <email@example.com> & shortBody:Sent from Yahoo Mail for iPhone\l|name = Testing 1 search term\l|enabled = true\l|visible = true\l|x = 0\l|y = 116\l|width = 375\l|height = 88\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/0.0_232.0_750.0_408.0.png\l}"]
+	29	[label="{type = XCUIElementTypeCell\l|value = unseen & unpinned & noAttachment & gmailMessageId:1691683343876233184 & 2021-02-14 & 16:02 & to:Some User <email@example.com> & shortBody:\l|name = Something else\l|enabled = true\l|visible = true\l|x = 0\l|y = 204\l|width = 375\l|height = 88\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/0.0_408.0_750.0_584.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 162\l|y = 36\l|width = 40\l|height = 22\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/324.0_72.0_404.0_116.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/0.0_144.0_750.0_232.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 203\l|width = 367\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/16.0_406.0_750.0_408.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 291\l|width = 367\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/16.0_582.0_750.0_584.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 3\l|y = 72\l|width = 28\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/6.0_144.0_62.00000000000001_232.0.png\l}"]
+	35	[label="{type = XCUIElementTypeButton\l|name = cardActionView-People\l|enabled = true\l|visible = true\l|x = 326\l|y = 72\l|width = 44\l|height = 44\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/652.0_144.0_740.0_232.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|name = cardHeader-People\l|enabled = true\l|visible = true\l|x = 31\l|y = 86\l|width = 303\l|height = 16\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/62.0_172.00000000000003_668.0_204.00000000000003.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 32\l|y = 115\l|width = 331\l|height = 1\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/64.0_230.00000000000003_726.0_232.00000000000003.png\l}"]
+	38	[label="{type = XCUIElementTypeStaticText\l|value = People\l|name = People\l|label = People\l|enabled = true\l|visible = true\l|x = 31\l|y = 86\l|width = 303\l|height = 16\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = spark-search/S0/pngs/62.0_172.00000000000003_668.0_204.00000000000003.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	8 -> 9
+	9 -> 10
+	10 -> 11
+	10 -> 12
+	11 -> 13
+	11 -> 14
+	11 -> 15
+	11 -> 16
+	12 -> 17
+	13 -> 18
+	14 -> 19
+	14 -> 20
+	15 -> 21
+	16 -> 22
+	17 -> 23
+	17 -> 24
+	17 -> 25
+	20 -> 26
+	23 -> 27
+	23 -> 28
+	23 -> 29
+	26 -> 30
+	27 -> 31
+	28 -> 32
+	29 -> 33
+	31 -> 34
+	31 -> 35
+	31 -> 36
+	31 -> 37
+	36 -> 38
+
+
+}

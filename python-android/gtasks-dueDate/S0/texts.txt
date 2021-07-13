@@ -1,0 +1,6 @@
+{ "content-desc" : "Create new task" , "resource-id" : "com.google.android.apps.tasks:id/tasks_fab" , "screenshotPath" : "gtasks-dueDate/S0/pngs/463_1884_617_1977.png"}
+{ "content-desc" : "Switch task lists or account" , "screenshotPath" : "gtasks-dueDate/S0/pngs/0_1994_154_2148.png"}
+{ "content-desc" : "More options" , "resource-id" : "com.google.android.apps.tasks:id/action_more_options" , "screenshotPath" : "gtasks-dueDate/S0/pngs/948_2005_1080_2137.png"}
+{ "resource-id" : "com.google.android.apps.tasks:id/tasks_list" , "screenshotPath" : "gtasks-dueDate/S0/pngs/0_171_1080_1977.png"}
+{ "content-desc" : "test" , "resource-id" : "com.google.android.apps.tasks:id/task_item_layout" , "screenshotPath" : "gtasks-dueDate/S0/pngs/0_386_1080_527.png"}
+{ "content-desc" : "Mark as complete" , "resource-id" : "com.google.android.apps.tasks:id/tasks_item_completed_check" , "screenshotPath" : "gtasks-dueDate/S0/pngs/66_421_132_487.png"}

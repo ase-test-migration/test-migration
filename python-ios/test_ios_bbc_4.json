@@ -1,0 +1,87 @@
+{
+    "tests": [
+        {
+            "name": "bbc-my-news",
+            "events": [
+                {
+                    "tag": "My News", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "//XCUIElementTypeButton[@name=\"OK, let's get started\"]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "(//XCUIElementTypeCell[@name=\"bbcn-follow-topic-table-view-cell\"])[7]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "(//XCUIElementTypeCell[@name=\"bbcn-follow-topic-table-view-cell\"])[7]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "My Topics", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "(//XCUIElementTypeStaticText[@name=\"bn-follow-table-cell-label\"])[1]", 
+                    "type": "xPath", 
+                    "event": "oracle",
+                    "oracle-type": "widget_exists"
+                }, 
+                {
+                    "tag": "(//XCUIElementTypeStaticText[@name=\"bn-follow-table-cell-label\"])[2]", 
+                    "type": "xPath", 
+                    "event": "oracle",
+                    "oracle-type": "widget_exists"
+                }, 
+                {
+                    "tag": "Delete Coronavirus", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Delete", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Delete Sarah Everard case",
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Delete", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                },
+                {
+                    "tag": "(//XCUIElementTypeStaticText[@name=\"bn-follow-table-cell-label\"])[1]",
+                    "type": "xPath",
+                    "event": "oracle",
+                    "oracle-type": "element_invisible"
+                },
+                {
+                    "tag": "(//XCUIElementTypeStaticText[@name=\"bn-follow-table-cell-label\"])[2]",
+                    "type": "xPath",
+                    "event": "oracle",
+                    "oracle-type": "element_invisible"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "14.3", 
+        "platformName": "iOS"
+    }
+}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: bbc-bookmark/S0/pngs/44_1051_1036_1203.png;
+coords: {'x1': 44, 'y1': 1051, 'x2': 1036, 'y2': 1203};
+text_identifier: { "resource-id" : "bbc.mobile.news.ww:id/content_card_title" };
+event: click;

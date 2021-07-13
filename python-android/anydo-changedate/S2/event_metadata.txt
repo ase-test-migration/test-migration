@@ -1,0 +1,4 @@
+pathToElementImageCrop: anydo-changedate/S2/pngs/126_386_1032_499.png;
+coords: {'x1': 126, 'y1': 386, 'x2': 1032, 'y2': 499};
+text_identifier: { "resource-id" : "com.anydo:id/titleAndStrikethrough" };
+event: click;

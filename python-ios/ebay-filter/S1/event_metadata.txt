@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-filter/S1/pngs/24.0_236.0_726.0_332.0.png;
+coords: {'x1': 24.0, 'y1': 236.0, 'x2': 726.0, 'y2': 332.0};
+text_identifier: { "label" : "xiaomi thermometer, in Weather Stations" };
+event: click;

@@ -1,0 +1,4 @@
+pathToElementImageCrop: etsy-add-midle/S2/pngs/48_781_1032_925.png;
+coords: {'x1': 48, 'y1': 781, 'x2': 1032, 'y2': 925};
+text_identifier: { "resource-id" : "com.etsy.android:id/redesigned_variation_selector_1_container" , "resource-id" : "com.etsy.android:id/redesigned_variation_selector_1" };
+event: click;

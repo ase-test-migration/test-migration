@@ -1,0 +1,30 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "duckduckgo-search",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.duckduckgo.mobile.android:id/omnibarTextInput"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys",
+                    "tag": "com.duckduckgo.mobile.android:id/omnibarTextInput",
+                    "input": "chess.com"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Solve Chess Puzzles"
+                }
+            ]
+        }
+    ]
+}

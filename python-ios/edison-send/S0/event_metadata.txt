@@ -1,0 +1,4 @@
+pathToElementImageCrop: edison-send/S0/pngs/582.0_1166.0_742.0_1326.0.png;
+coords: {'x1': 582.0, 'y1': 1166.0, 'x2': 742.0, 'y2': 1326.0};
+text_identifier: { "label" : "compose button" };
+event: click;

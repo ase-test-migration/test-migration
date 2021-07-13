@@ -1,0 +1,4 @@
+pathToElementImageCrop: gTask-delTask/S1/pngs/638.0_40.0_750.0_152.0.png;
+coords: {'x1': 638.0, 'y1': 40.0, 'x2': 750.0, 'y2': 152.0};
+text_identifier: { "name" : "Delete" };
+event: click;

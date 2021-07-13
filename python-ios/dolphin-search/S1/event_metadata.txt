@@ -1,0 +1,5 @@
+pathToElementImageCrop: dolphin-search/S1/pngs/34.0_52.0_616.0_116.0.png;
+coords: {'x1': 34.0, 'y1': 52.0, 'x2': 616.0, 'y2': 116.0};
+text_identifier: {  };
+event: send_keys_enter;
+input: google.com;

@@ -1,0 +1,50 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "dolphin-bookmark",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "mobi.mgeek.TunnyBrowser:id/search_bg_view"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys_enter",
+                    "tag": "mobi.mgeek.TunnyBrowser:id/search_input",
+                    "input": "google.com"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.RelativeLayout/android.widget.FrameLayout[1]/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.FrameLayout[1]/android.widget.ImageView"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "mobi.mgeek.TunnyBrowser:id/add_bookmark"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "mobi.mgeek.TunnyBrowser:id/OK"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.support.v4.widget.DrawerLayout/android.widget.RelativeLayout/android.widget.FrameLayout[1]/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.RelativeLayout/android.widget.LinearLayout/android.widget.FrameLayout[1]/android.widget.ImageView"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Google"
+                }
+            ]
+        }
+    ]
+}

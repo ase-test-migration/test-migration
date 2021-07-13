@@ -1,0 +1,4 @@
+pathToElementImageCrop: usa-bookmark/S1/pngs/574.0_70.0_634.0_130.0.png;
+coords: {'x1': 574.0, 'y1': 70.0, 'x2': 634.0, 'y2': 130.0};
+text_identifier: { "label" : "Save" };
+event: click;

@@ -1,0 +1,9 @@
+{ "resource-id" : "com.etsy.android:id/app_bar_toolbar" , "screenshotPath" : "etsy-login/S0/pngs/0_74_1080_221.png"}
+{ "content-desc" : "Home tab, 1 of 4" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_home" , "screenshotPath" : "etsy-login/S0/pngs/0_2214_270_2287.png"}
+{ "content-desc" : "Favorites tab, 2 of 4" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_favorites" , "screenshotPath" : "etsy-login/S0/pngs/270_2214_540_2287.png"}
+{ "content-desc" : "You tab, 3 of 4" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_you" , "screenshotPath" : "etsy-login/S0/pngs/540_2214_810_2287.png"}
+{ "content-desc" : "Cart tab, 4 of 4" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_cart" , "screenshotPath" : "etsy-login/S0/pngs/810_2214_1080_2287.png"}
+{ "content-desc" : "Search for anything on Etsy" , "screenshotPath" : "etsy-login/S0/pngs/0_74_147_221.png"}
+{ "resource-id" : "com.etsy.android:id/view_pager" , "screenshotPath" : "etsy-login/S0/pngs/0_221_1080_2214.png"}
+{ "resource-id" : "com.etsy.android:id/signin_btn_link" , "screenshotPath" : "etsy-login/S0/pngs/372_1503_708_1629.png"}
+{ "resource-id" : "com.etsy.android:id/search_src_text" , "screenshotPath" : "etsy-login/S0/pngs/147_99_1080_194.png"}

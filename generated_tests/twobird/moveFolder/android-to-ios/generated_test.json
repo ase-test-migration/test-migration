@@ -1,0 +1,7 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "twobird-moveFolder",
+        "events": []
+    }
+}

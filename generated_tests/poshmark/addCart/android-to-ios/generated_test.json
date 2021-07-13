@@ -1,0 +1,13 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "poshmark-addCart",
+        "events": [
+            {
+                "type": "name",
+                "tag": "feedTab",
+                "event": "click"
+            }
+        ]
+    }
+}

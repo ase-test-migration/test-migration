@@ -1,0 +1,4 @@
+pathToElementImageCrop: sample/S0/pngs/681.0_315.0_873.0_375.0.png;
+coords: {'x1': 681.0, 'y1': 315.0, 'x2': 873.0, 'y2': 375.0};
+text_identifier: { "name" : "Business" };
+event: click;

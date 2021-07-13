@@ -1,0 +1,4 @@
+pathToElementImageCrop: spark-delete/S2/pngs/586_1315_751_1480.png;
+coords: {'x1': 586, 'y1': 1315, 'x2': 751, 'y2': 1480};
+text_identifier: { "resource-id" : "com.readdle.spark:id/thread_action_icon" };
+event: click;

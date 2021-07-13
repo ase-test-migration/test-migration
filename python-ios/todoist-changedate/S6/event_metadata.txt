@@ -1,0 +1,4 @@
+pathToElementImageCrop: todoist-changedate/S6/pngs/159.00000000000003_1614.0_1071.0_1674.0.png;
+coords: {'x1': 159.00000000000003, 'y1': 1614.0, 'x2': 1071.0, 'y2': 1674.0};
+text_identifier: { "label" : "Next Week" };
+event: click;

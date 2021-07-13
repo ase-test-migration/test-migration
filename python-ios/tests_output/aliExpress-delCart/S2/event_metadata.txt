@@ -1,0 +1,4 @@
+pathToElementImageCrop: aliExpress-delCart/S2/pngs/664.0_74.0_722.0_130.0.png;
+coords: {'x1': 664.0, 'y1': 74.0, 'x2': 722.0, 'y2': 130.0};
+text_identifier: { "label" : "cart_delete" };
+event: click;

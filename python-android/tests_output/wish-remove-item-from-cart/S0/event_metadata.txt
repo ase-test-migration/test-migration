@@ -1,0 +1,4 @@
+pathToElementImageCrop: wish-remove-item-from-cart/S0/pngs/767_103_912_208.png;
+coords: {'x1': 767, 'y1': 103, 'x2': 912, 'y2': 208};
+text_identifier: { "resource-id" : "com.contextlogic.wish:id/action_id_show_cart" };
+event: click;

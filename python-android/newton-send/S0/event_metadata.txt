@@ -1,0 +1,4 @@
+pathToElementImageCrop: newton-send/S0/pngs/900_2003_1043_2146.png;
+coords: {'x1': 900, 'y1': 2003, 'x2': 1043, 'y2': 2146};
+text_identifier: { "resource-id" : "com.cloudmagic.mail:id/compose_button" };
+event: click;

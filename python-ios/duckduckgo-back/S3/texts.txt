@@ -1,0 +1,58 @@
+{"name" : "DuckDuckGo", "label" : "DuckDuckGo", "screenshotPath" : "duckduckgo-back/S3/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "Cancel", "label" : "Cancel", "screenshotPath" : "duckduckgo-back/S3/pngs/594.0_68.0_722.0_116.0.png"}
+{"name" : "q", "label" : "q", "screenshotPath" : "duckduckgo-back/S3/pngs/0.0_916.0_76.0_1008.0.png"}
+{"name" : "w", "label" : "w", "screenshotPath" : "duckduckgo-back/S3/pngs/74.0_916.0_150.0_1008.0.png"}
+{"name" : "e", "label" : "e", "screenshotPath" : "duckduckgo-back/S3/pngs/150.0_916.0_226.0_1008.0.png"}
+{"name" : "r", "label" : "r", "screenshotPath" : "duckduckgo-back/S3/pngs/224.00000000000003_916.0_300.0_1008.0.png"}
+{"name" : "t", "label" : "t", "screenshotPath" : "duckduckgo-back/S3/pngs/300.0_916.0_376.0_1008.0.png"}
+{"name" : "y", "label" : "y", "screenshotPath" : "duckduckgo-back/S3/pngs/374.0_916.0_450.0_1008.0.png"}
+{"name" : "u", "label" : "u", "screenshotPath" : "duckduckgo-back/S3/pngs/450.0_916.0_526.0_1008.0.png"}
+{"name" : "i", "label" : "i", "screenshotPath" : "duckduckgo-back/S3/pngs/524.0_916.0_600.0_1008.0.png"}
+{"name" : "o", "label" : "o", "screenshotPath" : "duckduckgo-back/S3/pngs/600.0_916.0_676.0_1008.0.png"}
+{"name" : "p", "label" : "p", "screenshotPath" : "duckduckgo-back/S3/pngs/674.0_916.0_750.0_1008.0.png"}
+{"name" : "a", "label" : "a", "screenshotPath" : "duckduckgo-back/S3/pngs/36.0_1024.0_112.0_1116.0.png"}
+{"name" : "s", "label" : "s", "screenshotPath" : "duckduckgo-back/S3/pngs/112.00000000000001_1024.0_188.0_1116.0.png"}
+{"name" : "d", "label" : "d", "screenshotPath" : "duckduckgo-back/S3/pngs/186.0_1024.0_262.0_1116.0.png"}
+{"name" : "f", "label" : "f", "screenshotPath" : "duckduckgo-back/S3/pngs/262.0_1024.0_338.0_1116.0.png"}
+{"name" : "g", "label" : "g", "screenshotPath" : "duckduckgo-back/S3/pngs/338.0_1024.0_414.0_1116.0.png"}
+{"name" : "h", "label" : "h", "screenshotPath" : "duckduckgo-back/S3/pngs/412.0_1024.0_488.0_1116.0.png"}
+{"name" : "j", "label" : "j", "screenshotPath" : "duckduckgo-back/S3/pngs/487.99999999999994_1024.0_564.0_1116.0.png"}
+{"name" : "k", "label" : "k", "screenshotPath" : "duckduckgo-back/S3/pngs/562.0_1024.0_638.0_1116.0.png"}
+{"name" : "l", "label" : "l", "screenshotPath" : "duckduckgo-back/S3/pngs/638.0_1024.0_714.0_1116.0.png"}
+{"name" : "shift", "label" : "shift", "screenshotPath" : "duckduckgo-back/S3/pngs/0.0_1132.0_96.0_1224.0.png"}
+{"name" : "z", "label" : "z", "screenshotPath" : "duckduckgo-back/S3/pngs/112.00000000000001_1132.0_188.0_1224.0.png"}
+{"name" : "x", "label" : "x", "screenshotPath" : "duckduckgo-back/S3/pngs/186.0_1132.0_262.0_1224.0.png"}
+{"name" : "c", "label" : "c", "screenshotPath" : "duckduckgo-back/S3/pngs/262.0_1132.0_338.0_1224.0.png"}
+{"name" : "v", "label" : "v", "screenshotPath" : "duckduckgo-back/S3/pngs/338.0_1132.0_414.0_1224.0.png"}
+{"name" : "b", "label" : "b", "screenshotPath" : "duckduckgo-back/S3/pngs/412.0_1132.0_488.0_1224.0.png"}
+{"name" : "n", "label" : "n", "screenshotPath" : "duckduckgo-back/S3/pngs/487.99999999999994_1132.0_564.0_1224.0.png"}
+{"name" : "m", "label" : "m", "screenshotPath" : "duckduckgo-back/S3/pngs/562.0_1132.0_638.0_1224.0.png"}
+{"name" : "delete", "label" : "delete", "screenshotPath" : "duckduckgo-back/S3/pngs/654.0_1132.0_750.0_1224.0.png"}
+{"name" : "more", "label" : "numbers", "screenshotPath" : "duckduckgo-back/S3/pngs/0.0_1240.0_94.0_1332.0.png"}
+{"name" : "Emoji", "label" : "Emoji", "screenshotPath" : "duckduckgo-back/S3/pngs/92.0_1240.0_188.0_1332.0.png"}
+{"name" : "dictation", "label" : "Dictate", "screenshotPath" : "duckduckgo-back/S3/pngs/186.0_1240.0_262.0_1332.0.png"}
+{"name" : "space", "label" : "space", "screenshotPath" : "duckduckgo-back/S3/pngs/262.0_1240.0_536.0_1332.0.png"}
+{"name" : ".", "label" : ".", "screenshotPath" : "duckduckgo-back/S3/pngs/534.0_1240.0_610.0_1332.0.png"}
+{"name" : "Go", "label" : "go", "screenshotPath" : "duckduckgo-back/S3/pngs/610.0_1240.0_750.0_1332.0.png"}
+{"name" : "Clear Text", "label" : "Clear Text", "screenshotPath" : "duckduckgo-back/S3/pngs/493.99999999999994_52.0_554.0_132.0.png"}
+{"value" : "Cancel", "name" : "Cancel", "label" : "Cancel", "screenshotPath" : "duckduckgo-back/S3/pngs/606.0_74.0_710.0_110.0.png"}
+{"value" : "https://www.google.com/", "name" : "searchEntry", "screenshotPath" : "duckduckgo-back/S3/pngs/88.0_52.0_494.0_132.0.png"}
+{"value" : "0%", "name" : "Vertical scroll bar, 2 pages", "label" : "Vertical scroll bar, 2 pages", "screenshotPath" : "duckduckgo-back/S3/pngs/684.0_144.0_744.0_1236.0.png"}
+{"name" : "Google", "label" : "Google", "screenshotPath" : "duckduckgo-back/S3/pngs/0.0_144.0_750.0_1418.0.png"}
+{"name" : "banner", "label" : "banner", "screenshotPath" : "duckduckgo-back/S3/pngs/0.0_144.0_750.0_248.0.png"}
+{"name" : "search", "label" : "search", "screenshotPath" : "duckduckgo-back/S3/pngs/16.0_532.0_734.0_612.0.png"}
+{"name" : "Главни мени", "label" : "Главни мени", "screenshotPath" : "duckduckgo-back/S3/pngs/0.0_144.0_112.00000000000001_248.0.png"}
+{"name" : "СЛИКЕ", "label" : "СЛИКЕ", "screenshotPath" : "duckduckgo-back/S3/pngs/226.0_176.0_314.0_206.0.png"}
+{"name" : "Google", "label" : "Google", "screenshotPath" : "duckduckgo-back/S3/pngs/214.0_368.0_536.0_480.0.png"}
+{"name" : "Google претрага", "label" : "Google претрага", "screenshotPath" : "duckduckgo-back/S3/pngs/22.0_538.0_86.0_606.0.png"}
+{"name" : "Тражи", "label" : "Тражи", "screenshotPath" : "duckduckgo-back/S3/pngs/84.0_548.0_642.0_598.0.png"}
+{"value" : "СВЕ", "name" : "СВЕ", "label" : "СВЕ", "screenshotPath" : "duckduckgo-back/S3/pngs/128.0_176.0_180.0_206.0.png"}
+{"value" : "СЛИКЕ", "name" : "СЛИКЕ", "label" : "СЛИКЕ", "screenshotPath" : "duckduckgo-back/S3/pngs/226.0_176.0_314.0_206.0.png"}
+{"name" : "Пријавите се", "label" : "Пријавите се", "screenshotPath" : "duckduckgo-back/S3/pngs/514.0_172.00000000000003_694.0_210.00000000000003.png"}
+{"value" : "Google се нуди на:", "name" : "Google се нуди на:", "label" : "Google се нуди на:", "screenshotPath" : "duckduckgo-back/S3/pngs/144.0_672.0_374.0_704.0.png"}
+{"name" : "srpski", "label" : "srpski", "screenshotPath" : "duckduckgo-back/S3/pngs/396.0_672.0_466.0_704.0.png"}
+{"name" : "English", "label" : "English", "screenshotPath" : "duckduckgo-back/S3/pngs/504.00000000000006_672.0_590.0_704.0.png"}
+{"name" : "Google апликације", "label" : "Google апликације", "screenshotPath" : "duckduckgo-back/S3/pngs/378.0_152.0_460.0_232.0.png"}
+{"value" : "Пријавите се", "name" : "Пријавите се", "label" : "Пријавите се", "screenshotPath" : "duckduckgo-back/S3/pngs/514.0_172.00000000000003_694.0_210.00000000000003.png"}
+{"value" : "srpski", "name" : "srpski", "label" : "srpski", "screenshotPath" : "duckduckgo-back/S3/pngs/396.0_672.0_466.0_704.0.png"}
+{"value" : "nglish", "name" : "English", "label" : "English", "screenshotPath" : "duckduckgo-back/S3/pngs/504.00000000000006_672.0_590.0_704.0.png"}

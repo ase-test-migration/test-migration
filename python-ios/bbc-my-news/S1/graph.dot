@@ -1,0 +1,70 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = BBC News\l|label = BBC News\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeTabBar\l|enabled = true\l|visible = true\l|x = 0\l|y = 813\l|width = 414\l|height = 83\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/0.0_2439.0_1242.0_2688.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	8	[label="{type = XCUIElementTypeButton\l|name = Top Stories\l|label = Top Stories\l|enabled = true\l|visible = true\l|x = 2\l|y = 814\l|width = 80\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/6.0_2442.0_246.0_2586.0.png\l}"]
+	9	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = My News\l|label = My News\l|enabled = true\l|visible = true\l|x = 85\l|y = 814\l|width = 80\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/255.0_2442.0_495.0_2586.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|name = Popular\l|label = Popular\l|enabled = true\l|visible = true\l|x = 168\l|y = 814\l|width = 78\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/504.00000000000006_2442.0_738.0_2586.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|name = Video\l|label = Video\l|enabled = true\l|visible = true\l|x = 249\l|y = 814\l|width = 80\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/747.0_2442.0_987.0_2586.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|name = Search\l|label = Search\l|enabled = true\l|visible = true\l|x = 332\l|y = 814\l|width = 80\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/996.0_2442.0_1236.0_2586.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	14	[label="{type = XCUIElementTypeNavigationBar\l|name = bn-navigation-bar\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 44\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/0.0_132.0_1242.0_264.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	16	[label="{type = XCUIElementTypeButton\l|name = bn-navigation-menu-button\l|label = Menu\l|enabled = true\l|visible = true\l|x = 12\l|y = 44\l|width = 54\l|height = 44\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/36.0_132.0_198.0_264.0.png\l}"]
+	17	[label="{type = XCUIElementTypeStaticText\l|value = My News\l|name = My News\l|label = My News\l|enabled = true\l|visible = true\l|x = 170\l|y = 54\l|width = 74\l|height = 24\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/510.0_162.0_732.0_234.0.png\l}"]
+	18	[label="{type = XCUIElementTypeButton\l|name = Edit My News\l|label = Edit My News\l|enabled = true\l|visible = true\l|x = 364\l|y = 44\l|width = 38\l|height = 44\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/1092.0_132.0_1206.0_264.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|name = bn-ribbon-view-controller\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	21	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 1 page\l|label = Vertical scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 381\l|y = 88\l|width = 30\l|height = 725\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/1143.0_264.0_1233.0_2439.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 31\l|y = 780\l|width = 352\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/93.0_2340.0_1149.0_2430.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|name = bn-my-news-empty-view\l|enabled = true\l|visible = true\l|x = 0\l|y = 132\l|width = 414\l|height = 764\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/0.0_396.0_1242.0_2688.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 192\l|width = 414\l|height = 218\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/0.0_576.0_1242.0_1230.0.png\l}"]
+	27	[label="{type = XCUIElementTypeStaticText\l|value = Add topics to create your own personal news feed\l|name = Add topics to create your own personal news feed\l|label = Add topics to create your own personal news feed\l|enabled = true\l|visible = true\l|x = 44\l|y = 192\l|width = 324\l|height = 57\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/132.0_576.0_1104.0_747.0.png\l}"]
+	28	[label="{type = XCUIElementTypeStaticText\l|value = All the latest stories from your topics will appear here.\l|name = All the latest stories from your topics will appear here.\l|label = All the latest stories from your topics will appear here.\l|enabled = true\l|visible = true\l|x = 45\l|y = 283\l|width = 324\l|height = 46\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/135.0_849.0_1107.0_987.0.png\l}"]
+	29	[label="{type = XCUIElementTypeButton\l|name = OK, let's get started\l|label = OK, let's get started\l|enabled = true\l|visible = true\l|x = 25\l|y = 363\l|width = 365\l|height = 47\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = true \l|screenshotPath = bbc-my-news/S1/pngs/75.0_1089.0_1170.0_1230.0.png\l}"]
+	30	[label="{type = XCUIElementTypeStaticText\l|value = OK, let's get started\l|name = OK, let's get started\l|label = OK, let's get started\l|enabled = true\l|visible = true\l|x = 102\l|y = 373\l|width = 191\l|height = 27\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-my-news/S1/pngs/306.0_1119.0_879.0_1200.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	5 -> 7
+	6 -> 8
+	6 -> 9
+	6 -> 10
+	6 -> 11
+	6 -> 12
+	7 -> 13
+	13 -> 14
+	13 -> 15
+	14 -> 16
+	14 -> 17
+	14 -> 18
+	15 -> 19
+	19 -> 20
+	20 -> 21
+	21 -> 22
+	21 -> 23
+	21 -> 24
+	22 -> 25
+	25 -> 26
+	26 -> 27
+	26 -> 28
+	26 -> 29
+	29 -> 30
+
+
+}

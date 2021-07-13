@@ -1,0 +1,5 @@
+pathToElementImageCrop: usa-mynews/S7/pngs/60.0_333.0_884.9999999999999_432.0.png;
+coords: {'x1': 60.0, 'y1': 333.0, 'x2': 884.9999999999999, 'y2': 432.0};
+text_identifier: { "label" : "Go to articles about Coronavirus COVID-19" };
+event: oracle;
+oracle-type: element_invisible;

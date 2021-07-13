@@ -1,0 +1,136 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = CNN\l|label = CNN\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 404\l|height = 363\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_0.0_807.9999999999999_726.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeTabBar\l|name = Tab Bar\l|label = Tab Bar\l|enabled = true\l|visible = true\l|x = 0\l|y = 618\l|width = 375\l|height = 49\l|index = 1\l|numberOfChildren = 4\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_1236.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = Home\l|label = Home\l|enabled = true\l|visible = true\l|x = 2\l|y = 619\l|width = 90\l|height = 48\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/4.0_1238.0_184.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeButton\l|name = Search\l|label = Search\l|enabled = true\l|visible = true\l|x = 96\l|y = 619\l|width = 90\l|height = 48\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/192.0_1238.0_372.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeButton\l|name = Saved Stories\l|label = Saved Stories\l|enabled = true\l|visible = true\l|x = 190\l|y = 619\l|width = 89\l|height = 48\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/380.00000000000006_1238.0_558.0_1334.0.png\l}"]
+	15	[label="{type = XCUIElementTypeButton\l|name = Settings\l|label = Settings\l|enabled = true\l|visible = true\l|x = 283\l|y = 619\l|width = 90\l|height = 48\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/566.0_1238.0_746.0_1334.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	17	[label="{type = XCUIElementTypeNavigationBar\l|name = Selected Feed: Top News\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	19	[label="{type = XCUIElementTypeImage\l|name = Selected Feed: Top News\l|label = Selected Feed: Top News\l|enabled = true\l|visible = true\l|x = 157\l|y = 20\l|width = 61\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/314.0_40.0_436.0_128.0.png\l}"]
+	20	[label="{type = XCUIElementTypeButton\l|name = Watch TV\l|label = Watch TV\l|enabled = true\l|visible = true\l|x = 291\l|y = 20\l|width = 76\l|height = 44\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/582.0_40.0_734.0_128.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 554\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_128.0_750.0_1236.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 54\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_128.0_750.0_236.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 118\l|width = 375\l|height = 500\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_236.0_750.0_1236.0.png\l}"]
+	25	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 54\l|index = 0\l|numberOfChildren = 11\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_128.0_750.0_236.0.png\l}"]
+	26	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 118\l|width = 375\l|height = 500\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_236.0_750.0_1236.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 64\l|width = 86\l|height = 54\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/16.0_128.0_188.0_236.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 93\l|y = 64\l|width = 58\l|height = 54\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/186.0_128.0_302.0_236.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 151\l|y = 64\l|width = 69\l|height = 54\l|index = 2\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/302.0_128.0_440.0_236.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 219\l|y = 64\l|width = 82\l|height = 54\l|index = 3\l|numberOfChildren = 2\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/438.0_128.0_602.0_236.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 300\l|y = 64\l|width = 64\l|height = 54\l|index = 4\l|numberOfChildren = 2\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/600.0_128.0_728.0_236.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 364\l|y = 64\l|width = 52\l|height = 54\l|index = 5\l|numberOfChildren = 2\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/728.0_128.0_832.0_236.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 118\l|width = 375\l|height = 500\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_236.0_750.0_1236.0.png\l}"]
+	34	[label="{type = XCUIElementTypeStaticText\l|value = Top News\l|name = Top News\l|label = Top News\l|enabled = true\l|visible = true\l|x = 16\l|y = 81\l|width = 70\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/32.0_162.0_172.0_202.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 115\l|width = 70\l|height = 3\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/32.0_230.00000000000003_172.0_236.00000000000003.png\l}"]
+	36	[label="{type = XCUIElementTypeStaticText\l|value = World\l|name = World\l|label = World\l|enabled = true\l|visible = true\l|x = 102\l|y = 81\l|width = 41\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/204.00000000000003_162.0_286.0_202.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 101\l|y = 115\l|width = 42\l|height = 3\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/201.99999999999997_230.00000000000003_286.0_236.00000000000003.png\l}"]
+	38	[label="{type = XCUIElementTypeStaticText\l|value = Politics\l|name = Politics\l|label = Politics\l|enabled = true\l|visible = true\l|x = 160\l|y = 81\l|width = 51\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/320.0_162.0_422.0_202.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 159\l|y = 115\l|width = 53\l|height = 3\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/318.0_230.00000000000003_424.0_236.00000000000003.png\l}"]
+	40	[label="{type = XCUIElementTypeStaticText\l|value = Business\l|name = Business\l|label = Business\l|enabled = true\l|visible = true\l|x = 228\l|y = 81\l|width = 64\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/456.0_162.0_584.0_202.0.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 227\l|y = 115\l|width = 66\l|height = 3\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/453.99999999999994_230.00000000000003_586.0_236.00000000000003.png\l}"]
+	42	[label="{type = XCUIElementTypeStaticText\l|value = Health\l|name = Health\l|label = Health\l|enabled = true\l|visible = true\l|x = 309\l|y = 81\l|width = 47\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/618.0_162.0_712.0_202.0.png\l}"]
+	43	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 308\l|y = 115\l|width = 48\l|height = 3\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/616.0_230.00000000000003_712.0_236.00000000000003.png\l}"]
+	44	[label="{type = XCUIElementTypeStaticText\l|value = Style\l|name = Style\l|label = Style\l|enabled = true\l|visible = true\l|x = 372\l|y = 81\l|width = 35\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/744.0_162.0_814.0_202.0.png\l}"]
+	45	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 372\l|y = 115\l|width = 36\l|height = 3\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/744.0_230.00000000000003_816.0_236.00000000000003.png\l}"]
+	46	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 118\l|width = 375\l|height = 500\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_236.0_750.0_1236.0.png\l}"]
+	47	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 118\l|width = 375\l|height = 500\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_236.0_750.0_1236.0.png\l}"]
+	48	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 118\l|width = 375\l|height = 720\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_236.0_750.0_1676.0.png\l}"]
+	49	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 34 pages\l|label = Vertical scroll bar, 34 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 118\l|width = 30\l|height = 500\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/684.0_236.0_744.0_1236.0.png\l}"]
+	50	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 585\l|width = 375\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_1170.0_750.0_1230.0.png\l}"]
+	51	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 118\l|width = 375\l|height = 720\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_236.0_750.0_1676.0.png\l}"]
+	52	[label="{type = XCUIElementTypeOther\l|enabled = false\l|visible = true\l|x = 0\l|y = 118\l|width = 375\l|height = 720\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_236.0_750.0_1676.0.png\l}"]
+	53	[label="{type = XCUIElementTypeOther\l|name = KFILE, Close ally of Marjorie Taylor Greene among those in Capitol mob\l|label = KFILE, Close ally of Marjorie Taylor Greene among those in Capitol mob\l|enabled = true\l|visible = true\l|x = 0\l|y = 118\l|width = 375\l|height = 374\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_236.0_750.0_984.0.png\l}"]
+	54	[label="{type = XCUIElementTypeOther\l|name = storypackages\l|label = Story Packages\l|enabled = true\l|visible = true\l|x = 0\l|y = 492\l|width = 375\l|height = 286\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/0.0_984.0_750.0_1556.0.png\l}"]
+	55	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 15\l|y = 502\l|width = 345\l|height = 266\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/30.0_1004.0_720.0_1536.0.png\l}"]
+	56	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 15\l|y = 502\l|width = 345\l|height = 56\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/30.0_1004.0_720.0_1116.0.png\l}"]
+	57	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 15\l|y = 558\l|width = 345\l|height = 77\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/30.0_1116.0_720.0_1270.0.png\l}"]
+	58	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 502\l|width = 345\l|height = 56\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/30.0_1004.0_720.0_1116.0.png\l}"]
+	59	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 558\l|width = 345\l|height = 77\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/30.0_1116.0_720.0_1270.0.png\l}"]
+	60	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 502\l|width = 345\l|height = 56\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/30.0_1004.0_720.0_1116.0.png\l}"]
+	61	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 15\l|y = 558\l|width = 345\l|height = 77\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/30.0_1116.0_720.0_1270.0.png\l}"]
+	62	[label="{type = XCUIElementTypeStaticText\l|value = Video, Greene on being stripped of committee post: I've been freed\l|name = title\l|label = Video, Greene on being stripped of committee post: I've been freed\l|enabled = true\l|visible = true\l|x = 41\l|y = 509\l|width = 319\l|height = 42\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/82.0_1018.0_720.0_1102.0.png\l}"]
+	63	[label="{type = XCUIElementTypeStaticText\l|value = Article, Acting US Capitol Police chief says intelligence failed to predict scope of Jan. 6 attack\l|name = title\l|label = Article, Acting US Capitol Police chief says intelligence failed to predict scope of Jan. 6 attack\l|enabled = true\l|visible = true\l|x = 41\l|y = 565\l|width = 319\l|height = 63\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-bookmark/S0/pngs/82.0_1130.0_720.0_1256.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	6 -> 7
+	7 -> 8
+	8 -> 9
+	8 -> 10
+	9 -> 11
+	10 -> 12
+	10 -> 13
+	10 -> 14
+	10 -> 15
+	11 -> 16
+	16 -> 17
+	16 -> 18
+	17 -> 19
+	17 -> 20
+	18 -> 21
+	21 -> 22
+	22 -> 23
+	22 -> 24
+	23 -> 25
+	24 -> 26
+	25 -> 27
+	25 -> 28
+	25 -> 29
+	25 -> 30
+	25 -> 31
+	25 -> 32
+	26 -> 33
+	27 -> 34
+	27 -> 35
+	28 -> 36
+	28 -> 37
+	29 -> 38
+	29 -> 39
+	30 -> 40
+	30 -> 41
+	31 -> 42
+	31 -> 43
+	32 -> 44
+	32 -> 45
+	33 -> 46
+	46 -> 47
+	47 -> 48
+	47 -> 49
+	47 -> 50
+	48 -> 51
+	51 -> 52
+	52 -> 53
+	52 -> 54
+	54 -> 55
+	55 -> 56
+	55 -> 57
+	56 -> 58
+	57 -> 59
+	58 -> 60
+	59 -> 61
+	60 -> 62
+	61 -> 63
+
+
+}

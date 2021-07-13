@@ -1,0 +1,33 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "gtasks-dueDate",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "test",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.google.android.apps.tasks:id/edit_due_date_container",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.google.android.apps.tasks:id/dtp_repeat_layout",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.google.android.apps.tasks:id/crp_done",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "type": "resource-id",
+                "tag": "com.google.android.apps.tasks:id/edit_due_date_container"
+            }
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{ "resource-id" : "com.brave.browser:id/bottom_controls" , "screenshotPath" : "brave-tab/S0/pngs/0_1994_1080_2148.png"}
+{ "resource-id" : "com.brave.browser:id/url_bar" , "screenshotPath" : "brave-tab/S0/pngs/55_179_1036_317.png"}
+{ "content-desc" : "English 6 245 000+articles" , "resource-id" : "js-link-box-en" , "screenshotPath" : "brave-tab/S0/pngs/44_765_313_938.png"}
+{ "content-desc" : "日本語 1 252 000+記事" , "resource-id" : "js-link-box-ja" , "screenshotPath" : "brave-tab/S0/pngs/398_765_671_891.png"}
+{ "content-desc" : "Deutsch 2 534 000+Artikel" , "resource-id" : "js-link-box-de" , "screenshotPath" : "brave-tab/S0/pngs/756_765_1028_938.png"}
+{ "content-desc" : "Español 1 659 000+artículos" , "resource-id" : "js-link-box-es" , "screenshotPath" : "brave-tab/S0/pngs/44_985_313_1158.png"}
+{ "content-desc" : "Русский 1 697 000+статей" , "resource-id" : "js-link-box-ru" , "screenshotPath" : "brave-tab/S0/pngs/398_985_671_1158.png"}
+{ "content-desc" : "Français 2 296 000+articles" , "resource-id" : "js-link-box-fr" , "screenshotPath" : "brave-tab/S0/pngs/756_985_1028_1158.png"}
+{ "content-desc" : "Italiano 1 672 000+voci" , "resource-id" : "js-link-box-it" , "screenshotPath" : "brave-tab/S0/pngs/44_1205_313_1331.png"}
+{ "content-desc" : "中文 1 175 000+條目" , "resource-id" : "js-link-box-zh" , "screenshotPath" : "brave-tab/S0/pngs/398_1205_671_1331.png"}
+{ "content-desc" : "Home" , "resource-id" : "com.brave.browser:id/bottom_home_button" , "screenshotPath" : "brave-tab/S0/pngs/33_2016_187_2148.png"}
+{ "content-desc" : "Search" , "resource-id" : "com.brave.browser:id/search_accelerator" , "screenshotPath" : "brave-tab/S0/pngs/452_2032_628_2131.png"}
+{ "content-desc" : "1 open tab, tap to switch tabs" , "resource-id" : "com.brave.browser:id/bottom_tab_switcher_button" , "screenshotPath" : "brave-tab/S0/pngs/689_2016_843_2148.png"}
+{ "content-desc" : "More options" , "resource-id" : "com.brave.browser:id/menu_button_wrapper" , "screenshotPath" : "brave-tab/S0/pngs/893_2016_1047_2148.png"}
+{ "content-desc" : "Enable/Disable Brave Shields" , "resource-id" : "com.brave.browser:id/brave_shields_button" , "screenshotPath" : "brave-tab/S0/pngs/926_193_1056_303.png"}
+{ "content-desc" : "Bookmark this page" , "resource-id" : "com.brave.browser:id/bottom_bookmark_button" , "screenshotPath" : "brave-tab/S0/pngs/237_2016_391_2148.png"}
+{ "resource-id" : "com.brave.browser:id/menu_button" , "screenshotPath" : "brave-tab/S0/pngs/893_2016_1047_2148.png"}

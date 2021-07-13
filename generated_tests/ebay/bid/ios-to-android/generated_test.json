@@ -1,0 +1,38 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "ebay-bid",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.ebay.mobile:id/home_pill",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.ebay.mobile:id/sell_landing_promo_title",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Selling promotions",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.ebay.mobile:id/unsold_listings_layout",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Sold",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "Roman Antiquities"
+            }
+        ]
+    }
+}

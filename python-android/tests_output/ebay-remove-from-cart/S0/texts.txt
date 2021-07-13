@@ -1,0 +1,16 @@
+{ "content-desc" : "Main navigation, open" , "resource-id" : "com.ebay.mobile:id/home" , "screenshotPath" : "ebay-remove-from-cart/S0/pngs/0_72_168_240.png"}
+{ "content-desc" : "Cart, 2 items, button." , "resource-id" : "com.ebay.mobile:id/menu_cart" , "screenshotPath" : "ebay-remove-from-cart/S0/pngs/936_84_1080_228.png"}
+{ "content-desc" : "Search Keyword Search for anything" , "resource-id" : "com.ebay.mobile:id/search_box" , "screenshotPath" : "ebay-remove-from-cart/S0/pngs/48_240_744_384.png"}
+{ "content-desc" : "Voice search" , "resource-id" : "com.ebay.mobile:id/search_voice_btn" , "screenshotPath" : "ebay-remove-from-cart/S0/pngs/744_240_888_384.png"}
+{ "content-desc" : "Image search options" , "resource-id" : "com.ebay.mobile:id/search_image_btn" , "screenshotPath" : "ebay-remove-from-cart/S0/pngs/888_240_1032_384.png"}
+{ "resource-id" : "com.ebay.mobile:id/recycler_view_main" , "screenshotPath" : "ebay-remove-from-cart/S0/pngs/0_408_1080_1776.png"}
+{ "resource-id" : "com.ebay.mobile:id/recyclerview_items" , "screenshotPath" : "ebay-remove-from-cart/S0/pngs/0_444_1080_660.png"}
+{ "content-desc" : "Your Recently Viewed Items - Carousel" , "resource-id" : "com.ebay.mobile:id/home_container_header" , "screenshotPath" : "ebay-remove-from-cart/S0/pngs/48_696_1068_776.png"}
+{ "resource-id" : "com.ebay.mobile:id/recyclerview_items" , "screenshotPath" : "ebay-remove-from-cart/S0/pngs/0_812_1080_1696.png"}
+{ "content-desc" : "Smart Speakers - Carousel Recommended for you" , "resource-id" : "com.ebay.mobile:id/home_container_header" , "screenshotPath" : "ebay-remove-from-cart/S0/pngs/48_1732_1068_1776.png"}
+{ "resource-id" : "com.ebay.mobile:id/home_pill" , "screenshotPath" : "ebay-remove-from-cart/S0/pngs/48_492_383_612.png"}
+{ "resource-id" : "com.ebay.mobile:id/home_pill" , "screenshotPath" : "ebay-remove-from-cart/S0/pngs/407_492_717_612.png"}
+{ "resource-id" : "com.ebay.mobile:id/home_pill" , "screenshotPath" : "ebay-remove-from-cart/S0/pngs/741_492_1080_612.png"}
+{ "resource-id" : "com.ebay.mobile:id/item_card_container" , "screenshotPath" : "ebay-remove-from-cart/S0/pngs/48_824_516_1600.png"}
+{ "resource-id" : "com.ebay.mobile:id/item_card_container" , "screenshotPath" : "ebay-remove-from-cart/S0/pngs/540_824_1008_1600.png"}
+{ "resource-id" : "com.ebay.mobile:id/item_card_container" , "screenshotPath" : "ebay-remove-from-cart/S0/pngs/1032_824_1080_1600.png"}

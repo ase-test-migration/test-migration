@@ -1,0 +1,4 @@
+pathToElementImageCrop: aliExpress-delCart/S1/pngs/38.0_348.0_74.0_384.0.png;
+coords: {'x1': 38.0, 'y1': 348.0, 'x2': 74.0, 'y2': 384.0};
+text_identifier: { "label" : "cart check unchecked" };
+event: click;

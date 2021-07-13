@@ -1,0 +1,4 @@
+pathToElementImageCrop: cnn-category/S0/pngs/305_359_413_412.png;
+coords: {'x1': 305, 'y1': 359, 'x2': 413, 'y2': 412};
+text_identifier: {  };
+event: click;

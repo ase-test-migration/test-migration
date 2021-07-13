@@ -1,0 +1,28 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "R3CN30038ME"
+    },
+    "tests" : [
+        {
+            "name" : "testSettings",
+            "events": [
+                {
+                    "type" : "accessibilityId", 
+                    "tag" : "Settings",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "id", 
+                    "tag" : "com.cnn.mobile.android.phone:id/switch_reader_mode",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "id",
+                    "tag" : "com.cnn.mobile.android.phone:id/switch_this_is_cnn",
+                    "event" : "click"
+                }
+            ]
+        }
+    ]
+}

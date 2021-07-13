@@ -1,0 +1,4 @@
+pathToElementImageCrop: abc_categories/S1/pngs/140.0_762.0_540.0_822.0.png;
+coords: {'x1': 140.0, 'y1': 762.0, 'x2': 540.0, 'y2': 822.0};
+text_identifier: { "name" : "POLITICS" };
+event: click;

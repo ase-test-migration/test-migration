@@ -1,0 +1,50 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{class = hierarchy\l|rotation = 0\l|width = 1080\l|height = 1977\l|numberOfChildren = 1\l|eventGeneratedOnElement = false \l}"]
+	1	[label="{class = android.widget.FrameLayout\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [93,845][986,1473]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	2	[label="{class = android.widget.FrameLayout\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [127,873][952,1432]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	3	[label="{class = android.widget.FrameLayout\l|text = \l|resource-id = android:id/content\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [127,873][952,1432]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	4	[label="{class = android.widget.LinearLayout\l|text = \l|resource-id = mobi.mgeek.TunnyBrowser:id/add_bookmark_content\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [127,873][952,1432]\l|displayed = true\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	5	[label="{class = android.widget.LinearLayout\l|text = \l|resource-id = mobi.mgeek.TunnyBrowser:id/bookmark_page_title\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [127,873][952,1002]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	6	[label="{class = android.widget.LinearLayout\l|text = \l|resource-id = mobi.mgeek.TunnyBrowser:id/bookmark_page_content\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [127,1002][952,1432]\l|displayed = true\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l}"]
+	7	[label="{class = android.widget.TextView\l|text = Add bookmark\l|resource-id = mobi.mgeek.TunnyBrowser:id/page_title\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [194,909][940,976]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	8	[label="{class = android.widget.ImageView\l|text = \l|resource-id = mobi.mgeek.TunnyBrowser:id/titleDivider\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [139,1002][940,1008]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	9	[label="{class = android.widget.ScrollView\l|text = \l|resource-id = mobi.mgeek.TunnyBrowser:id/scrollview\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [139,1008][940,1287]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S4/pngs/139_1008_940_1287.png\l}"]
+	10	[label="{class = android.widget.LinearLayout\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [139,1287][940,1417]\l|displayed = true\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l}"]
+	11	[label="{class = android.widget.LinearLayout\l|text = \l|resource-id = mobi.mgeek.TunnyBrowser:id/scrollview_content\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [139,1008][940,1287]\l|displayed = true\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	12	[label="{class = android.widget.ImageView\l|text = \l|resource-id = mobi.mgeek.TunnyBrowser:id/bottomDivider\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [139,1287][940,1288]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	13	[label="{class = android.widget.LinearLayout\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [139,1288][940,1417]\l|displayed = true\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l}"]
+	14	[label="{class = android.widget.LinearLayout\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [175,1044][904,1140]\l|displayed = true\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	15	[label="{class = android.widget.TextView\l|text = More\l|resource-id = mobi.mgeek.TunnyBrowser:id/more\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [175,1184][338,1243]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S4/pngs/175_1184_338_1243.png\l}"]
+	16	[label="{class = android.widget.TextView\l|text = Cancel\l|resource-id = mobi.mgeek.TunnyBrowser:id/cancel\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [139,1288][566,1417]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S4/pngs/139_1288_566_1417.png\l}"]
+	17	[label="{class = android.widget.ImageView\l|text = \l|resource-id = mobi.mgeek.TunnyBrowser:id/button_divider\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [566,1288][567,1417]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l}"]
+	18	[label="{class = android.widget.TextView\l|text = Add\l|resource-id = mobi.mgeek.TunnyBrowser:id/OK\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [567,1288][940,1417]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = true \l|screenshotPath = dolphin-bookmark/S4/pngs/567_1288_940_1417.png\l}"]
+	19	[label="{class = android.widget.TextView\l|text = Name\l|resource-id = mobi.mgeek.TunnyBrowser:id/title_label\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [175,1062][368,1121]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S4/pngs/175_1062_368_1121.png\l}"]
+	20	[label="{class = android.widget.EditText\l|text = Google\l|resource-id = mobi.mgeek.TunnyBrowser:id/title\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = true\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [382,1044][904,1140]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = dolphin-bookmark/S4/pngs/382_1044_904_1140.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	5 -> 7
+	6 -> 8
+	6 -> 9
+	6 -> 10
+	9 -> 11
+	10 -> 12
+	10 -> 13
+	11 -> 14
+	11 -> 15
+	13 -> 16
+	13 -> 17
+	13 -> 18
+	14 -> 19
+	14 -> 20
+
+
+}

@@ -1,0 +1,6 @@
+pathToElementImageCrop: ;
+coords: ;
+text_identifier: { 'We can't afford to lose another season' };
+event: oracle;
+oracle-type: text_exists;
+input: 'We can't afford to lose another season';

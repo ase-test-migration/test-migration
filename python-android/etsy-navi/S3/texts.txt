@@ -1,0 +1,15 @@
+{ "resource-id" : "com.etsy.android:id/app_bar_toolbar" , "screenshotPath" : "etsy-navi/S3/pngs/0_74_1080_221.png"}
+{ "content-desc" : "Home tab, 1 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_home" , "screenshotPath" : "etsy-navi/S3/pngs/0_2214_216_2287.png"}
+{ "content-desc" : "Favorites tab, 2 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_favorites" , "screenshotPath" : "etsy-navi/S3/pngs/216_2214_432_2287.png"}
+{ "content-desc" : "Updates tab, 3 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_updates" , "screenshotPath" : "etsy-navi/S3/pngs/432_2214_648_2287.png"}
+{ "content-desc" : "You tab, 4 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_you" , "screenshotPath" : "etsy-navi/S3/pngs/648_2214_864_2287.png"}
+{ "content-desc" : "Cart tab, 5 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_cart" , "screenshotPath" : "etsy-navi/S3/pngs/864_2214_1080_2287.png"}
+{ "content-desc" : "Navigate up" , "screenshotPath" : "etsy-navi/S3/pngs/0_74_147_221.png"}
+{ "resource-id" : "com.etsy.android:id/recycler_view" , "screenshotPath" : "etsy-navi/S3/pngs/0_221_1080_2214.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-navi/S3/pngs/21_401_530_1132.png"}
+{ "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-navi/S3/pngs/551_401_1059_1132.png"}
+{ "resource-id" : "com.etsy.android:id/edit_button" , "screenshotPath" : "etsy-navi/S3/pngs/894_229_1080_355.png"}
+{ "content-desc" : "Remove Kitangle Corner Kitty Litter Box from your favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-navi/S3/pngs/414_422_509_517.png"}
+{ "content-desc" : "Show menu of listing actions for Kitangle Corner Kitty Litter Box" , "resource-id" : "com.etsy.android:id/btn_menu" , "screenshotPath" : "etsy-navi/S3/pngs/435_1006_530_1132.png"}
+{ "content-desc" : "Remove Cloud Mountain Blackit Views Light OEM R4 Artisan Valley Collection Key cap for MX Cherry Filco Keycap from your favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-navi/S3/pngs/943_422_1038_517.png"}
+{ "content-desc" : "Show menu of listing actions for Cloud Mountain Blackit Views Light OEM R4 Artisan Valley Collection Key cap for MX Cherry Filco Keycap" , "resource-id" : "com.etsy.android:id/btn_menu" , "screenshotPath" : "etsy-navi/S3/pngs/964_1006_1059_1132.png"}

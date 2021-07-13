@@ -1,0 +1,18 @@
+{ "resource-id" : "com.anydo:id/touch_outside" , "screenshotPath" : "anydo-duedate/S5/pngs/0_72_1080_1776.png"}
+{ "resource-id" : "com.anydo:id/tabLayout" , "screenshotPath" : "anydo-duedate/S5/pngs/0_288_860_408.png"}
+{ "resource-id" : "com.anydo:id/btnSave" , "screenshotPath" : "anydo-duedate/S5/pngs/860_336_1080_408.png"}
+{ "resource-id" : "com.anydo:id/taskDetailsRecycler" , "screenshotPath" : "anydo-duedate/S5/pngs/0_408_1080_1776.png"}
+{ "content-desc" : "TASK DETAILS" , "screenshotPath" : "anydo-duedate/S5/pngs/21_288_338_408.png"}
+{ "content-desc" : "ACTIVITY" , "screenshotPath" : "anydo-duedate/S5/pngs/338_288_565_408.png"}
+{ "resource-id" : "com.anydo:id/taskTitle" , "screenshotPath" : "anydo-duedate/S5/pngs/54_438_1026_556.png"}
+{ "resource-id" : "com.anydo:id/labelsRecycler" , "screenshotPath" : "anydo-duedate/S5/pngs/54_616_1026_714.png"}
+{ "resource-id" : "com.anydo:id/taskDetailsReminderAlarm" , "screenshotPath" : "anydo-duedate/S5/pngs/54_888_1026_1026.png"}
+{ "resource-id" : "com.anydo:id/subtasksTitle" , "screenshotPath" : "anydo-duedate/S5/pngs/54_1425_1026_1470.png"}
+{ "resource-id" : "com.anydo:id/focusButton" , "screenshotPath" : "anydo-duedate/S5/pngs/0_1620_538_1776.png"}
+{ "resource-id" : "com.anydo:id/markAsDoneButton" , "screenshotPath" : "anydo-duedate/S5/pngs/541_1620_1080_1776.png"}
+{ "resource-id" : "com.anydo:id/deleteReminderButton" , "screenshotPath" : "anydo-duedate/S5/pngs/847_778_1026_823.png"}
+{ "content-desc" : "Mark as done" , "resource-id" : "com.anydo:id/subtaskCheckbox" , "screenshotPath" : "anydo-duedate/S5/pngs/96_1584_144_1632.png"}
+{ "resource-id" : "com.anydo:id/subtaskTitle" , "screenshotPath" : "anydo-duedate/S5/pngs/186_1578_897_1637.png"}
+{ "resource-id" : "com.anydo:id/taskDetailsReminderAlertToggle" , "screenshotPath" : "anydo-duedate/S5/pngs/802_915_1026_999.png"}
+{ "resource-id" : "com.anydo:id/categoryButton" , "screenshotPath" : "anydo-duedate/S5/pngs/54_1233_525_1338.png"}
+{ "resource-id" : "com.anydo:id/assignButtonContainer" , "screenshotPath" : "anydo-duedate/S5/pngs/555_1233_1026_1338.png"}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: gmail-reply/S1/pngs/32.0_1230.0_368.0_1302.0.png;
+coords: {'x1': 32.0, 'y1': 1230.0, 'x2': 368.0, 'y2': 1302.0};
+text_identifier: { "label" : "Reply" };
+event: click;

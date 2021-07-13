@@ -1,0 +1,5 @@
+pathToElementImageCrop: wish-Login/S2/pngs/44_931_1036_1041.png;
+coords: {'x1': 44, 'y1': 931, 'x2': 1036, 'y2': 1041};
+text_identifier: { "resource-id" : "com.contextlogic.wish:id/sign_in_fragment_password_text" };
+event: send_keys;
+input: Test.0123;

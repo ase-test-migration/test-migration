@@ -1,0 +1,202 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Any.do\l|label = Any.do\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 54\l|width = 414\l|height = 842\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/0.0_162.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 54\l|width = 414\l|height = 842\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/0.0_162.0_1242.0_2688.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 54\l|width = 414\l|height = 842\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/0.0_162.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|name = mainView\l|enabled = true\l|visible = true\l|x = 0\l|y = 54\l|width = 414\l|height = 842\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/0.0_162.0_1242.0_2688.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 54\l|width = 414\l|height = 808\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/0.0_162.0_1242.0_2586.0.png\l}"]
+	8	[label="{type = XCUIElementTypeButton\l|name = Save\l|label = Save\l|enabled = true\l|visible = true\l|x = 358\l|y = 54\l|width = 36\l|height = 40\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/1074.0_162.0_1182.0_282.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 64\l|width = 334\l|height = 40\l|numberOfChildren = 5\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/48.0_192.0_1050.0_312.0.png\l}"]
+	10	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 104\l|width = 414\l|height = 758\l|numberOfChildren = 2\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/0.0_312.0_1242.0_2586.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 806\l|width = 414\l|height = 56\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/0.0_2418.0_1242.0_2586.0.png\l}"]
+	12	[label="{type = XCUIElementTypeStaticText\l|value = Save\l|name = Save\l|label = Save\l|enabled = true\l|visible = true\l|x = 358\l|y = 64\l|width = 36\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/1074.0_192.0_1182.0_252.0.png\l}"]
+	13	[label="{type = XCUIElementTypeButton\l|name = TASK DETAILS\l|label = TASK DETAILS\l|enabled = true\l|visible = true\l|x = 21\l|y = 64\l|width = 82\l|height = 27\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/63.00000000000001_192.0_309.0_273.0.png\l}"]
+	14	[label="{type = XCUIElementTypeButton\l|enabled = false\l|visible = true\l|x = 95\l|y = 64\l|width = 30\l|height = 34\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/285.0_192.0_375.0_294.0.png\l}"]
+	15	[label="{type = XCUIElementTypeButton\l|name = ACTIVITY\l|label = ACTIVITY\l|enabled = true\l|visible = true\l|x = 129\l|y = 64\l|width = 53\l|height = 27\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/387.0_192.0_546.0_273.0.png\l}"]
+	16	[label="{type = XCUIElementTypeButton\l|enabled = false\l|visible = true\l|x = 174\l|y = 64\l|width = 30\l|height = 34\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/522.0_192.0_612.0_294.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 21\l|y = 91\l|width = 82\l|height = 2\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/63.00000000000001_273.0_309.0_279.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 104\l|width = 374\l|height = 758\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_312.0_1182.0_2586.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 806\l|width = 414\l|height = 56\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/0.0_2418.0_1242.0_2586.0.png\l}"]
+	20	[label="{type = XCUIElementTypeStaticText\l|value = TASK DETAILS\l|name = TASK DETAILS\l|label = TASK DETAILS\l|enabled = true\l|visible = true\l|x = 21\l|y = 70\l|width = 82\l|height = 15\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/63.00000000000001_210.0_309.0_255.0.png\l}"]
+	21	[label="{type = XCUIElementTypeStaticText\l|value = ACTIVITY\l|name = ACTIVITY\l|label = ACTIVITY\l|enabled = true\l|visible = true\l|x = 129\l|y = 70\l|width = 53\l|height = 15\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/387.0_210.0_546.0_255.0.png\l}"]
+	22	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 20\l|y = 104\l|width = 374\l|height = 758\l|numberOfChildren = 10\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_312.0_1182.0_2586.0.png\l}"]
+	23	[label="{type = XCUIElementTypeButton\l|name = Focus\l|label = Focus\l|enabled = true\l|visible = true\l|x = 0\l|y = 806\l|width = 206\l|height = 56\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/0.0_2418.0_618.0_2586.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 206\l|y = 806\l|width = 2\l|height = 56\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/618.0_2418.0_624.0_2586.0.png\l}"]
+	25	[label="{type = XCUIElementTypeButton\l|name = Done\l|label = Done\l|enabled = true\l|visible = true\l|x = 208\l|y = 806\l|width = 206\l|height = 56\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/624.0_2418.0_1242.0_2586.0.png\l}"]
+	26	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 20\l|y = 104\l|width = 334\l|height = 40\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_312.0_1062.0_432.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 144\l|width = 374\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_432.00000000000006_1182.0_540.0000000000001.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 200\l|width = 374\l|height = 104\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_600.0_1182.0_912.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 316\l|width = 374\l|height = 87\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_948.0000000000001_1182.0_1209.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 415\l|width = 374\l|height = 96\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_1245.0_1182.0_1533.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 511\l|width = 374\l|height = 83\l|numberOfChildren = 1\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_1533.0_1182.0_1782.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 599\l|width = 374\l|height = 94\l|numberOfChildren = 1\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_1797.0_1182.0_2079.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 692\l|width = 374\l|height = 59\l|numberOfChildren = 1\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_2076.0_1182.0_2253.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 767\l|width = 374\l|height = 50\l|numberOfChildren = 1\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_2301.0_1182.0_2451.0.png\l}"]
+	35	[label="{type = XCUIElementTypeStaticText\l|value = Focus\l|name = Focus\l|label = Focus\l|enabled = true\l|visible = true\l|x = 87\l|y = 824\l|width = 45\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/261.0_2472.0_396.0_2532.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 206\l|y = 819\l|width = 2\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/618.0_2457.0_624.0_2547.0.png\l}"]
+	37	[label="{type = XCUIElementTypeStaticText\l|value = Done\l|name = Done\l|label = Done\l|enabled = true\l|visible = true\l|x = 299\l|y = 824\l|width = 41\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/897.0_2472.0_1020.0_2532.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 144\l|width = 374\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_432.00000000000006_1182.0_540.0000000000001.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 200\l|width = 374\l|height = 104\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_600.0_1182.0_912.0.png\l}"]
+	40	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 338\l|width = 373\l|height = 58\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_1014.0_1179.0_1188.0.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 415\l|width = 374\l|height = 96\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_1245.0_1182.0_1533.0.png\l}"]
+	42	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 511\l|width = 374\l|height = 83\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_1533.0_1182.0_1782.0.png\l}"]
+	43	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 599\l|width = 374\l|height = 94\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_1797.0_1182.0_2079.0.png\l}"]
+	44	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 692\l|width = 374\l|height = 59\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_2076.0_1182.0_2253.0.png\l}"]
+	45	[label="{type = XCUIElementTypeButton\l|name = Delete Task\l|label = Delete Task\l|enabled = true\l|visible = true\l|x = 20\l|y = 772\l|width = 374\l|height = 40\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_2316.0_1182.0_2436.0.png\l}"]
+	46	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 20\l|y = 156\l|width = 374\l|height = 24\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_468.0_1182.0_540.0.png\l}"]
+	47	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 200\l|width = 374\l|height = 24\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_600.0_1182.0_672.0.png\l}"]
+	48	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 224\l|width = 374\l|height = 78\l|numberOfChildren = 4\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_672.0_1182.0_906.0.png\l}"]
+	49	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 338\l|width = 187\l|height = 58\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_1014.0_621.0_1188.0.png\l}"]
+	50	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 206\l|y = 338\l|width = 187\l|height = 58\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/618.0_1014.0_1179.0_1188.0.png\l}"]
+	51	[label="{type = XCUIElementTypeStaticText\l|value = SUBTASKS\l|name = SUBTASKS\l|label = SUBTASKS\l|enabled = true\l|visible = true\l|x = 20\l|y = 425\l|width = 374\l|height = 14\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_1275.0_1182.0_1317.0.png\l}"]
+	52	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 20\l|y = 442\l|width = 374\l|height = 69\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_1326.0_1182.0_1533.0.png\l}"]
+	53	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 511\l|width = 374\l|height = 83\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_1533.0_1182.0_1782.0.png\l}"]
+	54	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 344\l|y = 511\l|width = 50\l|height = 40\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/1032.0_1533.0_1182.0_1653.0.png\l}"]
+	55	[label="{type = XCUIElementTypeStaticText\l|value = NOTES\l|name = NOTES\l|label = NOTES\l|enabled = true\l|visible = true\l|x = 20\l|y = 527\l|width = 374\l|height = 14\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_1581.0000000000002_1182.0_1623.0000000000002.png\l}"]
+	56	[label="{type = XCUIElementTypeTextView\l|enabled = true\l|visible = true\l|x = 15\l|y = 541\l|width = 379\l|height = 53\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/45.0_1623.0000000000002_1182.0_1782.0000000000002.png\l}"]
+	57	[label="{type = XCUIElementTypeButton\l|name = Tap to add\l|label = Tap to add\l|enabled = true\l|visible = true\l|x = 20\l|y = 550\l|width = 374\l|height = 44\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_1650.0_1182.0_1782.0.png\l}"]
+	58	[label="{type = XCUIElementTypeStaticText\l|value = ATTACHMENTS\l|name = ATTACHMENTS\l|label = ATTACHMENTS\l|enabled = true\l|visible = true\l|x = 20\l|y = 615\l|width = 97\l|height = 15\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_1845.0_351.0_1890.0.png\l}"]
+	59	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 334\l|y = 615\l|width = 60\l|height = 40\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/1002.0_1845.0_1182.0_1965.0.png\l}"]
+	60	[label="{type = XCUIElementTypeButton\l|name = Tap to add\l|label = Tap to add\l|enabled = true\l|visible = true\l|x = 20\l|y = 638\l|width = 374\l|height = 45\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_1914.0_1182.0_2049.0.png\l}"]
+	61	[label="{type = XCUIElementTypeStaticText\l|value = CREATED\l|name = CREATED\l|label = CREATED\l|enabled = true\l|visible = true\l|x = 20\l|y = 708\l|width = 366\l|height = 15\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_2124.0_1158.0_2169.0.png\l}"]
+	62	[label="{type = XCUIElementTypeStaticText\l|value = April 15, 2021\l|name = April 15, 2021\l|label = April 15, 2021\l|enabled = true\l|visible = true\l|x = 20\l|y = 730\l|width = 366\l|height = 21\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_2190.0_1158.0_2253.0.png\l}"]
+	63	[label="{type = XCUIElementTypeStaticText\l|value = Delete Task\l|name = Delete Task\l|label = Delete Task\l|enabled = true\l|visible = true\l|x = 167\l|y = 783\l|width = 80\l|height = 18\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/501.0_2349.0_741.0_2403.0.png\l}"]
+	64	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 20\l|y = 156\l|width = 76\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_468.0_288.0_540.0.png\l}"]
+	65	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 1 page\l|label = Vertical scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 361\l|y = 156\l|width = 30\l|height = 24\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/1083.0_468.0_1173.0_540.0.png\l}"]
+	66	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 20\l|y = 165\l|width = 374\l|height = 12\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_495.00000000000006_1182.0_531.0.png\l}"]
+	67	[label="{type = XCUIElementTypeStaticText\l|value = REMIND ME ABOUT THIS\l|name = REMIND ME ABOUT THIS\l|label = REMIND ME ABOUT THIS\l|enabled = true\l|visible = true\l|x = 20\l|y = 200\l|width = 164\l|height = 15\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_600.0_552.0_645.0.png\l}"]
+	68	[label="{type = XCUIElementTypeButton\l|name = REMOVE\l|label = REMOVE\l|enabled = true\l|visible = true\l|x = 343\l|y = 221\l|width = 50\l|height = 27\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/1029.0_663.0_1179.0_744.0.png\l}"]
+	69	[label="{type = XCUIElementTypeButton\l|name = Set time\l|label = Set time\l|enabled = true\l|visible = true\l|x = 20\l|y = 224\l|width = 182\l|height = 34\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_672.0_606.0_774.0.png\l}"]
+	70	[label="{type = XCUIElementTypeButton\l|name = setTomorrowButton\l|label = Set Tomorrow\l|enabled = true\l|visible = true\l|x = 212\l|y = 224\l|width = 182\l|height = 34\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/636.0000000000001_672.0_1182.0_774.0.png\l}"]
+	71	[label="{type = XCUIElementTypeButton\l|name = Daily, Weekly, etc…\l|label = Daily, Weekly, etc…\l|enabled = true\l|visible = true\l|x = 20\l|y = 268\l|width = 182\l|height = 34\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_804.0_606.0_906.0.png\l}"]
+	72	[label="{type = XCUIElementTypeButton\l|name = At a location\l|label = At a location\l|enabled = true\l|visible = true\l|x = 212\l|y = 268\l|width = 182\l|height = 34\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/636.0000000000001_804.0_1182.0_906.0.png\l}"]
+	73	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 338\l|width = 187\l|height = 16\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_1014.0_621.0_1062.0.png\l}"]
+	74	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 354\l|width = 187\l|height = 42\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_1062.0_621.0_1188.0.png\l}"]
+	75	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 206\l|y = 338\l|width = 187\l|height = 16\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/618.0_1014.0_1179.0_1062.0.png\l}"]
+	76	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 206\l|y = 354\l|width = 187\l|height = 42\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/618.0_1062.0_1179.0_1188.0.png\l}"]
+	77	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 20\l|y = 442\l|width = 374\l|height = 59\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_1326.0_1182.0_1503.0.png\l}"]
+	78	[label="{type = XCUIElementTypeStaticText\l|value = Tap to add\l|name = Tap to add\l|label = Tap to add\l|enabled = true\l|visible = true\l|x = 170\l|y = 563\l|width = 74\l|height = 18\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/510.0_1689.0_732.0_1743.0.png\l}"]
+	79	[label="{type = XCUIElementTypeStaticText\l|value = Tap to add\l|name = Tap to add\l|label = Tap to add\l|enabled = true\l|visible = true\l|x = 164\l|y = 649\l|width = 86\l|height = 23\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/492.0_1946.9999999999998_750.0_2015.9999999999998.png\l}"]
+	80	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 156\l|width = 76\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_468.0_288.0_540.0.png\l}"]
+	81	[label="{type = XCUIElementTypeStaticText\l|value = Set time\l|name = Set time\l|label = Set time\l|enabled = true\l|visible = true\l|x = 53\l|y = 233\l|width = 49\l|height = 16\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/159.00000000000003_699.0_306.0_747.0.png\l}"]
+	82	[label="{type = XCUIElementTypeStaticText\l|value = Tomorrow, 9:00 AM\l|name = Tomorrow, 9:00 AM\l|label = Tomorrow, 9:00 AM\l|enabled = true\l|visible = true\l|x = 245\l|y = 233\l|width = 114\l|height = 16\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/735.0_699.0_1077.0_747.0.png\l}"]
+	83	[label="{type = XCUIElementTypeStaticText\l|value = Daily, Weekly, etc…\l|name = Daily, Weekly, etc…\l|label = Daily, Weekly, etc…\l|enabled = true\l|visible = true\l|x = 53\l|y = 277\l|width = 112\l|height = 16\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/159.00000000000003_831.0_495.0_879.0.png\l}"]
+	84	[label="{type = XCUIElementTypeStaticText\l|value = At a location\l|name = At a location\l|label = At a location\l|enabled = true\l|visible = true\l|x = 245\l|y = 277\l|width = 73\l|height = 16\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/735.0_831.0_954.0_879.0.png\l}"]
+	85	[label="{type = XCUIElementTypeStaticText\l|value = LIST\l|name = LIST\l|label = LIST\l|enabled = true\l|visible = true\l|x = 20\l|y = 338\l|width = 187\l|height = 14\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_1014.0_621.0_1056.0.png\l}"]
+	86	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 20\l|y = 361\l|width = 182\l|height = 35\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_1083.0_606.0_1188.0.png\l}"]
+	87	[label="{type = XCUIElementTypeStaticText\l|value = OWNER\l|name = OWNER\l|label = OWNER\l|enabled = true\l|visible = true\l|x = 211\l|y = 338\l|width = 182\l|height = 14\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/633.0_1014.0_1179.0_1056.0.png\l}"]
+	88	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 211\l|y = 361\l|width = 182\l|height = 35\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/633.0_1083.0_1179.0_1188.0.png\l}"]
+	89	[label="{type = XCUIElementTypeTextField\l|value = Add a new subtask\l|label = \l|enabled = true\l|visible = true\l|x = 65\l|y = 446\l|width = 321\l|height = 51\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/195.0_1338.0_1158.0_1491.0.png\l}"]
+	90	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 442\l|width = 374\l|height = 59\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_1326.0_1182.0_1503.0.png\l}"]
+	91	[label="{type = XCUIElementTypeButton\l|enabled = false\l|visible = true\l|x = 23\l|y = 451\l|width = 40\l|height = 41\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/69.0_1353.0_189.0_1476.0.png\l}"]
+	92	[label="{type = XCUIElementTypeStaticText\l|value = Add label\l|name = Add label\l|label = Add label\l|enabled = true\l|visible = true\l|x = 20\l|y = 156\l|width = 76\l|height = 24\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/60.0_468.0_288.0_540.0.png\l}"]
+	93	[label="{type = XCUIElementTypeStaticText\l|value = Personal\l|name = Personal\l|label = Personal\l|enabled = true\l|visible = true\l|x = 28\l|y = 371\l|width = 134\l|height = 15\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/84.0_1113.0_486.0_1158.0.png\l}"]
+	94	[label="{type = XCUIElementTypeStaticText\l|value = Button\l|name = Button\l|label = Button\l|enabled = true\l|visible = true\l|x = 88\l|y = 369\l|width = 46\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/264.0_1107.0_402.0_1164.0.png\l}"]
+	95	[label="{type = XCUIElementTypeStaticText\l|value = Me\l|name = Me\l|label = Me\l|enabled = true\l|visible = true\l|x = 251\l|y = 371\l|width = 102\l|height = 15\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/753.0_1113.0_1059.0_1158.0.png\l}"]
+	96	[label="{type = XCUIElementTypeStaticText\l|value = Button\l|name = Button\l|label = Button\l|enabled = true\l|visible = true\l|x = 279\l|y = 369\l|width = 47\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/anydo-duedate/S2/pngs/837.0_1107.0_978.0_1164.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	6 -> 8
+	6 -> 9
+	6 -> 10
+	6 -> 11
+	8 -> 12
+	9 -> 13
+	9 -> 14
+	9 -> 15
+	9 -> 16
+	9 -> 17
+	10 -> 18
+	11 -> 19
+	13 -> 20
+	15 -> 21
+	18 -> 22
+	19 -> 23
+	19 -> 24
+	19 -> 25
+	22 -> 26
+	22 -> 27
+	22 -> 28
+	22 -> 29
+	22 -> 30
+	22 -> 31
+	22 -> 32
+	22 -> 33
+	22 -> 34
+	23 -> 35
+	24 -> 36
+	25 -> 37
+	27 -> 38
+	28 -> 39
+	29 -> 40
+	30 -> 41
+	31 -> 42
+	32 -> 43
+	33 -> 44
+	34 -> 45
+	38 -> 46
+	39 -> 47
+	39 -> 48
+	40 -> 49
+	40 -> 50
+	41 -> 51
+	41 -> 52
+	42 -> 53
+	42 -> 54
+	42 -> 55
+	42 -> 56
+	42 -> 57
+	43 -> 58
+	43 -> 59
+	43 -> 60
+	44 -> 61
+	44 -> 62
+	45 -> 63
+	46 -> 64
+	46 -> 65
+	46 -> 66
+	47 -> 67
+	47 -> 68
+	48 -> 69
+	48 -> 70
+	48 -> 71
+	48 -> 72
+	49 -> 73
+	49 -> 74
+	50 -> 75
+	50 -> 76
+	52 -> 77
+	57 -> 78
+	60 -> 79
+	64 -> 80
+	69 -> 81
+	70 -> 82
+	71 -> 83
+	72 -> 84
+	73 -> 85
+	74 -> 86
+	75 -> 87
+	76 -> 88
+	77 -> 89
+	77 -> 90
+	77 -> 91
+	80 -> 92
+	86 -> 93
+	86 -> 94
+	88 -> 95
+	88 -> 96
+
+
+}

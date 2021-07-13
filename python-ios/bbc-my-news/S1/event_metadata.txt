@@ -1,0 +1,4 @@
+pathToElementImageCrop: bbc-my-news/S1/pngs/75.0_1089.0_1170.0_1230.0.png;
+coords: {'x1': 75.0, 'y1': 1089.0, 'x2': 1170.0, 'y2': 1230.0};
+text_identifier: { "label" : "OK, let's get started" };
+event: click;

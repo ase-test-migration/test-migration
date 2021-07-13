@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-add-to-cart/S1/pngs/0.0_843.0000000000001_1242.0_1059.0000000000002.png;
+coords: {'x1': 0.0, 'y1': 843.0000000000001, 'x2': 1242.0, 'y2': 1059.0000000000002};
+text_identifier: { "name" : "msku_aspect_value_select_option" };
+event: click;

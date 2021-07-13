@@ -1,0 +1,27 @@
+{ "text" : "" , "resource-id" : "com.etsy.android:id/app_bar_toolbar" , "screenshotPath" : "etsy-filter/S0/pngs/0_74_1080_221.png"}
+{ "text" : "" , "content-desc" : "Home tab, 1 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_home" , "screenshotPath" : "etsy-filter/S0/pngs/0_2127_216_2200.png"}
+{ "text" : "" , "content-desc" : "Favorites tab, 2 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_favorites" , "screenshotPath" : "etsy-filter/S0/pngs/216_2127_432_2200.png"}
+{ "text" : "" , "content-desc" : "Updates tab, 3 of 5, New notification" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_updates" , "screenshotPath" : "etsy-filter/S0/pngs/432_2127_648_2200.png"}
+{ "text" : "" , "content-desc" : "You tab, 4 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_you" , "screenshotPath" : "etsy-filter/S0/pngs/648_2127_864_2200.png"}
+{ "text" : "" , "content-desc" : "Cart tab, 5 of 5" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_cart" , "screenshotPath" : "etsy-filter/S0/pngs/864_2127_1080_2200.png"}
+{ "text" : "" , "content-desc" : "Search for anything on Etsy" , "screenshotPath" : "etsy-filter/S0/pngs/0_74_147_221.png"}
+{ "text" : "" , "resource-id" : "com.etsy.android:id/view_pager" , "screenshotPath" : "etsy-filter/S0/pngs/0_221_1080_2127.png"}
+{ "text" : "" , "resource-id" : "com.etsy.android:id/recycler_view" , "screenshotPath" : "etsy-filter/S0/pngs/0_221_1080_2127.png"}
+{ "text" : "" , "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-filter/S0/pngs/42_781_519_1138.png"}
+{ "text" : "" , "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-filter/S0/pngs/561_781_1038_1138.png"}
+{ "text" : "" , "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-filter/S0/pngs/42_1180_519_1537.png"}
+{ "text" : "" , "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-filter/S0/pngs/561_1180_1038_1537.png"}
+{ "text" : "" , "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-filter/S0/pngs/42_1579_519_1936.png"}
+{ "text" : "" , "resource-id" : "com.etsy.android:id/listing_matte" , "screenshotPath" : "etsy-filter/S0/pngs/561_1579_1038_1936.png"}
+{ "text" : "Search for anything on Etsy" , "resource-id" : "com.etsy.android:id/search_src_text" , "screenshotPath" : "etsy-filter/S0/pngs/147_99_1080_194.png"}
+{ "text" : "" , "resource-id" : "com.etsy.android:id/styledBannerContentCard" , "screenshotPath" : "etsy-filter/S0/pngs/42_284_1038_587.png"}
+{ "text" : "Our picks for you" , "resource-id" : "com.etsy.android:id/headerTitle" , "screenshotPath" : "etsy-filter/S0/pngs/42_692_387_739.png"}
+{ "text" : "See more" , "content-desc" : "See more Our picks for you" , "resource-id" : "com.etsy.android:id/headerViewAllLink" , "screenshotPath" : "etsy-filter/S0/pngs/840_665_1059_760.png"}
+{ "text" : "Recommendations in Keyboards & Mice" , "resource-id" : "com.etsy.android:id/headerTitle" , "screenshotPath" : "etsy-filter/S0/pngs/42_2079_840_2127.png"}
+{ "text" : "See more" , "content-desc" : "See more Recommendations in Keyboards & Mice" , "resource-id" : "com.etsy.android:id/headerViewAllLink" , "screenshotPath" : "etsy-filter/S0/pngs/840_2103_1059_2127.png"}
+{ "text" : "" , "content-desc" : "Add Rustic Cedar Kitty Litter Cabinet Front Entry - Standard Dark Walnut to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-filter/S0/pngs/403_802_498_897.png"}
+{ "text" : "" , "content-desc" : "Add Jumbo Cedar Kitty Litter Cabinet - Front Entry Unfinished to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-filter/S0/pngs/922_802_1017_897.png"}
+{ "text" : "" , "content-desc" : "Add Cedar Jumbo Top Entry Litter Cabinet - Grey to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-filter/S0/pngs/403_1201_498_1296.png"}
+{ "text" : "" , "content-desc" : "Add Maja Cat Litter Box Cover House to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-filter/S0/pngs/922_1201_1017_1296.png"}
+{ "text" : "" , "content-desc" : "Add Modern Cat Litter Scoop and Base Set to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-filter/S0/pngs/403_1600_498_1695.png"}
+{ "text" : "" , "content-desc" : "Add Cat litter box enclosure for easier handling of cat litter easy clean cat poop Prevent sand leakage large space with cat litter scoop to favorites" , "resource-id" : "com.etsy.android:id/btn_fav" , "screenshotPath" : "etsy-filter/S0/pngs/922_1600_1017_1695.png"}

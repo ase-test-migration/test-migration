@@ -1,0 +1,4 @@
+pathToElementImageCrop: todoist-remove/S2/pngs/0_1940_1080_1977.png;
+coords: {'x1': 0, 'y1': 1940, 'x2': 1080, 'y2': 2112};
+text_identifier: { "resource-id" : "com.todoist:id/delete" };
+event: click;

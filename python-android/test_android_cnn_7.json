@@ -1,0 +1,40 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "cnn-unbookmark",
+            "events": [
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//android.widget.FrameLayout[@content-desc=\"Saved Stories\"]/android.widget.ImageView"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.cnn.mobile.android.phone:id/titleText"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Bookmark Selected"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.cnn.mobile.android.phone:id/toolbar_back_button"
+                },
+                {
+                    "type": "id",
+                    "event": "oracle",
+                    "oracle-type": "element_invisible",
+                    "tag": "com.cnn.mobile.android.phone:id/titleText"
+                }
+            ]
+        }
+    ]
+}

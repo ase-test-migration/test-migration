@@ -1,0 +1,13 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "gmail-send",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "Compose",
+                "event": "click"
+            }
+        ]
+    }
+}

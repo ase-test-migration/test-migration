@@ -1,0 +1,34 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "McD-removeFav",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Order tab 2 of 5"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.mcdonalds.app:id/location_or_address_text"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "//androidx.appcompat.app.ActionBar.Tab[2]"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.mcdonalds.app:id/icon"
+                }
+            ]
+        }
+    ]
+}

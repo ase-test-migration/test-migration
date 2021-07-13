@@ -1,0 +1,12 @@
+{ "resource-id" : "com.usatoday.android.news:id/articles_view_pager" , "screenshotPath" : "usa-bookmark/S1/pngs/0_325_1080_1977.png"}
+{ "content-desc" : "Navigate up" , "screenshotPath" : "usa-bookmark/S1/pngs/0_171_154_325.png"}
+{ "content-desc" : "Article Text Size" , "resource-id" : "com.usatoday.android.news:id/button_articleTextSize" , "screenshotPath" : "usa-bookmark/S1/pngs/684_182_816_314.png"}
+{ "content-desc" : "Share" , "resource-id" : "com.usatoday.android.news:id/button_articleShare" , "screenshotPath" : "usa-bookmark/S1/pngs/816_182_948_314.png"}
+{ "content-desc" : "Unchecked. Save Checkbox" , "resource-id" : "com.usatoday.android.news:id/menuButtonBookmark" , "screenshotPath" : "usa-bookmark/S1/pngs/948_182_1080_314.png"}
+{ "resource-id" : "com.usatoday.android.news:id/recycler_article" , "screenshotPath" : "usa-bookmark/S1/pngs/0_933_1080_1977.png"}
+{ "resource-id" : "com.usatoday.android.news:id/follow_topic_name" , "screenshotPath" : "usa-bookmark/S1/pngs/0_819_719_926.png"}
+{ "content-desc" : "Follow Topic Checkbox" , "resource-id" : "com.usatoday.android.news:id/follow_topic_button" , "screenshotPath" : "usa-bookmark/S1/pngs/719_839_1011_905.png"}
+{ "content-desc" : "Video with They're never truly gone: Biden honors 500,000 American lives lost to COVID-19 length 0:52" , "resource-id" : "com.usatoday.android.news:id/img_video_thumb" , "screenshotPath" : "usa-bookmark/S1/pngs/69_977_1011_1506.png"}
+{ "resource-id" : "com.usatoday.android.news:id/video_description" , "screenshotPath" : "usa-bookmark/S1/pngs/138_1718_942_1848.png"}
+{ "content-desc" : "graduate" , "resource-id" : "aw0" , "screenshotPath" : "usa-bookmark/S1/pngs/127_2004_952_2280.png"}
+{ "resource-id" : "abgcp" , "screenshotPath" : "usa-bookmark/S1/pngs/842_2004_952_2086.png"}

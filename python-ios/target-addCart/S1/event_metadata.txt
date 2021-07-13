@@ -1,0 +1,4 @@
+pathToElementImageCrop: target-addCart/S1/pngs/0.0_392.00000000000006_750.0_864.0.png;
+coords: {'x1': 0.0, 'y1': 392.00000000000006, 'x2': 750.0, 'y2': 864.0};
+text_identifier: { "label" : "Coca-Cola - 12pk/12 fl oz Cans $5.19 at LA Central" };
+event: click;

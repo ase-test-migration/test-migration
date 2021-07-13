@@ -1,0 +1,5 @@
+pathToElementImageCrop: todoist-edit/S8/pngs/156_276_1080_347.png;
+coords: {'x1': 156, 'y1': 276, 'x2': 1080, 'y2': 347};
+text_identifier: {  };
+event: send_keys;
+input: edited name;

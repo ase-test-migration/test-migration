@@ -1,0 +1,4 @@
+pathToElementImageCrop: addOrder/S0/pngs/270_1608_540_1776.png;
+coords: {'x1': 270, 'y1': 1608, 'x2': 540, 'y2': 1848};
+text_identifier: { "content-desc" : "Search" };
+event: click;

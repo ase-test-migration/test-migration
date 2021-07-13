@@ -1,0 +1,4 @@
+pathToElementImageCrop: duckduckgo-bookmark/S4/pngs/995_207_1044_289.png;
+coords: {'x1': 995, 'y1': 207, 'x2': 1044, 'y2': 289};
+text_identifier: { "content-desc" : "Browser menu" };
+event: click;

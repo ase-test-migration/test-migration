@@ -1,0 +1,34 @@
+{
+    "tests": [
+        {
+            "name": "bbc-settings", 
+            "events": [
+                {
+                    "tag": "bn-navigation-menu-button", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "App information", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Terms of use", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }
+
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "14.3", 
+        "platformName": "iOS"
+    }
+}

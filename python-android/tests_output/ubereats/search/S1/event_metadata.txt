@@ -1,0 +1,5 @@
+pathToElementImageCrop: search/S1/pngs/144_106_1032_206.png;
+coords: {'x1': 144, 'y1': 106, 'x2': 1032, 'y2': 206};
+text_identifier: {  };
+event: send_keys;
+input: daves;

@@ -1,0 +1,33 @@
+{"name" : "eBay", "label" : "eBay", "screenshotPath" : "ebay-bid/S2/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "Tab Bar", "label" : "Tab Bar", "screenshotPath" : "ebay-bid/S2/pngs/0.0_1236.0_750.0_1334.0.png"}
+{"value" : "1", "name" : "tab_home", "label" : "Home", "screenshotPath" : "ebay-bid/S2/pngs/4.0_1238.0_146.0_1334.0.png"}
+{"name" : "tab_my_ebay", "label" : "My eBay", "screenshotPath" : "ebay-bid/S2/pngs/154.0_1238.0_296.0_1334.0.png"}
+{"name" : "tab_search", "label" : "Search", "screenshotPath" : "ebay-bid/S2/pngs/304.0_1238.0_446.0_1334.0.png"}
+{"name" : "tab_notifications", "label" : "Notifications", "screenshotPath" : "ebay-bid/S2/pngs/453.99999999999994_1238.0_596.0_1334.0.png"}
+{"name" : "tab_selling", "label" : "Selling", "screenshotPath" : "ebay-bid/S2/pngs/604.0_1238.0_746.0_1334.0.png"}
+{"name" : "Browse Categories", "screenshotPath" : "ebay-bid/S2/pngs/0.0_40.0_750.0_128.0.png"}
+{"name" : "button_navigation_icon", "label" : "Back", "screenshotPath" : "ebay-bid/S2/pngs/0.0_40.0_88.0_128.0.png"}
+{"value" : "Browse Categories", "name" : "Browse Categories", "label" : "Browse Categories", "screenshotPath" : "ebay-bid/S2/pngs/224.00000000000003_64.0_526.0_104.0.png"}
+{"name" : "button_Cart", "label" : "Cart, 1 Item", "screenshotPath" : "ebay-bid/S2/pngs/640.0_40.0_750.0_128.0.png"}
+{"value" : "1", "name" : "textview_cart_items_count", "label" : "1", "screenshotPath" : "ebay-bid/S2/pngs/712.0_50.0_724.0_80.0.png"}
+{"name" : "Antiques", "label" : "Antiques", "screenshotPath" : "ebay-bid/S2/pngs/20.0_128.0_730.0_328.0.png"}
+{"name" : "homeScreenCategoriesCategorySubCategory", "label" : "Expanded, All Categories", "screenshotPath" : "ebay-bid/S2/pngs/0.0_328.0_750.0_424.0.png"}
+{"name" : "homeScreenCategoriesCategorySubCategory", "label" : "Antiques", "screenshotPath" : "ebay-bid/S2/pngs/0.0_424.0_750.0_520.0.png"}
+{"name" : "homeScreenCategoriesCategorySubCategory", "label" : "Collapsed, Antiquities", "screenshotPath" : "ebay-bid/S2/pngs/0.0_520.0_750.0_616.0.png"}
+{"name" : "homeScreenCategoriesCategorySubCategory", "label" : "Collapsed, Architectural & Garden", "screenshotPath" : "ebay-bid/S2/pngs/0.0_616.0_750.0_712.0.png"}
+{"name" : "homeScreenCategoriesCategorySubCategory", "label" : "Collapsed, Asian Antiques", "screenshotPath" : "ebay-bid/S2/pngs/0.0_712.0_750.0_808.0.png"}
+{"name" : "homeScreenCategoriesCategorySubCategory", "label" : "Collapsed, Decorative Arts", "screenshotPath" : "ebay-bid/S2/pngs/0.0_808.0_750.0_904.0.png"}
+{"name" : "homeScreenCategoriesCategorySubCategory", "label" : "Collapsed, Ethnographic", "screenshotPath" : "ebay-bid/S2/pngs/0.0_903.9999999999999_750.0_999.9999999999999.png"}
+{"name" : "homeScreenCategoriesCategorySubCategory", "label" : "Collapsed, Furniture", "screenshotPath" : "ebay-bid/S2/pngs/0.0_999.9999999999999_750.0_1095.9999999999998.png"}
+{"name" : "homeScreenCategoriesCategorySubCategory", "label" : "Collapsed, Home & Hearth", "screenshotPath" : "ebay-bid/S2/pngs/0.0_1096.0_750.0_1192.0.png"}
+{"name" : "homeScreenCategoriesCategorySubCategory", "label" : "Incunabula", "screenshotPath" : "ebay-bid/S2/pngs/0.0_1192.0_750.0_1288.0.png"}
+{"value" : "All Categories", "name" : "textview_category___All Categories___-1", "label" : "All Categories", "screenshotPath" : "ebay-bid/S2/pngs/74.0_358.00000000000006_660.0_394.00000000000006.png"}
+{"value" : "Antiques", "name" : "textview_category___Antiques___20081", "label" : "Antiques", "screenshotPath" : "ebay-bid/S2/pngs/74.0_454.0_660.0_490.0.png"}
+{"value" : "Antiquities", "name" : "textview_category___Antiquities___37903", "label" : "Antiquities", "screenshotPath" : "ebay-bid/S2/pngs/74.0_550.0_660.0_586.0.png"}
+{"value" : "Architectural & Garden", "name" : "textview_category___Architectural & Garden___4707", "label" : "Architectural & Garden", "screenshotPath" : "ebay-bid/S2/pngs/74.0_646.0_660.0_682.0.png"}
+{"value" : "Asian Antiques", "name" : "textview_category___Asian Antiques___20082", "label" : "Asian Antiques", "screenshotPath" : "ebay-bid/S2/pngs/74.0_742.0000000000001_660.0_778.0000000000001.png"}
+{"value" : "Decorative Arts", "name" : "textview_category___Decorative Arts___20086", "label" : "Decorative Arts", "screenshotPath" : "ebay-bid/S2/pngs/74.0_838.0000000000001_660.0_874.0000000000001.png"}
+{"value" : "Ethnographic", "name" : "textview_category___Ethnographic___2207", "label" : "Ethnographic", "screenshotPath" : "ebay-bid/S2/pngs/74.0_934.0000000000001_660.0_970.0000000000001.png"}
+{"value" : "Furniture", "name" : "textview_category___Furniture___20091", "label" : "Furniture", "screenshotPath" : "ebay-bid/S2/pngs/74.0_1030.0_660.0_1066.0.png"}
+{"value" : "Home & Hearth", "name" : "textview_category___Home & Hearth___163008", "label" : "Home & Hearth", "screenshotPath" : "ebay-bid/S2/pngs/74.0_1126.0_660.0_1162.0.png"}
+{"value" : "Incunabula", "name" : "textview_category___Incunabula___22422", "label" : "Incunabula", "screenshotPath" : "ebay-bid/S2/pngs/74.0_1222.0_660.0_1258.0.png"}

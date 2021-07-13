@@ -1,0 +1,5 @@
+pathToElementImageCrop: spark-move/S6/pngs/0.0_232.0_750.0_408.0.png;
+coords: {'x1': 0.0, 'y1': 232.0, 'x2': 750.0, 'y2': 408.0};
+text_identifier: { "name" : "Testing" };
+event: oracle;
+oracle-type: widget_exists;

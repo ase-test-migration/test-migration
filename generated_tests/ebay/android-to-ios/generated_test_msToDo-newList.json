@@ -1,0 +1,29 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "msToDo-newList",
+        "events": [
+            {
+                "type": "name",
+                "tag": "screenreader_navigation_back_button",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "placeholder_add_list",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "voiceover_heading",
+                "event": "send_keys",
+                "input": "Sample List"
+            },
+            {
+                "type": "name",
+                "tag": "Share list",
+                "event": "click"
+            }
+        ]
+    }
+}

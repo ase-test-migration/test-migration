@@ -1,0 +1,4 @@
+pathToElementImageCrop: todoist-add/S0/pngs/882_1950_1036_1977.png;
+coords: {'x1': 882, 'y1': 1950, 'x2': 1036, 'y2': 2112};
+text_identifier: { "resource-id" : "com.todoist:id/fab" };
+event: click;

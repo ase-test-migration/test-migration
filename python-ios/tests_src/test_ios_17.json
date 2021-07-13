@@ -1,0 +1,39 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer"
+    },
+    "tests" : [
+        {
+            "name" : "testSMNrefreshSettings",
+            "events": [
+                {
+                    "event": "click",
+                    "tag": "crui_channelView_refreshButton",
+                    "type": "accessibilityId"
+                },
+                {
+                    "type" : "coordinate", 
+                    "x" : 327,
+                    "y": 634,
+                    "event" : "click" 
+                },
+                {
+                    "type" : "coordinate", 
+                    "x" : 51,
+                    "y": 637,
+                    "event" : "click" 
+                },
+                {
+                    "event": "click",
+                    "tag": "Settings",
+                    "type": "accessibilityId"
+                }
+            ]
+    }
+    ]
+}

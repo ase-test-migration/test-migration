@@ -1,0 +1,5 @@
+pathToElementImageCrop: twobird-send/S2/pngs/32.0_248.0_718.0_316.0.png;
+coords: {'x1': 32.0, 'y1': 248.0, 'x2': 718.0, 'y2': 316.0};
+text_identifier: { };
+event: send_keys;
+input: Testing 2;

@@ -1,0 +1,17 @@
+{ "content-desc" : "Watch TV" , "resource-id" : "com.cnn.mobile.android.phone:id/toolbar_watch_TV" , "screenshotPath" : "cnn-category/S1/pngs/841_171_1069_320.png"}
+{ "content-desc" : "Home" , "resource-id" : "com.cnn.mobile.android.phone:id/home_item_menu" , "screenshotPath" : "cnn-category/S1/pngs/0_1994_270_2148.png"}
+{ "content-desc" : "Search" , "resource-id" : "com.cnn.mobile.android.phone:id/search_item_menu" , "screenshotPath" : "cnn-category/S1/pngs/270_1994_540_2148.png"}
+{ "content-desc" : "Saved Stories" , "resource-id" : "com.cnn.mobile.android.phone:id/saved_story_item_menu" , "screenshotPath" : "cnn-category/S1/pngs/540_1994_810_2148.png"}
+{ "content-desc" : "Settings" , "resource-id" : "com.cnn.mobile.android.phone:id/settings_item_menu" , "screenshotPath" : "cnn-category/S1/pngs/810_1994_1080_2148.png"}
+{ "resource-id" : "com.cnn.mobile.android.phone:id/fragment_news_pager_header" , "screenshotPath" : "cnn-category/S1/pngs/0_320_1080_452.png"}
+{ "resource-id" : "com.cnn.mobile.android.phone:id/fragment_news_pager_view_pager" , "screenshotPath" : "cnn-category/S1/pngs/0_452_1080_1977.png"}
+{ "content-desc" : "Top News" , "screenshotPath" : "cnn-category/S1/pngs/0_320_264_452.png"}
+{ "content-desc" : "selected World" , "screenshotPath" : "cnn-category/S1/pngs/264_320_454_452.png"}
+{ "content-desc" : "Politics" , "screenshotPath" : "cnn-category/S1/pngs/454_320_667_452.png"}
+{ "content-desc" : "Business" , "screenshotPath" : "cnn-category/S1/pngs/667_320_913_452.png"}
+{ "content-desc" : "Health" , "screenshotPath" : "cnn-category/S1/pngs/913_320_1080_452.png"}
+{ "resource-id" : "com.cnn.mobile.android.phone:id/fragment_recycler_recyclerView" , "screenshotPath" : "cnn-category/S1/pngs/0_452_1080_1977.png"}
+{ "resource-id" : "com.cnn.mobile.android.phone:id/card_view" , "screenshotPath" : "cnn-category/S1/pngs/22_474_1058_1649.png"}
+{ "resource-id" : "com.cnn.mobile.android.phone:id/card_view" , "screenshotPath" : "cnn-category/S1/pngs/22_1671_1058_1977.png"}
+{ "content-desc" : "Share" , "resource-id" : "com.cnn.mobile.android.phone:id/item_feed_article_share_button" , "screenshotPath" : "cnn-category/S1/pngs/908_1527_1019_1632.png"}
+{ "content-desc" : "Bookmark" , "resource-id" : "com.cnn.mobile.android.phone:id/item_feed_article_bookmark_article_button" , "screenshotPath" : "cnn-category/S1/pngs/742_1527_908_1632.png"}

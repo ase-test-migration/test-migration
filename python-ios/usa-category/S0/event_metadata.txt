@@ -1,0 +1,4 @@
+pathToElementImageCrop: usa-category/S0/pngs/304.0_1238.0_446.0_1334.0.png;
+coords: {'x1': 304.0, 'y1': 1238.0, 'x2': 446.0, 'y2': 1334.0};
+text_identifier: { "label" : "Sections tab" };
+event: click;

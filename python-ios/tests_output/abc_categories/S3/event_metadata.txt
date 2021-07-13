@@ -1,0 +1,4 @@
+pathToElementImageCrop: abc_categories/S3/pngs/140.0_862.0_540.0_922.0.png;
+coords: {'x1': 140.0, 'y1': 862.0, 'x2': 540.0, 'y2': 922.0};
+text_identifier: { "name" : "U.S." };
+event: click;

@@ -1,0 +1,5 @@
+pathToElementImageCrop: brave-search/S1/pngs/36.0_50.0_570.0_118.0.png;
+coords: {'x1': 36.0, 'y1': 50.0, 'x2': 570.0, 'y2': 118.0};
+text_identifier: { "label" : "Address and Search" };
+event: send_keys;
+input: chess.com;

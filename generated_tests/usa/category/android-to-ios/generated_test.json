@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "usa-category",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Sections tab",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "RECENT SECTION CORONAVIRUS",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "oracle-type": "widget_exists",
+                "type": "name",
+                "tag": "For most vulnerable, these clinics are trusted, accessible and vital to vaccine rollout"
+            }
+        ]
+    }
+}

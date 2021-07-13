@@ -1,0 +1,4 @@
+pathToElementImageCrop: msToDo-duedate/S7/pngs/30.0_138.0_1074.0_273.0.png;
+coords: {'x1': 30.0, 'y1': 138.0, 'x2': 1074.0, 'y2': 273.0};
+text_identifier: { "label" : "Dismiss detail view" };
+event: click;

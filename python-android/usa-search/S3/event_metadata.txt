@@ -1,0 +1,4 @@
+pathToElementImageCrop: usa-search/S3/pngs/0_680_1080_1064.png;
+coords: {'x1': 0, 'y1': 680, 'x2': 1080, 'y2': 1064};
+text_identifier: {  };
+event: click;

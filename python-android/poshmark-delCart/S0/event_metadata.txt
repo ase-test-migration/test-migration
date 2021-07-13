@@ -1,0 +1,4 @@
+pathToElementImageCrop: poshmark-delCart/S0/pngs/367_677_488_725.png;
+coords: {'x1': 367, 'y1': 677, 'x2': 488, 'y2': 725};
+text_identifier: { "resource-id" : "com.poshmark.app:id/deleteFromBundleButton" };
+event: click;

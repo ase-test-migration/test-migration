@@ -1,0 +1,4 @@
+pathToElementImageCrop: gTask-newList/S1/pngs/63_1743_1017_1869.png;
+coords: {'x1': 63, 'y1': 1743, 'x2': 1017, 'y2': 1869};
+text_identifier: { "resource-id" : "com.google.android.apps.tasks:id/design_menu_item_text" };
+event: click;

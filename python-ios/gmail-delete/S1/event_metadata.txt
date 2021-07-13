@@ -1,0 +1,4 @@
+pathToElementImageCrop: gmail-delete/S1/pngs/453.99999999999994_40.0_550.0_152.0.png;
+coords: {'x1': 453.99999999999994, 'y1': 40.0, 'x2': 550.0, 'y2': 152.0};
+text_identifier: { "label" : "Delete" };
+event: click;

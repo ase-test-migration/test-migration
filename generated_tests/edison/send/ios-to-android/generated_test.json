@@ -1,0 +1,13 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "edison-send",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "compose email",
+                "event": "click"
+            }
+        ]
+    }
+}

@@ -1,0 +1,5 @@
+pathToElementImageCrop: poshmark-Login/S2/pngs/26_506_1054_648.png;
+coords: {'x1': 26, 'y1': 506, 'x2': 1054, 'y2': 648};
+text_identifier: { "content-desc" : "password" , "resource-id" : "com.poshmark.app:id/passwordTxt" };
+event: send_keys;
+input: Test.0123;

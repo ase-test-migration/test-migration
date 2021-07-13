@@ -1,0 +1,4 @@
+pathToElementImageCrop: edison-send/S0/pngs/882_1950_1036_1977.png;
+coords: {'x1': 882, 'y1': 1950, 'x2': 1036, 'y2': 2112};
+text_identifier: { "content-desc" : "compose email" , "resource-id" : "com.easilydo.mail:id/fab" };
+event: click;

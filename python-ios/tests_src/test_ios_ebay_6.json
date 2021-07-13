@@ -1,0 +1,28 @@
+{
+    "tests": [
+        {
+            "name": "testEbaySearch", 
+            "events": [
+                {
+                    "tag": "button_box_search", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "input": "hat", 
+                    "tag": "textbox_search_bar", 
+                    "type": "accessibilityId", 
+                    "event": "send_keys"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+          "platformName": "iOS",
+          "platformVersion": "13.3.1",
+          "deviceName": "Someone's iPhone",
+          "udid": "auto",
+          "xcodeOrgId": "X9EN5J4J22",
+          "xcodeSigningId": "iPhone Developer"
+    }
+}

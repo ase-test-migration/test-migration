@@ -1,0 +1,66 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = BBC News\l|label = BBC News\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeNavigationBar\l|name = bn-navigation-bar\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-bookmark/S1/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|name = Top Stories\l|label = Top Stories\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 44\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-bookmark/S1/pngs/0.0_40.0_88.0_128.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|name = bn-bar-button\l|label = Share\l|enabled = true\l|visible = true\l|x = 324\l|y = 20\l|width = 43\l|height = 44\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-bookmark/S1/pngs/648.0_40.0_734.0_128.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|name = bn-view-pager-controller\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 55 pages\l|label = Vertical scroll bar, 55 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 64\l|width = 30\l|height = 603\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-bookmark/S1/pngs/684.0_128.0_744.0_1334.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 55 pages\l|label = Horizontal scroll bar, 55 pages\l|enabled = true\l|visible = true\l|x = 0\l|y = 634\l|width = 375\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-bookmark/S1/pngs/0.0_1268.0_750.0_1328.0.png\l}"]
+	18	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-bookmark/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|name = bn-cell-view\l|label = Image, Vaccine\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 211\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-bookmark/S1/pngs/0.0_128.0_750.0_550.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|name = bn-cell-view\l|label = Johnson and Johnson vaccine: FDA finds the single-shot jab safe\l|enabled = true\l|visible = true\l|x = 0\l|y = 275\l|width = 375\l|height = 109\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-bookmark/S1/pngs/0.0_550.0_750.0_768.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|name = bn-cell-view\l|label = 1 hour ago  .  US & Canada\l|enabled = true\l|visible = true\l|x = 0\l|y = 384\l|width = 375\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = true \l|screenshotPath = bbc-bookmark/S1/pngs/0.0_767.9999999999999_750.0_855.9999999999999.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|name = bn-cell-view\l|enabled = true\l|visible = true\l|x = 0\l|y = 428\l|width = 375\l|height = 4362\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-bookmark/S1/pngs/0.0_856.0_750.0_9580.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 10 pages\l|label = Vertical scroll bar, 10 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 128\l|width = 30\l|height = 490\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-bookmark/S1/pngs/684.0_256.0_744.0_1236.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 585\l|width = 375\l|height = 30\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-bookmark/S1/pngs/0.0_1170.0_750.0_1230.0.png\l}"]
+	25	[label="{type = XCUIElementTypeTextView\l|value = A review by US regulators of the single-shot Johnson & Johnson coronavirus vaccine has found it is safe and effective. It paves the way for it to become the third Covid-19 vaccine to be authorised in the US, possibly within days. The vaccine would be a cost-effective alternative to the Pfizer and Moderna vaccines, and can be stored in a refrigerator instead of a freezer. Results from trials were released by Johnson & Johnson last month. The Belgian company Janssen, which is owned by the pharmaceutical giant\l|enabled = true\l|visible = true\l|x = 0\l|y = 428\l|width = 375\l|height = 4362\l|index = 0\l|numberOfChildren = 26\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-bookmark/S1/pngs/0.0_856.0_750.0_9580.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|name = A review by US regulators of the single-shot Johnson & Johnson coronavirus vaccine has found it is safe and effective.\l|label = A review by US regulators of the single-shot Johnson & Johnson coronavirus vaccine has found it is safe and effective.\l|enabled = true\l|visible = true\l|x = 0\l|y = 428\l|width = 375\l|height = 73\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-bookmark/S1/pngs/0.0_856.0_750.0_1002.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|name = It paves the way for it to become the third Covid-19 vaccine to be authorised in the US, possibly within days.\l|label = It paves the way for it to become the third Covid-19 vaccine to be authorised in the US, possibly within days.\l|enabled = true\l|visible = true\l|x = 0\l|y = 523\l|width = 375\l|height = 73\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-bookmark/S1/pngs/0.0_1046.0_750.0_1192.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|name = The vaccine would be a cost-effective alternative to the Pfizer and Moderna vaccines, and can be stored in a refrigerator instead of a freezer.\l|label = The vaccine would be a cost-effective alternative to the Pfizer and Moderna vaccines, and can be stored in a refrigerator instead of a freezer.\l|enabled = true\l|visible = true\l|x = 0\l|y = 619\l|width = 375\l|height = 97\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = bbc-bookmark/S1/pngs/0.0_1238.0_750.0_1432.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	7 -> 9
+	8 -> 10
+	8 -> 11
+	9 -> 12
+	12 -> 13
+	13 -> 14
+	14 -> 15
+	14 -> 16
+	14 -> 17
+	15 -> 18
+	18 -> 19
+	18 -> 20
+	18 -> 21
+	18 -> 22
+	18 -> 23
+	18 -> 24
+	22 -> 25
+	25 -> 26
+	25 -> 27
+	25 -> 28
+
+
+}

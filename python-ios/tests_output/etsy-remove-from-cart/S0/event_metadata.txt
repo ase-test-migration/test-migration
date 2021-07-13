@@ -1,0 +1,4 @@
+pathToElementImageCrop: etsy-remove-from-cart/S0/pngs/996.0_2439.0_1236.0_2586.0.png;
+coords: {'x1': 996.0, 'y1': 2439.0, 'x2': 1236.0, 'y2': 2586.0};
+text_identifier: { "name" : "Cart" };
+event: click;

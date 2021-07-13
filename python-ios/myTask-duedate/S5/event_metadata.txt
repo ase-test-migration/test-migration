@@ -1,0 +1,4 @@
+pathToElementImageCrop: myTask-duedate/S5/pngs/936.0_1872.0_996.0_1935.0.png;
+coords: {'x1': 936.0, 'y1': 1872.0, 'x2': 996.0, 'y2': 1935.0};
+text_identifier: { "label" : "OK" };
+event: click;

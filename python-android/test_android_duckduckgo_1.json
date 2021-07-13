@@ -1,0 +1,29 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "duckduckgo-tab",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.duckduckgo.mobile.android:id/tabCount"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "New Tab"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Search"
+                }
+            ]
+        }
+    ]
+}

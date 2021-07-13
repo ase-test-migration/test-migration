@@ -1,0 +1,35 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "wish-Login",
+        "events": [
+            {
+                "type": "name",
+                "tag": "signInPageButton",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "email",
+                "event": "send_keys",
+                "input": "email@example.com"
+            },
+            {
+                "type": "name",
+                "tag": "password",
+                "event": "send_keys",
+                "input": "Test.0123"
+            },
+            {
+                "type": "name",
+                "tag": "signInActionButton",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Popular"
+            }
+        ]
+    }
+}

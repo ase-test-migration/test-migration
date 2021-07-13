@@ -1,0 +1,54 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{class = hierarchy\l|rotation = 0\l|width = 1080\l|height = 1977\l|numberOfChildren = 1\l|eventGeneratedOnElement = false \l}"]
+	1	[label="{class = android.widget.FrameLayout\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,0][1080,1977]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	2	[label="{class = android.widget.LinearLayout\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,0][1080,1977]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	3	[label="{class = android.widget.FrameLayout\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,171][1080,1977]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	4	[label="{class = android.widget.FrameLayout\l|text = \l|resource-id = com.google.android.apps.tasks:id/action_bar_root\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,171][1080,1977]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	5	[label="{class = android.widget.FrameLayout\l|text = \l|resource-id = android:id/content\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,171][1080,1977]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	6	[label="{class = android.view.ViewGroup\l|text = \l|resource-id = com.google.android.apps.tasks:id/app_bar_coordinator\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,171][1080,1977]\l|displayed = true\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	7	[label="{class = android.widget.FrameLayout\l|text = \l|resource-id = com.google.android.apps.tasks:id/fragment_container\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,171][1080,1977]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	8	[label="{class = android.view.ViewGroup\l|text = \l|resource-id = com.google.android.apps.tasks:id/tasks_bottom_app_bar\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,1994][1080,2148]\l|displayed = true\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l}"]
+	9	[label="{class = android.widget.ImageButton\l|text = \l|content-desc = Create new task\l|resource-id = com.google.android.apps.tasks:id/tasks_fab\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [463,1884][617,1977]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-edit/S0/pngs/463_1884_617_1977.png\l}"]
+	10	[label="{class = android.widget.FrameLayout\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,171][1080,1977]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	11	[label="{class = android.widget.ImageButton\l|text = \l|content-desc = Switch task lists or account\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,1994][154,2148]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-edit/S0/pngs/0_1994_154_2148.png\l}"]
+	12	[label="{class = android.support.v7.widget.LinearLayoutCompat\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [948,1994][1080,2148]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l}"]
+	13	[label="{class = android.view.ViewGroup\l|text = \l|resource-id = com.google.android.apps.tasks:id/tasks_refresh\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,171][1080,1977]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	14	[label="{class = android.widget.TextView\l|text = \l|content-desc = More options\l|resource-id = com.google.android.apps.tasks:id/action_more_options\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [948,2005][1080,2137]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-edit/S0/pngs/948_2005_1080_2137.png\l}"]
+	15	[label="{class = android.support.v7.widget.RecyclerView\l|text = \l|resource-id = com.google.android.apps.tasks:id/tasks_list\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = true\l|focused = true\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,171][1080,1977]\l|displayed = true\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-edit/S0/pngs/0_171_1080_1977.png\l}"]
+	16	[label="{class = android.view.ViewGroup\l|text = \l|resource-id = com.google.android.apps.tasks:id/task_list_title\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,171][1080,386]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	17	[label="{class = android.widget.FrameLayout\l|text = \l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,386][1080,527]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l}"]
+	18	[label="{class = android.widget.TextView\l|text = My Tasks\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [176,244][531,352]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+	19	[label="{class = android.widget.FrameLayout\l|text = \l|content-desc = Edit\l|resource-id = com.google.android.apps.tasks:id/task_item_layout\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [0,386][1080,527]\l|displayed = true\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-edit/S0/pngs/0_386_1080_527.png\l}"]
+	20	[label="{class = android.view.View\l|text = \l|content-desc = Mark as complete\l|resource-id = com.google.android.apps.tasks:id/tasks_item_completed_check\l|checkable = false\l|checked = false\l|clickable = true\l|enabled = true\l|focusable = true\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [66,421][132,487]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-edit/S0/pngs/66_421_132_487.png\l}"]
+	21	[label="{class = android.view.ViewGroup\l|text = \l|resource-id = com.google.android.apps.tasks:id/task_data\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [176,424][1014,483]\l|displayed = true\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = true \l}"]
+	22	[label="{class = android.widget.TextView\l|text = Edit\l|resource-id = com.google.android.apps.tasks:id/task_name\l|checkable = false\l|checked = false\l|clickable = false\l|enabled = true\l|focusable = false\l|focused = false\l|long-clickable = false\l|password = false\l|scrollable = false\l|selected = false\l|bounds = [176,424][251,483]\l|displayed = true\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	6 -> 8
+	6 -> 9
+	7 -> 10
+	8 -> 11
+	8 -> 12
+	10 -> 13
+	12 -> 14
+	13 -> 15
+	15 -> 16
+	15 -> 17
+	16 -> 18
+	17 -> 19
+	19 -> 20
+	19 -> 21
+	21 -> 22
+
+
+}

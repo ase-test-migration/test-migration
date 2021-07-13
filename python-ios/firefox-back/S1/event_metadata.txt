@@ -1,0 +1,5 @@
+pathToElementImageCrop: firefox-back/S1/pngs/112.00000000000001_74.0_638.0_156.0.png;
+coords: {'x1': 112.00000000000001, 'y1': 74.0, 'x2': 638.0, 'y2': 156.0};
+text_identifier: { "label" : "Address and Search" };
+event: send_keys_enter;
+input: google.com;

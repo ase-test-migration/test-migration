@@ -1,0 +1,70 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Tasks\l|label = Tasks\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeScrollView\l|name = kMDCBottomDrawerScrollViewAccessibilityIdentifier\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 301\l|width = 375\l|height = 43\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/0.0_602.0_750.0_688.0.png\l}"]
+	7	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 343\l|width = 375\l|height = 666\l|index = 1\l|numberOfChildren = 6\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/0.0_685.9999999999999_750.0_2018.0.png\l}"]
+	8	[label="{type = XCUIElementTypeStaticText\l|value = Date & Time\l|name = Date & Time\l|label = Date & Time\l|enabled = true\l|visible = true\l|x = 143\l|y = 312\l|width = 89\l|height = 21\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/286.0_624.0_464.0_666.0.png\l}"]
+	9	[label="{type = XCUIElementTypeButton\l|name = Done\l|label = Done\l|enabled = true\l|visible = true\l|x = 312\l|y = 304\l|width = 51\l|height = 37\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = true \l|screenshotPath = gtasks-dueDate/S3/pngs/624.0_608.0_726.0_682.0.png\l}"]
+	10	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 343\l|width = 375\l|height = 43\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/0.0_685.9999999999999_750.0_771.9999999999999.png\l}"]
+	11	[label="{type = XCUIElementTypeCell\l|name = GTEDateTimeRecurrencePickerRecurrenceCellA11yID\l|enabled = true\l|visible = true\l|x = 0\l|y = 385\l|width = 375\l|height = 43\l|index = 1\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/0.0_770.0000000000001_750.0_856.0000000000001.png\l}"]
+	12	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 427\l|width = 375\l|height = 199\l|index = 2\l|numberOfChildren = 4\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/0.0_854.0_750.0_1252.0.png\l}"]
+	13	[label="{type = XCUIElementTypeCell\l|name = GTEDateTimeRecurrencePickerRecurrenceCellA11yID\l|enabled = true\l|visible = true\l|x = 0\l|y = 625\l|width = 375\l|height = 42\l|index = 3\l|numberOfChildren = 4\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/0.0_1250.0_750.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeStaticText\l|value = Done\l|name = Done\l|label = Done\l|enabled = true\l|visible = true\l|x = 320\l|y = 313\l|width = 35\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/640.0_626.0_710.0_664.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 343\l|width = 375\l|height = 43\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/0.0_685.9999999999999_750.0_771.9999999999999.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 385\l|width = 327\l|height = 43\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/0.0_770.0000000000001_654.0_856.0000000000001.png\l}"]
+	17	[label="{type = XCUIElementTypeButton\l|name = Remove time\l|label = Remove time\l|enabled = true\l|visible = true\l|x = 327\l|y = 390\l|width = 32\l|height = 33\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/654.0_780.0_718.0_846.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 427\l|width = 375\l|height = 199\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/0.0_854.0_750.0_1252.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 625\l|width = 335\l|height = 42\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/0.0_1250.0_670.0_1334.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 343\l|width = 343\l|height = 43\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/32.0_685.9999999999999_718.0_771.9999999999999.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 385\l|width = 295\l|height = 43\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/32.0_770.0000000000001_622.0_856.0000000000001.png\l}"]
+	22	[label="{type = XCUIElementTypeDatePicker\l|enabled = true\l|visible = true\l|x = 0\l|y = 427\l|width = 375\l|height = 199\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/0.0_854.0_750.0_1252.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 625\l|width = 303\l|height = 42\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/32.0_1250.0_638.0_1334.0.png\l}"]
+	24	[label="{type = XCUIElementTypeButton\l|name = Thu, Apr 1\l|label = Thu, Apr 1\l|enabled = true\l|visible = true\l|x = 16\l|y = 355\l|width = 343\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/32.0_710.0_718.0_746.0.png\l}"]
+	25	[label="{type = XCUIElementTypeButton\l|name = 12:29 PM\l|label = 12:29 PM\l|enabled = true\l|visible = true\l|x = 16\l|y = 397\l|width = 295\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/32.0_794.0_622.0_830.0.png\l}"]
+	26	[label="{type = XCUIElementTypePicker\l|enabled = true\l|visible = true\l|x = 0\l|y = 427\l|width = 375\l|height = 199\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/0.0_854.0_750.0_1252.0.png\l}"]
+	27	[label="{type = XCUIElementTypeButton\l|name = Does not repeat\l|label = Does not repeat\l|enabled = true\l|visible = true\l|x = 16\l|y = 637\l|width = 303\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/32.0_1274.0_638.0_1310.0.png\l}"]
+	28	[label="{type = XCUIElementTypePickerWheel\l|value = 12 o’clock\l|enabled = true\l|visible = true\l|x = 107\l|y = 389\l|width = 55\l|height = 274\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/214.0_778.0_324.0_1326.0.png\l}"]
+	29	[label="{type = XCUIElementTypePickerWheel\l|value = 29 minutes\l|enabled = true\l|visible = true\l|x = 167\l|y = 389\l|width = 50\l|height = 274\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/334.0_778.0_434.0_1326.0.png\l}"]
+	30	[label="{type = XCUIElementTypePickerWheel\l|value = PM\l|enabled = true\l|visible = true\l|x = 222\l|y = 389\l|width = 65\l|height = 274\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = gtasks-dueDate/S3/pngs/444.0_778.0_574.0_1326.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	5 -> 7
+	6 -> 8
+	6 -> 9
+	7 -> 10
+	7 -> 11
+	7 -> 12
+	7 -> 13
+	9 -> 14
+	10 -> 15
+	11 -> 16
+	11 -> 17
+	12 -> 18
+	13 -> 19
+	15 -> 20
+	16 -> 21
+	18 -> 22
+	19 -> 23
+	20 -> 24
+	21 -> 25
+	22 -> 26
+	23 -> 27
+	26 -> 28
+	26 -> 29
+	26 -> 30
+
+
+}

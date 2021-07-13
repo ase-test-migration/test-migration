@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "wish-addCart",
+        "events": [
+            {
+                "type": "name",
+                "tag": "productCell_5eaa3c1d30aec61fe69644a9",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "actionButton",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "oracle-type": "widget_exists",
+                "type": "name",
+                "tag": "checkoutButton"
+            }
+        ]
+    }
+}

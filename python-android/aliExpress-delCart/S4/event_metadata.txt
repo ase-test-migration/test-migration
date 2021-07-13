@@ -1,0 +1,5 @@
+pathToElementImageCrop: aliExpress-delCart/S4/pngs/168_573_912_624.png;
+coords: {'x1': 168, 'y1': 573, 'x2': 912, 'y2': 624};
+text_identifier: { "resource-id" : "com.alibaba.aliexpresshd:id/tv_empty_cart_desc" };
+event: oracle;
+oracle-type: widget_exists;

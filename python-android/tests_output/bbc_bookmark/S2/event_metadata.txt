@@ -1,0 +1,4 @@
+pathToElementImageCrop: bbc_bookmark/S2/pngs/948_182_1080_314.png;
+coords: {'x1': 948, 'y1': 182, 'x2': 1080, 'y2': 314};
+text_identifier: { "content-desc" : "Add topic" , "resource-id" : "bbc.mobile.news.ww:id/menu_follow" };
+event: click;

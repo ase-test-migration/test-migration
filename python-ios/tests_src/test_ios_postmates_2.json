@@ -1,0 +1,53 @@
+{
+    "tests": [
+        {
+            "name": "removefavorite", 
+            "events": [
+                {
+                    "tag": "Profile", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                },
+                {
+                    "tag": "Favorites",
+                    "type": "accessibilityId",
+                    "event": "click"
+                },
+                {
+                    "tag": "Favorite place: Five Guys Burgers and Fries",
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "bento more icon", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                },
+                {
+                    "input": "Remove from favorites",
+                    "type": "text_exists",
+                    "event": "oracle"
+                },
+                {
+                    "tag": "Remove from favorites", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                },
+                {
+                    "input": "Add to favorites",
+                    "type": "text_exists",
+                    "event": "oracle"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "Someone's iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "13.4.1", 
+        "platformName": "iOS"
+    }
+}

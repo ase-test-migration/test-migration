@@ -1,0 +1,8 @@
+{ "resource-id" : "com.readdle.spark:id/thread_viewer_pager" , "screenshotPath" : "spark-move/S1/pngs/0_0_1080_1977.png"}
+{ "resource-id" : "com.readdle.spark:id/thread_view_recycler" , "screenshotPath" : "spark-move/S1/pngs/0_0_1080_1977.png"}
+{ "resource-id" : "com.readdle.spark:id/thread_viewer_top_toolbar" , "screenshotPath" : "spark-move/S1/pngs/0_0_1080_325.png"}
+{ "content-desc" : "Share" , "resource-id" : "com.readdle.spark:id/menu_share" , "screenshotPath" : "spark-move/S1/pngs/816_182_948_314.png"}
+{ "content-desc" : "Pin" , "resource-id" : "com.readdle.spark:id/menu_pin" , "screenshotPath" : "spark-move/S1/pngs/948_182_1080_314.png"}
+{ "resource-id" : "com.readdle.spark:id/thread_viewer_title_text" , "screenshotPath" : "spark-move/S1/pngs/44_325_1036_392.png"}
+{ "content-desc" : "Reply" , "screenshotPath" : "spark-move/S1/pngs/804_729_936_861.png"}
+{ "content-desc" : "Forward" , "screenshotPath" : "spark-move/S1/pngs/936_729_1068_861.png"}

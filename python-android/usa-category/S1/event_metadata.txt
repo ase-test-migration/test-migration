@@ -1,0 +1,4 @@
+pathToElementImageCrop: usa-category/S1/pngs/0_685_540_786.png;
+coords: {'x1': 0, 'y1': 685, 'x2': 540, 'y2': 786};
+text_identifier: { "resource-id" : "com.usatoday.android.news:id/nav_section_textview" };
+event: click;

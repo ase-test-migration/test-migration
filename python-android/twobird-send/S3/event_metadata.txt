@@ -1,0 +1,4 @@
+pathToElementImageCrop: twobird-send/S3/pngs/836_1323_1025_1422.png;
+coords: {'x1': 836, 'y1': 1323, 'x2': 1025, 'y2': 1422};
+text_identifier: { "content-desc" : "Send" };
+event: click;

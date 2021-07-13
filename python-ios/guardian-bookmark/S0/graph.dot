@@ -1,0 +1,114 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = The Guardian\l|label = The Guardian\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeButton\l|name = Menu\l|label = Menu\l|enabled = true\l|visible = true\l|x = 311\l|y = 603\l|width = 52\l|height = 52\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/622.0_1206.0_726.0_1310.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeTabBar\l|name = Tab Bar\l|label = Tab Bar\l|enabled = true\l|visible = true\l|x = 0\l|y = 618\l|width = 375\l|height = 49\l|index = 1\l|numberOfChildren = 4\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/0.0_1236.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeStaticText\l|value = \l|name = \l|label = \l|enabled = true\l|visible = true\l|x = 324\l|y = 610\l|width = 26\l|height = 33\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/648.0_1220.0_700.0_1286.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|name = Home – tab 1 of 3\l|label = Home – tab 1 of 3\l|enabled = true\l|visible = true\l|x = 0\l|y = 619\l|width = 94\l|height = 48\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/0.0_1238.0_188.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|name = Discover – tab 2 of 3\l|label = Discover – tab 2 of 3\l|enabled = true\l|visible = true\l|x = 93\l|y = 619\l|width = 95\l|height = 48\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/186.0_1238.0_376.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|name = Live – tab 3 of 3\l|label = Live – tab 3 of 3\l|enabled = true\l|visible = true\l|x = 187\l|y = 619\l|width = 95\l|height = 48\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/374.0_1238.0_564.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|name =  - tab - 4 of 4\l|label =  - tab - 4 of 4\l|enabled = true\l|visible = true\l|x = 281\l|y = 619\l|width = 94\l|height = 48\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/562.0_1238.0_750.0_1334.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 83\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/0.0_40.0_750.0_206.0.png\l}"]
+	20	[label="{type = XCUIElementTypeCollectionView\l|name = cardListView\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 2\l|numberOfChildren = 8\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	21	[label="{type = XCUIElementTypeImage\l|value = image\l|name = The Guardian\l|label = The Guardian\l|enabled = true\l|visible = true\l|x = 152\l|y = 26\l|width = 215\l|height = 67\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/304.0_52.0_734.0_186.0.png\l}"]
+	22	[label="{type = XCUIElementTypeButton\l|name = Upgrade to Premium\l|label = Upgrade to Premium\l|enabled = true\l|visible = true\l|x = 8\l|y = 34\l|width = 96\l|height = 59\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/16.0_68.0_208.0_186.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 103\l|width = 375\l|height = 12\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/0.0_206.00000000000003_750.0_230.00000000000003.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 115\l|width = 375\l|height = 1312\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/0.0_230.00000000000003_750.0_2854.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 115\l|width = 359\l|height = 43\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/16.0_230.00000000000003_734.0_316.00000000000006.png\l}"]
+	26	[label="{type = XCUIElementTypeLink\l|name = Live: Biden signs order to protect US supply chains as Moderna announces progress on vaccine updates\l|label = Live: Biden signs order to protect US supply chains as Moderna announces progress on vaccine updates\l|enabled = true\l|visible = true\l|x = 8\l|y = 166\l|width = 359\l|height = 473\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = true \l|screenshotPath = guardian-bookmark/S0/pngs/16.0_332.0_734.0_1278.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 30 pages\l|label = Vertical scroll bar, 30 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 115\l|width = 30\l|height = 503\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/684.0_230.00000000000003_744.0_1236.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 585\l|width = 375\l|height = 30\l|index = 7\l|numberOfChildren = 0\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/0.0_1170.0_750.0_1230.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 105\l|width = 375\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/0.0_210.0_750.0_212.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 108\l|width = 375\l|height = 1\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/0.0_215.99999999999997_750.0_217.99999999999997.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 111\l|width = 375\l|height = 1\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/0.0_222.0_750.0_224.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 114\l|width = 375\l|height = 1\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/0.0_228.0_750.0_230.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 118\l|width = 359\l|height = 32\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/16.0_236.0_734.0_300.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 166\l|width = 359\l|height = 473\l|index = 0\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = guardian-bookmark/S0/pngs/16.0_332.0_734.0_1278.0.png\l}"]
+	35	[label="{type = XCUIElementTypeLink\l|name = Headlines\l|label = Headlines\l|enabled = true\l|visible = true\l|x = 8\l|y = 118\l|width = 146\l|height = 32\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/16.0_236.0_308.0_300.0.png\l}"]
+	36	[label="{type = XCUIElementTypeStaticText\l|value = Updated 28 minutes ago\l|name = Updated 28 minutes ago\l|label = Updated 28 minutes ago\l|enabled = true\l|visible = true\l|x = 298\l|y = 127\l|width = 69\l|height = 19\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/596.0_254.0_734.0_292.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|value = Live: Biden signs order to protect US supply chains as Moderna announces progress on vaccine updates\l|enabled = true\l|visible = true\l|x = 16\l|y = 171\l|width = 343\l|height = 112\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/32.0_342.0_718.0_566.0.png\l}"]
+	38	[label="{type = XCUIElementTypeStaticText\l|value = Senators want more time to consider budget office nomination while Biden’s Covid relief package receives boost\l|name = Senators want more time to consider budget office nomination while Biden’s Covid relief package receives boost\l|label = Senators want more time to consider budget office nomination while Biden’s Covid relief package receives boost\l|enabled = true\l|visible = true\l|x = 16\l|y = 307\l|width = 271\l|height = 48\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/32.0_614.0_574.0_710.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 583\l|width = 359\l|height = 56\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/16.0_1166.0_734.0_1278.0.png\l}"]
+	40	[label="{type = XCUIElementTypeStaticText\l|value = Live / Biden signs order to protect US supply chains as Moderna announces progress on vaccine updates\l|name = Live / Biden signs order to protect US supply chains as Moderna announces progress on vaccine updates\l|label = Live / Biden signs order to protect US supply chains as Moderna announces progress on vaccine updates\l|enabled = true\l|visible = true\l|x = 16\l|y = 166\l|width = 343\l|height = 122\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/32.0_332.0_718.0_576.0.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 175\l|width = 18\l|height = 18\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/32.0_349.99999999999994_68.0_385.99999999999994.png\l}"]
+	42	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 583\l|width = 359\l|height = 56\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/16.0_1166.0_734.0_1278.0.png\l}"]
+	43	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 8\l|y = 583\l|width = 359\l|height = 56\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/16.0_1166.0_734.0_1278.0.png\l}"]
+	44	[label="{type = XCUIElementTypeLink\l|name = Johnson & Johnson: FDA review: one-shot vaccine effective\l|label = Johnson & Johnson: FDA review: one-shot vaccine effective\l|enabled = true\l|visible = true\l|x = 8\l|y = 583\l|width = 287\l|height = 56\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/16.0_1166.0_590.0_1278.0.png\l}"]
+	45	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 295\l|y = 583\l|width = 287\l|height = 56\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/590.0_1166.0_1164.0_1278.0.png\l}"]
+	46	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 583\l|width = 287\l|height = 56\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/16.0_1166.0_590.0_1278.0.png\l}"]
+	47	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 294\l|y = 583\l|width = 1\l|height = 56\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/588.0_1166.0_590.0_1278.0.png\l}"]
+	48	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 295\l|y = 583\l|width = 287\l|height = 56\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/590.0_1166.0_1164.0_1278.0.png\l}"]
+	49	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 295\l|y = 583\l|width = 287\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/590.0_1166.0_1164.0_1168.0.png\l}"]
+	50	[label="{type = XCUIElementTypeStaticText\l|value = Get more on this story\l|name = Get more on this story\l|label = Get more on this story\l|enabled = true\l|visible = true\l|x = 304\l|y = 585\l|width = 134\l|height = 17\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/608.0_1170.0_876.0_1204.0.png\l}"]
+	51	[label="{type = XCUIElementTypeButton\l|name = US politics\l|label = US politics\l|enabled = true\l|visible = true\l|x = 304\l|y = 603\l|width = 74\l|height = 28\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/608.0_1206.0_756.0_1262.0.png\l}"]
+	52	[label="{type = XCUIElementTypeStaticText\l|value = US politics\l|name = US politics\l|label = US politics\l|enabled = true\l|visible = true\l|x = 312\l|y = 609\l|width = 58\l|height = 16\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-bookmark/S0/pngs/624.0_1218.0_740.0_1250.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	5 -> 7
+	5 -> 8
+	6 -> 9
+	7 -> 10
+	8 -> 11
+	8 -> 12
+	8 -> 13
+	8 -> 14
+	10 -> 15
+	15 -> 16
+	16 -> 17
+	17 -> 18
+	18 -> 19
+	18 -> 20
+	19 -> 21
+	19 -> 22
+	20 -> 23
+	20 -> 24
+	20 -> 25
+	20 -> 26
+	20 -> 27
+	20 -> 28
+	23 -> 29
+	23 -> 30
+	23 -> 31
+	23 -> 32
+	25 -> 33
+	26 -> 34
+	33 -> 35
+	33 -> 36
+	34 -> 37
+	34 -> 38
+	34 -> 39
+	37 -> 40
+	37 -> 41
+	39 -> 42
+	42 -> 43
+	43 -> 44
+	43 -> 45
+	44 -> 46
+	44 -> 47
+	45 -> 48
+	48 -> 49
+	48 -> 50
+	48 -> 51
+	51 -> 52
+
+
+}

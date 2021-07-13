@@ -1,0 +1,4 @@
+pathToElementImageCrop: poshmark-addShoppingCart/S0/pngs/21_712_244_935.png;
+coords: {'x1': 21, 'y1': 712, 'x2': 244, 'y2': 935};
+text_identifier: { "content-desc" : "shop_brands0:Louis_Vuitton" , "resource-id" : "com.poshmark.app:id/coverShotViewBig_v2" };
+event: click;

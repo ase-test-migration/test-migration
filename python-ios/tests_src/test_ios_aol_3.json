@@ -1,0 +1,36 @@
+
+{
+    "desiredCapabilities": {
+          "platformName": "iOS",
+          "platformVersion": "13.3.1",
+          "deviceName": "Someone's iPhone",
+          "udid": "auto",
+          "xcodeOrgId": "X9EN5J4J22",
+          "xcodeSigningId": "iPhone Developer"
+    },
+    "tests" : [
+        {
+            "name" : "testAOLWeather",
+            "events": [
+                {
+                    "event": "click",
+                    "tag": "LOS ANGELES",
+                    "type": "accessibilityId"
+                },
+                {
+                    "event": "click",
+                    "tag": "Settings",
+                    "type": "accessibilityId"
+                },
+                {
+                    "event": "click",
+                    "tag": "Settings",
+                    "type": "accessibilityId"
+                }
+            ]
+
+
+
+    }
+    ]
+}

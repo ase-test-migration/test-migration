@@ -1,0 +1,4 @@
+pathToElementImageCrop: spark-move/S4/pngs/10.0_44.0_98.0_144.0.png;
+coords: {'x1': 10.0, 'y1': 44.0, 'x2': 98.0, 'y2': 144.0};
+text_identifier: { "label" : "7F86329E 3551 4679 8D3F 295222" };
+event: click;

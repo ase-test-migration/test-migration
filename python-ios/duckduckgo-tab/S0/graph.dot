@@ -1,0 +1,90 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = DuckDuckGo\l|label = DuckDuckGo\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 52\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/0.0_40.0_750.0_144.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 69\l|width = 375\l|height = 3\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/0.0_138.0_750.0_144.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 546\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/0.0_144.0_750.0_1236.0.png\l}"]
+	8	[label="{type = XCUIElementTypeToolbar\l|name = Toolbar\l|label = Toolbar\l|enabled = true\l|visible = true\l|x = 0\l|y = 618\l|width = 375\l|height = 49\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/0.0_1236.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 52\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/0.0_40.0_750.0_144.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 546\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/0.0_144.0_750.0_1236.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 618\l|width = 375\l|height = 49\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/0.0_1236.0_750.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 26\l|width = 309\l|height = 40\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/16.0_52.0_634.0_132.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 331\l|y = 34\l|width = 30\l|height = 24\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/662.0_68.0_722.0_116.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 546\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/0.0_144.0_750.0_1236.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 618\l|width = 359\l|height = 49\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/0.0_1236.0_718.0_1334.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 26\l|width = 309\l|height = 40\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/16.0_52.0_634.0_132.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 14\l|y = 26\l|width = 297\l|height = 40\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/28.000000000000004_52.0_622.0_132.0.png\l}"]
+	18	[label="{type = XCUIElementTypeButton\l|name = Browsing Menu\l|label = Browsing Menu\l|enabled = true\l|visible = true\l|x = 331\l|y = 34\l|width = 30\l|height = 24\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/662.0_68.0_722.0_116.0.png\l}"]
+	19	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 546\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/0.0_144.0_750.0_1236.0.png\l}"]
+	20	[label="{type = XCUIElementTypeButton\l|name = Browse Back\l|label = Browse Back\l|enabled = true\l|visible = true\l|x = 0\l|y = 618\l|width = 45\l|height = 49\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/0.0_1236.0_90.0_1334.0.png\l}"]
+	21	[label="{type = XCUIElementTypeButton\l|name = Browse Forward\l|label = Browse Forward\l|enabled = false\l|visible = true\l|x = 93\l|y = 618\l|width = 35\l|height = 49\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/186.0_1236.0_256.0_1334.0.png\l}"]
+	22	[label="{type = XCUIElementTypeButton\l|name = Fire\l|label = Close all tabs and clear data\l|enabled = true\l|visible = true\l|x = 175\l|y = 618\l|width = 30\l|height = 49\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/350.0_1236.0_410.0_1334.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 253\l|y = 620\l|width = 29\l|height = 45\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/506.0_1240.0_564.0_1330.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 330\l|y = 620\l|width = 29\l|height = 45\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = true \l|screenshotPath = duckduckgo-tab/S0/pngs/660.0_1240.0_718.0_1330.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 14\l|y = 26\l|width = 267\l|height = 40\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/28.000000000000004_52.0_562.0_132.0.png\l}"]
+	26	[label="{type = XCUIElementTypeButton\l|name = Refresh Page\l|label = Refresh Page\l|enabled = true\l|visible = true\l|x = 281\l|y = 34\l|width = 30\l|height = 24\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/562.0_68.0_622.0_116.0.png\l}"]
+	27	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 546\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/0.0_144.0_750.0_1236.0.png\l}"]
+	28	[label="{type = XCUIElementTypeButton\l|name = Bookmarks\l|label = Bookmarks\l|enabled = true\l|visible = true\l|x = 253\l|y = 620\l|width = 29\l|height = 45\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/506.0_1240.0_564.0_1330.0.png\l}"]
+	29	[label="{type = XCUIElementTypeButton\l|name = Tabs\l|label = Tab Switcher\l|enabled = true\l|visible = true\l|x = 330\l|y = 620\l|width = 29\l|height = 45\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = duckduckgo-tab/S0/pngs/660.0_1240.0_718.0_1330.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 14\l|y = 26\l|width = 150\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/28.000000000000004_52.0_328.0_132.0.png\l}"]
+	31	[label="{type = XCUIElementTypeSearchField\l|value = https://www.wikipedia.org/\l|name = searchEntry\l|enabled = true\l|visible = true\l|x = 44\l|y = 26\l|width = 237\l|height = 40\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/88.0_52.0_562.0_132.0.png\l}"]
+	32	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 546\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/0.0_144.0_750.0_1236.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 3 pages\l|label = Vertical scroll bar, 3 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 72\l|width = 30\l|height = 546\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/684.0_144.0_744.0_1236.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 585\l|width = 375\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/0.0_1170.0_750.0_1230.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|name = siteRating\l|enabled = false\l|visible = true\l|x = 14\l|y = 26\l|width = 30\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/28.000000000000004_52.0_88.0_132.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 14\l|y = 26\l|width = 30\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/28.000000000000004_52.0_88.0_132.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	39	[label="{type = XCUIElementTypeButton\l|name = Privacy grade B\l|label = Privacy grade B\l|enabled = true\l|visible = true\l|x = 18\l|y = 35\l|width = 22\l|height = 22\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/36.0_70.0_80.0_114.0.png\l}"]
+	40	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 72\l|width = 375\l|height = 546\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S0/pngs/0.0_144.0_750.0_1236.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	4 -> 7
+	4 -> 8
+	5 -> 9
+	7 -> 10
+	8 -> 11
+	9 -> 12
+	9 -> 13
+	10 -> 14
+	11 -> 15
+	12 -> 16
+	12 -> 17
+	13 -> 18
+	14 -> 19
+	15 -> 20
+	15 -> 21
+	15 -> 22
+	15 -> 23
+	15 -> 24
+	17 -> 25
+	17 -> 26
+	19 -> 27
+	23 -> 28
+	24 -> 29
+	25 -> 30
+	25 -> 31
+	27 -> 32
+	27 -> 33
+	27 -> 34
+	30 -> 35
+	32 -> 36
+	35 -> 37
+	36 -> 38
+	37 -> 39
+	38 -> 40
+
+
+}

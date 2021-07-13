@@ -1,0 +1,28 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "McD-removeFav",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "Order tab 2 of 5",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.mcdonalds.app:id/location_or_address_text",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Favorites\nTab 2 of 2 not selected",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "1071 Martin Luther King Jr Blvd  favorited store",
+                "event": "click"
+            }
+        ]
+    }
+}

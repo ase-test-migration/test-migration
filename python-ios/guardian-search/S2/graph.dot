@@ -1,0 +1,146 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = The Guardian\l|label = The Guardian\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 3\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 595\l|width = 414\l|height = 301\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/0.0_1785.0_1242.0_2688.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 595\l|width = 414\l|height = 243\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/0.0_1785.0_1242.0_2514.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 595\l|width = 414\l|height = 301\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/0.0_1785.0_1242.0_2688.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	11	[label="{type = XCUIElementTypeKeyboard\l|enabled = true\l|visible = true\l|x = 0\l|y = 595\l|width = 414\l|height = 243\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/0.0_1785.0_1242.0_2514.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|value = English (US)\l|name = Next keyboard\l|label = Next keyboard\l|enabled = true\l|visible = true\l|x = 2\l|y = 829\l|width = 78\l|height = 66\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/6.0_2487.0_240.0_2685.0.png\l}"]
+	13	[label="{type = XCUIElementTypeButton\l|name = dictation\l|label = Dictate\l|enabled = true\l|visible = true\l|x = 334\l|y = 829\l|width = 78\l|height = 66\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/1002.0_2487.0_1236.0_2685.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 595\l|width = 414\l|height = 243\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/0.0_1785.0_1242.0_2514.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 595\l|width = 414\l|height = 243\l|numberOfChildren = 38\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/0.0_1785.0_1242.0_2514.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	19	[label="{type = XCUIElementTypeKey\l|name = ض\l|label = ض\l|enabled = true\l|visible = true\l|x = 2\l|y = 602\l|width = 38\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/6.0_1806.0_120.0_1953.0.png\l}"]
+	20	[label="{type = XCUIElementTypeKey\l|name = ص\l|label = ص\l|enabled = true\l|visible = true\l|x = 40\l|y = 602\l|width = 37\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/120.0_1806.0_231.0_1953.0.png\l}"]
+	21	[label="{type = XCUIElementTypeKey\l|name = ق\l|label = ق\l|enabled = true\l|visible = true\l|x = 77\l|y = 602\l|width = 38\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/231.0_1806.0_345.0_1953.0.png\l}"]
+	22	[label="{type = XCUIElementTypeKey\l|name = ف\l|label = ف\l|enabled = true\l|visible = true\l|x = 115\l|y = 602\l|width = 37\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/345.0_1806.0_456.0_1953.0.png\l}"]
+	23	[label="{type = XCUIElementTypeKey\l|name = غ\l|label = غ\l|enabled = true\l|visible = true\l|x = 152\l|y = 602\l|width = 37\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/456.0_1806.0_567.0_1953.0.png\l}"]
+	24	[label="{type = XCUIElementTypeKey\l|name = ع\l|label = ع\l|enabled = true\l|visible = true\l|x = 189\l|y = 602\l|width = 37\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/567.0_1806.0_678.0_1953.0.png\l}"]
+	25	[label="{type = XCUIElementTypeKey\l|name = ه\l|label = ه\l|enabled = true\l|visible = true\l|x = 226\l|y = 602\l|width = 37\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/678.0_1806.0_789.0_1953.0.png\l}"]
+	26	[label="{type = XCUIElementTypeKey\l|name = خ\l|label = خ\l|enabled = true\l|visible = true\l|x = 263\l|y = 602\l|width = 37\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/789.0_1806.0_900.0_1953.0.png\l}"]
+	27	[label="{type = XCUIElementTypeKey\l|name = ح\l|label = ح\l|enabled = true\l|visible = true\l|x = 300\l|y = 602\l|width = 38\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/900.0_1806.0_1014.0_1953.0.png\l}"]
+	28	[label="{type = XCUIElementTypeKey\l|name = ج\l|label = ج\l|enabled = true\l|visible = true\l|x = 338\l|y = 602\l|width = 37\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/1014.0_1806.0_1125.0_1953.0.png\l}"]
+	29	[label="{type = XCUIElementTypeKey\l|name = چ\l|label = چ\l|enabled = true\l|visible = true\l|x = 375\l|y = 602\l|width = 38\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/1125.0_1806.0_1239.0_1953.0.png\l}"]
+	30	[label="{type = XCUIElementTypeKey\l|name = ش\l|label = ش\l|enabled = true\l|visible = true\l|x = 2\l|y = 658\l|width = 38\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 11\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/6.0_1974.0_120.0_2121.0.png\l}"]
+	31	[label="{type = XCUIElementTypeKey\l|name = س\l|label = س\l|enabled = true\l|visible = true\l|x = 40\l|y = 658\l|width = 37\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 12\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/120.0_1974.0_231.0_2121.0.png\l}"]
+	32	[label="{type = XCUIElementTypeKey\l|name = ی\l|label = ی\l|enabled = true\l|visible = true\l|x = 77\l|y = 658\l|width = 38\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 13\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/231.0_1974.0_345.0_2121.0.png\l}"]
+	33	[label="{type = XCUIElementTypeKey\l|name = ب\l|label = ب\l|enabled = true\l|visible = true\l|x = 115\l|y = 658\l|width = 37\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 14\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/345.0_1974.0_456.0_2121.0.png\l}"]
+	34	[label="{type = XCUIElementTypeKey\l|name = ل\l|label = ل\l|enabled = true\l|visible = true\l|x = 152\l|y = 658\l|width = 37\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 15\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/456.0_1974.0_567.0_2121.0.png\l}"]
+	35	[label="{type = XCUIElementTypeKey\l|name = ا\l|label = ا\l|enabled = true\l|visible = true\l|x = 189\l|y = 658\l|width = 37\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 16\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/567.0_1974.0_678.0_2121.0.png\l}"]
+	36	[label="{type = XCUIElementTypeKey\l|name = ت\l|label = ت\l|enabled = true\l|visible = true\l|x = 226\l|y = 658\l|width = 37\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 17\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/678.0_1974.0_789.0_2121.0.png\l}"]
+	37	[label="{type = XCUIElementTypeKey\l|name = ن\l|label = ن\l|enabled = true\l|visible = true\l|x = 263\l|y = 658\l|width = 37\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 18\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/789.0_1974.0_900.0_2121.0.png\l}"]
+	38	[label="{type = XCUIElementTypeKey\l|name = م\l|label = م\l|enabled = true\l|visible = true\l|x = 300\l|y = 658\l|width = 38\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 19\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/900.0_1974.0_1014.0_2121.0.png\l}"]
+	39	[label="{type = XCUIElementTypeKey\l|name = ک\l|label = ک\l|enabled = true\l|visible = true\l|x = 338\l|y = 658\l|width = 37\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 20\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/1014.0_1974.0_1125.0_2121.0.png\l}"]
+	40	[label="{type = XCUIElementTypeKey\l|name = گ\l|label = گ\l|enabled = true\l|visible = true\l|x = 375\l|y = 658\l|width = 38\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 21\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/1125.0_1974.0_1239.0_2121.0.png\l}"]
+	41	[label="{type = XCUIElementTypeKey\l|name = ظ\l|label = ظ\l|enabled = true\l|visible = true\l|x = 2\l|y = 714\l|width = 38\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 22\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/6.0_2142.0_120.0_2289.0.png\l}"]
+	42	[label="{type = XCUIElementTypeKey\l|name = ط\l|label = ط\l|enabled = true\l|visible = true\l|x = 40\l|y = 714\l|width = 37\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 23\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/120.0_2142.0_231.0_2289.0.png\l}"]
+	43	[label="{type = XCUIElementTypeKey\l|name = ژ\l|label = ژ\l|enabled = true\l|visible = true\l|x = 77\l|y = 714\l|width = 38\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 24\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/231.0_2142.0_345.0_2289.0.png\l}"]
+	44	[label="{type = XCUIElementTypeKey\l|name = ز\l|label = ز\l|enabled = true\l|visible = true\l|x = 115\l|y = 714\l|width = 37\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 25\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/345.0_2142.0_456.0_2289.0.png\l}"]
+	45	[label="{type = XCUIElementTypeKey\l|name = ر\l|label = ر\l|enabled = true\l|visible = true\l|x = 152\l|y = 714\l|width = 37\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 26\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/456.0_2142.0_567.0_2289.0.png\l}"]
+	46	[label="{type = XCUIElementTypeKey\l|name = ذ\l|label = ذ\l|enabled = true\l|visible = true\l|x = 189\l|y = 714\l|width = 37\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 27\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/567.0_2142.0_678.0_2289.0.png\l}"]
+	47	[label="{type = XCUIElementTypeKey\l|name = د\l|label = د\l|enabled = true\l|visible = true\l|x = 226\l|y = 714\l|width = 37\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 28\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/678.0_2142.0_789.0_2289.0.png\l}"]
+	48	[label="{type = XCUIElementTypeKey\l|name = پ\l|label = پ\l|enabled = true\l|visible = true\l|x = 263\l|y = 714\l|width = 37\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 29\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/789.0_2142.0_900.0_2289.0.png\l}"]
+	49	[label="{type = XCUIElementTypeKey\l|name = و\l|label = و\l|enabled = true\l|visible = true\l|x = 300\l|y = 714\l|width = 38\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 30\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/900.0_2142.0_1014.0_2289.0.png\l}"]
+	50	[label="{type = XCUIElementTypeKey\l|name = ث\l|label = ث\l|enabled = true\l|visible = true\l|x = 338\l|y = 714\l|width = 37\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 31\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/1014.0_2142.0_1125.0_2289.0.png\l}"]
+	51	[label="{type = XCUIElementTypeKey\l|name = delete\l|label = delete\l|enabled = true\l|visible = true\l|x = 375\l|y = 714\l|width = 38\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 32\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/1125.0_2142.0_1239.0_2289.0.png\l}"]
+	52	[label="{type = XCUIElementTypeKey\l|name = more\l|label = numbers\l|enabled = true\l|visible = true\l|x = 2\l|y = 770\l|width = 51\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 33\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/6.0_2310.0_159.0_2457.0.png\l}"]
+	53	[label="{type = XCUIElementTypeButton\l|name = Emoji\l|label = Emoji\l|enabled = true\l|visible = true\l|x = 53\l|y = 770\l|width = 52\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 34\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/159.00000000000003_2310.0_315.0_2457.0.png\l}"]
+	54	[label="{type = XCUIElementTypeKey\l|name = فاصله\l|label = فاصله\l|enabled = true\l|visible = true\l|x = 105\l|y = 770\l|width = 154\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 35\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/315.0_2310.0_777.0_2457.0.png\l}"]
+	55	[label="{type = XCUIElementTypeKey\l|name = ␣\l|label = ␣\l|enabled = true\l|visible = true\l|x = 259\l|y = 770\l|width = 51\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 36\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/777.0_2310.0_930.0_2457.0.png\l}"]
+	56	[label="{type = XCUIElementTypeButton\l|name = Search\l|label = جستجو\l|enabled = false\l|visible = true\l|x = 310\l|y = 770\l|width = 102\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 37\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/930.0_2310.0_1236.0_2457.0.png\l}"]
+	57	[label="{type = XCUIElementTypeNavigationBar\l|name = GLASearchView\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 44\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/0.0_132.0_1242.0_264.0.png\l}"]
+	58	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	59	[label="{type = XCUIElementTypeButton\l|name = Back\l|label = Back\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 51\l|height = 44\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/0.0_132.0_153.0_264.0.png\l}"]
+	60	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	61	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 725\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/0.0_264.0_1242.0_2439.0.png\l}"]
+	62	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 92\l|width = 414\l|height = 44\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/0.0_276.0_1242.0_408.0.png\l}"]
+	63	[label="{type = XCUIElementTypeTable\l|name = searchResultsTable\l|label = Empty list\l|enabled = true\l|visible = true\l|x = 0\l|y = 136\l|width = 414\l|height = 669\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/0.0_407.99999999999994_1242.0_2415.0.png\l}"]
+	64	[label="{type = XCUIElementTypeStaticText\l|value = \l|name = \l|label = \l|enabled = true\l|visible = true\l|x = 177\l|y = 293\l|width = 60\l|height = 61\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/531.0_878.9999999999999_711.0_1061.9999999999998.png\l}"]
+	65	[label="{type = XCUIElementTypeStaticText\l|value = Search for contributors, articles, sections or topics\l|name = Search for contributors, articles, sections or topics\l|label = Search for contributors, articles, sections or topics\l|enabled = true\l|visible = true\l|x = 67\l|y = 330\l|width = 280\l|height = 100\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/201.0_990.0000000000001_1041.0_1290.0.png\l}"]
+	66	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 92\l|width = 390\l|height = 44\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/36.0_276.0_1206.0_408.0.png\l}"]
+	67	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 92\l|width = 390\l|height = 44\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = guardian-search/S2/pngs/36.0_276.0_1206.0_408.0.png\l}"]
+	68	[label="{type = XCUIElementTypeSearchField\l|name = Search\l|label = Search\l|enabled = true\l|visible = true\l|x = 20\l|y = 96\l|width = 374\l|height = 36\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = guardian-search/S2/pngs/60.0_288.0_1182.0_396.0.png\l}"]
+
+
+	0 -> 1
+	0 -> 2
+	1 -> 3
+	2 -> 4
+	3 -> 5
+	4 -> 6
+	5 -> 7
+	6 -> 8
+	6 -> 9
+	7 -> 10
+	8 -> 11
+	9 -> 12
+	9 -> 13
+	10 -> 14
+	11 -> 15
+	14 -> 16
+	15 -> 17
+	16 -> 18
+	17 -> 19
+	17 -> 20
+	17 -> 21
+	17 -> 22
+	17 -> 23
+	17 -> 24
+	17 -> 25
+	17 -> 26
+	17 -> 27
+	17 -> 28
+	17 -> 29
+	17 -> 30
+	17 -> 31
+	17 -> 32
+	17 -> 33
+	17 -> 34
+	17 -> 35
+	17 -> 36
+	17 -> 37
+	17 -> 38
+	17 -> 39
+	17 -> 40
+	17 -> 41
+	17 -> 42
+	17 -> 43
+	17 -> 44
+	17 -> 45
+	17 -> 46
+	17 -> 47
+	17 -> 48
+	17 -> 49
+	17 -> 50
+	17 -> 51
+	17 -> 52
+	17 -> 53
+	17 -> 54
+	17 -> 55
+	17 -> 56
+	18 -> 57
+	18 -> 58
+	57 -> 59
+	58 -> 60
+	60 -> 61
+	61 -> 62
+	61 -> 63
+	61 -> 64
+	61 -> 65
+	62 -> 66
+	66 -> 67
+	67 -> 68
+
+
+}

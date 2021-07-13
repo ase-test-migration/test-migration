@@ -1,0 +1,5 @@
+pathToElementImageCrop: poshmark-Login/S1/pngs/26_329_1054_451.png;
+coords: {'x1': 26, 'y1': 329, 'x2': 1054, 'y2': 451};
+text_identifier: { "content-desc" : "username" , "resource-id" : "com.poshmark.app:id/usernameTxt" };
+event: send_keys;
+input: TestUseri;

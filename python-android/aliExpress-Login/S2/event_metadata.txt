@@ -1,0 +1,5 @@
+pathToElementImageCrop: aliExpress-Login/S2/pngs/189_316_1038_442.png;
+coords: {'x1': 189, 'y1': 316, 'x2': 1038, 'y2': 442};
+text_identifier: { "resource-id" : "com.alibaba.aliexpresshd:id/til_email" , "resource-id" : "com.alibaba.aliexpresshd:id/et_email" };
+event: send_keys;
+input: email@example.com;

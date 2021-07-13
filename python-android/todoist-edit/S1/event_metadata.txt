@@ -1,0 +1,5 @@
+pathToElementImageCrop: todoist-edit/S1/pngs/48_680_1032_753.png;
+coords: {'x1': 48, 'y1': 680, 'x2': 1032, 'y2': 753};
+text_identifier: { "resource-id" : "android:id/message" };
+event: send_keys;
+input: task1;

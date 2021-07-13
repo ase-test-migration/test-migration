@@ -1,0 +1,4 @@
+pathToElementImageCrop: addOrder/S1/pngs/36_432_528_835.png;
+coords: {'x1': 36, 'y1': 432, 'x2': 528, 'y2': 835};
+text_identifier: { "content-desc" : "" , "resource-id" : "com.ubercab.eats:id/ub__search_home_grid_item_image" };
+event: click;

@@ -1,0 +1,5 @@
+pathToElementImageCrop: ebay-remove-from-cart/S2/pngs/303.0_1044.0_939.0000000000001_1146.0.png;
+coords: {'x1': 303.0, 'y1': 1044.0, 'x2': 939.0000000000001, 'y2': 1146.0};
+text_identifier: { "label" : "You don't have any items in your cart. Let's get shopping!" };
+event: oracle;
+oracle-type: widget_exists;

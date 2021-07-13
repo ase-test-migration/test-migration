@@ -1,0 +1,5 @@
+pathToElementImageCrop: wish-delCart/S4/pngs/352_319_728_584.png;
+coords: {'x1': 352, 'y1': 319, 'x2': 728, 'y2': 584};
+text_identifier: { "resource-id" : "com.contextlogic.wish:id/empty_message" };
+event: oracle;
+oracle-type: widget_exists;

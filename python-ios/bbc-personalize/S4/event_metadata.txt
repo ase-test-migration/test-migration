@@ -1,0 +1,4 @@
+pathToElementImageCrop: bbc-personalize/S4/pngs/154.0_1238.0_296.0_1334.0.png;
+coords: {'x1': 154.0, 'y1': 1238.0, 'x2': 296.0, 'y2': 1334.0};
+text_identifier: { "label" : "My News" };
+event: click;

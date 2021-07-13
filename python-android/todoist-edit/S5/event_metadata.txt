@@ -1,0 +1,4 @@
+pathToElementImageCrop: todoist-edit/S5/pngs/0_264_1080_459.png;
+coords: {'x1': 0, 'y1': 264, 'x2': 1080, 'y2': 459};
+text_identifier: { "resource-id" : "com.todoist:id/root" , "resource-id" : "com.todoist:id/item" };
+event: click;

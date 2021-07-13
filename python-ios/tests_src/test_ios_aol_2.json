@@ -1,0 +1,36 @@
+
+{
+    "desiredCapabilities": {
+          "platformName": "iOS",
+          "platformVersion": "13.3.1",
+          "deviceName": "Someone's iPhone",
+          "udid": "auto",
+          "xcodeOrgId": "X9EN5J4J22",
+          "xcodeSigningId": "iPhone Developer"
+    },
+    "tests" : [
+        {
+            "name" : "testAOLSetting",
+            "events": [
+                {
+                    "event": "click",
+                    "tag": "Settings Tab bar button",
+                    "type": "accessibilityId"
+                },
+                {
+                    "event": "click",
+                    "tag": "//XCUIElementTypeApplication[@name=\"AOL\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeTable/XCUIElementTypeCell[2]",
+                    "type": "xPath"
+                },
+                {
+                    "event": "click",
+                    "tag": "\u00a0\u00a0France",
+                    "type": "accessibilityId"
+                }
+            ]
+
+
+
+    }
+    ]
+}

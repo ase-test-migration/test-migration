@@ -1,0 +1,43 @@
+{
+    "tests": [
+        {
+            "name": "abc-mynews", 
+            "events": [
+                {
+                    "tag": "Interests", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                },
+                {
+                    "input": "Following",
+                    "event": "oracle",
+                    "oracle-type": "text_invisible"
+                },
+                {
+                    "tag": "(//XCUIElementTypeButton[@name=\"+  Follow\"])[1]", 
+                    "type": "xPath", 
+                    "event": "click"
+                },
+                {
+                    "input": "Following",
+                    "event": "oracle",
+                    "oracle-type": "text_exists"
+                },
+                {
+                    "tag": "//XCUIElementTypeStaticText[@name=\"More State Races to Follow\"]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "14.3", 
+        "platformName": "iOS"
+    }
+}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: cnn-edition/S3/pngs/60.0_480.0_1182.0_612.0.png;
+coords: {'x1': 60.0, 'y1': 480.0, 'x2': 1182.0, 'y2': 612.0};
+text_identifier: { "label" : "International" };
+event: click;

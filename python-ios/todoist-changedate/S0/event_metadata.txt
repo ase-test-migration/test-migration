@@ -1,0 +1,4 @@
+pathToElementImageCrop: todoist-changedate/S0/pngs/0.0_264.0_1242.0_465.0.png;
+coords: {'x1': 0.0, 'y1': 264.0, 'x2': 1242.0, 'y2': 465.0};
+text_identifier: { "label" : "My Task,Today" };
+event: click;

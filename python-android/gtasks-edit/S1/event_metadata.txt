@@ -1,0 +1,4 @@
+pathToElementImageCrop: gtasks-edit/S1/pngs/55_462_1025_537.png;
+coords: {'x1': 55, 'y1': 462, 'x2': 1025, 'y2': 537};
+text_identifier: { "resource-id" : "com.google.android.apps.tasks:id/edit_title" };
+event: click;

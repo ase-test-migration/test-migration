@@ -1,0 +1,4 @@
+pathToElementImageCrop: todoist-changedate/S2/pngs/156_1199_378_1295.png;
+coords: {'x1': 156, 'y1': 1199, 'x2': 378, 'y2': 1295};
+text_identifier: { "text" : "Today" , "resource-id" : "com.todoist:id/item_due" };
+event: click;

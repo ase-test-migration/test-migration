@@ -1,0 +1,96 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Wish\l|label = Wish\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeNavigationBar\l|name = Cart\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 44\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/0.0_132.0_1242.0_264.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeButton\l|name = closeDialogButton\l|label = closeDialogButton\l|enabled = true\l|visible = true\l|x = 20\l|y = 51\l|width = 30\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/60.0_153.0_150.0_243.0.png\l}"]
+	7	[label="{type = XCUIElementTypeStaticText\l|value = Cart\l|name = pageTitle\l|label = Cart\l|enabled = true\l|visible = true\l|x = 188\l|y = 54\l|width = 38\l|height = 24\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/564.0_162.0_678.0_234.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 808\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/0.0_264.0_1242.0_2688.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 774\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/0.0_264.0_1242.0_2586.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 774\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/0.0_264.0_1242.0_2586.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 774\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/0.0_264.0_1242.0_2586.0.png\l}"]
+	13	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 702\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/0.0_264.0_1242.0_2370.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 790\l|width = 414\l|height = 72\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/0.0_2370.0_1242.0_2586.0.png\l}"]
+	15	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 47\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/0.0_264.0_1242.0_405.0.png\l}"]
+	16	[label="{type = XCUIElementTypeCell\l|name = cartItemCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 134\l|width = 414\l|height = 115\l|numberOfChildren = 7\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/0.0_402.0_1242.0_747.0.png\l}"]
+	17	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 248\l|width = 414\l|height = 47\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/0.0_744.0_1242.0_885.0.png\l}"]
+	18	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 295\l|width = 414\l|height = 380\l|numberOfChildren = 11\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/0.0_885.0000000000001_1242.0_2025.0.png\l}"]
+	19	[label="{type = XCUIElementTypeButton\l|name = checkoutButton\l|label = Checkout\l|enabled = true\l|visible = true\l|x = 16\l|y = 806\l|width = 382\l|height = 40\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/48.0_2418.0_1194.0_2538.0.png\l}"]
+	20	[label="{type = XCUIElementTypeStaticText\l|value = Items in Cart\l|name = Items in Cart\l|label = Items in Cart\l|enabled = true\l|visible = true\l|x = 16\l|y = 104\l|width = 87\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/48.0_312.0_309.0_369.0.png\l}"]
+	21	[label="{type = XCUIElementTypeStaticText\l|value = 1pc\l|name = cartItemSizeColor\l|label = 1pc\l|enabled = true\l|visible = true\l|x = 96\l|y = 176\l|width = 238\l|height = 17\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/288.0_528.0_1002.0_579.0.png\l}"]
+	22	[label="{type = XCUIElementTypeStaticText\l|value = Shipping:  $1.00\l|name = cartItemShipping\l|label = Shipping:  $1.00\l|enabled = true\l|visible = true\l|x = 96\l|y = 196\l|width = 238\l|height = 17\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/288.0_588.0_1002.0_639.0.png\l}"]
+	23	[label="{type = XCUIElementTypeStaticText\l|value = Estimated delivery by Feb 15 - Feb 25\l|name = cartItemShippingDate\l|label = Estimated delivery by Feb 15 - Feb 25\l|enabled = true\l|visible = true\l|x = 96\l|y = 216\l|width = 238\l|height = 17\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/288.0_648.0_1002.0_699.0.png\l}"]
+	24	[label="{type = XCUIElementTypeImage\l|name = cartItemImage\l|enabled = true\l|visible = true\l|x = 16\l|y = 150\l|width = 64\l|height = 66\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/48.0_449.99999999999994_240.0_648.0.png\l}"]
+	25	[label="{type = XCUIElementTypeStaticText\l|value =  New Supports Full System for IPhone Lightning To 3.5mm Earphone Headphone Jack Aux Adapter Cable Adapter IPhone 7/8/x/XS/XR/XS MAX\l|name = cartItemNames\l|label =  New Supports Full System for IPhone Lightning To 3.5mm Earphone Headphone Jack Aux Adapter Cable Adapter IPhone 7/8/x/XS/XR/XS MAX\l|enabled = true\l|visible = true\l|x = 96\l|y = 150\l|width = 238\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/288.0_449.99999999999994_1002.0_506.99999999999994.png\l}"]
+	26	[label="{type = XCUIElementTypeStaticText\l|value = 1\l|name = cartQuantityDropDown\l|label = 1\l|enabled = true\l|visible = true\l|x = 354\l|y = 200\l|width = 14\l|height = 33\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = true \l|screenshotPath = remove-item-from-cart/S1/pngs/1062.0_600.0_1104.0_699.0.png\l}"]
+	27	[label="{type = XCUIElementTypeStaticText\l|value = $1.94\l|name = cartItemPrice\l|label = $1.94\l|enabled = true\l|visible = true\l|x = 363\l|y = 150\l|width = 35\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/1089.0_449.99999999999994_1194.0_506.99999999999994.png\l}"]
+	28	[label="{type = XCUIElementTypeStaticText\l|value = Order Summary\l|name = Order Summary\l|label = Order Summary\l|enabled = true\l|visible = true\l|x = 16\l|y = 264\l|width = 108\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/48.0_792.0_372.0_852.0.png\l}"]
+	29	[label="{type = XCUIElementTypeTextView\l|value = By tapping 'Checkout', you agree to the Terms of Use and Privacy Policy\l|enabled = true\l|visible = true\l|x = 16\l|y = 571\l|width = 382\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/48.0_1713.0_1194.0_1857.0.png\l}"]
+	30	[label="{type = XCUIElementTypeStaticText\l|value = Money Back Guarantee\l|name = Money Back Guarantee\l|label = Money Back Guarantee\l|enabled = true\l|visible = true\l|x = 64\l|y = 480\l|width = 334\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/192.0_1440.0_1194.0_1497.0.png\l}"]
+	31	[label="{type = XCUIElementTypeStaticText\l|value = 30 Day Free Return and Refund\l|name = cartRefundPolicy\l|label = 30 Day Free Return and Refund\l|enabled = true\l|visible = true\l|x = 40\l|y = 641\l|width = 358\l|height = 16\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/120.0_1923.0_1194.0_1971.0.png\l}"]
+	32	[label="{type = XCUIElementTypeStaticText\l|value = Apply Promo\l|name = Apply Promo\l|label = Apply Promo\l|enabled = true\l|visible = true\l|x = 15\l|y = 311\l|width = 98\l|height = 21\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/45.0_933.0_339.0_996.0.png\l}"]
+	33	[label="{type = XCUIElementTypeStaticText\l|value = Item Total\l|name = cartSummaryTitleItemTotal\l|label = Item Total\l|enabled = true\l|visible = true\l|x = 16\l|y = 364\l|width = 64\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/48.0_1092.0_240.0_1149.0.png\l}"]
+	34	[label="{type = XCUIElementTypeStaticText\l|value = $1.94\l|name = cartSummaryAmountItemTotal\l|label = $1.94\l|enabled = true\l|visible = true\l|x = 363\l|y = 364\l|width = 35\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/1089.0_1092.0_1194.0_1149.0.png\l}"]
+	35	[label="{type = XCUIElementTypeStaticText\l|value = Shipping\l|name = cartSummaryTitleShipping\l|label = Shipping\l|enabled = true\l|visible = true\l|x = 16\l|y = 391\l|width = 58\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/48.0_1173.0_222.00000000000003_1230.0.png\l}"]
+	36	[label="{type = XCUIElementTypeStaticText\l|value = $1.00\l|name = cartSummaryAmountShipping\l|label = $1.00\l|enabled = true\l|visible = true\l|x = 362\l|y = 391\l|width = 36\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/1086.0_1173.0_1194.0_1230.0.png\l}"]
+	37	[label="{type = XCUIElementTypeStaticText\l|value = Order Total\l|name = cartSummaryTitleOrderTotal\l|label = Order Total\l|enabled = true\l|visible = true\l|x = 16\l|y = 417\l|width = 74\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/48.0_1251.0_270.0_1308.0.png\l}"]
+	38	[label="{type = XCUIElementTypeStaticText\l|value = $2.94\l|name = cartSummaryAmountOrderTotal\l|label = $2.94\l|enabled = true\l|visible = true\l|x = 359\l|y = 417\l|width = 39\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/1077.0_1251.0_1194.0_1308.0.png\l}"]
+	39	[label="{type = XCUIElementTypeButton\l|name = Purchase risk-free! We’ve got your back if any of your items don’t arrive. Learn more\l|label = Purchase risk-free! We’ve got your back if any of your items don’t arrive. Learn more\l|enabled = true\l|visible = true\l|x = 64\l|y = 504\l|width = 334\l|height = 39\l|numberOfChildren = 0\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/192.0_1512.0_1194.0_1629.0.png\l}"]
+	40	[label="{type = XCUIElementTypeStaticText\l|value = Checkout\l|name = Checkout\l|label = Checkout\l|enabled = true\l|visible = true\l|x = 170\l|y = 815\l|width = 74\l|height = 22\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/510.0_2445.0_732.0_2511.0.png\l}"]
+	41	[label="{type = XCUIElementTypeStaticText\l|value = By tapping 'Checkout', you agree to the Terms of Use and Privacy Policy\l|name = By tapping 'Checkout', you agree to the Terms of Use and Privacy Policy\l|label = By tapping 'Checkout', you agree to the Terms of Use and Privacy Policy\l|enabled = true\l|visible = true\l|x = 16\l|y = 571\l|width = 382\l|height = 36\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/48.0_1713.0_1194.0_1821.0.png\l}"]
+	42	[label="{type = XCUIElementTypeLink\l|name = Terms of Use\l|label = Terms of Use\l|enabled = true\l|visible = true\l|x = 242\l|y = 571\l|width = 75\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/726.0_1713.0_951.0_1773.0.png\l}"]
+	43	[label="{type = XCUIElementTypeLink\l|name = Privacy Policy\l|label = Privacy Policy\l|enabled = true\l|visible = true\l|x = 16\l|y = 571\l|width = 382\l|height = 36\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = remove-item-from-cart/S1/pngs/48.0_1713.0_1194.0_1821.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	3 -> 5
+	4 -> 6
+	4 -> 7
+	5 -> 8
+	8 -> 9
+	9 -> 10
+	10 -> 11
+	11 -> 12
+	12 -> 13
+	12 -> 14
+	13 -> 15
+	13 -> 16
+	13 -> 17
+	13 -> 18
+	14 -> 19
+	15 -> 20
+	16 -> 21
+	16 -> 22
+	16 -> 23
+	16 -> 24
+	16 -> 25
+	16 -> 26
+	16 -> 27
+	17 -> 28
+	18 -> 29
+	18 -> 30
+	18 -> 31
+	18 -> 32
+	18 -> 33
+	18 -> 34
+	18 -> 35
+	18 -> 36
+	18 -> 37
+	18 -> 38
+	18 -> 39
+	19 -> 40
+	29 -> 41
+	41 -> 42
+	41 -> 43
+
+
+}

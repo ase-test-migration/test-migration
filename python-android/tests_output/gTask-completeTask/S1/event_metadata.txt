@@ -1,0 +1,4 @@
+pathToElementImageCrop: gTask-completeTask/S1/pngs/700_2224_1038_2287.png;
+coords: {'x1': 700, 'y1': 2224, 'x2': 1038, 'y2': 2361};
+text_identifier: { "resource-id" : "com.google.android.apps.tasks:id/edit_task_complete_button" };
+event: click;

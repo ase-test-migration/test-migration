@@ -1,0 +1,29 @@
+{
+    "tests": [
+        {
+            "name": "ebay-add-to-cart-middle",
+            "events": [
+                {
+                    "tag": "button_add_to_cart",
+                    "type": "accessibilityId",
+                    "event": "click"
+                },
+                {
+                    "tag": "Go_to_cart",
+                    "type": "accessibilityId",
+                    "event": "oracle",
+                    "oracle-type": "widget_exists"
+                }
+            ]
+        }
+    ],
+    "desiredCapabilities": {
+        "deviceName": "Someone's iPhone",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "udid": "auto",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0,
+        "platformVersion": "13.4.1",
+        "platformName": "iOS"
+    }
+}

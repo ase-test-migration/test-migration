@@ -1,0 +1,50 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = to doist\l|label = to doist\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S3/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeSheet\l|enabled = true\l|visible = true\l|x = 8\l|y = 537\l|width = 359\l|height = 122\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S3/pngs/16.0_1074.0_734.0_1318.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 537\l|width = 359\l|height = 122\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S3/pngs/16.0_1074.0_734.0_1318.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 537\l|width = 359\l|height = 57\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = todoist-remove/S3/pngs/16.0_1074.0_734.0_1188.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 602\l|width = 359\l|height = 57\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S3/pngs/16.0_1204.0_734.0_1318.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 537\l|width = 359\l|height = 57\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = true \l|screenshotPath = todoist-remove/S3/pngs/16.0_1074.0_734.0_1188.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 602\l|width = 359\l|height = 57\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S3/pngs/16.0_1204.0_734.0_1318.0.png\l}"]
+	9	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 8\l|y = 537\l|width = 359\l|height = 57\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = todoist-remove/S3/pngs/16.0_1074.0_734.0_1188.0.png\l}"]
+	10	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 8\l|y = 602\l|width = 359\l|height = 57\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S3/pngs/16.0_1204.0_734.0_1318.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 537\l|width = 359\l|height = 57\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = todoist-remove/S3/pngs/16.0_1074.0_734.0_1188.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 8\l|y = 562\l|width = 359\l|height = 29\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S3/pngs/16.0_1124.0_734.0_1182.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 602\l|width = 359\l|height = 57\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S3/pngs/16.0_1204.0_734.0_1318.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 8\l|y = 627\l|width = 359\l|height = 29\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S3/pngs/16.0_1254.0_734.0_1312.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 537\l|width = 359\l|height = 57\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = todoist-remove/S3/pngs/16.0_1074.0_734.0_1188.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 602\l|width = 359\l|height = 57\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S3/pngs/16.0_1204.0_734.0_1318.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 537\l|width = 359\l|height = 57\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = todoist-remove/S3/pngs/16.0_1074.0_734.0_1188.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 602\l|width = 359\l|height = 57\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S3/pngs/16.0_1204.0_734.0_1318.0.png\l}"]
+	19	[label="{type = XCUIElementTypeButton\l|name = Delete task\l|label = Delete task\l|enabled = true\l|visible = true\l|x = 8\l|y = 537\l|width = 359\l|height = 57\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = todoist-remove/S3/pngs/16.0_1074.0_734.0_1188.0.png\l}"]
+	20	[label="{type = XCUIElementTypeButton\l|name = Cancel\l|label = Cancel\l|enabled = true\l|visible = true\l|x = 8\l|y = 602\l|width = 359\l|height = 57\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = todoist-remove/S3/pngs/16.0_1204.0_734.0_1318.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	5 -> 7
+	6 -> 8
+	7 -> 9
+	8 -> 10
+	9 -> 11
+	9 -> 12
+	10 -> 13
+	10 -> 14
+	11 -> 15
+	13 -> 16
+	15 -> 17
+	16 -> 18
+	17 -> 19
+	18 -> 20
+
+
+}

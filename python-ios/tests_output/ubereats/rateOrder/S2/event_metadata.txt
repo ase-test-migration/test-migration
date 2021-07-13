@@ -1,0 +1,4 @@
+pathToElementImageCrop: rateOrder/S2/pngs/561.0_1101.0_681.0_1224.0.png;
+coords: {'x1': 561.0, 'y1': 1101.0, 'x2': 681.0, 'y2': 1224.0};
+text_identifier: { "name" : "3 stars" };
+event: click;

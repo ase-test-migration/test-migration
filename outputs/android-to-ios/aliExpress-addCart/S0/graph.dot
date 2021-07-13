@@ -1,0 +1,254 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = AliExpress\l|label = AliExpress\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeTabBar\l|name = Tab Bar\l|label = Tab Bar\l|enabled = true\l|visible = true\l|x = 0\l|y = 618\l|width = 375\l|height = 49\l|index = 1\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_1236.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeButton\l|name = Feeds\l|label = Feeds\l|enabled = true\l|visible = true\l|x = 77\l|y = 619\l|width = 71\l|height = 48\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/154.0_1238.0_296.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeButton\l|name = Message\l|label = Message\l|enabled = true\l|visible = true\l|x = 152\l|y = 619\l|width = 71\l|height = 48\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/304.0_1238.0_446.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|name = Cart\l|label = Cart\l|enabled = true\l|visible = true\l|x = 227\l|y = 619\l|width = 71\l|height = 48\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/453.99999999999994_1238.0_596.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|name = MyAccount\l|label = MyAccount\l|enabled = true\l|visible = true\l|x = 302\l|y = 619\l|width = 71\l|height = 48\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/604.0_1238.0_746.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeNavigationBar\l|name = AEHomeView\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|name = a1z65.home.searchbar.floor\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|name = a1z65.home.searchbar.searchBar\l|enabled = true\l|visible = true\l|x = 16\l|y = 24\l|width = 301\l|height = 36\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/32.0_47.99999999999999_634.0_120.0.png\l}"]
+	21	[label="{type = XCUIElementTypeImage\l|name = a1z65.home.searchbar.photo\l|enabled = true\l|visible = true\l|x = 331\l|y = 28\l|width = 28\l|height = 28\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/662.0_56.0_718.0_112.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	23	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 574\l|width = 375\l|height = 44\l|index = 2\l|numberOfChildren = 3\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_1148.0_750.0_1236.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|name = a1z65.home.searchbar.searchBar\l|enabled = true\l|visible = true\l|x = 16\l|y = 24\l|width = 301\l|height = 36\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/32.0_47.99999999999999_634.0_120.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 265\l|y = 27\l|width = 48\l|height = 30\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/530.0_53.99999999999999_626.0_114.0.png\l}"]
+	26	[label="{type = XCUIElementTypeCollectionView\l|name = GBListView\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 7\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_128.0_750.0_1462.0.png\l}"]
+	27	[label="{type = XCUIElementTypeScrollView\l|name = GBCoordinatorScrollView\l|enabled = true\l|visible = true\l|x = 367\l|y = 0\l|width = 8\l|height = 667\l|index = 2\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/734.0_0.0_750.0_1334.0.png\l}"]
+	28	[label="{type = XCUIElementTypeStaticText\l|value = Sign in to see personalized deals\l|name = Sign in to see personalized deals\l|label = Sign in to see personalized deals\l|enabled = true\l|visible = true\l|x = 12\l|y = 586\l|width = 260\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/24.0_1172.0_544.0_1212.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 16\l|y = 617\l|width = 359\l|height = 1\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/32.0_1234.0_750.0_1236.0.png\l}"]
+	30	[label="{type = XCUIElementTypeButton\l|name = Sign in\l|label = Sign in\l|enabled = true\l|visible = true\l|x = 296\l|y = 584\l|width = 55\l|height = 25\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/592.0_1168.0_702.0_1218.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 30\l|y = 24\l|width = 231\l|height = 36\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/60.0_47.99999999999999_522.0_120.0.png\l}"]
+	32	[label="{type = XCUIElementTypeStaticText\l|value = mbrush\l|name = mbrush\l|label = mbrush\l|enabled = true\l|visible = true\l|x = 30\l|y = 24\l|width = 52\l|height = 36\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/60.0_47.99999999999999_164.0_120.0.png\l}"]
+	33	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 280\l|y = 33\l|width = 18\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/560.0_66.0_596.0_102.0.png\l}"]
+	34	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 105\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_128.0_750.0_338.0.png\l}"]
+	35	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 169\l|width = 375\l|height = 79\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_338.0_750.0_496.0.png\l}"]
+	36	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 247\l|width = 375\l|height = 188\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_494.00000000000006_750.0_870.0.png\l}"]
+	37	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 435\l|width = 375\l|height = 2\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_870.0_750.0_874.0.png\l}"]
+	38	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 437\l|width = 375\l|height = 206\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_874.0_750.0_1286.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 10 pages\l|label = Vertical scroll bar, 10 pages\l|enabled = true\l|visible = true\l|x = 368\l|y = 64\l|width = 4\l|height = 554\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/736.0_128.0_744.0_1236.0.png\l}"]
+	40	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 105\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_128.0_750.0_338.0.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 169\l|width = 375\l|height = 79\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_338.0_750.0_496.0.png\l}"]
+	42	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 247\l|width = 375\l|height = 188\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_494.00000000000006_750.0_870.0.png\l}"]
+	43	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 435\l|width = 375\l|height = 2\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_870.0_750.0_874.0.png\l}"]
+	44	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 437\l|width = 375\l|height = 206\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_874.0_750.0_1286.0.png\l}"]
+	45	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 105\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_128.0_750.0_338.0.png\l}"]
+	46	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 169\l|width = 375\l|height = 79\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_338.0_750.0_496.0.png\l}"]
+	47	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 247\l|width = 375\l|height = 188\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_494.00000000000006_750.0_870.0.png\l}"]
+	48	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 435\l|width = 375\l|height = 2\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_870.0_750.0_874.0.png\l}"]
+	49	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 437\l|width = 375\l|height = 206\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_874.0_750.0_1286.0.png\l}"]
+	50	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 105\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_128.0_750.0_338.0.png\l}"]
+	51	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 169\l|width = 375\l|height = 79\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_338.0_750.0_496.0.png\l}"]
+	52	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 247\l|width = 375\l|height = 188\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_494.00000000000006_750.0_870.0.png\l}"]
+	53	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 435\l|width = 375\l|height = 2\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_870.0_750.0_874.0.png\l}"]
+	54	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 437\l|width = 375\l|height = 206\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_874.0_750.0_1286.0.png\l}"]
+	55	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 69\l|width = 375\l|height = 80\l|index = 0\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_138.0_750.0_298.0.png\l}"]
+	56	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 161\l|width = 40\l|height = 8\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_322.0_80.0_338.0.png\l}"]
+	57	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 167\l|y = 157\l|width = 41\l|height = 4\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/334.0_314.0_416.0_322.0.png\l}"]
+	58	[label="{type = XCUIElementTypeImage\l|name = a1z65.home.welcome.0\l|enabled = true\l|visible = true\l|x = 12\l|y = 169\l|width = 351\l|height = 67\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/24.0_338.0_726.0_472.0.png\l}"]
+	59	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 106\l|y = 287\l|width = 163\l|height = 115\l|index = 1\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/212.0_574.0_538.0_804.0.png\l}"]
+	60	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 299\l|width = 80\l|height = 103\l|index = 2\l|numberOfChildren = 3\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/24.0_598.0_184.0_804.0.png\l}"]
+	61	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 283\l|y = 299\l|width = 80\l|height = 103\l|index = 3\l|numberOfChildren = 3\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/566.0_598.0_726.0_804.0.png\l}"]
+	62	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 99\l|y = 409\l|width = 178\l|height = 18\l|index = 4\l|numberOfChildren = 2\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/198.0_818.0_554.0_854.0.png\l}"]
+	63	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 435\l|width = 375\l|height = 2\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_870.0_750.0_874.0.png\l}"]
+	64	[label="{type = XCUIElementTypeOther\l|name = a1z65.home.newuser.floor\l|enabled = true\l|visible = true\l|x = 12\l|y = 437\l|width = 351\l|height = 194\l|index = 0\l|numberOfChildren = 14\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/24.0_874.0_726.0_1262.0.png\l}"]
+	65	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 69\l|width = 69\l|height = 80\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_138.0_138.0_298.0.png\l}"]
+	66	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 69\l|y = 69\l|width = 69\l|height = 80\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/138.0_138.0_276.0_298.0.png\l}"]
+	67	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 138\l|y = 69\l|width = 69\l|height = 80\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/276.0_138.0_414.0_298.0.png\l}"]
+	68	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 207\l|y = 69\l|width = 69\l|height = 80\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/414.00000000000006_138.0_552.0_298.0.png\l}"]
+	69	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 276\l|y = 69\l|width = 69\l|height = 80\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/552.0_138.0_690.0_298.0.png\l}"]
+	70	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 345\l|y = 69\l|width = 69\l|height = 80\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/690.0_138.0_828.0_298.0.png\l}"]
+	71	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 167\l|y = 157\l|width = 21\l|height = 4\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/334.0_314.0_376.0_322.0.png\l}"]
+	72	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 106\l|y = 287\l|width = 80\l|height = 81\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/212.0_574.0_372.0_736.0.png\l}"]
+	73	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 189\l|y = 287\l|width = 80\l|height = 81\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/378.0_574.0_538.0_736.0.png\l}"]
+	74	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 106\l|y = 369\l|width = 155\l|height = 33\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/212.0_738.0_522.0_804.0.png\l}"]
+	75	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 299\l|width = 80\l|height = 103\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/24.0_598.0_184.0_804.0.png\l}"]
+	76	[label="{type = XCUIElementTypeStaticText\l|value = Automobiles & Motorcycles\l|name = Automobiles & Motorcycles\l|label = Automobiles & Motorcycles\l|enabled = true\l|visible = true\l|x = 12\l|y = 379\l|width = 80\l|height = 23\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/24.0_758.0_184.0_804.0.png\l}"]
+	77	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 283\l|y = 299\l|width = 80\l|height = 103\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/566.0_598.0_726.0_804.0.png\l}"]
+	78	[label="{type = XCUIElementTypeStaticText\l|value = Mother & Kids\l|name = Mother & Kids\l|label = Mother & Kids\l|enabled = true\l|visible = true\l|x = 283\l|y = 379\l|width = 80\l|height = 23\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/566.0_758.0_726.0_804.0.png\l}"]
+	79	[label="{type = XCUIElementTypeStaticText\l|value = Sale ends in:\l|name = Sale ends in:\l|label = Sale ends in:\l|enabled = true\l|visible = true\l|x = 99\l|y = 409\l|width = 75\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/198.0_818.0_348.0_854.0.png\l}"]
+	80	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 175\l|y = 409\l|width = 102\l|height = 18\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/350.0_818.0_554.0_854.0.png\l}"]
+	81	[label="{type = XCUIElementTypeImage\l|name = a1z65.home.newuser.floor\l|enabled = true\l|visible = true\l|x = 12\l|y = 437\l|width = 351\l|height = 194\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/24.0_874.0_726.0_1262.0.png\l}"]
+	82	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 114\l|y = 449\l|width = 24\l|height = 24\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/228.0_898.0_276.0_946.0.png\l}"]
+	83	[label="{type = XCUIElementTypeStaticText\l|value = NEW USER GIFTS\l|name = a1z65.home.newuser.floor\l|label = NEW USER GIFTS\l|enabled = true\l|visible = true\l|x = 144\l|y = 449\l|width = 117\l|height = 24\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/288.0_898.0_522.0_946.0.png\l}"]
+	84	[label="{type = XCUIElementTypeImage\l|name = a1z65.home.newuser.item0\l|enabled = true\l|visible = true\l|x = 21\l|y = 489\l|width = 107\l|height = 107\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/42.0_978.0_256.0_1192.0.png\l}"]
+	85	[label="{type = XCUIElementTypeImage\l|name = a1z65.home.newuser.item1\l|enabled = true\l|visible = true\l|x = 134\l|y = 489\l|width = 107\l|height = 107\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/268.0_978.0_482.0_1192.0.png\l}"]
+	86	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 247\l|y = 489\l|width = 107\l|height = 133\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/493.99999999999994_978.0_708.0_1244.0.png\l}"]
+	87	[label="{type = XCUIElementTypeStaticText\l|value = -US $2.00\l|name = -US $2.00\l|label = -US $2.00\l|enabled = true\l|visible = true\l|x = 251\l|y = 509\l|width = 99\l|height = 22\l|index = 7\l|numberOfChildren = 0\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/502.0_1018.0_700.0_1062.0.png\l}"]
+	88	[label="{type = XCUIElementTypeStaticText\l|value = New User Coupon\l|name = New User Coupon\l|label = New User Coupon\l|enabled = true\l|visible = true\l|x = 251\l|y = 531\l|width = 99\l|height = 13\l|index = 8\l|numberOfChildren = 0\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/502.0_1062.0_700.0_1088.0.png\l}"]
+	89	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 69\l|width = 69\l|height = 80\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_138.0_138.0_298.0.png\l}"]
+	90	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 69\l|y = 69\l|width = 69\l|height = 80\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/138.0_138.0_276.0_298.0.png\l}"]
+	91	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 138\l|y = 69\l|width = 69\l|height = 80\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/276.0_138.0_414.0_298.0.png\l}"]
+	92	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 207\l|y = 69\l|width = 69\l|height = 80\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/414.00000000000006_138.0_552.0_298.0.png\l}"]
+	93	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 276\l|y = 69\l|width = 69\l|height = 80\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/552.0_138.0_690.0_298.0.png\l}"]
+	94	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 345\l|y = 69\l|width = 69\l|height = 80\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/690.0_138.0_828.0_298.0.png\l}"]
+	95	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 106\l|y = 369\l|width = 155\l|height = 33\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/212.0_738.0_522.0_804.0.png\l}"]
+	96	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 69\l|width = 69\l|height = 80\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_138.0_138.0_298.0.png\l}"]
+	97	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 69\l|y = 69\l|width = 69\l|height = 80\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/138.0_138.0_276.0_298.0.png\l}"]
+	98	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 138\l|y = 69\l|width = 69\l|height = 80\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/276.0_138.0_414.0_298.0.png\l}"]
+	99	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 207\l|y = 69\l|width = 69\l|height = 80\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/414.00000000000006_138.0_552.0_298.0.png\l}"]
+	100	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 276\l|y = 69\l|width = 69\l|height = 80\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/552.0_138.0_690.0_298.0.png\l}"]
+	101	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 345\l|y = 69\l|width = 69\l|height = 80\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/690.0_138.0_828.0_298.0.png\l}"]
+	102	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 106\l|y = 369\l|width = 155\l|height = 33\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/212.0_738.0_522.0_804.0.png\l}"]
+	103	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 69\l|width = 69\l|height = 80\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/0.0_138.0_138.0_298.0.png\l}"]
+	104	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 69\l|y = 69\l|width = 69\l|height = 80\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/138.0_138.0_276.0_298.0.png\l}"]
+	105	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 138\l|y = 69\l|width = 69\l|height = 80\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/276.0_138.0_414.0_298.0.png\l}"]
+	106	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 207\l|y = 69\l|width = 69\l|height = 80\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/414.00000000000006_138.0_552.0_298.0.png\l}"]
+	107	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 276\l|y = 69\l|width = 69\l|height = 80\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/552.0_138.0_690.0_298.0.png\l}"]
+	108	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 345\l|y = 69\l|width = 69\l|height = 80\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/690.0_138.0_828.0_298.0.png\l}"]
+	109	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 106\l|y = 369\l|width = 155\l|height = 33\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/212.0_738.0_522.0_804.0.png\l}"]
+	110	[label="{type = XCUIElementTypeImage\l|name = a1z65.home.diamond.1\l|enabled = true\l|visible = true\l|x = 14\l|y = 72\l|width = 44\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/28.000000000000004_144.0_116.0_232.0.png\l}"]
+	111	[label="{type = XCUIElementTypeStaticText\l|value = Categories\l|name = Categories\l|label = Categories\l|enabled = true\l|visible = true\l|x = 8\l|y = 119\l|width = 55\l|height = 15\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/16.0_238.0_126.0_268.0.png\l}"]
+	112	[label="{type = XCUIElementTypeImage\l|name = a1z65.home.diamond.2\l|enabled = true\l|visible = true\l|x = 83\l|y = 72\l|width = 44\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/166.0_144.0_254.0_232.0.png\l}"]
+	113	[label="{type = XCUIElementTypeStaticText\l|value = Coins & Coupons\l|name = Coins & Coupons\l|label = Coins & Coupons\l|enabled = true\l|visible = true\l|x = 72\l|y = 119\l|width = 66\l|height = 30\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/144.0_238.0_276.0_298.0.png\l}"]
+	114	[label="{type = XCUIElementTypeImage\l|name = a1z65.home.diamond.3\l|enabled = true\l|visible = true\l|x = 152\l|y = 72\l|width = 44\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/304.0_144.0_392.0_232.0.png\l}"]
+	115	[label="{type = XCUIElementTypeStaticText\l|value = Freebies\l|name = Freebies\l|label = Freebies\l|enabled = true\l|visible = true\l|x = 152\l|y = 119\l|width = 44\l|height = 15\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/304.0_238.0_392.0_268.0.png\l}"]
+	116	[label="{type = XCUIElementTypeImage\l|name = a1z65.home.diamond.4\l|enabled = true\l|visible = true\l|x = 221\l|y = 72\l|width = 44\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/442.00000000000006_144.0_530.0_232.0.png\l}"]
+	117	[label="{type = XCUIElementTypeStaticText\l|value = Slash It\l|name = Slash It\l|label = Slash It\l|enabled = true\l|visible = true\l|x = 224\l|y = 119\l|width = 38\l|height = 15\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/448.00000000000006_238.0_524.0_268.0.png\l}"]
+	118	[label="{type = XCUIElementTypeImage\l|name = a1z65.home.diamond.5\l|enabled = true\l|visible = true\l|x = 290\l|y = 72\l|width = 44\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/580.0_144.0_668.0_232.0.png\l}"]
+	119	[label="{type = XCUIElementTypeStaticText\l|value = Coupon Pals\l|name = Coupon Pals\l|label = Coupon Pals\l|enabled = true\l|visible = true\l|x = 279\l|y = 119\l|width = 65\l|height = 15\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/558.0_238.0_688.0_268.0.png\l}"]
+	120	[label="{type = XCUIElementTypeImage\l|name = a1z65.home.diamond.6\l|enabled = true\l|visible = true\l|x = 359\l|y = 72\l|width = 44\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/718.0_144.0_806.0_232.0.png\l}"]
+	121	[label="{type = XCUIElementTypeStaticText\l|value = Get $20\l|name = Get $20\l|label = Get $20\l|enabled = true\l|visible = true\l|x = 361\l|y = 119\l|width = 40\l|height = 15\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/722.0_238.0_802.0_268.0.png\l}"]
+	122	[label="{type = XCUIElementTypeStaticText\l|value = Shop deals!\l|name = Shop deals!\l|label = Shop deals!\l|enabled = true\l|visible = true\l|x = 106\l|y = 369\l|width = 155\l|height = 33\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/aliExpress-addCart/S0/pngs/212.0_738.0_522.0_804.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	5 -> 7
+	6 -> 8
+	6 -> 9
+	6 -> 10
+	6 -> 11
+	7 -> 12
+	12 -> 13
+	12 -> 14
+	13 -> 15
+	14 -> 16
+	15 -> 17
+	16 -> 18
+	17 -> 19
+	17 -> 20
+	17 -> 21
+	18 -> 22
+	18 -> 23
+	20 -> 24
+	20 -> 25
+	22 -> 26
+	22 -> 27
+	23 -> 28
+	23 -> 29
+	23 -> 30
+	24 -> 31
+	24 -> 32
+	25 -> 33
+	26 -> 34
+	26 -> 35
+	26 -> 36
+	26 -> 37
+	26 -> 38
+	27 -> 39
+	34 -> 40
+	35 -> 41
+	36 -> 42
+	37 -> 43
+	38 -> 44
+	40 -> 45
+	41 -> 46
+	42 -> 47
+	43 -> 48
+	44 -> 49
+	45 -> 50
+	46 -> 51
+	47 -> 52
+	48 -> 53
+	49 -> 54
+	50 -> 55
+	50 -> 56
+	50 -> 57
+	51 -> 58
+	52 -> 59
+	52 -> 60
+	52 -> 61
+	52 -> 62
+	53 -> 63
+	54 -> 64
+	55 -> 65
+	55 -> 66
+	55 -> 67
+	55 -> 68
+	55 -> 69
+	55 -> 70
+	57 -> 71
+	59 -> 72
+	59 -> 73
+	59 -> 74
+	60 -> 75
+	60 -> 76
+	61 -> 77
+	61 -> 78
+	62 -> 79
+	62 -> 80
+	64 -> 81
+	64 -> 82
+	64 -> 83
+	64 -> 84
+	64 -> 85
+	64 -> 86
+	64 -> 87
+	64 -> 88
+	65 -> 89
+	66 -> 90
+	67 -> 91
+	68 -> 92
+	69 -> 93
+	70 -> 94
+	74 -> 95
+	89 -> 96
+	90 -> 97
+	91 -> 98
+	92 -> 99
+	93 -> 100
+	94 -> 101
+	95 -> 102
+	96 -> 103
+	97 -> 104
+	98 -> 105
+	99 -> 106
+	100 -> 107
+	101 -> 108
+	102 -> 109
+	103 -> 110
+	103 -> 111
+	104 -> 112
+	104 -> 113
+	105 -> 114
+	105 -> 115
+	106 -> 116
+	106 -> 117
+	107 -> 118
+	107 -> 119
+	108 -> 120
+	108 -> 121
+	109 -> 122
+
+
+}

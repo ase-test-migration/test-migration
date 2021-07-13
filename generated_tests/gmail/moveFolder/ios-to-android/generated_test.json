@@ -1,0 +1,43 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "gmail-moveFolder",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.google.android.gm:id/viewified_conversation_item_view",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "More options",
+                "event": "click"
+            },
+            {
+                "type": "xPath",
+                "tag": "/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.ListView/android.widget.LinearLayout[4]",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.android.printspooler:id/summary_content",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.android.printspooler:id/more_options_button",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.android.printspooler:id/destination_spinner",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "TestUser"
+            }
+        ]
+    }
+}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: etsy-login/S1/pngs/417_612_663_738.png;
+coords: {'x1': 417, 'y1': 612, 'x2': 663, 'y2': 738};
+text_identifier: { "resource-id" : "com.etsy.android:id/you_menu_sign_in_button" };
+event: click;

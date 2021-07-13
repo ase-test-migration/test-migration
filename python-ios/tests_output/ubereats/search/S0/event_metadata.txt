@@ -1,0 +1,4 @@
+pathToElementImageCrop: search/S0/pngs/318.00000000000006_2418.0_615.0_2562.0.png;
+coords: {'x1': 318.00000000000006, 'y1': 2418.0, 'x2': 615.0, 'y2': 2562.0};
+text_identifier: { "name" : "Search" };
+event: click;

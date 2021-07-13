@@ -1,0 +1,4 @@
+pathToElementImageCrop: McD-search/S2/pngs/838_87_940_186.png;
+coords: {'x1': 838, 'y1': 87, 'x2': 940, 'y2': 186};
+text_identifier: { "content-desc" : "Search icon" , "resource-id" : "com.mcdonalds.app:id/toolbar_search" };
+event: click;

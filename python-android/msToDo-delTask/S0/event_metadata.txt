@@ -1,0 +1,4 @@
+pathToElementImageCrop: msToDo-delTask/S0/pngs/158_472_880_529.png;
+coords: {'x1': 158, 'y1': 472, 'x2': 880, 'y2': 529};
+text_identifier: { "resource-id" : "com.microsoft.todos:id/task_title" };
+event: click;

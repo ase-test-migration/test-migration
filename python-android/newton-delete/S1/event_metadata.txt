@@ -1,0 +1,4 @@
+pathToElementImageCrop: newton-delete/S1/pngs/745_1994_920_2148.png;
+coords: {'x1': 745, 'y1': 1994, 'x2': 920, 'y2': 2148};
+text_identifier: { "resource-id" : "com.cloudmagic.mail:id/imgDelete" };
+event: click;

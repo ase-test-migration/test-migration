@@ -1,0 +1,4 @@
+pathToElementImageCrop: newton-reply/S0/pngs/0_435_956_491.png;
+coords: {'x1': 0, 'y1': 435, 'x2': 956, 'y2': 491};
+text_identifier: { "resource-id" : "com.cloudmagic.mail:id/subject" };
+event: click;

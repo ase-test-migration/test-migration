@@ -1,0 +1,430 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = BBC News\l|label = BBC News\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeTabBar\l|enabled = true\l|visible = true\l|x = 0\l|y = 813\l|width = 414\l|height = 83\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_2439.0_1242.0_2688.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	8	[label="{type = XCUIElementTypeButton\l|name = Top Stories\l|label = Top Stories\l|enabled = true\l|visible = true\l|x = 2\l|y = 814\l|width = 80\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/6.0_2442.0_246.0_2586.0.png\l}"]
+	9	[label="{type = XCUIElementTypeButton\l|name = My News\l|label = My News\l|enabled = true\l|visible = true\l|x = 85\l|y = 814\l|width = 80\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/255.0_2442.0_495.0_2586.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|name = Popular\l|label = Popular\l|enabled = true\l|visible = true\l|x = 168\l|y = 814\l|width = 78\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/504.00000000000006_2442.0_738.0_2586.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|name = Video\l|label = Video\l|enabled = true\l|visible = true\l|x = 249\l|y = 814\l|width = 80\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/747.0_2442.0_987.0_2586.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = Search\l|label = Search\l|enabled = true\l|visible = true\l|x = 332\l|y = 814\l|width = 80\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/996.0_2442.0_1236.0_2586.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	14	[label="{type = XCUIElementTypeNavigationBar\l|name = bn-navigation-bar\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 96\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_132.0_1242.0_420.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	16	[label="{type = XCUIElementTypeButton\l|name = bn-navigation-menu-button\l|label = Menu\l|enabled = true\l|visible = true\l|x = 12\l|y = 44\l|width = 54\l|height = 44\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/36.0_132.0_198.0_264.0.png\l}"]
+	17	[label="{type = XCUIElementTypeStaticText\l|value = Search\l|name = Search\l|label = Search\l|enabled = true\l|visible = true\l|x = 179\l|y = 54\l|width = 56\l|height = 24\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/537.0_162.0_705.0_234.0.png\l}"]
+	18	[label="{type = XCUIElementTypeSearchField\l|name = Search topics\l|label = Search topics\l|enabled = true\l|visible = true\l|x = 20\l|y = 89\l|width = 374\l|height = 36\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_267.0_1182.0_375.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	21	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 140\l|width = 414\l|height = 673\l|numberOfChildren = 7\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_420.0_1242.0_2439.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 140\l|width = 414\l|height = 50\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_420.0_1242.0_570.0.png\l}"]
+	23	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 190\l|width = 414\l|height = 80\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_570.0_1242.0_810.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 289\l|width = 414\l|height = 51\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_867.0_1242.0_1020.0.png\l}"]
+	25	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 339\l|width = 414\l|height = 80\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_1017.0_1242.0_1257.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 438\l|width = 414\l|height = 51\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_1314.0_1242.0_1467.0.png\l}"]
+	27	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 488\l|width = 414\l|height = 304\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_1463.9999999999998_1242.0_2376.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 1 page\l|label = Vertical scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 381\l|y = 140\l|width = 30\l|height = 673\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/1143.0_420.0_1233.0_2439.0.png\l}"]
+	29	[label="{type = XCUIElementTypeStaticText\l|value = Based on What You've Read\l|name = Based on What You've Read\l|label = Based on What You've Read\l|enabled = true\l|visible = true\l|x = 20\l|y = 140\l|width = 211\l|height = 50\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_420.0_693.0_570.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 190\l|width = 414\l|height = 80\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_570.0_1242.0_810.0.png\l}"]
+	31	[label="{type = XCUIElementTypeStaticText\l|value = Around the BBC\l|name = Around the BBC\l|label = Around the BBC\l|enabled = true\l|visible = true\l|x = 19\l|y = 289\l|width = 122\l|height = 51\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/57.0_867.0_422.99999999999994_1020.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 339\l|width = 414\l|height = 80\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_1017.0_1242.0_1257.0.png\l}"]
+	33	[label="{type = XCUIElementTypeStaticText\l|value = More Topics\l|name = More Topics\l|label = More Topics\l|enabled = true\l|visible = true\l|x = 20\l|y = 438\l|width = 91\l|height = 51\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_1314.0_333.0_1467.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 488\l|width = 414\l|height = 304\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_1463.9999999999998_1242.0_2376.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 190\l|width = 414\l|height = 80\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_570.0_1242.0_810.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 339\l|width = 414\l|height = 80\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_1017.0_1242.0_1257.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 488\l|width = 414\l|height = 304\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_1463.9999999999998_1242.0_2376.0.png\l}"]
+	38	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 190\l|width = 414\l|height = 80\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_570.0_1242.0_810.0.png\l}"]
+	39	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 339\l|width = 414\l|height = 80\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_1017.0_1242.0_1257.0.png\l}"]
+	40	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 488\l|width = 414\l|height = 304\l|numberOfChildren = 24\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/0.0_1463.9999999999998_1242.0_2376.0.png\l}"]
+	41	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 20\l|y = 190\l|width = 66\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_570.0_258.0_675.0.png\l}"]
+	42	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 96\l|y = 190\l|width = 67\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/288.0_570.0_489.0_675.0.png\l}"]
+	43	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 173\l|y = 190\l|width = 111\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/519.0_570.0_852.0_675.0.png\l}"]
+	44	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 294\l|y = 190\l|width = 81\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/882.0_570.0_1125.0_675.0.png\l}"]
+	45	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 20\l|y = 234\l|width = 67\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_702.0_261.0_810.0.png\l}"]
+	46	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 97\l|y = 234\l|width = 78\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/291.0_702.0_525.0_810.0.png\l}"]
+	47	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 20\l|y = 339\l|width = 114\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_1017.0_402.0_1125.0.png\l}"]
+	48	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 144\l|y = 339\l|width = 108\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/432.0_1017.0_756.0_1125.0.png\l}"]
+	49	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 262\l|y = 339\l|width = 104\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/786.0_1017.0_1098.0_1125.0.png\l}"]
+	50	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 20\l|y = 384\l|width = 120\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_1152.0_420.0_1257.0.png\l}"]
+	51	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 20\l|y = 488\l|width = 66\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_1463.9999999999998_258.0_1571.9999999999998.png\l}"]
+	52	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 96\l|y = 488\l|width = 66\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/288.0_1463.9999999999998_486.0_1571.9999999999998.png\l}"]
+	53	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 172\l|y = 488\l|width = 55\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/516.0_1463.9999999999998_681.0_1571.9999999999998.png\l}"]
+	54	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 237\l|y = 488\l|width = 86\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/711.0_1463.9999999999998_969.0_1571.9999999999998.png\l}"]
+	55	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 20\l|y = 533\l|width = 75\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_1599.0_285.0_1704.0.png\l}"]
+	56	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 105\l|y = 533\l|width = 109\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/315.0_1599.0_642.0_1704.0.png\l}"]
+	57	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 224\l|y = 533\l|width = 123\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/672.0_1599.0_1041.0_1704.0.png\l}"]
+	58	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 20\l|y = 578\l|width = 47\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_1734.0_201.0_1839.0.png\l}"]
+	59	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 77\l|y = 578\l|width = 121\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/231.0_1734.0_594.0_1839.0.png\l}"]
+	60	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 208\l|y = 578\l|width = 142\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/624.0_1734.0_1050.0_1839.0.png\l}"]
+	61	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 20\l|y = 622\l|width = 89\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_1866.0_327.0_1974.0.png\l}"]
+	62	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 119\l|y = 622\l|width = 58\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 11\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/357.0_1866.0_531.0_1974.0.png\l}"]
+	63	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 187\l|y = 622\l|width = 82\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 12\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/561.0_1866.0_807.0_1974.0.png\l}"]
+	64	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 279\l|y = 622\l|width = 71\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 13\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/837.0_1866.0_1050.0_1974.0.png\l}"]
+	65	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 20\l|y = 667\l|width = 124\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 14\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_2001.0000000000002_432.0_2106.0.png\l}"]
+	66	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 154\l|y = 667\l|width = 75\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 15\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/462.0_2001.0000000000002_687.0_2106.0.png\l}"]
+	67	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 239\l|y = 667\l|width = 64\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 16\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/717.0_2001.0000000000002_909.0_2106.0.png\l}"]
+	68	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 20\l|y = 712\l|width = 82\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 17\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_2136.0_306.0_2241.0.png\l}"]
+	69	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 112\l|y = 712\l|width = 96\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 18\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/336.0_2136.0_624.0_2241.0.png\l}"]
+	70	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 218\l|y = 712\l|width = 75\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 19\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/654.0_2136.0_879.0_2241.0.png\l}"]
+	71	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 20\l|y = 756\l|width = 118\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 20\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_2268.0_414.0_2376.0.png\l}"]
+	72	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 148\l|y = 756\l|width = 70\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 21\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/444.0_2268.0_654.0_2376.0.png\l}"]
+	73	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 228\l|y = 756\l|width = 54\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 22\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/684.0_2268.0_846.0_2376.0.png\l}"]
+	74	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 292\l|y = 756\l|width = 86\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 23\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/876.0_2268.0_1134.0_2376.0.png\l}"]
+	75	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 190\l|width = 66\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_570.0_258.0_675.0.png\l}"]
+	76	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 96\l|y = 190\l|width = 67\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/288.0_570.0_489.0_675.0.png\l}"]
+	77	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 173\l|y = 190\l|width = 111\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/519.0_570.0_852.0_675.0.png\l}"]
+	78	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 294\l|y = 190\l|width = 81\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/882.0_570.0_1125.0_675.0.png\l}"]
+	79	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 234\l|width = 67\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_702.0_261.0_810.0.png\l}"]
+	80	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 97\l|y = 234\l|width = 78\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/291.0_702.0_525.0_810.0.png\l}"]
+	81	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 339\l|width = 114\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_1017.0_402.0_1125.0.png\l}"]
+	82	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 144\l|y = 339\l|width = 108\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/432.0_1017.0_756.0_1125.0.png\l}"]
+	83	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 262\l|y = 339\l|width = 104\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/786.0_1017.0_1098.0_1125.0.png\l}"]
+	84	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 384\l|width = 120\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_1152.0_420.0_1257.0.png\l}"]
+	85	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 488\l|width = 66\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_1463.9999999999998_258.0_1571.9999999999998.png\l}"]
+	86	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 96\l|y = 488\l|width = 66\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/288.0_1463.9999999999998_486.0_1571.9999999999998.png\l}"]
+	87	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 172\l|y = 488\l|width = 55\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/516.0_1463.9999999999998_681.0_1571.9999999999998.png\l}"]
+	88	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 237\l|y = 488\l|width = 86\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/711.0_1463.9999999999998_969.0_1571.9999999999998.png\l}"]
+	89	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 533\l|width = 75\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_1599.0_285.0_1704.0.png\l}"]
+	90	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 105\l|y = 533\l|width = 109\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/315.0_1599.0_642.0_1704.0.png\l}"]
+	91	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 224\l|y = 533\l|width = 123\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/672.0_1599.0_1041.0_1704.0.png\l}"]
+	92	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 578\l|width = 47\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_1734.0_201.0_1839.0.png\l}"]
+	93	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 77\l|y = 578\l|width = 121\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/231.0_1734.0_594.0_1839.0.png\l}"]
+	94	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 208\l|y = 578\l|width = 142\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/624.0_1734.0_1050.0_1839.0.png\l}"]
+	95	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 622\l|width = 89\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_1866.0_327.0_1974.0.png\l}"]
+	96	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 119\l|y = 622\l|width = 58\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/357.0_1866.0_531.0_1974.0.png\l}"]
+	97	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 187\l|y = 622\l|width = 82\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/561.0_1866.0_807.0_1974.0.png\l}"]
+	98	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 279\l|y = 622\l|width = 71\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/837.0_1866.0_1050.0_1974.0.png\l}"]
+	99	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 667\l|width = 124\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_2001.0000000000002_432.0_2106.0.png\l}"]
+	100	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 154\l|y = 667\l|width = 75\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/462.0_2001.0000000000002_687.0_2106.0.png\l}"]
+	101	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 239\l|y = 667\l|width = 64\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/717.0_2001.0000000000002_909.0_2106.0.png\l}"]
+	102	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 712\l|width = 82\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_2136.0_306.0_2241.0.png\l}"]
+	103	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 112\l|y = 712\l|width = 96\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/336.0_2136.0_624.0_2241.0.png\l}"]
+	104	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 218\l|y = 712\l|width = 75\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/654.0_2136.0_879.0_2241.0.png\l}"]
+	105	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 756\l|width = 118\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_2268.0_414.0_2376.0.png\l}"]
+	106	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 148\l|y = 756\l|width = 70\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/444.0_2268.0_654.0_2376.0.png\l}"]
+	107	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 228\l|y = 756\l|width = 54\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/684.0_2268.0_846.0_2376.0.png\l}"]
+	108	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 292\l|y = 756\l|width = 86\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/876.0_2268.0_1134.0_2376.0.png\l}"]
+	109	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 190\l|width = 66\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_570.0_258.0_675.0.png\l}"]
+	110	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 96\l|y = 190\l|width = 67\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/288.0_570.0_489.0_675.0.png\l}"]
+	111	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 173\l|y = 190\l|width = 111\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/519.0_570.0_852.0_675.0.png\l}"]
+	112	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 294\l|y = 190\l|width = 81\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/882.0_570.0_1125.0_675.0.png\l}"]
+	113	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 234\l|width = 67\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_702.0_261.0_810.0.png\l}"]
+	114	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 97\l|y = 234\l|width = 78\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/291.0_702.0_525.0_810.0.png\l}"]
+	115	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 339\l|width = 114\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_1017.0_402.0_1125.0.png\l}"]
+	116	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 144\l|y = 339\l|width = 108\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/432.0_1017.0_756.0_1125.0.png\l}"]
+	117	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 262\l|y = 339\l|width = 104\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/786.0_1017.0_1098.0_1125.0.png\l}"]
+	118	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 384\l|width = 120\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_1152.0_420.0_1257.0.png\l}"]
+	119	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 488\l|width = 66\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_1463.9999999999998_258.0_1571.9999999999998.png\l}"]
+	120	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 96\l|y = 488\l|width = 66\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/288.0_1463.9999999999998_486.0_1571.9999999999998.png\l}"]
+	121	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 172\l|y = 488\l|width = 55\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/516.0_1463.9999999999998_681.0_1571.9999999999998.png\l}"]
+	122	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 237\l|y = 488\l|width = 86\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/711.0_1463.9999999999998_969.0_1571.9999999999998.png\l}"]
+	123	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 533\l|width = 75\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_1599.0_285.0_1704.0.png\l}"]
+	124	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 105\l|y = 533\l|width = 109\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/315.0_1599.0_642.0_1704.0.png\l}"]
+	125	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 224\l|y = 533\l|width = 123\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/672.0_1599.0_1041.0_1704.0.png\l}"]
+	126	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 578\l|width = 47\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_1734.0_201.0_1839.0.png\l}"]
+	127	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 77\l|y = 578\l|width = 121\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/231.0_1734.0_594.0_1839.0.png\l}"]
+	128	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 208\l|y = 578\l|width = 142\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/624.0_1734.0_1050.0_1839.0.png\l}"]
+	129	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 622\l|width = 89\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_1866.0_327.0_1974.0.png\l}"]
+	130	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 119\l|y = 622\l|width = 58\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/357.0_1866.0_531.0_1974.0.png\l}"]
+	131	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 187\l|y = 622\l|width = 82\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/561.0_1866.0_807.0_1974.0.png\l}"]
+	132	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 279\l|y = 622\l|width = 71\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/837.0_1866.0_1050.0_1974.0.png\l}"]
+	133	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 667\l|width = 124\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_2001.0000000000002_432.0_2106.0.png\l}"]
+	134	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 154\l|y = 667\l|width = 75\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/462.0_2001.0000000000002_687.0_2106.0.png\l}"]
+	135	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 239\l|y = 667\l|width = 64\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/717.0_2001.0000000000002_909.0_2106.0.png\l}"]
+	136	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 712\l|width = 82\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_2136.0_306.0_2241.0.png\l}"]
+	137	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 112\l|y = 712\l|width = 96\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/336.0_2136.0_624.0_2241.0.png\l}"]
+	138	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 218\l|y = 712\l|width = 75\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/654.0_2136.0_879.0_2241.0.png\l}"]
+	139	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 756\l|width = 118\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_2268.0_414.0_2376.0.png\l}"]
+	140	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 148\l|y = 756\l|width = 70\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/444.0_2268.0_654.0_2376.0.png\l}"]
+	141	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 228\l|y = 756\l|width = 54\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/684.0_2268.0_846.0_2376.0.png\l}"]
+	142	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 292\l|y = 756\l|width = 86\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/876.0_2268.0_1134.0_2376.0.png\l}"]
+	143	[label="{type = XCUIElementTypeButton\l|name = Travel\l|label = Travel\l|enabled = true\l|visible = true\l|x = 20\l|y = 190\l|width = 66\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_570.0_258.0_675.0.png\l}"]
+	144	[label="{type = XCUIElementTypeButton\l|name = Wales\l|label = Wales\l|enabled = true\l|visible = true\l|x = 96\l|y = 190\l|width = 67\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/288.0_570.0_489.0_675.0.png\l}"]
+	145	[label="{type = XCUIElementTypeButton\l|name = Coronavirus\l|label = Coronavirus\l|enabled = true\l|visible = true\l|x = 173\l|y = 190\l|width = 111\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/519.0_570.0_852.0_675.0.png\l}"]
+	146	[label="{type = XCUIElementTypeButton\l|name = Tourism\l|label = Tourism\l|enabled = true\l|visible = true\l|x = 294\l|y = 190\l|width = 81\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/882.0_570.0_1125.0_675.0.png\l}"]
+	147	[label="{type = XCUIElementTypeButton\l|name = Wales\l|label = Wales\l|enabled = true\l|visible = true\l|x = 20\l|y = 234\l|width = 67\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_702.0_261.0_810.0.png\l}"]
+	148	[label="{type = XCUIElementTypeButton\l|name = Cycling\l|label = Cycling\l|enabled = true\l|visible = true\l|x = 97\l|y = 234\l|width = 78\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/291.0_702.0_525.0_810.0.png\l}"]
+	149	[label="{type = XCUIElementTypeButton\l|name = BBC Culture\l|label = BBC Culture\l|enabled = true\l|visible = true\l|x = 20\l|y = 339\l|width = 114\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_1017.0_402.0_1125.0.png\l}"]
+	150	[label="{type = XCUIElementTypeButton\l|name = BBC Future\l|label = BBC Future\l|enabled = true\l|visible = true\l|x = 144\l|y = 339\l|width = 108\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/432.0_1017.0_756.0_1125.0.png\l}"]
+	151	[label="{type = XCUIElementTypeButton\l|name = BBC Travel\l|label = BBC Travel\l|enabled = true\l|visible = true\l|x = 262\l|y = 339\l|width = 104\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/786.0_1017.0_1098.0_1125.0.png\l}"]
+	152	[label="{type = XCUIElementTypeButton\l|name = BBC Worklife\l|label = BBC Worklife\l|enabled = true\l|visible = true\l|x = 20\l|y = 384\l|width = 120\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_1152.0_420.0_1257.0.png\l}"]
+	153	[label="{type = XCUIElementTypeButton\l|name = World\l|label = World\l|enabled = true\l|visible = true\l|x = 20\l|y = 488\l|width = 66\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_1463.9999999999998_258.0_1571.9999999999998.png\l}"]
+	154	[label="{type = XCUIElementTypeButton\l|name = Africa\l|label = Africa\l|enabled = true\l|visible = true\l|x = 96\l|y = 488\l|width = 66\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/288.0_1463.9999999999998_486.0_1571.9999999999998.png\l}"]
+	155	[label="{type = XCUIElementTypeButton\l|name = Asia\l|label = Asia\l|enabled = true\l|visible = true\l|x = 172\l|y = 488\l|width = 55\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/516.0_1463.9999999999998_681.0_1571.9999999999998.png\l}"]
+	156	[label="{type = XCUIElementTypeButton\l|name = Australia\l|label = Australia\l|enabled = true\l|visible = true\l|x = 237\l|y = 488\l|width = 86\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/711.0_1463.9999999999998_969.0_1571.9999999999998.png\l}"]
+	157	[label="{type = XCUIElementTypeButton\l|name = Europe\l|label = Europe\l|enabled = true\l|visible = true\l|x = 20\l|y = 533\l|width = 75\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_1599.0_285.0_1704.0.png\l}"]
+	158	[label="{type = XCUIElementTypeButton\l|name = Middle East\l|label = Middle East\l|enabled = true\l|visible = true\l|x = 105\l|y = 533\l|width = 109\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/315.0_1599.0_642.0_1704.0.png\l}"]
+	159	[label="{type = XCUIElementTypeButton\l|name = Latin America\l|label = Latin America\l|enabled = true\l|visible = true\l|x = 224\l|y = 533\l|width = 123\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/672.0_1599.0_1041.0_1704.0.png\l}"]
+	160	[label="{type = XCUIElementTypeButton\l|name = UK\l|label = UK\l|enabled = true\l|visible = true\l|x = 20\l|y = 578\l|width = 47\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_1734.0_201.0_1839.0.png\l}"]
+	161	[label="{type = XCUIElementTypeButton\l|name = US & Canada\l|label = US & Canada\l|enabled = true\l|visible = true\l|x = 77\l|y = 578\l|width = 121\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/231.0_1734.0_594.0_1839.0.png\l}"]
+	162	[label="{type = XCUIElementTypeButton\l|name = Paradise Papers\l|label = Paradise Papers\l|enabled = true\l|visible = true\l|x = 208\l|y = 578\l|width = 142\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/624.0_1734.0_1050.0_1839.0.png\l}"]
+	163	[label="{type = XCUIElementTypeButton\l|name = Business\l|label = Business\l|enabled = true\l|visible = true\l|x = 20\l|y = 622\l|width = 89\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_1866.0_327.0_1974.0.png\l}"]
+	164	[label="{type = XCUIElementTypeButton\l|name = Tech\l|label = Tech\l|enabled = true\l|visible = true\l|x = 119\l|y = 622\l|width = 58\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/357.0_1866.0_531.0_1974.0.png\l}"]
+	165	[label="{type = XCUIElementTypeButton\l|name = Science\l|label = Science\l|enabled = true\l|visible = true\l|x = 187\l|y = 622\l|width = 82\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/561.0_1866.0_807.0_1974.0.png\l}"]
+	166	[label="{type = XCUIElementTypeButton\l|name = Health\l|label = Health\l|enabled = true\l|visible = true\l|x = 279\l|y = 622\l|width = 71\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/837.0_1866.0_1050.0_1974.0.png\l}"]
+	167	[label="{type = XCUIElementTypeButton\l|name = Entertainment\l|label = Entertainment\l|enabled = true\l|visible = true\l|x = 20\l|y = 667\l|width = 124\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_2001.0000000000002_432.0_2106.0.png\l}"]
+	168	[label="{type = XCUIElementTypeButton\l|name = Stories\l|label = Stories\l|enabled = true\l|visible = true\l|x = 154\l|y = 667\l|width = 75\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/462.0_2001.0000000000002_687.0_2106.0.png\l}"]
+	169	[label="{type = XCUIElementTypeButton\l|name = Sport\l|label = Sport\l|enabled = true\l|visible = true\l|x = 239\l|y = 667\l|width = 64\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/717.0_2001.0000000000002_909.0_2106.0.png\l}"]
+	170	[label="{type = XCUIElementTypeButton\l|name = Football\l|label = Football\l|enabled = true\l|visible = true\l|x = 20\l|y = 712\l|width = 82\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_2136.0_306.0_2241.0.png\l}"]
+	171	[label="{type = XCUIElementTypeButton\l|name = Formula 1\l|label = Formula 1\l|enabled = true\l|visible = true\l|x = 112\l|y = 712\l|width = 96\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/336.0_2136.0_624.0_2241.0.png\l}"]
+	172	[label="{type = XCUIElementTypeButton\l|name = Cricket\l|label = Cricket\l|enabled = true\l|visible = true\l|x = 218\l|y = 712\l|width = 75\l|height = 35\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/654.0_2136.0_879.0_2241.0.png\l}"]
+	173	[label="{type = XCUIElementTypeButton\l|name = Rugby Union\l|label = Rugby Union\l|enabled = true\l|visible = true\l|x = 20\l|y = 756\l|width = 118\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/60.0_2268.0_414.0_2376.0.png\l}"]
+	174	[label="{type = XCUIElementTypeButton\l|name = Tennis\l|label = Tennis\l|enabled = true\l|visible = true\l|x = 148\l|y = 756\l|width = 70\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/444.0_2268.0_654.0_2376.0.png\l}"]
+	175	[label="{type = XCUIElementTypeButton\l|name = Golf\l|label = Golf\l|enabled = true\l|visible = true\l|x = 228\l|y = 756\l|width = 54\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/684.0_2268.0_846.0_2376.0.png\l}"]
+	176	[label="{type = XCUIElementTypeButton\l|name = Athletics\l|label = Athletics\l|enabled = true\l|visible = true\l|x = 292\l|y = 756\l|width = 86\l|height = 36\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/876.0_2268.0_1134.0_2376.0.png\l}"]
+	177	[label="{type = XCUIElementTypeStaticText\l|value = Travel\l|name = Travel\l|label = Travel\l|enabled = true\l|visible = true\l|x = 32\l|y = 198\l|width = 42\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/96.0_594.0_222.0_651.0.png\l}"]
+	178	[label="{type = XCUIElementTypeStaticText\l|value = Wales\l|name = Wales\l|label = Wales\l|enabled = true\l|visible = true\l|x = 108\l|y = 198\l|width = 43\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/324.0_594.0_453.0_651.0.png\l}"]
+	179	[label="{type = XCUIElementTypeStaticText\l|value = Coronavirus\l|name = Coronavirus\l|label = Coronavirus\l|enabled = true\l|visible = true\l|x = 185\l|y = 198\l|width = 87\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/555.0_594.0_816.0_651.0.png\l}"]
+	180	[label="{type = XCUIElementTypeStaticText\l|value = Tourism\l|name = Tourism\l|label = Tourism\l|enabled = true\l|visible = true\l|x = 306\l|y = 198\l|width = 57\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/917.9999999999999_594.0_1089.0_651.0.png\l}"]
+	181	[label="{type = XCUIElementTypeStaticText\l|value = Wales\l|name = Wales\l|label = Wales\l|enabled = true\l|visible = true\l|x = 32\l|y = 242\l|width = 43\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/96.0_726.0_225.0_786.0.png\l}"]
+	182	[label="{type = XCUIElementTypeStaticText\l|value = Cycling\l|name = Cycling\l|label = Cycling\l|enabled = true\l|visible = true\l|x = 109\l|y = 242\l|width = 54\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/327.0_726.0_489.0_786.0.png\l}"]
+	183	[label="{type = XCUIElementTypeStaticText\l|value = BBC Culture\l|name = BBC Culture\l|label = BBC Culture\l|enabled = true\l|visible = true\l|x = 32\l|y = 347\l|width = 90\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/96.0_1041.0_366.0_1101.0.png\l}"]
+	184	[label="{type = XCUIElementTypeStaticText\l|value = BBC Future\l|name = BBC Future\l|label = BBC Future\l|enabled = true\l|visible = true\l|x = 156\l|y = 347\l|width = 84\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/468.0_1041.0_720.0_1101.0.png\l}"]
+	185	[label="{type = XCUIElementTypeStaticText\l|value = BBC Travel\l|name = BBC Travel\l|label = BBC Travel\l|enabled = true\l|visible = true\l|x = 274\l|y = 347\l|width = 80\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/822.0000000000001_1041.0_1062.0_1101.0.png\l}"]
+	186	[label="{type = XCUIElementTypeStaticText\l|value = BBC Worklife\l|name = BBC Worklife\l|label = BBC Worklife\l|enabled = true\l|visible = true\l|x = 32\l|y = 392\l|width = 96\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/96.0_1176.0_384.0_1233.0.png\l}"]
+	187	[label="{type = XCUIElementTypeStaticText\l|value = World\l|name = World\l|label = World\l|enabled = true\l|visible = true\l|x = 32\l|y = 496\l|width = 42\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/96.0_1488.0_222.0_1548.0.png\l}"]
+	188	[label="{type = XCUIElementTypeStaticText\l|value = Africa\l|name = Africa\l|label = Africa\l|enabled = true\l|visible = true\l|x = 108\l|y = 496\l|width = 42\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/324.0_1488.0_450.0_1548.0.png\l}"]
+	189	[label="{type = XCUIElementTypeStaticText\l|value = Asia\l|name = Asia\l|label = Asia\l|enabled = true\l|visible = true\l|x = 184\l|y = 496\l|width = 31\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/552.0_1488.0_645.0_1548.0.png\l}"]
+	190	[label="{type = XCUIElementTypeStaticText\l|value = Australia\l|name = Australia\l|label = Australia\l|enabled = true\l|visible = true\l|x = 249\l|y = 496\l|width = 62\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/747.0_1488.0_933.0_1548.0.png\l}"]
+	191	[label="{type = XCUIElementTypeStaticText\l|value = Europe\l|name = Europe\l|label = Europe\l|enabled = true\l|visible = true\l|x = 32\l|y = 541\l|width = 51\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/96.0_1623.0000000000002_249.0_1683.0000000000002.png\l}"]
+	192	[label="{type = XCUIElementTypeStaticText\l|value = Middle East\l|name = Middle East\l|label = Middle East\l|enabled = true\l|visible = true\l|x = 117\l|y = 541\l|width = 85\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/351.0_1623.0000000000002_606.0_1683.0000000000002.png\l}"]
+	193	[label="{type = XCUIElementTypeStaticText\l|value = Latin America\l|name = Latin America\l|label = Latin America\l|enabled = true\l|visible = true\l|x = 236\l|y = 541\l|width = 99\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/708.0_1623.0000000000002_1005.0_1683.0000000000002.png\l}"]
+	194	[label="{type = XCUIElementTypeStaticText\l|value = UK\l|name = UK\l|label = UK\l|enabled = true\l|visible = true\l|x = 32\l|y = 586\l|width = 23\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/96.0_1757.9999999999998_165.0_1814.9999999999998.png\l}"]
+	195	[label="{type = XCUIElementTypeStaticText\l|value = US & Canada\l|name = US & Canada\l|label = US & Canada\l|enabled = true\l|visible = true\l|x = 89\l|y = 586\l|width = 97\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/267.0_1757.9999999999998_558.0_1814.9999999999998.png\l}"]
+	196	[label="{type = XCUIElementTypeStaticText\l|value = Paradise Papers\l|name = Paradise Papers\l|label = Paradise Papers\l|enabled = true\l|visible = true\l|x = 220\l|y = 586\l|width = 118\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/660.0_1757.9999999999998_1014.0_1814.9999999999998.png\l}"]
+	197	[label="{type = XCUIElementTypeStaticText\l|value = Business\l|name = Business\l|label = Business\l|enabled = true\l|visible = true\l|x = 32\l|y = 630\l|width = 65\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/96.0_1890.0_291.0_1950.0.png\l}"]
+	198	[label="{type = XCUIElementTypeStaticText\l|value = Tech\l|name = Tech\l|label = Tech\l|enabled = true\l|visible = true\l|x = 131\l|y = 630\l|width = 34\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/393.0_1890.0_495.0_1950.0.png\l}"]
+	199	[label="{type = XCUIElementTypeStaticText\l|value = Science\l|name = Science\l|label = Science\l|enabled = true\l|visible = true\l|x = 199\l|y = 630\l|width = 58\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/597.0_1890.0_771.0_1950.0.png\l}"]
+	200	[label="{type = XCUIElementTypeStaticText\l|value = Health\l|name = Health\l|label = Health\l|enabled = true\l|visible = true\l|x = 291\l|y = 630\l|width = 47\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/873.0_1890.0_1014.0_1950.0.png\l}"]
+	201	[label="{type = XCUIElementTypeStaticText\l|value = Entertainment\l|name = Entertainment\l|label = Entertainment\l|enabled = true\l|visible = true\l|x = 32\l|y = 675\l|width = 100\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/96.0_2025.0_396.0_2085.0.png\l}"]
+	202	[label="{type = XCUIElementTypeStaticText\l|value = Stories\l|name = Stories\l|label = Stories\l|enabled = true\l|visible = true\l|x = 166\l|y = 675\l|width = 51\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/498.0_2025.0_651.0_2085.0.png\l}"]
+	203	[label="{type = XCUIElementTypeStaticText\l|value = Sport\l|name = Sport\l|label = Sport\l|enabled = true\l|visible = true\l|x = 251\l|y = 675\l|width = 40\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/753.0_2025.0_873.0_2085.0.png\l}"]
+	204	[label="{type = XCUIElementTypeStaticText\l|value = Football\l|name = Football\l|label = Football\l|enabled = true\l|visible = true\l|x = 32\l|y = 720\l|width = 58\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/96.0_2160.0_270.0_2217.0.png\l}"]
+	205	[label="{type = XCUIElementTypeStaticText\l|value = Formula 1\l|name = Formula 1\l|label = Formula 1\l|enabled = true\l|visible = true\l|x = 124\l|y = 720\l|width = 72\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/372.0_2160.0_588.0_2217.0.png\l}"]
+	206	[label="{type = XCUIElementTypeStaticText\l|value = Cricket\l|name = Cricket\l|label = Cricket\l|enabled = true\l|visible = true\l|x = 230\l|y = 720\l|width = 51\l|height = 19\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/690.0_2160.0_843.0_2217.0.png\l}"]
+	207	[label="{type = XCUIElementTypeStaticText\l|value = Rugby Union\l|name = Rugby Union\l|label = Rugby Union\l|enabled = true\l|visible = true\l|x = 32\l|y = 764\l|width = 94\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/96.0_2292.0_378.0_2352.0.png\l}"]
+	208	[label="{type = XCUIElementTypeStaticText\l|value = Tennis\l|name = Tennis\l|label = Tennis\l|enabled = true\l|visible = true\l|x = 160\l|y = 764\l|width = 46\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/480.0_2292.0_618.0_2352.0.png\l}"]
+	209	[label="{type = XCUIElementTypeStaticText\l|value = Golf\l|name = Golf\l|label = Golf\l|enabled = true\l|visible = true\l|x = 240\l|y = 764\l|width = 30\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/720.0_2292.0_810.0_2352.0.png\l}"]
+	210	[label="{type = XCUIElementTypeStaticText\l|value = Athletics\l|name = Athletics\l|label = Athletics\l|enabled = true\l|visible = true\l|x = 304\l|y = 764\l|width = 62\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/bbc-search/S1/pngs/912.0_2292.0_1098.0_2352.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	5 -> 7
+	6 -> 8
+	6 -> 9
+	6 -> 10
+	6 -> 11
+	6 -> 12
+	7 -> 13
+	13 -> 14
+	13 -> 15
+	14 -> 16
+	14 -> 17
+	14 -> 18
+	15 -> 19
+	19 -> 20
+	20 -> 21
+	21 -> 22
+	21 -> 23
+	21 -> 24
+	21 -> 25
+	21 -> 26
+	21 -> 27
+	21 -> 28
+	22 -> 29
+	23 -> 30
+	24 -> 31
+	25 -> 32
+	26 -> 33
+	27 -> 34
+	30 -> 35
+	32 -> 36
+	34 -> 37
+	35 -> 38
+	36 -> 39
+	37 -> 40
+	38 -> 41
+	38 -> 42
+	38 -> 43
+	38 -> 44
+	38 -> 45
+	38 -> 46
+	39 -> 47
+	39 -> 48
+	39 -> 49
+	39 -> 50
+	40 -> 51
+	40 -> 52
+	40 -> 53
+	40 -> 54
+	40 -> 55
+	40 -> 56
+	40 -> 57
+	40 -> 58
+	40 -> 59
+	40 -> 60
+	40 -> 61
+	40 -> 62
+	40 -> 63
+	40 -> 64
+	40 -> 65
+	40 -> 66
+	40 -> 67
+	40 -> 68
+	40 -> 69
+	40 -> 70
+	40 -> 71
+	40 -> 72
+	40 -> 73
+	40 -> 74
+	41 -> 75
+	42 -> 76
+	43 -> 77
+	44 -> 78
+	45 -> 79
+	46 -> 80
+	47 -> 81
+	48 -> 82
+	49 -> 83
+	50 -> 84
+	51 -> 85
+	52 -> 86
+	53 -> 87
+	54 -> 88
+	55 -> 89
+	56 -> 90
+	57 -> 91
+	58 -> 92
+	59 -> 93
+	60 -> 94
+	61 -> 95
+	62 -> 96
+	63 -> 97
+	64 -> 98
+	65 -> 99
+	66 -> 100
+	67 -> 101
+	68 -> 102
+	69 -> 103
+	70 -> 104
+	71 -> 105
+	72 -> 106
+	73 -> 107
+	74 -> 108
+	75 -> 109
+	76 -> 110
+	77 -> 111
+	78 -> 112
+	79 -> 113
+	80 -> 114
+	81 -> 115
+	82 -> 116
+	83 -> 117
+	84 -> 118
+	85 -> 119
+	86 -> 120
+	87 -> 121
+	88 -> 122
+	89 -> 123
+	90 -> 124
+	91 -> 125
+	92 -> 126
+	93 -> 127
+	94 -> 128
+	95 -> 129
+	96 -> 130
+	97 -> 131
+	98 -> 132
+	99 -> 133
+	100 -> 134
+	101 -> 135
+	102 -> 136
+	103 -> 137
+	104 -> 138
+	105 -> 139
+	106 -> 140
+	107 -> 141
+	108 -> 142
+	109 -> 143
+	110 -> 144
+	111 -> 145
+	112 -> 146
+	113 -> 147
+	114 -> 148
+	115 -> 149
+	116 -> 150
+	117 -> 151
+	118 -> 152
+	119 -> 153
+	120 -> 154
+	121 -> 155
+	122 -> 156
+	123 -> 157
+	124 -> 158
+	125 -> 159
+	126 -> 160
+	127 -> 161
+	128 -> 162
+	129 -> 163
+	130 -> 164
+	131 -> 165
+	132 -> 166
+	133 -> 167
+	134 -> 168
+	135 -> 169
+	136 -> 170
+	137 -> 171
+	138 -> 172
+	139 -> 173
+	140 -> 174
+	141 -> 175
+	142 -> 176
+	143 -> 177
+	144 -> 178
+	145 -> 179
+	146 -> 180
+	147 -> 181
+	148 -> 182
+	149 -> 183
+	150 -> 184
+	151 -> 185
+	152 -> 186
+	153 -> 187
+	154 -> 188
+	155 -> 189
+	156 -> 190
+	157 -> 191
+	158 -> 192
+	159 -> 193
+	160 -> 194
+	161 -> 195
+	162 -> 196
+	163 -> 197
+	164 -> 198
+	165 -> 199
+	166 -> 200
+	167 -> 201
+	168 -> 202
+	169 -> 203
+	170 -> 204
+	171 -> 205
+	172 -> 206
+	173 -> 207
+	174 -> 208
+	175 -> 209
+	176 -> 210
+
+
+}

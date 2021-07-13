@@ -1,0 +1,5 @@
+pathToElementImageCrop: spark-send/S1/pngs/78.0_212.0_614.0_284.0.png;
+coords: {'x1': 78.0, 'y1': 212.0, 'x2': 614.0, 'y2': 284.0};
+text_identifier: { "name" : "MessageToField" };
+event: send_keys_enter;
+input: email@example.com;

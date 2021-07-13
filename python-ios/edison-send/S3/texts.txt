@@ -1,0 +1,45 @@
+{"name" : "Email", "label" : "Email", "screenshotPath" : "edison-send/S3/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "Mail.EdoComposeView", "screenshotPath" : "edison-send/S3/pngs/0.0_40.0_750.0_128.0.png"}
+{"name" : "Cancel", "label" : "Cancel", "screenshotPath" : "edison-send/S3/pngs/16.0_40.0_144.0_128.0.png"}
+{"value" : "0%", "name" : "Vertical scroll bar, 2 pages", "label" : "Vertical scroll bar, 2 pages", "screenshotPath" : "edison-send/S3/pngs/684.0_128.0_744.0_1334.0.png"}
+{"name" : "Q", "label" : "Q", "screenshotPath" : "edison-send/S3/pngs/0.0_916.0_76.0_1008.0.png"}
+{"name" : "W", "label" : "W", "screenshotPath" : "edison-send/S3/pngs/74.0_916.0_150.0_1008.0.png"}
+{"name" : "E", "label" : "E", "screenshotPath" : "edison-send/S3/pngs/150.0_916.0_226.0_1008.0.png"}
+{"name" : "R", "label" : "R", "screenshotPath" : "edison-send/S3/pngs/224.00000000000003_916.0_300.0_1008.0.png"}
+{"name" : "T", "label" : "T", "screenshotPath" : "edison-send/S3/pngs/300.0_916.0_376.0_1008.0.png"}
+{"name" : "Y", "label" : "Y", "screenshotPath" : "edison-send/S3/pngs/374.0_916.0_450.0_1008.0.png"}
+{"name" : "U", "label" : "U", "screenshotPath" : "edison-send/S3/pngs/450.0_916.0_526.0_1008.0.png"}
+{"name" : "I", "label" : "I", "screenshotPath" : "edison-send/S3/pngs/524.0_916.0_600.0_1008.0.png"}
+{"name" : "O", "label" : "O", "screenshotPath" : "edison-send/S3/pngs/600.0_916.0_676.0_1008.0.png"}
+{"name" : "P", "label" : "P", "screenshotPath" : "edison-send/S3/pngs/674.0_916.0_750.0_1008.0.png"}
+{"name" : "A", "label" : "A", "screenshotPath" : "edison-send/S3/pngs/36.0_1024.0_112.0_1116.0.png"}
+{"name" : "S", "label" : "S", "screenshotPath" : "edison-send/S3/pngs/112.00000000000001_1024.0_188.0_1116.0.png"}
+{"name" : "D", "label" : "D", "screenshotPath" : "edison-send/S3/pngs/186.0_1024.0_262.0_1116.0.png"}
+{"name" : "F", "label" : "F", "screenshotPath" : "edison-send/S3/pngs/262.0_1024.0_338.0_1116.0.png"}
+{"name" : "G", "label" : "G", "screenshotPath" : "edison-send/S3/pngs/338.0_1024.0_414.0_1116.0.png"}
+{"name" : "H", "label" : "H", "screenshotPath" : "edison-send/S3/pngs/412.0_1024.0_488.0_1116.0.png"}
+{"name" : "J", "label" : "J", "screenshotPath" : "edison-send/S3/pngs/487.99999999999994_1024.0_564.0_1116.0.png"}
+{"name" : "K", "label" : "K", "screenshotPath" : "edison-send/S3/pngs/562.0_1024.0_638.0_1116.0.png"}
+{"name" : "L", "label" : "L", "screenshotPath" : "edison-send/S3/pngs/638.0_1024.0_714.0_1116.0.png"}
+{"value" : "1", "name" : "shift", "label" : "shift", "screenshotPath" : "edison-send/S3/pngs/0.0_1132.0_96.0_1224.0.png"}
+{"name" : "Z", "label" : "Z", "screenshotPath" : "edison-send/S3/pngs/112.00000000000001_1132.0_188.0_1224.0.png"}
+{"name" : "X", "label" : "X", "screenshotPath" : "edison-send/S3/pngs/186.0_1132.0_262.0_1224.0.png"}
+{"name" : "C", "label" : "C", "screenshotPath" : "edison-send/S3/pngs/262.0_1132.0_338.0_1224.0.png"}
+{"name" : "V", "label" : "V", "screenshotPath" : "edison-send/S3/pngs/338.0_1132.0_414.0_1224.0.png"}
+{"name" : "B", "label" : "B", "screenshotPath" : "edison-send/S3/pngs/412.0_1132.0_488.0_1224.0.png"}
+{"name" : "N", "label" : "N", "screenshotPath" : "edison-send/S3/pngs/487.99999999999994_1132.0_564.0_1224.0.png"}
+{"name" : "M", "label" : "M", "screenshotPath" : "edison-send/S3/pngs/562.0_1132.0_638.0_1224.0.png"}
+{"name" : "delete", "label" : "delete", "screenshotPath" : "edison-send/S3/pngs/654.0_1132.0_750.0_1224.0.png"}
+{"name" : "more", "label" : "numbers", "screenshotPath" : "edison-send/S3/pngs/0.0_1240.0_94.0_1332.0.png"}
+{"name" : "Emoji", "label" : "Emoji", "screenshotPath" : "edison-send/S3/pngs/92.0_1240.0_188.0_1332.0.png"}
+{"name" : "dictation", "label" : "Dictate", "screenshotPath" : "edison-send/S3/pngs/186.0_1240.0_262.0_1332.0.png"}
+{"name" : "space", "label" : "space", "screenshotPath" : "edison-send/S3/pngs/262.0_1240.0_564.0_1332.0.png"}
+{"name" : "Done", "label" : "done", "screenshotPath" : "edison-send/S3/pngs/562.0_1240.0_750.0_1332.0.png"}
+{"value" : "To:", "name" : "To:", "label" : "To:", "screenshotPath" : "edison-send/S3/pngs/32.0_156.0_74.0_192.0.png"}
+{"name" : "Cc/Bcc, From: email@example.com", "label" : "Cc/Bcc, From: email@example.com", "screenshotPath" : "edison-send/S3/pngs/32.0_242.0_730.0_302.0.png"}
+{"value" : "Subject:", "name" : "Subject:", "label" : "Subject:", "screenshotPath" : "edison-send/S3/pngs/32.0_342.0_146.0_378.0.png"}
+{"value" : "Testing 2", "label" : "", "screenshotPath" : "edison-send/S3/pngs/152.0_334.0_730.0_386.0.png"}
+{"value" : "Cc/Bcc, From: email@example.com", "name" : "Cc/Bcc, From: email@example.com", "label" : "Cc/Bcc, From: email@example.com", "screenshotPath" : "edison-send/S3/pngs/32.0_254.0_536.0_290.0.png"}
+{"label" : "", "screenshotPath" : "edison-send/S3/pngs/412.0_144.0_416.0_204.0.png"}
+{"value" : " ", "screenshotPath" : "edison-send/S3/pngs/0.0_410.0_750.0_1070.0.png"}
+{"value" : "email@example.com", "name" : "email@example.com", "label" : "email@example.com", "screenshotPath" : "edison-send/S3/pngs/84.0_150.0_394.0_198.0.png"}

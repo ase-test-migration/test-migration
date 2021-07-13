@@ -1,0 +1,10 @@
+{ "content-desc" : "settings" , "resource-id" : "com.usatoday.android.news:id/settings_gear" , "screenshotPath" : "usa-category/S0/pngs/865_215_931_281.png"}
+{ "content-desc" : "Search for news and sections" , "resource-id" : "com.usatoday.android.news:id/search_the_app" , "screenshotPath" : "usa-category/S0/pngs/948_182_1080_314.png"}
+{ "content-desc" : "Top Stories" , "resource-id" : "com.usatoday.android.news:id/top_stories_tab" , "screenshotPath" : "usa-category/S0/pngs/0_1994_216_2148.png"}
+{ "content-desc" : "Popular" , "resource-id" : "com.usatoday.android.news:id/most_popular_tab" , "screenshotPath" : "usa-category/S0/pngs/216_1994_432_2148.png"}
+{ "content-desc" : "Sections" , "resource-id" : "com.usatoday.android.news:id/sections_tab" , "screenshotPath" : "usa-category/S0/pngs/432_1994_648_2148.png"}
+{ "content-desc" : "My Topics" , "resource-id" : "com.usatoday.android.news:id/alerts_tab" , "screenshotPath" : "usa-category/S0/pngs/648_1994_864_2148.png"}
+{ "content-desc" : "Saved" , "resource-id" : "com.usatoday.android.news:id/saved_articles_tab" , "screenshotPath" : "usa-category/S0/pngs/864_1994_1080_2148.png"}
+{ "resource-id" : "com.usatoday.android.news:id/list" , "screenshotPath" : "usa-category/S0/pngs/0_328_1080_1977.png"}
+{ "content-desc" : "Save unchecked The US has a massive military empire. Do we still need it?" , "resource-id" : "com.usatoday.android.news:id/icon_1" , "screenshotPath" : "usa-category/S0/pngs/55_1659_121_1725.png"}
+{ "content-desc" : "Share" , "resource-id" : "com.usatoday.android.news:id/icon_2" , "screenshotPath" : "usa-category/S0/pngs/184_1659_245_1720.png"}

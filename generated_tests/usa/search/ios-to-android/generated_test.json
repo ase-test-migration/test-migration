@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "usa-search",
+        "events": [
+            {
+                "type": "accessibilityId",
+                "tag": "Search for news and sections",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "type": "resource-id",
+                "tag": "com.usatoday.android.news:id/edit_text_search"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.usatoday.android.news:id/edit_text_search",
+                "event": "send_keys_enter",
+                "input": "travel"
+            }
+        ]
+    }
+}

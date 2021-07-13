@@ -1,0 +1,70 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = CNN\l|label = CNN\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeAlert\l|name = You are about to change your CNN news edition\l|label = You are about to change your CNN news edition\l|enabled = true\l|visible = true\l|x = 72\l|y = 298\l|width = 270\l|height = 310\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/216.0_894.0_1026.0_1824.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 72\l|y = 298\l|width = 270\l|height = 310\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/216.0_894.0_1026.0_1824.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 72\l|y = 298\l|width = 270\l|height = 310\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/216.0_894.0_1026.0_1824.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 72\l|y = 298\l|width = 270\l|height = 310\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/216.0_894.0_1026.0_1824.0.png\l}"]
+	7	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 72\l|y = 298\l|width = 270\l|height = 177\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/216.0_894.0_1026.0_1425.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 72\l|y = 474\l|width = 270\l|height = 2\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/216.0_1421.9999999999998_1026.0_1427.9999999999998.png\l}"]
+	9	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 72\l|y = 475\l|width = 270\l|height = 133\l|numberOfChildren = 3\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/216.0_1425.0_1026.0_1824.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 72\l|y = 298\l|width = 270\l|height = 177\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/216.0_894.0_1026.0_1425.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 72\l|y = 474\l|width = 270\l|height = 2\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/216.0_1421.9999999999998_1026.0_1427.9999999999998.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 72\l|y = 475\l|width = 270\l|height = 133\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/216.0_1425.0_1026.0_1824.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 1 page\l|label = Vertical scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 309\l|y = 475\l|width = 30\l|height = 133\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/927.0_1425.0_1017.0_1824.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 72\l|y = 574\l|width = 270\l|height = 31\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/216.0_1722.0_1026.0_1815.0.png\l}"]
+	15	[label="{type = XCUIElementTypeStaticText\l|value = You are about to change your CNN news edition\l|name = You are about to change your CNN news edition\l|label = You are about to change your CNN news edition\l|enabled = true\l|visible = true\l|x = 88\l|y = 316\l|width = 238\l|height = 49\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/264.0_948.0000000000001_978.0_1095.0.png\l}"]
+	16	[label="{type = XCUIElementTypeStaticText\l|value = Changing your edition will reset your news alert preferences to the defaults.  If you want to change editions and set new alerts preferences now, tap "Accept and Customize Now"\l|name = Changing your edition will reset your news alert preferences to the defaults.  If you want to change editions and set new alerts preferences now, tap "Accept and Customize Now"\l|label = Changing your edition will reset your news alert preferences to the defaults.  If you want to change editions and set new alerts preferences now, tap "Accept and Customize Now"\l|enabled = true\l|visible = true\l|x = 88\l|y = 365\l|width = 238\l|height = 91\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/264.0_1095.0_978.0_1368.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 72\l|y = 474\l|width = 270\l|height = 2\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/216.0_1421.9999999999998_1026.0_1427.9999999999998.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 72\l|y = 475\l|width = 270\l|height = 133\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/216.0_1425.0_1026.0_1824.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 72\l|y = 475\l|width = 270\l|height = 44\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/216.0_1425.0_1026.0_1557.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 72\l|y = 519\l|width = 270\l|height = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/216.0_1557.0_1026.0_1560.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 72\l|y = 519\l|width = 270\l|height = 45\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = true \l|screenshotPath = cnn-edition/S4/pngs/216.0_1557.0_1026.0_1692.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 72\l|y = 563\l|width = 270\l|height = 1\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/216.0_1689.0_1026.0_1692.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 72\l|y = 563\l|width = 270\l|height = 45\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/216.0_1689.0_1026.0_1824.0.png\l}"]
+	24	[label="{type = XCUIElementTypeButton\l|name = Accept & Customize Now\l|label = Accept & Customize Now\l|enabled = true\l|visible = true\l|x = 72\l|y = 475\l|width = 270\l|height = 44\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/216.0_1425.0_1026.0_1557.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 72\l|y = 519\l|width = 270\l|height = 1\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/216.0_1557.0_1026.0_1560.0.png\l}"]
+	26	[label="{type = XCUIElementTypeButton\l|name = Accept\l|label = Accept\l|enabled = true\l|visible = true\l|x = 72\l|y = 519\l|width = 270\l|height = 45\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = cnn-edition/S4/pngs/216.0_1557.0_1026.0_1692.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 72\l|y = 563\l|width = 270\l|height = 1\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/216.0_1689.0_1026.0_1692.0.png\l}"]
+	28	[label="{type = XCUIElementTypeButton\l|name = Cancel\l|label = Cancel\l|enabled = true\l|visible = true\l|x = 72\l|y = 563\l|width = 270\l|height = 45\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/216.0_1689.0_1026.0_1824.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 72\l|y = 519\l|width = 270\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/216.0_1557.0_1026.0_1560.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 72\l|y = 563\l|width = 270\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = cnn-edition/S4/pngs/216.0_1689.0_1026.0_1692.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	6 -> 8
+	6 -> 9
+	7 -> 10
+	8 -> 11
+	9 -> 12
+	9 -> 13
+	9 -> 14
+	10 -> 15
+	10 -> 16
+	11 -> 17
+	12 -> 18
+	18 -> 19
+	18 -> 20
+	18 -> 21
+	18 -> 22
+	18 -> 23
+	19 -> 24
+	20 -> 25
+	21 -> 26
+	22 -> 27
+	23 -> 28
+	25 -> 29
+	27 -> 30
+
+
+}

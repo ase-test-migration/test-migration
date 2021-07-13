@@ -1,0 +1,25 @@
+{
+    "tests": [
+        {
+            "name": "testEbayRegister", 
+            "events": [
+                {
+                    "tag": "com.ebay.mobile:id/button_register", 
+                    "type": "id", 
+                    "event": "click"
+                },
+                {
+                    "tag": "com.ebay.mobile:id/button_google", 
+                    "type": "id", 
+                    "event": "click"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+      "platformName": "Android",
+      "platformVersion": "9",
+      "deviceName": "Nexus_5_API_28",
+      "newCommandTimeout": 1000
+    }
+}

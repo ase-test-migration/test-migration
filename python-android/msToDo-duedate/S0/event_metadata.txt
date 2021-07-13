@@ -1,0 +1,4 @@
+pathToElementImageCrop: msToDo-duedate/S0/pngs/48_240_319_384.png;
+coords: {'x1': 48, 'y1': 240, 'x2': 319, 'y2': 384};
+text_identifier: { "resource-id" : "com.microsoft.todos:id/list_name" };
+event: click;

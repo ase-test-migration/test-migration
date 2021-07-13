@@ -1,0 +1,44 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "usa-mynews",
+        "events": [
+            {
+                "type": "name",
+                "tag": "My Topics tab",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "See Suggested Topics",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Follow",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Follow",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Follow",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "oracle-type": "widget_exists",
+                "type": "name",
+                "tag": "Suggested Topics"
+            },
+            {
+                "type": "name",
+                "tag": "Go to articles about Derek Chauvin",
+                "event": "click"
+            }
+        ]
+    }
+}

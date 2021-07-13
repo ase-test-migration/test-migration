@@ -1,0 +1,4 @@
+pathToElementImageCrop: aliExpress-addCart/S0/pngs/60.0_47.99999999999999_522.0_120.0.png;
+coords: {'x1': 60.0, 'y1': 47.99999999999999, 'x2': 522.0, 'y2': 120.0};
+text_identifier: { "name" : "GBCoordinatorScrollView" };
+event: click;

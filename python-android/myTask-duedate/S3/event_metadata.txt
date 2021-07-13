@@ -1,0 +1,4 @@
+pathToElementImageCrop: myTask-duedate/S3/pngs/784_1136_921_1273.png;
+coords: {'x1': 784, 'y1': 1136, 'x2': 921, 'y2': 1273};
+text_identifier: {  };
+event: click;

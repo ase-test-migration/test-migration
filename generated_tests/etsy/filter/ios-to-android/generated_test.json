@@ -1,0 +1,28 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "etsy-filter",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.etsy.android:id/app_bar_toolbar",
+                "event": "click"
+            },
+            {
+                "type": "xPath",
+                "tag": "/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/androidx.recyclerview.widget.RecyclerView/android.view.ViewGroup[3]",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Filter Button",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "Show results",
+                "event": "click"
+            }
+        ]
+    }
+}

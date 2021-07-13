@@ -1,0 +1,8 @@
+{ "content-desc" : "Home" , "screenshotPath" : "search/S0/pngs/0_1608_270_1776.png"}
+{ "content-desc" : "Search" , "screenshotPath" : "search/S0/pngs/270_1608_540_1776.png"}
+{ "content-desc" : "Orders" , "screenshotPath" : "search/S0/pngs/540_1608_810_1776.png"}
+{ "content-desc" : "Account" , "screenshotPath" : "search/S0/pngs/810_1608_1080_1776.png"}
+{ "content-desc" : "Filters" , "resource-id" : "com.ubercab.eats:id/ub__sort_and_filter_entry_icon" , "screenshotPath" : "search/S0/pngs/924_270_1032_378.png"}
+{ "resource-id" : "com.ubercab.eats:id/order_preferences_toolbar_group" , "screenshotPath" : "search/S0/pngs/48_252_900_396.png"}
+{ "content-desc" : "Add to favorites" , "resource-id" : "com.ubercab.eats:id/ub__regular_store_favorite_icon" , "screenshotPath" : "search/S0/pngs/888_816_1032_960.png"}
+{ "resource-id" : "com.ubercab.eats:id/order_preferences_time_button" , "screenshotPath" : "search/S0/pngs/612_270_876_378.png"}

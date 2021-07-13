@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "dolphin-back",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "mobi.mgeek.TunnyBrowser:id/search_text",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "mobi.mgeek.TunnyBrowser:id/search_input",
+                "event": "send_keys_enter",
+                "input": "google.com"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "\u041f\u0440\u0438\u0458\u0430\u0432\u0438\u0442\u0435 \u0441\u0435",
+                "event": "click"
+            }
+        ]
+    }
+}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: brave-bookmark/S3/pngs/893_2016_1047_2148.png;
+coords: {'x1': 893, 'y1': 2016, 'x2': 1047, 'y2': 2148};
+text_identifier: { "content-desc" : "More options" , "resource-id" : "com.brave.browser:id/menu_button_wrapper" , "resource-id" : "com.brave.browser:id/menu_button" };
+event: click;

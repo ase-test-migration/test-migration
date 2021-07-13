@@ -1,0 +1,130 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Email\l|label = Email\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 325\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/0.0_0.0_650.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 325\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/650.0_0.0_1400.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 325\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/0.0_0.0_650.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 325\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/650.0_0.0_1400.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 325\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/0.0_0.0_650.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 325\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/650.0_0.0_1400.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 325\l|height = 667\l|index = 0\l|numberOfChildren = 38\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/0.0_0.0_650.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 325\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/650.0_0.0_1400.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|name = MAILBOXES\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 325\l|height = 40\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/0.0_40.0_650.0_120.0.png\l}"]
+	15	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 60\l|width = 325\l|height = 49\l|index = 1\l|numberOfChildren = 6\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/0.0_120.00000000000001_650.0_218.00000000000003.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 109\l|width = 325\l|height = 1\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/0.0_218.0_650.0_220.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 109\l|width = 325\l|height = 27\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/0.0_218.0_650.0_272.0.png\l}"]
+	18	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 135\l|width = 325\l|height = 45\l|index = 4\l|numberOfChildren = 5\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/0.0_270.0_650.0_360.0.png\l}"]
+	19	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 179\l|width = 325\l|height = 45\l|index = 5\l|numberOfChildren = 5\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/0.0_358.00000000000006_650.0_448.00000000000006.png\l}"]
+	20	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 223\l|width = 325\l|height = 45\l|index = 6\l|numberOfChildren = 5\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/0.0_446.00000000000006_650.0_536.0.png\l}"]
+	21	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 267\l|width = 325\l|height = 45\l|index = 7\l|numberOfChildren = 5\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/0.0_534.0_650.0_624.0.png\l}"]
+	22	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 311\l|width = 325\l|height = 45\l|index = 8\l|numberOfChildren = 5\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/0.0_622.0_650.0_712.0.png\l}"]
+	23	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 355\l|width = 325\l|height = 45\l|index = 9\l|numberOfChildren = 5\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/0.0_710.0_650.0_800.0.png\l}"]
+	24	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 399\l|width = 325\l|height = 45\l|index = 10\l|numberOfChildren = 5\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/0.0_798.0_650.0_888.0.png\l}"]
+	25	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 443\l|width = 325\l|height = 45\l|index = 11\l|numberOfChildren = 5\l|numInParentLayout = 11\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/0.0_886.0_650.0_976.0.png\l}"]
+	26	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 487\l|width = 325\l|height = 45\l|index = 12\l|numberOfChildren = 5\l|numInParentLayout = 12\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/0.0_974.0000000000001_650.0_1064.0.png\l}"]
+	27	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 531\l|width = 325\l|height = 45\l|index = 13\l|numberOfChildren = 5\l|numInParentLayout = 13\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/0.0_1062.0_650.0_1152.0.png\l}"]
+	28	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 575\l|width = 325\l|height = 45\l|index = 14\l|numberOfChildren = 5\l|numInParentLayout = 14\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/0.0_1150.0_650.0_1240.0.png\l}"]
+	29	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 619\l|width = 325\l|height = 45\l|index = 15\l|numberOfChildren = 5\l|numInParentLayout = 15\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/0.0_1238.0_650.0_1328.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 663\l|width = 325\l|height = 1\l|index = 16\l|numberOfChildren = 0\l|numInParentLayout = 16\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/0.0_1326.0_650.0_1328.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|name = EDISON MAIL+\l|enabled = true\l|visible = true\l|x = 0\l|y = 663\l|width = 325\l|height = 71\l|index = 17\l|numberOfChildren = 1\l|numInParentLayout = 17\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/0.0_1326.0_650.0_1468.0.png\l}"]
+	32	[label="{type = XCUIElementTypeNavigationBar\l|name = Inbox\l|enabled = true\l|visible = true\l|x = 325\l|y = 20\l|width = 375\l|height = 148\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/650.0_40.0_1400.0_336.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 325\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/650.0_0.0_1400.0_1334.0.png\l}"]
+	34	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 224\l|y = 24\l|width = 36\l|height = 36\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/448.00000000000006_47.99999999999999_520.0_120.0.png\l}"]
+	35	[label="{type = XCUIElementTypeButton\l|name = plus circle outline\l|label = plus circle outline\l|enabled = true\l|visible = true\l|x = 277\l|y = 26\l|width = 33\l|height = 33\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/554.0_52.0_620.0_118.0.png\l}"]
+	36	[label="{type = XCUIElementTypeStaticText\l|value = MAILBOXES\l|name = MAILBOXES\l|label = MAILBOXES\l|enabled = true\l|visible = true\l|x = 15\l|y = 34\l|width = 74\l|height = 16\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/30.0_68.0_178.0_100.0.png\l}"]
+	37	[label="{type = XCUIElementTypeStaticText\l|value = email@example.com\l|name = email@example.com\l|label = email@example.com\l|enabled = true\l|visible = true\l|x = 61\l|y = 62\l|width = 159\l|height = 47\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/121.99999999999999_124.0_440.0_218.0.png\l}"]
+	38	[label="{type = XCUIElementTypeButton\l|name = accordion arrow\l|label = accordion arrow\l|enabled = true\l|visible = true\l|x = 265\l|y = 62\l|width = 44\l|height = 45\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/530.0_124.0_618.0_214.0.png\l}"]
+	39	[label="{type = XCUIElementTypeStaticText\l|value = Focused\l|name = Focused\l|label = Focused\l|enabled = true\l|visible = true\l|x = 61\l|y = 137\l|width = 66\l|height = 43\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/121.99999999999999_274.0_254.0_360.0.png\l}"]
+	40	[label="{type = XCUIElementTypeStaticText\l|value = Test\l|name = Test\l|label = Test\l|enabled = true\l|visible = true\l|x = 61\l|y = 181\l|width = 33\l|height = 27\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = true \l|screenshotPath = edison-move/S4/pngs/121.99999999999999_362.0_188.0_416.0.png\l}"]
+	41	[label="{type = XCUIElementTypeStaticText\l|value = email@example.com\l|name = email@example.com\l|label = email@example.com\l|enabled = true\l|visible = true\l|x = 61\l|y = 207\l|width = 249\l|height = 17\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/121.99999999999999_414.0_620.0_448.0.png\l}"]
+	42	[label="{type = XCUIElementTypeStaticText\l|value = Important\l|name = Important\l|label = Important\l|enabled = true\l|visible = true\l|x = 61\l|y = 225\l|width = 75\l|height = 27\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/121.99999999999999_450.0_272.0_504.0.png\l}"]
+	43	[label="{type = XCUIElementTypeStaticText\l|value = email@example.com\l|name = email@example.com\l|label = email@example.com\l|enabled = true\l|visible = true\l|x = 61\l|y = 251\l|width = 249\l|height = 17\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/121.99999999999999_502.0_620.0_536.0.png\l}"]
+	44	[label="{type = XCUIElementTypeStaticText\l|value = Other\l|name = Other\l|label = Other\l|enabled = true\l|visible = true\l|x = 61\l|y = 269\l|width = 44\l|height = 43\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/121.99999999999999_538.0_210.0_624.0.png\l}"]
+	45	[label="{type = XCUIElementTypeStaticText\l|value = Unread\l|name = Unread\l|label = Unread\l|enabled = true\l|visible = true\l|x = 61\l|y = 313\l|width = 56\l|height = 43\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/121.99999999999999_626.0_234.0_712.0.png\l}"]
+	46	[label="{type = XCUIElementTypeStaticText\l|value = Snoozed\l|name = Snoozed\l|label = Snoozed\l|enabled = true\l|visible = true\l|x = 61\l|y = 357\l|width = 67\l|height = 43\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/121.99999999999999_713.9999999999999_256.0_799.9999999999999.png\l}"]
+	47	[label="{type = XCUIElementTypeStaticText\l|value = Attachments\l|name = Attachments\l|label = Attachments\l|enabled = true\l|visible = true\l|x = 61\l|y = 401\l|width = 97\l|height = 43\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/121.99999999999999_802.0_316.0_888.0.png\l}"]
+	48	[label="{type = XCUIElementTypeStaticText\l|value = Sent\l|name = Sent\l|label = Sent\l|enabled = true\l|visible = true\l|x = 61\l|y = 445\l|width = 35\l|height = 43\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/121.99999999999999_890.0_192.0_976.0.png\l}"]
+	49	[label="{type = XCUIElementTypeStaticText\l|value = Drafts\l|name = Drafts\l|label = Drafts\l|enabled = true\l|visible = true\l|x = 61\l|y = 489\l|width = 47\l|height = 43\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/121.99999999999999_978.0_216.0_1064.0.png\l}"]
+	50	[label="{type = XCUIElementTypeStaticText\l|value = Archive\l|name = Archive\l|label = Archive\l|enabled = true\l|visible = true\l|x = 61\l|y = 533\l|width = 57\l|height = 43\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/121.99999999999999_1066.0_236.0_1152.0.png\l}"]
+	51	[label="{type = XCUIElementTypeStaticText\l|value = Trash\l|name = Trash\l|label = Trash\l|enabled = true\l|visible = true\l|x = 61\l|y = 577\l|width = 43\l|height = 43\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/121.99999999999999_1154.0_208.0_1240.0.png\l}"]
+	52	[label="{type = XCUIElementTypeStaticText\l|value = low-priority\l|name = low-priority\l|label = low-priority\l|enabled = true\l|visible = true\l|x = 61\l|y = 621\l|width = 88\l|height = 27\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/121.99999999999999_1242.0_298.0_1296.0.png\l}"]
+	53	[label="{type = XCUIElementTypeStaticText\l|value = email@example.com\l|name = email@example.com\l|label = email@example.com\l|enabled = true\l|visible = true\l|x = 61\l|y = 647\l|width = 249\l|height = 17\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/121.99999999999999_1294.0_620.0_1328.0.png\l}"]
+	54	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 333\l|y = 20\l|width = 51\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/666.0_40.0_768.0_128.0.png\l}"]
+	55	[label="{type = XCUIElementTypeStaticText\l|value = Inbox\l|name = Inbox\l|label = Inbox\l|enabled = true\l|visible = true\l|x = 341\l|y = 67\l|width = 87\l|height = 42\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/682.0_134.0_856.0_218.0.png\l}"]
+	56	[label="{type = XCUIElementTypeSearchField\l|name = Search\l|label = Search\l|enabled = true\l|visible = true\l|x = 341\l|y = 117\l|width = 343\l|height = 36\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/682.0_234.0_1368.0_306.0.png\l}"]
+	57	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 325\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/650.0_0.0_1400.0_1334.0.png\l}"]
+	58	[label="{type = XCUIElementTypeTable\l|name = You took care of everything., Yay! You reached inbox zero.\l|label = You took care of everything., Yay! You reached inbox zero.\l|enabled = true\l|visible = true\l|x = 325\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 7\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/650.0_0.0_1400.0_1334.0.png\l}"]
+	59	[label="{type = XCUIElementTypeStaticText\l|value = You took care of everything.\l|name = You took care of everything.\l|label = You took care of everything.\l|enabled = true\l|visible = true\l|x = 345\l|y = 517\l|width = 335\l|height = 32\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/690.0_1034.0_1360.0_1098.0.png\l}"]
+	60	[label="{type = XCUIElementTypeStaticText\l|value = Yay! You reached inbox zero.\l|name = Yay! You reached inbox zero.\l|label = Yay! You reached inbox zero.\l|enabled = true\l|visible = true\l|x = 345\l|y = 573\l|width = 335\l|height = 20\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = edison-move/S4/pngs/690.0_1146.0_1360.0_1186.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	5 -> 7
+	6 -> 8
+	7 -> 9
+	8 -> 10
+	9 -> 11
+	10 -> 12
+	11 -> 13
+	12 -> 14
+	12 -> 15
+	12 -> 16
+	12 -> 17
+	12 -> 18
+	12 -> 19
+	12 -> 20
+	12 -> 21
+	12 -> 22
+	12 -> 23
+	12 -> 24
+	12 -> 25
+	12 -> 26
+	12 -> 27
+	12 -> 28
+	12 -> 29
+	12 -> 30
+	12 -> 31
+	13 -> 32
+	13 -> 33
+	14 -> 34
+	14 -> 35
+	14 -> 36
+	15 -> 37
+	15 -> 38
+	18 -> 39
+	19 -> 40
+	19 -> 41
+	20 -> 42
+	20 -> 43
+	21 -> 44
+	22 -> 45
+	23 -> 46
+	24 -> 47
+	25 -> 48
+	26 -> 49
+	27 -> 50
+	28 -> 51
+	29 -> 52
+	29 -> 53
+	32 -> 54
+	32 -> 55
+	32 -> 56
+	33 -> 57
+	57 -> 58
+	58 -> 59
+	58 -> 60
+
+
+}

@@ -1,0 +1,44 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "duckduckgo-bookmark",
+        "events": [
+            {
+                "type": "name",
+                "tag": "searchEntry",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "searchEntry",
+                "event": "send_keys_enter",
+                "input": "google.com"
+            },
+            {
+                "type": "name",
+                "tag": "Browsing Menu",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Add to Bookmarks",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Browsing Menu",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Add to Favorites",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Google"
+            }
+        ]
+    }
+}

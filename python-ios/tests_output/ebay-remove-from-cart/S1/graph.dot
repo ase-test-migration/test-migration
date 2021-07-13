@@ -1,0 +1,150 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = eBay\l|label = eBay\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeNavigationBar\l|name = eBay shopping cart\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 44\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_132.0_1242.0_264.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeButton\l|name = button_dismiss\l|label = Dismiss\l|enabled = true\l|visible = true\l|x = 20\l|y = 44\l|width = 44\l|height = 44\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/60.0_132.0_192.0_264.0.png\l}"]
+	7	[label="{type = XCUIElementTypeStaticText\l|value = eBay shopping cart\l|name = eBay shopping cart\l|label = eBay shopping cart\l|enabled = true\l|visible = true\l|x = 130\l|y = 56\l|width = 154\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/390.0_168.0_852.0_228.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 808\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_264.0_1242.0_2688.0.png\l}"]
+	10	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 808\l|numberOfChildren = 15\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_264.0_1242.0_2688.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 52\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_264.0_1242.0_420.0.png\l}"]
+	12	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 8\l|y = 139\l|width = 398\l|height = 171\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = true \l|screenshotPath = ebay-remove-from-cart/S1/pngs/24.0_417.0_1218.0_930.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 310\l|width = 414\l|height = 16\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_930.0_1242.0_978.0.png\l}"]
+	14	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 8\l|y = 309\l|width = 398\l|height = 2\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/24.0_927.0000000000001_1218.0_933.0000000000001.png\l}"]
+	15	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 326\l|width = 414\l|height = 21\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_978.0_1242.0_1041.0.png\l}"]
+	16	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 347\l|width = 414\l|height = 21\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_1041.0_1242.0_1104.0.png\l}"]
+	17	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 368\l|width = 414\l|height = 9\l|numberOfChildren = 1\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_1104.0_1242.0_1131.0.png\l}"]
+	18	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 376\l|width = 414\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_1128.0_1242.0_1200.0.png\l}"]
+	19	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 399\l|width = 414\l|height = 17\l|numberOfChildren = 1\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_1197.0_1242.0_1248.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 415\l|width = 414\l|height = 73\l|numberOfChildren = 1\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_1245.0_1242.0_1464.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 487\l|width = 414\l|height = 60\l|numberOfChildren = 1\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_1461.0_1242.0_1641.0.png\l}"]
+	22	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 547\l|width = 414\l|height = 320\l|numberOfChildren = 1\l|numInParentLayout = 11\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_1641.0_1242.0_2601.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 866\l|width = 414\l|height = 33\l|numberOfChildren = 1\l|numInParentLayout = 12\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_2598.0_1242.0_2697.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 2 pages\l|label = Vertical scroll bar, 2 pages\l|enabled = true\l|visible = true\l|x = 381\l|y = 103\l|width = 30\l|height = 762\l|numberOfChildren = 0\l|numInParentLayout = 13\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/1143.0_309.0_1233.0_2595.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 31\l|y = 863\l|width = 352\l|height = 30\l|numberOfChildren = 0\l|numInParentLayout = 14\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/93.0_2589.0_1149.0_2679.0.png\l}"]
+	26	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 52\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_264.0_1242.0_420.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 139\l|width = 398\l|height = 171\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = ebay-remove-from-cart/S1/pngs/24.0_417.0_1218.0_930.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 310\l|width = 414\l|height = 16\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_930.0_1242.0_978.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 309\l|width = 398\l|height = 2\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/24.0_927.0000000000001_1218.0_933.0000000000001.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 326\l|width = 414\l|height = 21\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_978.0_1242.0_1041.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 347\l|width = 414\l|height = 21\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_1041.0_1242.0_1104.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 368\l|width = 414\l|height = 9\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_1104.0_1242.0_1131.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 376\l|width = 414\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_1128.0_1242.0_1200.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 399\l|width = 414\l|height = 17\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_1197.0_1242.0_1248.0.png\l}"]
+	35	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 0\l|y = 415\l|width = 414\l|height = 73\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_1245.0_1242.0_1464.0.png\l}"]
+	36	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 0\l|y = 487\l|width = 414\l|height = 60\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_1461.0_1242.0_1641.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 547\l|width = 414\l|height = 320\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_1641.0_1242.0_2601.0.png\l}"]
+	38	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 0\l|y = 866\l|width = 414\l|height = 33\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_2598.0_1242.0_2697.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|name = Seller bigdeals\l|label = Seller bigdeals\l|enabled = true\l|visible = true\l|x = 16\l|y = 104\l|width = 382\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/48.0_312.0_1194.0_372.0.png\l}"]
+	40	[label="{type = XCUIElementTypeButton\l|name = button_shoppingCart_item\l|label = Google Home Mini Smart Speaker with Google Assistant Charcoal Chalk Coral Aqua, Chalk (Grey), Open box, $33.98, Free shipping, Quantity 2\l|enabled = true\l|visible = true\l|x = 8\l|y = 139\l|width = 398\l|height = 171\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = ebay-remove-from-cart/S1/pngs/24.0_417.0_1218.0_930.0.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 309\l|width = 398\l|height = 2\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/24.0_927.0000000000001_1218.0_933.0000000000001.png\l}"]
+	42	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 326\l|width = 414\l|height = 21\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_978.0_1242.0_1041.0.png\l}"]
+	43	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 347\l|width = 414\l|height = 21\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_1041.0_1242.0_1104.0.png\l}"]
+	44	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 368\l|width = 414\l|height = 9\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_1104.0_1242.0_1131.0.png\l}"]
+	45	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 376\l|width = 414\l|height = 24\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_1128.0_1242.0_1200.0.png\l}"]
+	46	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 0\l|y = 399\l|width = 414\l|height = 17\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_1197.0_1242.0_1248.0.png\l}"]
+	47	[label="{type = XCUIElementTypeButton\l|name = button_cart_enterCheckout\l|label = Go to checkout\l|enabled = true\l|visible = true\l|x = 16\l|y = 427\l|width = 382\l|height = 49\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/48.0_1281.0_1194.0_1428.0.png\l}"]
+	48	[label="{type = XCUIElementTypeOther\l|name = Related sponsored items\l|label = Related sponsored items\l|enabled = true\l|visible = true\l|x = 16\l|y = 511\l|width = 382\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/48.0_1533.0_1194.0_1593.0.png\l}"]
+	49	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 0\l|y = 547\l|width = 414\l|height = 320\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_1641.0_1242.0_2601.0.png\l}"]
+	50	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 309\l|width = 398\l|height = 2\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/24.0_927.0000000000001_1218.0_933.0000000000001.png\l}"]
+	51	[label="{type = XCUIElementTypeOther\l|name = Items (2), $33.98\l|label = Items (2), $33.98\l|enabled = true\l|visible = true\l|x = 16\l|y = 330\l|width = 382\l|height = 17\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/48.0_990.0000000000001_1194.0_1041.0.png\l}"]
+	52	[label="{type = XCUIElementTypeOther\l|name = Shipping to 90007-2384, Free\l|label = Shipping to 90007-2384, Free\l|enabled = true\l|visible = true\l|x = 16\l|y = 351\l|width = 382\l|height = 17\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/48.0_1053.0_1194.0_1104.0.png\l}"]
+	53	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 8\l|y = 376\l|width = 398\l|height = 1\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/24.0_1128.0_1218.0_1131.0.png\l}"]
+	54	[label="{type = XCUIElementTypeOther\l|name = Subtotal, $33.98\l|label = Subtotal, $33.98\l|enabled = true\l|visible = true\l|x = 16\l|y = 380\l|width = 382\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/48.0_1140.0_1194.0_1200.0.png\l}"]
+	55	[label="{type = XCUIElementTypeStaticText\l|value = Go to checkout\l|name = Go to checkout\l|label = Go to checkout\l|enabled = true\l|visible = true\l|x = 146\l|y = 441\l|width = 122\l|height = 21\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/438.0_1323.0_804.0_1386.0.png\l}"]
+	56	[label="{type = XCUIElementTypeCollectionView\l|name = container_items\l|enabled = true\l|visible = true\l|x = 0\l|y = 547\l|width = 414\l|height = 320\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_1641.0_1242.0_2601.0.png\l}"]
+	57	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 12\l|y = 547\l|width = 175\l|height = 312\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/36.0_1641.0_561.0_2577.0.png\l}"]
+	58	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 187\l|y = 547\l|width = 175\l|height = 312\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/561.0_1641.0_1086.0_2577.0.png\l}"]
+	59	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 362\l|y = 547\l|width = 175\l|height = 296\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/1086.0_1641.0_1611.0_2529.0.png\l}"]
+	60	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 1 page\l|label = Vertical scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 381\l|y = 547\l|width = 30\l|height = 320\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/1143.0_1641.0_1233.0_2601.0.png\l}"]
+	61	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 6 pages\l|label = Horizontal scroll bar, 6 pages\l|enabled = true\l|visible = true\l|x = 0\l|y = 833\l|width = 414\l|height = 31\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/0.0_2499.0_1242.0_2592.0.png\l}"]
+	62	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 12\l|y = 547\l|width = 175\l|height = 312\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/36.0_1641.0_561.0_2577.0.png\l}"]
+	63	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 187\l|y = 547\l|width = 175\l|height = 312\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/561.0_1641.0_1086.0_2577.0.png\l}"]
+	64	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 362\l|y = 547\l|width = 175\l|height = 296\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/1086.0_1641.0_1611.0_2529.0.png\l}"]
+	65	[label="{type = XCUIElementTypeButton\l|name = cell_item\l|label = Skullcandy Sesh - Black True Wireless In-ear Headphones, $21.99, Free shipping, previous price $79.99, Popular\l|enabled = true\l|visible = true\l|x = 12\l|y = 547\l|width = 175\l|height = 312\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/36.0_1641.0_561.0_2577.0.png\l}"]
+	66	[label="{type = XCUIElementTypeButton\l|name = cell_item\l|label = Bluedio Hi Wireless Bluetooth Earphone stereo Sport Earbuds headset In Ear, $11.99, Free shipping, previous price $29.99, Popular\l|enabled = true\l|visible = true\l|x = 187\l|y = 547\l|width = 175\l|height = 312\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/561.0_1641.0_1086.0_2577.0.png\l}"]
+	67	[label="{type = XCUIElementTypeButton\l|name = cell_item\l|label = Wifi Smart Plug Remote Control Socket Outlet 10A works w Alexa&Google [4 Packs], $24.49, Free shipping, Popular\l|enabled = true\l|visible = true\l|x = 362\l|y = 547\l|width = 175\l|height = 296\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/1086.0_1641.0_1611.0_2529.0.png\l}"]
+	68	[label="{type = XCUIElementTypeButton\l|name = Skullcandy Sesh - Black True Wireless In-ear Headphones, $21.99, Free shipping, previous price $79.99, Popular\l|label = Skullcandy Sesh - Black True Wireless In-ear Headphones, $21.99, Free shipping, previous price $79.99, Popular\l|enabled = true\l|visible = true\l|x = 12\l|y = 547\l|width = 175\l|height = 312\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/36.0_1641.0_561.0_2577.0.png\l}"]
+	69	[label="{type = XCUIElementTypeButton\l|name = Bluedio Hi Wireless Bluetooth Earphone stereo Sport Earbuds headset In Ear, $11.99, Free shipping, previous price $29.99, Popular\l|label = Bluedio Hi Wireless Bluetooth Earphone stereo Sport Earbuds headset In Ear, $11.99, Free shipping, previous price $29.99, Popular\l|enabled = true\l|visible = true\l|x = 187\l|y = 547\l|width = 175\l|height = 312\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/561.0_1641.0_1086.0_2577.0.png\l}"]
+	70	[label="{type = XCUIElementTypeButton\l|name = Wifi Smart Plug Remote Control Socket Outlet 10A works w Alexa&Google [4 Packs], $24.49, Free shipping, Popular\l|label = Wifi Smart Plug Remote Control Socket Outlet 10A works w Alexa&Google [4 Packs], $24.49, Free shipping, Popular\l|enabled = true\l|visible = true\l|x = 362\l|y = 547\l|width = 175\l|height = 296\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-remove-from-cart/S1/pngs/1086.0_1641.0_1611.0_2529.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	3 -> 5
+	4 -> 6
+	4 -> 7
+	5 -> 8
+	8 -> 9
+	9 -> 10
+	10 -> 11
+	10 -> 12
+	10 -> 13
+	10 -> 14
+	10 -> 15
+	10 -> 16
+	10 -> 17
+	10 -> 18
+	10 -> 19
+	10 -> 20
+	10 -> 21
+	10 -> 22
+	10 -> 23
+	10 -> 24
+	10 -> 25
+	11 -> 26
+	12 -> 27
+	13 -> 28
+	14 -> 29
+	15 -> 30
+	16 -> 31
+	17 -> 32
+	18 -> 33
+	19 -> 34
+	20 -> 35
+	21 -> 36
+	22 -> 37
+	23 -> 38
+	26 -> 39
+	27 -> 40
+	29 -> 41
+	30 -> 42
+	31 -> 43
+	32 -> 44
+	33 -> 45
+	34 -> 46
+	35 -> 47
+	36 -> 48
+	37 -> 49
+	41 -> 50
+	42 -> 51
+	43 -> 52
+	44 -> 53
+	45 -> 54
+	47 -> 55
+	49 -> 56
+	56 -> 57
+	56 -> 58
+	56 -> 59
+	56 -> 60
+	56 -> 61
+	57 -> 62
+	58 -> 63
+	59 -> 64
+	62 -> 65
+	63 -> 66
+	64 -> 67
+	65 -> 68
+	66 -> 69
+	67 -> 70
+
+
+}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: etsy-add-midle/S2/pngs/48_1321_1032_1465.png;
+coords: {'x1': 48, 'y1': 1321, 'x2': 1032, 'y2': 1465};
+text_identifier: { "resource-id" : "com.etsy.android:id/button_cart_redesign_container" , "content-desc" : "Add to cart" , "resource-id" : "com.etsy.android:id/button_cart_redesign" , "resource-id" : "com.etsy.android:id/button_cart_redesign_text_switcher" };
+event: click;

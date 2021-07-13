@@ -1,0 +1,4 @@
+pathToElementImageCrop: mytasks-mytasks-add/S2/pngs/947_205_1052_290.png;
+coords: {'x1': 947, 'y1': 205, 'x2': 1052, 'y2': 290};
+text_identifier: { "resource-id" : "com.weekly.app:id/image_view_create_task_complete" };
+event: click;

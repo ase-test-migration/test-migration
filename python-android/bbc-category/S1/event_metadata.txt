@@ -1,0 +1,4 @@
+pathToElementImageCrop: bbc-category/S1/pngs/27_466_455_554.png;
+coords: {'x1': 27, 'y1': 466, 'x2': 455, 'y2': 554};
+text_identifier: { "resource-id" : "bbc.mobile.news.ww:id/chip_item" };
+event: click;

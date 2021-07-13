@@ -1,0 +1,35 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "McD-search",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Order tab 2 of 5"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.mcdonalds.app:id/location_or_address_text"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Search icon"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys_enter",
+                    "tag": "com.mcdonalds.app:id/search_text",
+                    "input": "90007"
+                }
+            ]
+        }
+    ]
+}

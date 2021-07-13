@@ -1,0 +1,6 @@
+pathToElementImageCrop: ;
+coords: ;
+text_identifier: { edited name };
+event: oracle;
+oracle-type: text_exists;
+input: edited name;

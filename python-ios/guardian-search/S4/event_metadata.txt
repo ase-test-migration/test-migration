@@ -1,0 +1,4 @@
+pathToElementImageCrop: guardian-search/S4/pngs/24.0_462.0_1218.0_1650.0.png;
+coords: {'x1': 24.0, 'y1': 462.0, 'x2': 1218.0, 'y2': 1650.0};
+text_identifier: { "label" : "A grand tour of Britain: 10 cultural highlights, chosen by readers. 18 hours ago" };
+event: click;

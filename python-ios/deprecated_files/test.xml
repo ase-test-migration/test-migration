@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><AppiumAUT><XCUIElementTypeApplication type="XCUIElementTypeApplication" name=" " label=" " enabled="true" visible="true" x="0" y="0" width="375" height="667">
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="false" x="0" y="0" width="375" height="667">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="375" height="667">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="375" height="667"/>
+    </XCUIElementTypeOther>
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="375" height="667"/>
+  </XCUIElementTypeWindow>
+  <XCUIElementTypeWindow type="XCUIElementTypeWindow" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+    <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+      <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="375" height="667">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="375" height="100"/>
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="false" x="0" y="0" width="375" height="667"/>
+      </XCUIElementTypeOther>
+      <XCUIElementTypeOther type="XCUIElementTypeOther" name="Home screen icons" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+        <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+          <XCUIElementTypeOther type="XCUIElementTypeOther" enabled="true" visible="true" x="0" y="0" width="375" height="667">
+            <XCUIElementTypeIcon type="XCUIElementTypeIcon" enabled="true" visible="false" x="0" y="0" width="0" height="0">
+              <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="Other" label="Other folder" enabled="true" visible="false" x="0" y="0" width="0" height="0">
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" value="9:56 PM" name="Clock" label="Clock" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="Photos" label="Photos" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="Health" label="Health" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="Find My" label="Find My" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="Wallet" label="Wallet" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="Camera" label="Camera" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="App Store" label="App Store" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="Settings" label="Settings" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+              </XCUIElementTypeIcon>
+              <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="Utilities" label="Utilities folder" enabled="true" visible="false" x="0" y="0" width="0" height="0">
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="Calculator" label="Calculator" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="Compass" label="Compass" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="Measure" label="Measure" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="Voice Memos" label="Voice Memos" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+              </XCUIElementTypeIcon>
+              <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="ReplayKitExample" label="ReplayKitExample" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+              <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="News" label="News folder" enabled="true" visible="false" x="0" y="0" width="0" height="0">
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="Quartz" label="Quartz" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="CDC" label="CDC" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="Wash Post" label="Wash Post" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="News Break" label="News Break" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="COVID-19" label="COVID-19" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="Reuters" label="Reuters" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="HowWeFeel" label="HowWeFeel" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="NBC News" label="NBC News" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="USA TODAY" label="USA TODAY" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="Winno" label="Winno" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="ABC News" label="ABC News" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="NYTimes" label="NYTimes" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="CBS News" label="CBS News" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="CNN" label="CNN" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="WSJ" label="WSJ" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+              </XCUIElementTypeIcon>
+              <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="Cooking" label="Cooking folder" enabled="true" visible="false" x="0" y="0" width="0" height="0">
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="Food Network" label="Food Network" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="Epicurious" label="Epicurious" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="Tastemade" label="Tastemade" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="Recipes" label="Recipes" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="Tasty" label="Tasty" enabled="true" visible="false" x="0" y="0" width="0" height="0"/>
+                <XCUIElementTypeIcon type="XCUIElementTypeIcon" name="Timeless" label="Timeless" enabled="true" visible="false" x=

@@ -1,0 +1,4 @@
+pathToElementImageCrop: msToDo-delTask/S1/pngs/954_2235_1080_2287.png;
+coords: {'x1': 954, 'y1': 2235, 'x2': 1080, 'y2': 2361};
+text_identifier: { "content-desc" : "Delete task" , "resource-id" : "com.microsoft.todos:id/delete" };
+event: click;

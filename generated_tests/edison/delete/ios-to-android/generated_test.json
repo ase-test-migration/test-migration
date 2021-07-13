@@ -1,0 +1,23 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "edison-delete",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.easilydo.mail:id/email_list_top_layer",
+                "event": "click"
+            },
+            {
+                "type": "accessibilityId",
+                "tag": "reply all",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_invisible",
+                "input": "Testing"
+            }
+        ]
+    }
+}

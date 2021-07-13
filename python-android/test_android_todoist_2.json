@@ -1,0 +1,65 @@
+{
+    "tests": [
+        {
+            "name": "todoist-changedate", 
+            "events": [
+                {
+                    "tag": "com.todoist:id/item", 
+                    "type": "id", 
+                    "event": "click"
+                },
+                {
+                    "tag": "com.todoist:id/item_due",
+                    "type": "id",
+                    "event": "oracle",
+                    "oracle-type": "assert_equal",
+                    "attribute": "text",
+                    "value": "Today"
+                },
+                {
+                    "tag": "com.todoist:id/item_due", 
+                    "type": "id", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[2]/android.widget.TextView[1]",
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "com.todoist:id/item_due",
+                    "type": "id",
+                    "event": "oracle",
+                    "oracle-type": "assert_equal",
+                    "attribute": "text",
+                    "value": "Saturday"
+                },
+                {
+                    "tag": "com.todoist:id/item_due",
+                    "type": "id",
+                    "event": "click"
+                },
+                {
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/android.widget.FrameLayout[4]/android.widget.TextView[1]",
+                    "type": "xPath",
+                    "event": "click"
+                },
+                {
+                    "tag": "com.todoist:id/item_due",
+                    "type": "id",
+                    "event": "oracle",
+                    "oracle-type": "assert_equal",
+                    "attribute": "text",
+                    "value": "Monday"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "emulator-5554", 
+        "platformName": "Android", 
+        "newCommandTimeout": 0
+    }
+}
+
+

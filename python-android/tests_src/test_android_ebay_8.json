@@ -1,0 +1,29 @@
+{
+    "tests": [
+        {
+            "name": "ebay-login", 
+            "events": [
+                {
+                    "tag": "com.ebay.mobile:id/button_sign_in", 
+                    "type": "id", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "com.ebay.mobile:id/button_classic", 
+                    "type": "id", 
+                    "event": "click"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Sign in"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "emulator-5554", 
+        "platformName": "Android", 
+        "newCommandTimeout": 0
+    }
+}

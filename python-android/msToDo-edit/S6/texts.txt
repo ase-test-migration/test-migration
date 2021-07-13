@@ -1,0 +1,17 @@
+{ "resource-id" : "android:id/content" , "screenshotPath" : "msToDo-edit/S6/pngs/0_0_1080_1776.png"}
+{ "resource-id" : "com.microsoft.todos:id/detail_view_fragment_content" , "screenshotPath" : "msToDo-edit/S6/pngs/0_0_1080_1776.png"}
+{ "resource-id" : "com.microsoft.todos:id/scrolling_title" , "screenshotPath" : "msToDo-edit/S6/pngs/0_72_1080_432.png"}
+{ "resource-id" : "com.microsoft.todos:id/recycler_view_details" , "screenshotPath" : "msToDo-edit/S6/pngs/0_432_1080_1632.png"}
+{ "resource-id" : "com.microsoft.todos:id/title_row" , "screenshotPath" : "msToDo-edit/S6/pngs/0_72_1080_432.png"}
+{ "resource-id" : "com.microsoft.todos:id/add_step_content" , "screenshotPath" : "msToDo-edit/S6/pngs/0_432_1080_624.png"}
+{ "content-desc" : "Dismiss detail view" , "resource-id" : "com.microsoft.todos:id/back" , "screenshotPath" : "msToDo-edit/S6/pngs/0_72_168_240.png"}
+{ "resource-id" : "com.microsoft.todos:id/top_title" , "screenshotPath" : "msToDo-edit/S6/pngs/204_72_984_240.png"}
+{ "content-desc" : "Incomplete task , Button" , "resource-id" : "com.microsoft.todos:id/task_checkbox" , "screenshotPath" : "msToDo-edit/S6/pngs/3_240_165_402.png"}
+{ "resource-id" : "com.microsoft.todos:id/task_title_edit" , "screenshotPath" : "msToDo-edit/S6/pngs/165_240_924_408.png"}
+{ "content-desc" : "Normal task , Button" , "resource-id" : "com.microsoft.todos:id/task_star_button" , "screenshotPath" : "msToDo-edit/S6/pngs/924_240_1068_384.png"}
+{ "resource-id" : "com.microsoft.todos:id/add_step_plus_ic" , "screenshotPath" : "msToDo-edit/S6/pngs/72_474_144_546.png"}
+{ "resource-id" : "com.microsoft.todos:id/add_step_title" , "screenshotPath" : "msToDo-edit/S6/pngs/216_432_1032_588.png"}
+{ "resource-id" : "com.microsoft.todos:id/my_day_row" , "screenshotPath" : "msToDo-edit/S6/pngs/24_657_1056_807.png"}
+{ "content-desc" : "Remove task from My Day" , "resource-id" : "com.microsoft.todos:id/remove_my_day_icon" , "screenshotPath" : "msToDo-edit/S6/pngs/894_657_1056_807.png"}
+{ "resource-id" : "com.microsoft.todos:id/reminder_row" , "screenshotPath" : "msToDo-edit/S6/pngs/24_831_1056_981.png"}
+{ "resource-id" : "com.microsoft.todos:id/duedate_row" , "screenshotPath" : "msToDo-edit/S6/pngs/24_984_1056_1134.png"}

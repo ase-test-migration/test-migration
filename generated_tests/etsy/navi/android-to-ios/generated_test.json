@@ -1,0 +1,38 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "etsy-navi",
+        "events": [
+            {
+                "type": "name",
+                "tag": "You",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Profile",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "2",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Kitangle Corner Kitty Litter Box, More colors, 4.75 out of 5 star rating, 82 total reviews for this shop, Free shipping, $159.99",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Share item: Kitangle Corner Kitty Litter Box",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Shop"
+            }
+        ]
+    }
+}

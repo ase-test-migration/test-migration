@@ -1,0 +1,15 @@
+{ "resource-id" : "com.google.android.gm:id/item_pager" , "screenshotPath" : "gmail-moveFolder/S1/pngs/0_74_1080_2287.png"}
+{ "content-desc" : "Navigate up" , "screenshotPath" : "gmail-moveFolder/S1/pngs/0_74_147_221.png"}
+{ "resource-id" : "com.google.android.gm:id/conversation_topmost_overlay" , "screenshotPath" : "gmail-moveFolder/S1/pngs/0_74_1080_2287.png"}
+{ "content-desc" : "Archive" , "resource-id" : "com.google.android.gm:id/archive" , "screenshotPath" : "gmail-moveFolder/S1/pngs/594_84_721_210.png"}
+{ "content-desc" : "Delete" , "resource-id" : "com.google.android.gm:id/delete" , "screenshotPath" : "gmail-moveFolder/S1/pngs/721_84_848_210.png"}
+{ "content-desc" : "Mark unread" , "resource-id" : "com.google.android.gm:id/inside_conversation_unread" , "screenshotPath" : "gmail-moveFolder/S1/pngs/848_84_975_210.png"}
+{ "content-desc" : "More options" , "screenshotPath" : "gmail-moveFolder/S1/pngs/975_84_1080_210.png"}
+{ "resource-id" : "com.google.android.gm:id/upper_header" , "screenshotPath" : "gmail-moveFolder/S1/pngs/0_409_1080_620.png"}
+{ "resource-id" : "com.google.android.gm:id/subject_and_folder_view" , "screenshotPath" : "gmail-moveFolder/S1/pngs/53_237_954_393.png"}
+{ "content-desc" : "Add star" , "resource-id" : "com.google.android.gm:id/conversation_header_star" , "screenshotPath" : "gmail-moveFolder/S1/pngs/954_252_1080_378.png"}
+{ "content-desc" : "Reply" , "resource-id" : "com.google.android.gm:id/reply" , "screenshotPath" : "gmail-moveFolder/S1/pngs/849_451_975_577.png"}
+{ "content-desc" : "More options" , "resource-id" : "com.google.android.gm:id/overflow" , "screenshotPath" : "gmail-moveFolder/S1/pngs/975_451_1080_577.png"}
+{ "content-desc" : "Show contact information for Google Community Team" , "resource-id" : "com.google.android.gm:id/contact_badge" , "screenshotPath" : "gmail-moveFolder/S1/pngs/42_462_147_567.png"}
+{ "resource-id" : "com.google.android.gm:id/recipient_summary_container" , "screenshotPath" : "gmail-moveFolder/S1/pngs/189_509_345_615.png"}
+{ "content-desc" : "Keep me updated" , "screenshotPath" : "gmail-moveFolder/S1/pngs/322_2200_758_2287.png"}

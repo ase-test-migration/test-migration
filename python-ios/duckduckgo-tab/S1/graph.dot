@@ -1,0 +1,54 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = DuckDuckGo\l|label = DuckDuckGo\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeButton\l|name = Add all tabs as bookmarks\l|label = Add all tabs as bookmarks\l|enabled = true\l|visible = true\l|x = 10\l|y = 23\l|width = 34\l|height = 34\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S1/pngs/20.0_46.0_88.0_114.0.png\l}"]
+	7	[label="{type = XCUIElementTypeButton\l|name = Toggle between grid and list view\l|label = Toggle between grid and list view\l|enabled = true\l|visible = true\l|x = 316\l|y = 23\l|width = 50\l|height = 34\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S1/pngs/632.0_46.0_732.0_114.0.png\l}"]
+	8	[label="{type = XCUIElementTypeStaticText\l|value = 1 Private Tab\l|name = 1 Private Tab\l|label = 1 Private Tab\l|enabled = true\l|visible = true\l|x = 142\l|y = 32\l|width = 91\l|height = 16\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S1/pngs/284.0_64.0_466.0_96.0.png\l}"]
+	9	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 66\l|width = 375\l|height = 557\l|index = 3\l|numberOfChildren = 4\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S1/pngs/0.0_132.0_750.0_1246.0.png\l}"]
+	10	[label="{type = XCUIElementTypeToolbar\l|name = Toolbar\l|label = Toolbar\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 375\l|height = 44\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S1/pngs/0.0_1246.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 66\l|width = 375\l|height = 557\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S1/pngs/0.0_132.0_750.0_1246.0.png\l}"]
+	12	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 14\l|y = 80\l|width = 166\l|height = 206\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S1/pngs/28.000000000000004_160.0_360.0_572.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 590\l|width = 375\l|height = 30\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S1/pngs/0.0_1180.0_750.0_1240.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S1/pngs/0.0_1246.0_750.0_1334.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 14\l|y = 80\l|width = 166\l|height = 206\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S1/pngs/28.000000000000004_160.0_360.0_572.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S1/pngs/0.0_1246.0_750.0_1334.0.png\l}"]
+	17	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 14\l|y = 80\l|width = 166\l|height = 206\l|index = 1\l|numberOfChildren = 4\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S1/pngs/28.000000000000004_160.0_360.0_572.0.png\l}"]
+	18	[label="{type = XCUIElementTypeButton\l|name = Done\l|label = Done\l|enabled = true\l|visible = true\l|x = 0\l|y = 623\l|width = 68\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S1/pngs/0.0_1246.0_136.0_1334.0.png\l}"]
+	19	[label="{type = XCUIElementTypeButton\l|name = Close all tabs and clear data\l|label = Close all tabs and clear data\l|enabled = true\l|visible = true\l|x = 173\l|y = 623\l|width = 29\l|height = 44\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S1/pngs/346.0_1246.0_404.0_1334.0.png\l}"]
+	20	[label="{type = XCUIElementTypeButton\l|name = Add\l|label = New Tab\l|enabled = true\l|visible = true\l|x = 329\l|y = 623\l|width = 46\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = true \l|screenshotPath = duckduckgo-tab/S1/pngs/658.0_1246.0_750.0_1334.0.png\l}"]
+	21	[label="{type = XCUIElementTypeButton\l|name = Close "Wikipedia" at www.wikipedia.org\l|label = Close "Wikipedia" at www.wikipedia.org\l|enabled = true\l|visible = true\l|x = 150\l|y = 80\l|width = 30\l|height = 38\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S1/pngs/300.0_160.0_360.0_236.0.png\l}"]
+	22	[label="{type = XCUIElementTypeButton\l|name = Open "Wikipedia" at www.wikipedia.org\l|label = Open "Wikipedia" at www.wikipedia.org\l|enabled = true\l|visible = true\l|x = 50\l|y = 93\l|width = 100\l|height = 13\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = duckduckgo-tab/S1/pngs/100.0_186.0_300.0_212.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	5 -> 7
+	5 -> 8
+	5 -> 9
+	5 -> 10
+	9 -> 11
+	9 -> 12
+	9 -> 13
+	10 -> 14
+	12 -> 15
+	14 -> 16
+	15 -> 17
+	16 -> 18
+	16 -> 19
+	16 -> 20
+	17 -> 21
+	17 -> 22
+
+
+}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: ebay-bid/S1/pngs/49_634_530_781.png;
+coords: {'x1': 49, 'y1': 634, 'x2': 530, 'y2': 781};
+text_identifier: { "resource-id" : "com.ebay.mobile:id/textview_category" };
+event: click;

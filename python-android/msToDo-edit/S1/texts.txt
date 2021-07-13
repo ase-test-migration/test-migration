@@ -1,0 +1,15 @@
+{ "resource-id" : "com.microsoft.todos:id/suggestions_entry_point" , "screenshotPath" : "msToDo-edit/S1/pngs/317_1590_762_1698.png"}
+{ "content-desc" : "Add a task" , "resource-id" : "com.microsoft.todos:id/new_todo_fab" , "screenshotPath" : "msToDo-edit/S1/pngs/864_1560_1032_1728.png"}
+{ "resource-id" : "com.microsoft.todos:id/homeview_header" , "screenshotPath" : "msToDo-edit/S1/pngs/0_72_540_240.png"}
+{ "resource-id" : "com.microsoft.todos:id/lists_recycler_view" , "screenshotPath" : "msToDo-edit/S1/pngs/0_240_540_1632.png"}
+{ "resource-id" : "com.microsoft.todos:id/tasks_recycler_view" , "screenshotPath" : "msToDo-edit/S1/pngs/0_492_1080_1776.png"}
+{ "content-desc" : "Enter search" , "resource-id" : "com.microsoft.todos:id/search_icon" , "screenshotPath" : "msToDo-edit/S1/pngs/396_84_540_228.png"}
+{ "content-desc" : "My Day, 0 tasks" , "resource-id" : "com.microsoft.todos:id/list_content" , "screenshotPath" : "msToDo-edit/S1/pngs/0_240_528_384.png"}
+{ "content-desc" : "Important, 0 tasks" , "resource-id" : "com.microsoft.todos:id/list_content" , "screenshotPath" : "msToDo-edit/S1/pngs/0_384_528_528.png"}
+{ "content-desc" : "Planned, 0 tasks" , "resource-id" : "com.microsoft.todos:id/list_content" , "screenshotPath" : "msToDo-edit/S1/pngs/0_528_528_672.png"}
+{ "content-desc" : "Assigned to you, 0 tasks" , "resource-id" : "com.microsoft.todos:id/list_content" , "screenshotPath" : "msToDo-edit/S1/pngs/0_672_528_816.png"}
+{ "content-desc" : "Tasks" , "resource-id" : "com.microsoft.todos:id/list_content" , "screenshotPath" : "msToDo-edit/S1/pngs/0_816_528_960.png"}
+{ "resource-id" : "com.microsoft.todos:id/create_list_text_view" , "screenshotPath" : "msToDo-edit/S1/pngs/0_1632_342_1776.png"}
+{ "content-desc" : "Create group" , "resource-id" : "com.microsoft.todos:id/add_group_icon" , "screenshotPath" : "msToDo-edit/S1/pngs/372_1632_540_1776.png"}
+{ "content-desc" : "Back" , "screenshotPath" : "msToDo-edit/S1/pngs/0_72_168_240.png"}
+{ "content-desc" : "More options" , "screenshotPath" : "msToDo-edit/S1/pngs/960_84_1080_228.png"}

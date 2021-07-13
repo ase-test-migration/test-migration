@@ -1,0 +1,38 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "ebay-bid",
+        "events": [
+            {
+                "type": "name",
+                "tag": "button_categories",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "homeScreenCategoriesCategory",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "homeScreenCategoriesCategorySubCategory",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "homeScreenCategoriesCategory",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "button_navigation_icon",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Roman Antiquities"
+            }
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "tests": [
+        {
+            "name": "bbc-search",
+            "events": [
+                {
+                    "tag": "Search", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                },
+                {
+                    "event": "oracle",
+                    "oracle-type": "widget_exists",
+                    "type": "accessibilityId",
+                    "tag": "Search topics"
+                },
+                {
+                    "input": "travel", 
+                    "tag": "Search topics", 
+                    "type": "accessibilityId", 
+                    "event": "send_keys"
+                },
+                {
+                    "tag": "Travel", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "(//XCUIElementTypeButton[@name=\"bn-cell-view\"])[1]",
+                    "type": "xPath", 
+                    "event": "click"
+                },
+                {
+
+                    "input": "Eleanor Lawrie",
+                    "event": "oracle",
+                    "oracle-type": "text_exists"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "14.3", 
+        "platformName": "iOS"
+    }
+}

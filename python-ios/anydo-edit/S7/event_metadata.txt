@@ -1,0 +1,6 @@
+pathToElementImageCrop: ;
+coords: ;
+text_identifier: Editedtask;
+event: oracle;
+oracle-type: text_exists;
+input: Editedtask;

@@ -1,0 +1,4 @@
+pathToElementImageCrop: etsy-navi/S4/pngs/116.0_960.0000000000001_220.0_990.0000000000001.png;
+coords: {'x1': 116.0, 'y1': 960.0000000000001, 'x2': 220.0, 'y2': 990.0000000000001};
+text_identifier: { "label" : "Kitangle" };
+event: click;

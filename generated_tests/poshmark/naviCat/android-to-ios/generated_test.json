@@ -1,0 +1,33 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "poshmark-naviCat",
+        "events": [
+            {
+                "type": "name",
+                "tag": "WOMEN",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "MEN",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "adidas",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "followButton",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Following"
+            }
+        ]
+    }
+}

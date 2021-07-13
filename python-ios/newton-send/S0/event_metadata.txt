@@ -1,0 +1,4 @@
+pathToElementImageCrop: newton-send/S0/pngs/598.0_1248.0_746.0_1320.0.png;
+coords: {'x1': 598.0, 'y1': 1248.0, 'x2': 746.0, 'y2': 1320.0};
+text_identifier: { "name" : "CMCenterView" };
+event: click;

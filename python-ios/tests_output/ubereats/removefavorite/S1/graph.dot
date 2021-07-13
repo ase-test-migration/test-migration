@@ -1,0 +1,138 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Uber Eats\l|label = Uber Eats\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 805\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_0.0_1242.0_2415.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 805\l|width = 414\l|height = 49\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_2415.0_1242.0_2562.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 805\l|width = 414\l|height = 91\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_2415.0_1242.0_2688.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 805\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_0.0_1242.0_2415.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 805\l|width = 414\l|height = 2\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_2415.0_1242.0_2421.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 2\l|y = 806\l|width = 100\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/6.0_2418.0_306.0_2562.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 106\l|y = 806\l|width = 99\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/318.00000000000006_2418.0_615.0_2562.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 209\l|y = 806\l|width = 100\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/627.0_2418.0_927.0_2562.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 313\l|y = 806\l|width = 99\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/939.0_2418.0_1236.0_2562.0.png\l}"]
+	16	[label="{type = XCUIElementTypeTabBar\l|enabled = true\l|visible = true\l|x = 0\l|y = 805\l|width = 414\l|height = 49\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_2415.0_1242.0_2562.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 805\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_0.0_1242.0_2415.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 2\l|y = 806\l|width = 100\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/6.0_2418.0_306.0_2562.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 106\l|y = 806\l|width = 99\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/318.00000000000006_2418.0_615.0_2562.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 209\l|y = 806\l|width = 100\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/627.0_2418.0_927.0_2562.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 313\l|y = 806\l|width = 99\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/939.0_2418.0_1236.0_2562.0.png\l}"]
+	22	[label="{type = XCUIElementTypeButton\l|name = Home\l|label = Home\l|enabled = true\l|visible = true\l|x = 2\l|y = 806\l|width = 100\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/6.0_2418.0_306.0_2562.0.png\l}"]
+	23	[label="{type = XCUIElementTypeButton\l|name = Search\l|label = Search\l|enabled = true\l|visible = true\l|x = 106\l|y = 806\l|width = 99\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/318.00000000000006_2418.0_615.0_2562.0.png\l}"]
+	24	[label="{type = XCUIElementTypeButton\l|name = Orders\l|label = Orders\l|enabled = true\l|visible = true\l|x = 209\l|y = 806\l|width = 100\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/627.0_2418.0_927.0_2562.0.png\l}"]
+	25	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = Account\l|label = Account\l|enabled = true\l|visible = true\l|x = 313\l|y = 806\l|width = 99\l|height = 48\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/939.0_2418.0_1236.0_2562.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 805\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_0.0_1242.0_2415.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 805\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_0.0_1242.0_2415.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 805\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_0.0_1242.0_2415.0.png\l}"]
+	29	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 805\l|numberOfChildren = 22\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_0.0_1242.0_2415.0.png\l}"]
+	30	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 84\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_132.0_1242.0_384.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 128\l|width = 414\l|height = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_384.0_1242.0_390.0.png\l}"]
+	32	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 130\l|width = 414\l|height = 68\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_390.00000000000006_1242.0_594.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 198\l|width = 414\l|height = 2\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_594.0_1242.0_600.0.png\l}"]
+	34	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 200\l|width = 414\l|height = 72\l|numberOfChildren = 1\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_600.0_1242.0_816.0.png\l}"]
+	35	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 272\l|width = 414\l|height = 72\l|numberOfChildren = 1\l|numInParentLayout = 8\l|eventGeneratedOnElement = true \l|screenshotPath = removefavorite/S1/pngs/0.0_815.9999999999999_1242.0_1032.0.png\l}"]
+	36	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 344\l|width = 414\l|height = 72\l|numberOfChildren = 1\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_1032.0_1242.0_1248.0.png\l}"]
+	37	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 416\l|width = 414\l|height = 72\l|numberOfChildren = 1\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_1248.0_1242.0_1464.0.png\l}"]
+	38	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 488\l|width = 414\l|height = 84\l|numberOfChildren = 1\l|numInParentLayout = 11\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_1463.9999999999998_1242.0_1715.9999999999998.png\l}"]
+	39	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 572\l|width = 414\l|height = 72\l|numberOfChildren = 1\l|numInParentLayout = 12\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_1715.9999999999998_1242.0_1931.9999999999998.png\l}"]
+	40	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 644\l|width = 414\l|height = 72\l|numberOfChildren = 1\l|numInParentLayout = 13\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_1932.0_1242.0_2148.0.png\l}"]
+	41	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 716\l|width = 414\l|height = 72\l|numberOfChildren = 1\l|numInParentLayout = 14\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_2148.0_1242.0_2364.0.png\l}"]
+	42	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 788\l|width = 414\l|height = 72\l|numberOfChildren = 1\l|numInParentLayout = 15\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_2364.0_1242.0_2580.0.png\l}"]
+	43	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 803\l|width = 414\l|height = 2\l|numberOfChildren = 0\l|numInParentLayout = 18\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_2409.0_1242.0_2415.0.png\l}"]
+	44	[label="{type = XCUIElementTypeButton\l|name = PlatformUI.ListTableViewCell.AccessibilityIds.listContentView\l|label = Some Person, View Account\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 84\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_132.0_1242.0_384.0.png\l}"]
+	45	[label="{type = XCUIElementTypeButton\l|value = Gold tier\l|name = Rewards.AccessibilityIds.lunaFeedCard\l|label = Uber Rewards\l|enabled = true\l|visible = true\l|x = 0\l|y = 142\l|width = 414\l|height = 44\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_426.0_1242.0_558.0.png\l}"]
+	46	[label="{type = XCUIElementTypeButton\l|name = PlatformUI.ListTableViewCell.AccessibilityIds.listContentView\l|label = COVID-19 Safety Center\l|enabled = true\l|visible = true\l|x = 0\l|y = 200\l|width = 414\l|height = 72\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_600.0_1242.0_816.0.png\l}"]
+	47	[label="{type = XCUIElementTypeButton\l|name = PlatformUI.ListTableViewCell.AccessibilityIds.listContentView\l|label = Your Favorites\l|enabled = true\l|visible = true\l|x = 0\l|y = 272\l|width = 414\l|height = 72\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = removefavorite/S1/pngs/0.0_815.9999999999999_1242.0_1032.0.png\l}"]
+	48	[label="{type = XCUIElementTypeButton\l|name = PlatformUI.ListTableViewCell.AccessibilityIds.listContentView\l|label = Restaurant Rewards\l|enabled = true\l|visible = true\l|x = 0\l|y = 344\l|width = 414\l|height = 72\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_1032.0_1242.0_1248.0.png\l}"]
+	49	[label="{type = XCUIElementTypeButton\l|name = PlatformUI.ListTableViewCell.AccessibilityIds.listContentView\l|label = Wallet\l|enabled = true\l|visible = true\l|x = 0\l|y = 416\l|width = 414\l|height = 72\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_1248.0_1242.0_1464.0.png\l}"]
+	50	[label="{type = XCUIElementTypeButton\l|name = PlatformUI.ListTableViewCell.AccessibilityIds.listContentView\l|label = Business Preferences, Make work meals quicker and easier, NEW\l|enabled = true\l|visible = true\l|x = 0\l|y = 488\l|width = 414\l|height = 84\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_1463.9999999999998_1242.0_1715.9999999999998.png\l}"]
+	51	[label="{type = XCUIElementTypeButton\l|name = PlatformUI.ListTableViewCell.AccessibilityIds.listContentView\l|label = Help\l|enabled = true\l|visible = true\l|x = 0\l|y = 572\l|width = 414\l|height = 72\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_1715.9999999999998_1242.0_1931.9999999999998.png\l}"]
+	52	[label="{type = XCUIElementTypeButton\l|name = PlatformUI.ListTableViewCell.AccessibilityIds.listContentView\l|label = Promotions\l|enabled = true\l|visible = true\l|x = 0\l|y = 644\l|width = 414\l|height = 72\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_1932.0_1242.0_2148.0.png\l}"]
+	53	[label="{type = XCUIElementTypeButton\l|name = PlatformUI.ListTableViewCell.AccessibilityIds.listContentView\l|label = Send a Gift\l|enabled = true\l|visible = true\l|x = 0\l|y = 716\l|width = 414\l|height = 72\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_2148.0_1242.0_2364.0.png\l}"]
+	54	[label="{type = XCUIElementTypeButton\l|name = PlatformUI.ListTableViewCell.AccessibilityIds.listContentView\l|label = Eats Pass\l|enabled = true\l|visible = true\l|x = 0\l|y = 788\l|width = 414\l|height = 72\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_2364.0_1242.0_2580.0.png\l}"]
+	55	[label="{type = XCUIElementTypeButton\l|name = Some Person, View Account\l|label = Some Person, View Account\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 84\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_132.0_1242.0_384.0.png\l}"]
+	56	[label="{type = XCUIElementTypeButton\l|name = COVID-19 Safety Center\l|label = COVID-19 Safety Center\l|enabled = true\l|visible = true\l|x = 0\l|y = 200\l|width = 414\l|height = 72\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_600.0_1242.0_816.0.png\l}"]
+	57	[label="{type = XCUIElementTypeButton\l|name = Your Favorites\l|label = Your Favorites\l|enabled = true\l|visible = true\l|x = 0\l|y = 272\l|width = 414\l|height = 72\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = removefavorite/S1/pngs/0.0_815.9999999999999_1242.0_1032.0.png\l}"]
+	58	[label="{type = XCUIElementTypeButton\l|name = Restaurant Rewards\l|label = Restaurant Rewards\l|enabled = true\l|visible = true\l|x = 0\l|y = 344\l|width = 414\l|height = 72\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_1032.0_1242.0_1248.0.png\l}"]
+	59	[label="{type = XCUIElementTypeButton\l|name = Wallet\l|label = Wallet\l|enabled = true\l|visible = true\l|x = 0\l|y = 416\l|width = 414\l|height = 72\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_1248.0_1242.0_1464.0.png\l}"]
+	60	[label="{type = XCUIElementTypeButton\l|name = Business Preferences, Make work meals quicker and easier, NEW\l|label = Business Preferences, Make work meals quicker and easier, NEW\l|enabled = true\l|visible = true\l|x = 0\l|y = 488\l|width = 414\l|height = 84\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_1463.9999999999998_1242.0_1715.9999999999998.png\l}"]
+	61	[label="{type = XCUIElementTypeButton\l|name = Help\l|label = Help\l|enabled = true\l|visible = true\l|x = 0\l|y = 572\l|width = 414\l|height = 72\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_1715.9999999999998_1242.0_1931.9999999999998.png\l}"]
+	62	[label="{type = XCUIElementTypeButton\l|name = Promotions\l|label = Promotions\l|enabled = true\l|visible = true\l|x = 0\l|y = 644\l|width = 414\l|height = 72\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_1932.0_1242.0_2148.0.png\l}"]
+	63	[label="{type = XCUIElementTypeButton\l|name = Send a Gift\l|label = Send a Gift\l|enabled = true\l|visible = true\l|x = 0\l|y = 716\l|width = 414\l|height = 72\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_2148.0_1242.0_2364.0.png\l}"]
+	64	[label="{type = XCUIElementTypeButton\l|name = Eats Pass\l|label = Eats Pass\l|enabled = true\l|visible = true\l|x = 0\l|y = 788\l|width = 414\l|height = 72\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = removefavorite/S1/pngs/0.0_2364.0_1242.0_2580.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	6 -> 8
+	6 -> 9
+	7 -> 10
+	8 -> 11
+	8 -> 12
+	8 -> 13
+	8 -> 14
+	8 -> 15
+	9 -> 16
+	10 -> 17
+	12 -> 18
+	13 -> 19
+	14 -> 20
+	15 -> 21
+	16 -> 22
+	16 -> 23
+	16 -> 24
+	16 -> 25
+	17 -> 26
+	26 -> 27
+	27 -> 28
+	28 -> 29
+	29 -> 30
+	29 -> 31
+	29 -> 32
+	29 -> 33
+	29 -> 34
+	29 -> 35
+	29 -> 36
+	29 -> 37
+	29 -> 38
+	29 -> 39
+	29 -> 40
+	29 -> 41
+	29 -> 42
+	29 -> 43
+	30 -> 44
+	32 -> 45
+	34 -> 46
+	35 -> 47
+	36 -> 48
+	37 -> 49
+	38 -> 50
+	39 -> 51
+	40 -> 52
+	41 -> 53
+	42 -> 54
+	44 -> 55
+	46 -> 56
+	47 -> 57
+	48 -> 58
+	49 -> 59
+	50 -> 60
+	51 -> 61
+	52 -> 62
+	53 -> 63
+	54 -> 64
+
+
+}

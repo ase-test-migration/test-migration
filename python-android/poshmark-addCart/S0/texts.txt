@@ -1,0 +1,50 @@
+{ "resource-id" : "com.poshmark.app:id/feedTab" , "screenshotPath" : "poshmark-addCart/S0/pngs/0_2214_216_2287.png"}
+{ "resource-id" : "com.poshmark.app:id/shopTab" , "screenshotPath" : "poshmark-addCart/S0/pngs/216_2215_432_2287.png"}
+{ "resource-id" : "com.poshmark.app:id/sellTab" , "screenshotPath" : "poshmark-addCart/S0/pngs/432_2214_648_2287.png"}
+{ "resource-id" : "com.poshmark.app:id/newsTab" , "screenshotPath" : "poshmark-addCart/S0/pngs/648_2214_864_2287.png"}
+{ "resource-id" : "com.poshmark.app:id/userTab" , "screenshotPath" : "poshmark-addCart/S0/pngs/864_2214_1080_2287.png"}
+{ "resource-id" : "com.poshmark.app:id/hamburger" , "screenshotPath" : "poshmark-addCart/S0/pngs/32_103_187_191.png"}
+{ "resource-id" : "com.poshmark.app:id/search_launch_toolbar" , "screenshotPath" : "poshmark-addCart/S0/pngs/213_100_1048_195.png"}
+{ "resource-id" : "com.poshmark.app:id/hamburger_menu" , "screenshotPath" : "poshmark-addCart/S0/pngs/53_126_95_168.png"}
+{ "resource-id" : "com.poshmark.app:id/recyclerShopFeed" , "screenshotPath" : "poshmark-addCart/S0/pngs/0_221_1080_2214.png"}
+{ "content-desc" : "shop_people_recycler_slide_container" , "resource-id" : "com.poshmark.app:id/recycler_slide_container" , "screenshotPath" : "poshmark-addCart/S0/pngs/0_326_1080_574.png"}
+{ "content-desc" : "shop_brands_recycler_slide_container" , "resource-id" : "com.poshmark.app:id/recycler_slide_container" , "screenshotPath" : "poshmark-addCart/S0/pngs/0_712_1080_1018.png"}
+{ "content-desc" : "shop_likes_recycler_slide_container" , "resource-id" : "com.poshmark.app:id/recycler_slide_container" , "screenshotPath" : "poshmark-addCart/S0/pngs/0_1156_1080_1462.png"}
+{ "content-desc" : "shop_last_seen_recycler_slide_container" , "resource-id" : "com.poshmark.app:id/recycler_slide_container" , "screenshotPath" : "poshmark-addCart/S0/pngs/0_1600_1080_1906.png"}
+{ "content-desc" : "shop_showrooms_recycler_slide_container" , "resource-id" : "com.poshmark.app:id/recycler_slide_container" , "screenshotPath" : "poshmark-addCart/S0/pngs/0_2044_1080_2214.png"}
+{ "resource-id" : "com.poshmark.app:id/avataarView" , "screenshotPath" : "poshmark-addCart/S0/pngs/21_247_74_300.png"}
+{ "resource-id" : "com.poshmark.app:id/rightSupplementText" , "screenshotPath" : "poshmark-addCart/S0/pngs/851_249_1054_297.png"}
+{ "content-desc" : "shop_people0" , "resource-id" : "com.poshmark.app:id/coverShotViewBig_v2" , "screenshotPath" : "poshmark-addCart/S0/pngs/31_337_173_479.png"}
+{ "content-desc" : "shop_people1" , "resource-id" : "com.poshmark.app:id/coverShotViewBig_v2" , "screenshotPath" : "poshmark-addCart/S0/pngs/207_337_349_479.png"}
+{ "content-desc" : "shop_people2" , "resource-id" : "com.poshmark.app:id/coverShotViewBig_v2" , "screenshotPath" : "poshmark-addCart/S0/pngs/383_337_525_479.png"}
+{ "content-desc" : "shop_people3" , "resource-id" : "com.poshmark.app:id/coverShotViewBig_v2" , "screenshotPath" : "poshmark-addCart/S0/pngs/559_337_701_479.png"}
+{ "content-desc" : "shop_people4" , "resource-id" : "com.poshmark.app:id/coverShotViewBig_v2" , "screenshotPath" : "poshmark-addCart/S0/pngs/735_337_877_479.png"}
+{ "content-desc" : "shop_people5" , "resource-id" : "com.poshmark.app:id/coverShotViewBig_v2" , "screenshotPath" : "poshmark-addCart/S0/pngs/911_337_1053_479.png"}
+{ "resource-id" : "com.poshmark.app:id/avataarView" , "screenshotPath" : "poshmark-addCart/S0/pngs/21_633_74_686.png"}
+{ "resource-id" : "com.poshmark.app:id/rightSupplementText" , "screenshotPath" : "poshmark-addCart/S0/pngs/851_635_1054_683.png"}
+{ "content-desc" : "shop_brands0:adidas" , "resource-id" : "com.poshmark.app:id/coverShotViewBig_v2" , "screenshotPath" : "poshmark-addCart/S0/pngs/21_712_244_935.png"}
+{ "content-desc" : "shop_brands1:Abercrombie_&_Fitch" , "resource-id" : "com.poshmark.app:id/coverShotViewBig_v2" , "screenshotPath" : "poshmark-addCart/S0/pngs/257_712_480_935.png"}
+{ "content-desc" : "shop_brands2:Nike" , "resource-id" : "com.poshmark.app:id/coverShotViewBig_v2" , "screenshotPath" : "poshmark-addCart/S0/pngs/493_712_716_935.png"}
+{ "content-desc" : "shop_brands3:Louis_Vuitton" , "resource-id" : "com.poshmark.app:id/coverShotViewBig_v2" , "screenshotPath" : "poshmark-addCart/S0/pngs/729_712_952_935.png"}
+{ "content-desc" : "shop_brands4:Michael_Kors" , "resource-id" : "com.poshmark.app:id/coverShotViewBig_v2" , "screenshotPath" : "poshmark-addCart/S0/pngs/965_712_1080_935.png"}
+{ "resource-id" : "com.poshmark.app:id/avataarView" , "screenshotPath" : "poshmark-addCart/S0/pngs/21_1077_74_1130.png"}
+{ "resource-id" : "com.poshmark.app:id/rightSupplementText" , "screenshotPath" : "poshmark-addCart/S0/pngs/877_1079_1054_1127.png"}
+{ "content-desc" : "shop_likes0:Nike Dri Fit OU Oklahoma University Polo Sz L" , "resource-id" : "com.poshmark.app:id/coverShotViewBig_v2" , "screenshotPath" : "poshmark-addCart/S0/pngs/21_1156_244_1379.png"}
+{ "content-desc" : "shop_likes1:Louis Vuitton Messenger Bag" , "resource-id" : "com.poshmark.app:id/coverShotViewBig_v2" , "screenshotPath" : "poshmark-addCart/S0/pngs/257_1156_480_1379.png"}
+{ "content-desc" : "shop_likes2:Speedy 30 vintage (30 years old)" , "resource-id" : "com.poshmark.app:id/coverShotViewBig_v2" , "screenshotPath" : "poshmark-addCart/S0/pngs/493_1156_716_1379.png"}
+{ "content-desc" : "shop_likes3:💓crossbody zipper tote Louis Vuitton Palermo pm" , "resource-id" : "com.poshmark.app:id/coverShotViewBig_v2" , "screenshotPath" : "poshmark-addCart/S0/pngs/729_1156_952_1379.png"}
+{ "resource-id" : "com.poshmark.app:id/avataarView" , "screenshotPath" : "poshmark-addCart/S0/pngs/21_1521_74_1574.png"}
+{ "resource-id" : "com.poshmark.app:id/rightSupplementText" , "screenshotPath" : "poshmark-addCart/S0/pngs/753_1523_1054_1571.png"}
+{ "content-desc" : "shop_last_seen0:Nike Dri Fit OU Oklahoma University Polo Sz L" , "resource-id" : "com.poshmark.app:id/coverShotViewBig_v2" , "screenshotPath" : "poshmark-addCart/S0/pngs/21_1600_244_1823.png"}
+{ "content-desc" : "shop_last_seen1:Ralph Lauren Tummy-Control Halter Tankini Top" , "resource-id" : "com.poshmark.app:id/coverShotViewBig_v2" , "screenshotPath" : "poshmark-addCart/S0/pngs/257_1600_480_1823.png"}
+{ "content-desc" : "shop_last_seen2:💓crossbody zipper tote Louis Vuitton Palermo pm" , "resource-id" : "com.poshmark.app:id/coverShotViewBig_v2" , "screenshotPath" : "poshmark-addCart/S0/pngs/493_1600_716_1823.png"}
+{ "resource-id" : "com.poshmark.app:id/avataarView" , "screenshotPath" : "poshmark-addCart/S0/pngs/21_1965_74_2018.png"}
+{ "resource-id" : "com.poshmark.app:id/rightSupplementText" , "screenshotPath" : "poshmark-addCart/S0/pngs/1028_1967_1054_2015.png"}
+{ "resource-id" : "com.poshmark.app:id/headerTitleView" , "screenshotPath" : "poshmark-addCart/S0/pngs/100_242_851_288.png"}
+{ "resource-id" : "com.poshmark.app:id/headerTitleView" , "screenshotPath" : "poshmark-addCart/S0/pngs/100_628_851_674.png"}
+{ "resource-id" : "com.poshmark.app:id/headerTitleView" , "screenshotPath" : "poshmark-addCart/S0/pngs/100_1072_877_1118.png"}
+{ "resource-id" : "com.poshmark.app:id/headerTitleView" , "screenshotPath" : "poshmark-addCart/S0/pngs/100_1516_753_1562.png"}
+{ "resource-id" : "com.poshmark.app:id/headerTitleView" , "screenshotPath" : "poshmark-addCart/S0/pngs/100_1960_1028_2006.png"}
+{ "content-desc" : "shop_showrooms0:Prada Saffiano Leather Handbags" , "resource-id" : "com.poshmark.app:id/coverShotViewBig_v2" , "screenshotPath" : "poshmark-addCart/S0/pngs/21_2044_415_2214.png"}
+{ "content-desc" : "shop_showrooms1:Men's Tom Ford Suits & Blazers" , "resource-id" : "com.poshmark.app:id/coverShotViewBig_v2" , "screenshotPath" : "poshmark-addCart/S0/pngs/441_2044_835_2214.png"}
+{ "content-desc" : "shop_showrooms2:Men's Saint Laurent Shirts" , "resource-id" : "com.poshmark.app:id/coverShotViewBig_v2" , "screenshotPath" : "poshmark-addCart/S0/pngs/861_2044_1080_2214.png"}

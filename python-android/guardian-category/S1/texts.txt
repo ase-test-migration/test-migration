@@ -1,0 +1,16 @@
+{ "content-desc" : "Open navigation button" , "resource-id" : "com.guardian:id/fabHomeNav" , "screenshotPath" : "guardian-category/S1/pngs/893_1961_1047_1977.png"}
+{ "resource-id" : "com.guardian:id/nav_drawer_recycler_view" , "screenshotPath" : "guardian-category/S1/pngs/0_171_605_1977.png"}
+{ "resource-id" : "com.guardian:id/nav_drawer_footer" , "screenshotPath" : "guardian-category/S1/pngs/0_1991_605_2148.png"}
+{ "resource-id" : "com.guardian:id/tlTabs" , "screenshotPath" : "guardian-category/S1/pngs/0_2010_805_2148.png"}
+{ "resource-id" : "com.guardian:id/clSearchBox" , "screenshotPath" : "guardian-category/S1/pngs/11_182_594_300.png"}
+{ "content-desc" : "More" , "resource-id" : "com.guardian:id/show_more" , "screenshotPath" : "guardian-category/S1/pngs/22_2016_132_2126.png"}
+{ "content-desc" : "Settings" , "resource-id" : "com.guardian:id/nav_drawer_settings_button" , "screenshotPath" : "guardian-category/S1/pngs/154_2016_264_2126.png"}
+{ "content-desc" : "Read it to me" , "resource-id" : "com.guardian:id/nav_drawer_article_player" , "screenshotPath" : "guardian-category/S1/pngs/418_2016_528_2126.png"}
+{ "content-desc" : "Home" , "screenshotPath" : "guardian-category/S1/pngs/0_2010_268_2148.png"}
+{ "content-desc" : "Discover" , "screenshotPath" : "guardian-category/S1/pngs/268_2010_536_2148.png"}
+{ "content-desc" : "Live" , "screenshotPath" : "guardian-category/S1/pngs/536_2010_805_2148.png"}
+{ "content-desc" : "Your profile" , "resource-id" : "com.guardian:id/nav_drawer_profile_button" , "screenshotPath" : "guardian-category/S1/pngs/286_2016_396_2126.png"}
+{ "content-desc" : "The Guardian" , "resource-id" : "com.guardian:id/iivLogo" , "screenshotPath" : "guardian-category/S1/pngs/439_182_1036_375.png"}
+{ "resource-id" : "com.guardian:id/rvArticles" , "screenshotPath" : "guardian-category/S1/pngs/0_445_1080_1977.png"}
+{ "resource-id" : "com.guardian:id/tvGroupTitle" , "screenshotPath" : "guardian-category/S1/pngs/22_467_936_570.png"}
+{ "resource-id" : "com.guardian:id/vpSublinks" , "screenshotPath" : "guardian-category/S1/pngs/22_1647_1058_1843.png"}

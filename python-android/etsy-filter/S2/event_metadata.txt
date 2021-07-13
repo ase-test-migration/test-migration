@@ -1,0 +1,4 @@
+pathToElementImageCrop: etsy-filter/S2/pngs/795_253_1049_379.png;
+coords: {'x1': 795, 'y1': 253, 'x2': 1049, 'y2': 379};
+text_identifier: { "text" : "Filter" , "content-desc" : "Filter Button" , "resource-id" : "com.etsy.android:id/filter_button" };
+event: click;

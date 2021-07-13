@@ -1,0 +1,33 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "aliExpress-delCart",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.alibaba.aliexpresshd:id/navigation_cart",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.alibaba.aliexpresshd:id/product_checkbox",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.alibaba.aliexpresshd:id/ifv_delete_multi_cart_item",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.alibaba.aliexpresshd:id/buttonDefaultPositive",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "type": "resource-id",
+                "tag": "com.alibaba.aliexpresshd:id/navigation_cart"
+            }
+        ]
+    }
+}

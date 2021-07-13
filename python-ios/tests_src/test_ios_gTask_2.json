@@ -1,0 +1,44 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "gTask-newList",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Task lists menu"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Create new list"
+                },
+                {
+                    "type": "xPath",
+                    "event": "send_keys",
+                    "tag": "//XCUIElementTypeApplication[@name=\"Tasks\"]/XCUIElementTypeWindow[1]/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeTextField",
+                    "input": "Sample List"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeButton[@name=\"Done\"])[1]"
+                },
+                {
+                    "type": "xPath",
+                    "event": "assert",
+                    "tag": "(//XCUIElementTypeStaticText[@name=\"Sample List\"])[1]"
+                }
+            ]
+        }
+    ]
+}

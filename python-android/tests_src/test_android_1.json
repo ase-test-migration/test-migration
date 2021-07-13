@@ -1,0 +1,29 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "R3CN30038ME"
+    },
+    
+    "tests" : [
+        {
+            "name" : "testBusiness",
+            "events": [
+                {
+                    "type" : "xPath", 
+                    "tag" : "//androidx.appcompat.app.a.c[@content-desc=\"Business\"]/android.widget.TextView",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "xPath", 
+                    "tag" : "(//android.widget.ImageView[@content-desc=\"Image\"])[1]",
+                    "event" : "click" 
+                },
+                {
+                    "type" : "id", 
+                    "tag" : "com.cnn.mobile.android.phone:id/toolbar_back_button",
+                    "event" : "click" 
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: firefox-bookmark/S3/pngs/652_1943_785_1977.png;
+coords: {'x1': 652, 'y1': 1943, 'x2': 785, 'y2': 2112};
+text_identifier: { "content-desc" : "Bookmark" };
+event: click;

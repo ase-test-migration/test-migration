@@ -1,0 +1,22 @@
+{
+    "tests": [
+        {
+            "name": "tst-back_test", 
+            "events": [
+                {
+                    "tag": "com.ebay.mobile:id/button_sign_in", 
+                    "type": "id", 
+                    "event": "click"
+                }, 
+                {
+                    "event": "back"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "emulator-5554", 
+        "platformName": "Android", 
+        "newCommandTimeout": 0
+    }
+}

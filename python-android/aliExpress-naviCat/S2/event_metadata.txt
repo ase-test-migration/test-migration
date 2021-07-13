@@ -1,0 +1,4 @@
+pathToElementImageCrop: aliExpress-naviCat/S2/pngs/305_723_533_1049.png;
+coords: {'x1': 305, 'y1': 723, 'x2': 533, 'y2': 1049};
+text_identifier: { "content-desc" : "" };
+event: click;

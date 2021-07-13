@@ -1,0 +1,28 @@
+{"name" : "Email", "label" : "Email", "screenshotPath" : "edison-move/S4/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "MAILBOXES", "screenshotPath" : "edison-move/S4/pngs/0.0_40.0_650.0_120.0.png"}
+{"name" : "EDISON MAIL+", "screenshotPath" : "edison-move/S4/pngs/0.0_1326.0_650.0_1468.0.png"}
+{"name" : "Inbox", "screenshotPath" : "edison-move/S4/pngs/650.0_40.0_1400.0_336.0.png"}
+{"name" : "plus circle outline", "label" : "plus circle outline", "screenshotPath" : "edison-move/S4/pngs/554.0_52.0_620.0_118.0.png"}
+{"value" : "MAILBOXES", "name" : "MAILBOXES", "label" : "MAILBOXES", "screenshotPath" : "edison-move/S4/pngs/30.0_68.0_178.0_100.0.png"}
+{"value" : "email@example.com", "name" : "email@example.com", "label" : "email@example.com", "screenshotPath" : "edison-move/S4/pngs/121.99999999999999_124.0_440.0_218.0.png"}
+{"name" : "accordion arrow", "label" : "accordion arrow", "screenshotPath" : "edison-move/S4/pngs/530.0_124.0_618.0_214.0.png"}
+{"value" : "Focused", "name" : "Focused", "label" : "Focused", "screenshotPath" : "edison-move/S4/pngs/121.99999999999999_274.0_254.0_360.0.png"}
+{"value" : "Test", "name" : "Test", "label" : "Test", "screenshotPath" : "edison-move/S4/pngs/121.99999999999999_362.0_188.0_416.0.png"}
+{"value" : "email@example.com", "name" : "email@example.com", "label" : "email@example.com", "screenshotPath" : "edison-move/S4/pngs/121.99999999999999_414.0_620.0_448.0.png"}
+{"value" : "Important", "name" : "Important", "label" : "Important", "screenshotPath" : "edison-move/S4/pngs/121.99999999999999_450.0_272.0_504.0.png"}
+{"value" : "email@example.com", "name" : "email@example.com", "label" : "email@example.com", "screenshotPath" : "edison-move/S4/pngs/121.99999999999999_502.0_620.0_536.0.png"}
+{"value" : "Other", "name" : "Other", "label" : "Other", "screenshotPath" : "edison-move/S4/pngs/121.99999999999999_538.0_210.0_624.0.png"}
+{"value" : "Unread", "name" : "Unread", "label" : "Unread", "screenshotPath" : "edison-move/S4/pngs/121.99999999999999_626.0_234.0_712.0.png"}
+{"value" : "Snoozed", "name" : "Snoozed", "label" : "Snoozed", "screenshotPath" : "edison-move/S4/pngs/121.99999999999999_713.9999999999999_256.0_799.9999999999999.png"}
+{"value" : "Attachments", "name" : "Attachments", "label" : "Attachments", "screenshotPath" : "edison-move/S4/pngs/121.99999999999999_802.0_316.0_888.0.png"}
+{"value" : "Sent", "name" : "Sent", "label" : "Sent", "screenshotPath" : "edison-move/S4/pngs/121.99999999999999_890.0_192.0_976.0.png"}
+{"value" : "Drafts", "name" : "Drafts", "label" : "Drafts", "screenshotPath" : "edison-move/S4/pngs/121.99999999999999_978.0_216.0_1064.0.png"}
+{"value" : "Archive", "name" : "Archive", "label" : "Archive", "screenshotPath" : "edison-move/S4/pngs/121.99999999999999_1066.0_236.0_1152.0.png"}
+{"value" : "Trash", "name" : "Trash", "label" : "Trash", "screenshotPath" : "edison-move/S4/pngs/121.99999999999999_1154.0_208.0_1240.0.png"}
+{"value" : "low-priority", "name" : "low-priority", "label" : "low-priority", "screenshotPath" : "edison-move/S4/pngs/121.99999999999999_1242.0_298.0_1296.0.png"}
+{"value" : "email@example.com", "name" : "email@example.com", "label" : "email@example.com", "screenshotPath" : "edison-move/S4/pngs/121.99999999999999_1294.0_620.0_1328.0.png"}
+{"value" : "Inbox", "name" : "Inbox", "label" : "Inbox", "screenshotPath" : "edison-move/S4/pngs/682.0_134.0_856.0_218.0.png"}
+{"name" : "Search", "label" : "Search", "screenshotPath" : "edison-move/S4/pngs/682.0_234.0_1368.0_306.0.png"}
+{"name" : "You took care of everything., Yay! You reached inbox zero.", "label" : "You took care of everything., Yay! You reached inbox zero.", "screenshotPath" : "edison-move/S4/pngs/650.0_0.0_1400.0_1334.0.png"}
+{"value" : "You took care of everything.", "name" : "You took care of everything.", "label" : "You took care of everything.", "screenshotPath" : "edison-move/S4/pngs/690.0_1034.0_1360.0_1098.0.png"}
+{"value" : "Yay! You reached inbox zero.", "name" : "Yay! You reached inbox zero.", "label" : "Yay! You reached inbox zero.", "screenshotPath" : "edison-move/S4/pngs/690.0_1146.0_1360.0_1186.0.png"}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: usa-category/S1/pngs/58.0_378.00000000000006_218.0_414.00000000000006.png;
+coords: {'x1': 58.0, 'y1': 378.00000000000006, 'x2': 218.0, 'y2': 414.00000000000006};
+text_identifier: { "label" : "CORONAVIRUS SUBSECTION" };
+event: click;

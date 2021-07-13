@@ -1,0 +1,50 @@
+{"name" : "IKEA", "label" : "IKEA", "screenshotPath" : "ikea-addCart/S1/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "IKEA.SearchView", "screenshotPath" : "ikea-addCart/S1/pngs/0.0_40.0_750.0_128.0.png"}
+{"name" : "Q", "label" : "Q", "screenshotPath" : "ikea-addCart/S1/pngs/0.0_916.0_76.0_1008.0.png"}
+{"name" : "W", "label" : "W", "screenshotPath" : "ikea-addCart/S1/pngs/74.0_916.0_150.0_1008.0.png"}
+{"name" : "E", "label" : "E", "screenshotPath" : "ikea-addCart/S1/pngs/150.0_916.0_226.0_1008.0.png"}
+{"name" : "R", "label" : "R", "screenshotPath" : "ikea-addCart/S1/pngs/224.00000000000003_916.0_300.0_1008.0.png"}
+{"name" : "T", "label" : "T", "screenshotPath" : "ikea-addCart/S1/pngs/300.0_916.0_376.0_1008.0.png"}
+{"name" : "Y", "label" : "Y", "screenshotPath" : "ikea-addCart/S1/pngs/374.0_916.0_450.0_1008.0.png"}
+{"name" : "U", "label" : "U", "screenshotPath" : "ikea-addCart/S1/pngs/450.0_916.0_526.0_1008.0.png"}
+{"name" : "I", "label" : "I", "screenshotPath" : "ikea-addCart/S1/pngs/524.0_916.0_600.0_1008.0.png"}
+{"name" : "O", "label" : "O", "screenshotPath" : "ikea-addCart/S1/pngs/600.0_916.0_676.0_1008.0.png"}
+{"name" : "P", "label" : "P", "screenshotPath" : "ikea-addCart/S1/pngs/674.0_916.0_750.0_1008.0.png"}
+{"name" : "A", "label" : "A", "screenshotPath" : "ikea-addCart/S1/pngs/36.0_1024.0_112.0_1116.0.png"}
+{"name" : "S", "label" : "S", "screenshotPath" : "ikea-addCart/S1/pngs/112.00000000000001_1024.0_188.0_1116.0.png"}
+{"name" : "D", "label" : "D", "screenshotPath" : "ikea-addCart/S1/pngs/186.0_1024.0_262.0_1116.0.png"}
+{"name" : "F", "label" : "F", "screenshotPath" : "ikea-addCart/S1/pngs/262.0_1024.0_338.0_1116.0.png"}
+{"name" : "G", "label" : "G", "screenshotPath" : "ikea-addCart/S1/pngs/338.0_1024.0_414.0_1116.0.png"}
+{"name" : "H", "label" : "H", "screenshotPath" : "ikea-addCart/S1/pngs/412.0_1024.0_488.0_1116.0.png"}
+{"name" : "J", "label" : "J", "screenshotPath" : "ikea-addCart/S1/pngs/487.99999999999994_1024.0_564.0_1116.0.png"}
+{"name" : "K", "label" : "K", "screenshotPath" : "ikea-addCart/S1/pngs/562.0_1024.0_638.0_1116.0.png"}
+{"name" : "L", "label" : "L", "screenshotPath" : "ikea-addCart/S1/pngs/638.0_1024.0_714.0_1116.0.png"}
+{"value" : "1", "name" : "shift", "label" : "shift", "screenshotPath" : "ikea-addCart/S1/pngs/0.0_1132.0_96.0_1224.0.png"}
+{"name" : "Z", "label" : "Z", "screenshotPath" : "ikea-addCart/S1/pngs/112.00000000000001_1132.0_188.0_1224.0.png"}
+{"name" : "X", "label" : "X", "screenshotPath" : "ikea-addCart/S1/pngs/186.0_1132.0_262.0_1224.0.png"}
+{"name" : "C", "label" : "C", "screenshotPath" : "ikea-addCart/S1/pngs/262.0_1132.0_338.0_1224.0.png"}
+{"name" : "V", "label" : "V", "screenshotPath" : "ikea-addCart/S1/pngs/338.0_1132.0_414.0_1224.0.png"}
+{"name" : "B", "label" : "B", "screenshotPath" : "ikea-addCart/S1/pngs/412.0_1132.0_488.0_1224.0.png"}
+{"name" : "N", "label" : "N", "screenshotPath" : "ikea-addCart/S1/pngs/487.99999999999994_1132.0_564.0_1224.0.png"}
+{"name" : "M", "label" : "M", "screenshotPath" : "ikea-addCart/S1/pngs/562.0_1132.0_638.0_1224.0.png"}
+{"name" : "delete", "label" : "delete", "screenshotPath" : "ikea-addCart/S1/pngs/654.0_1132.0_750.0_1224.0.png"}
+{"name" : "more", "label" : "numbers", "screenshotPath" : "ikea-addCart/S1/pngs/0.0_1240.0_94.0_1332.0.png"}
+{"name" : "Emoji", "label" : "Emoji", "screenshotPath" : "ikea-addCart/S1/pngs/92.0_1240.0_188.0_1332.0.png"}
+{"name" : "dictation", "label" : "Dictate", "screenshotPath" : "ikea-addCart/S1/pngs/186.0_1240.0_262.0_1332.0.png"}
+{"name" : "space", "label" : "space", "screenshotPath" : "ikea-addCart/S1/pngs/262.0_1240.0_564.0_1332.0.png"}
+{"name" : "Search", "label" : "search", "screenshotPath" : "ikea-addCart/S1/pngs/562.0_1240.0_750.0_1332.0.png"}
+{"name" : "Recently searched", "screenshotPath" : "ikea-addCart/S1/pngs/0.0_349.99999999999994_750.0_413.99999999999994.png"}
+{"name" : "BrowseCarouselHeaderViewAllButton", "label" : "Clear all", "screenshotPath" : "ikea-addCart/S1/pngs/588.0_349.99999999999994_694.0_413.99999999999994.png"}
+{"name" : "Cancel", "label" : "Cancel", "screenshotPath" : "ikea-addCart/S1/pngs/606.0_191.99999999999997_694.0_287.99999999999994.png"}
+{"value" : "Recently searched", "name" : "BrowseCarouselHeaderViewTitle", "label" : "Recently searched", "screenshotPath" : "ikea-addCart/S1/pngs/56.00000000000001_349.99999999999994_572.0_413.99999999999994.png"}
+{"name" : "BrowseCarouselHeaderViewAllButton", "label" : "Clear all", "screenshotPath" : "ikea-addCart/S1/pngs/588.0_349.99999999999994_694.0_413.99999999999994.png"}
+{"name" : "Table", "label" : "Table", "screenshotPath" : "ikea-addCart/S1/pngs/270.0_462.0_470.0_572.0.png"}
+{"name" : "Chair", "label" : "Chair", "screenshotPath" : "ikea-addCart/S1/pngs/486.0_462.0_686.0_572.0.png"}
+{"name" : "table", "label" : "table", "screenshotPath" : "ikea-addCart/S1/pngs/56.00000000000001_462.0_254.0_572.0.png"}
+{"value" : "Clear all", "name" : "Clear all", "label" : "Clear all", "screenshotPath" : "ikea-addCart/S1/pngs/588.0_362.0_694.0_402.0.png"}
+{"value" : "What are you looking for?", "label" : "", "screenshotPath" : "ikea-addCart/S1/pngs/38.0_191.99999999999997_566.0_287.99999999999994.png"}
+{"value" : "Cancel", "name" : "Cancel", "label" : "Cancel", "screenshotPath" : "ikea-addCart/S1/pngs/606.0_220.0_694.0_260.0.png"}
+{"value" : "Clear all", "name" : "Clear all", "label" : "Clear all", "screenshotPath" : "ikea-addCart/S1/pngs/588.0_362.0_694.0_402.0.png"}
+{"value" : "Table", "name" : "Table", "label" : "Table", "screenshotPath" : "ikea-addCart/S1/pngs/332.0_496.0_408.0_538.0.png"}
+{"value" : "Chair", "name" : "Chair", "label" : "Chair", "screenshotPath" : "ikea-addCart/S1/pngs/548.0_496.0_624.0_538.0.png"}
+{"value" : "table", "name" : "table", "label" : "table", "screenshotPath" : "ikea-addCart/S1/pngs/118.0_496.0_192.0_538.0.png"}

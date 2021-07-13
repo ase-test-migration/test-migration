@@ -1,0 +1,35 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "wish-Login",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.contextlogic.wish:id/signInButton",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.contextlogic.wish:id/sign_in_fragment_email_text",
+                "event": "send_keys",
+                "input": "email@example.com"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.contextlogic.wish:id/sign_in_fragment_password_text",
+                "event": "send_keys",
+                "input": "Test.0123"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.contextlogic.wish:id/sign_in_fragment_sign_in_button",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_exists",
+                "input": "Popular"
+            }
+        ]
+    }
+}

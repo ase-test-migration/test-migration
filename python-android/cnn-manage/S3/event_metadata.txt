@@ -1,0 +1,4 @@
+pathToElementImageCrop: cnn-manage/S3/pngs/727_1043_969_1187.png;
+coords: {'x1': 727, 'y1': 1043, 'x2': 969, 'y2': 1187};
+text_identifier: {  };
+event: click;

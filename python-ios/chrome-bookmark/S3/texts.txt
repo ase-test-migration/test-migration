@@ -1,0 +1,21 @@
+{"name" : "Chrome", "label" : "Chrome", "screenshotPath" : "chrome-bookmark/S3/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "Close Menu", "label" : "Close Menu", "screenshotPath" : "chrome-bookmark/S3/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "kPopupMenuToolsMenuTableViewId", "screenshotPath" : "chrome-bookmark/S3/pngs/274.0_376.0_740.0_1246.0.png"}
+{"name" : "kToolsMenuReload", "label" : "Reload", "screenshotPath" : "chrome-bookmark/S3/pngs/274.0_376.0_740.0_466.0.png"}
+{"name" : "kToolsMenuNewTabId", "label" : "New Tab", "screenshotPath" : "chrome-bookmark/S3/pngs/274.0_464.0_740.0_556.0.png"}
+{"name" : "kToolsMenuNewIncognitoTabId", "label" : "New Incognito Tab", "screenshotPath" : "chrome-bookmark/S3/pngs/274.0_554.0_740.0_644.0.png"}
+{"name" : "kToolsMenuBookmarksId", "label" : "Bookmarks", "screenshotPath" : "chrome-bookmark/S3/pngs/274.0_684.0_740.0_776.0.png"}
+{"name" : "kToolsMenuReadingListId", "label" : "Reading List", "screenshotPath" : "chrome-bookmark/S3/pngs/274.0_774.0_740.0_864.0.png"}
+{"name" : "kToolsMenuOtherDevicesId", "label" : "Recent Tabs", "screenshotPath" : "chrome-bookmark/S3/pngs/274.0_862.0_740.0_954.0.png"}
+{"name" : "kToolsMenuHistoryId", "label" : "History", "screenshotPath" : "chrome-bookmark/S3/pngs/274.0_952.0_740.0_1042.0.png"}
+{"name" : "kToolsMenuDownloadsId", "label" : "Downloads", "screenshotPath" : "chrome-bookmark/S3/pngs/274.0_1040.0_740.0_1132.0.png"}
+{"name" : "kToolsMenuSettingsId", "label" : "Settings", "screenshotPath" : "chrome-bookmark/S3/pngs/274.0_1130.0_740.0_1220.0.png"}
+{"value" : "Reload", "name" : "Reload", "label" : "Reload", "screenshotPath" : "chrome-bookmark/S3/pngs/382.0_400.0_710.0_442.0.png"}
+{"value" : "New Tab", "name" : "New Tab", "label" : "New Tab", "screenshotPath" : "chrome-bookmark/S3/pngs/382.0_488.0_710.0_532.0.png"}
+{"value" : "New Incognito Tab", "name" : "New Incognito Tab", "label" : "New Incognito Tab", "screenshotPath" : "chrome-bookmark/S3/pngs/382.0_578.0_710.0_620.0.png"}
+{"value" : "Bookmarks", "name" : "Bookmarks", "label" : "Bookmarks", "screenshotPath" : "chrome-bookmark/S3/pngs/382.0_708.0_710.0_752.0.png"}
+{"value" : "Reading List", "name" : "Reading List", "label" : "Reading List", "screenshotPath" : "chrome-bookmark/S3/pngs/382.0_798.0_710.0_840.0.png"}
+{"value" : "Recent Tabs", "name" : "Recent Tabs", "label" : "Recent Tabs", "screenshotPath" : "chrome-bookmark/S3/pngs/382.0_886.0_710.0_930.0.png"}
+{"value" : "History", "name" : "History", "label" : "History", "screenshotPath" : "chrome-bookmark/S3/pngs/382.0_976.0_710.0_1018.0.png"}
+{"value" : "Downloads", "name" : "Downloads", "label" : "Downloads", "screenshotPath" : "chrome-bookmark/S3/pngs/382.0_1064.0_710.0_1108.0.png"}
+{"value" : "Settings", "name" : "Settings", "label" : "Settings", "screenshotPath" : "chrome-bookmark/S3/pngs/382.0_1154.0_710.0_1196.0.png"}

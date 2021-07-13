@@ -1,0 +1,32 @@
+{
+    "desiredCapabilities": {
+      "platformName": "Android",
+      "platformVersion": "9",
+      "deviceName": "Nexus_5_API_28",
+      "newCommandTimeout": 1000
+
+    },
+    "tests" :[
+                {
+
+                    "name" : "testAOLWeather",
+                    "events" : [
+                      {
+                          "event": "click",
+                          "tag": "com.aol.mobile.aolapp:id/weather_location_name",
+                          "type": "id"
+                      },
+                      {
+                          "event": "click",
+                          "tag": "Weather Settings",
+                          "type": "accessibilityId"
+                      },
+                      {
+                          "event": "click",
+                          "tag": "com.aol.mobile.aolapp:id/save_weather_settings_btn",
+                          "type": "id"
+                      }
+                  ]
+    }
+]
+}

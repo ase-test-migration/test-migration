@@ -1,0 +1,4 @@
+pathToElementImageCrop: poshmark-Login/S3/pngs/850_100_1048_195.png;
+coords: {'x1': 850, 'y1': 100, 'x2': 1048, 'y2': 195};
+text_identifier: { "resource-id" : "com.poshmark.app:id/actionbarActionButtonLayout" , "content-desc" : "rightNavButton1" , "resource-id" : "com.poshmark.app:id/nextButton" };
+event: click;

@@ -1,0 +1,4 @@
+pathToElementImageCrop: aliExpress-addCart/S3/pngs/24.0_296.0_366.0_858.0.png;
+coords: {'x1': 24.0, 'y1': 296.0, 'x2': 366.0, 'y2': 858.0};
+text_identifier: { "label" : "Filter" };
+event: click;

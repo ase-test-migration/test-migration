@@ -1,0 +1,7 @@
+pathToElementImageCrop: todoist-changedate/S7/pngs/150.0_1551.0_447.0_1677.0.png;
+coords: {'x1': 150.0, 'y1': 1551.0, 'x2': 447.0, 'y2': 1677.0};
+text_identifier: { "label" : "Monday" };
+event: oracle;
+oracle-type: assert_equal;
+attribute: label;
+value: Monday;

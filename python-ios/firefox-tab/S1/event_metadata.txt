@@ -1,0 +1,4 @@
+pathToElementImageCrop: firefox-tab/S1/pngs/598.0_1242.0_686.0_1330.0.png;
+coords: {'x1': 598.0, 'y1': 1242.0, 'x2': 686.0, 'y2': 1330.0};
+text_identifier: { "label" : "Add Tab" };
+event: click;

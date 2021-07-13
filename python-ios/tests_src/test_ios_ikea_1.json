@@ -1,0 +1,45 @@
+{
+    "tests": [
+        {
+            "name": "ikea-Login", 
+            "events": [
+                {
+                    "tag": "profile", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "Log In", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "input": "email@example.com", 
+                    "tag": "//XCUIElementTypeOther[@name=\"Login - IKEA\"]/XCUIElementTypeTextField", 
+                    "type": "xPath", 
+                    "event": "send_keys"
+                }, 
+                {
+                    "input": "Test0123", 
+                    "tag": "//XCUIElementTypeOther[@name=\"Login - IKEA\"]/XCUIElementTypeSecureTextField", 
+                    "type": "xPath", 
+                    "event": "send_keys_enter"
+                }, 
+                {
+                    "tag": "Continue", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "iPhone", 
+        "xcodeOrgId": "F9YGX7YPBF", 
+        "udid": "auto", 
+        "xcodeSigningId": "iPhone Developer", 
+        "newCommandTimeout": 0, 
+        "platformVersion": "14.3", 
+        "platformName": "iOS"
+    }
+}

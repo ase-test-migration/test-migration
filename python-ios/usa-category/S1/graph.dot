@@ -1,0 +1,330 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = USA TODAY\l|label = USA TODAY\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = false\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = false\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeTabBar\l|name = Tab Bar\l|label = Tab Bar\l|enabled = true\l|visible = true\l|x = 0\l|y = 618\l|width = 375\l|height = 49\l|index = 1\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_1236.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|name = Top Stories tab\l|label = Top Stories tab\l|enabled = true\l|visible = true\l|x = 2\l|y = 619\l|width = 71\l|height = 48\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/4.0_1238.0_146.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|name = Popular tab\l|label = Popular tab\l|enabled = true\l|visible = true\l|x = 77\l|y = 619\l|width = 71\l|height = 48\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/154.0_1238.0_296.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = Sections tab\l|label = Sections tab\l|enabled = true\l|visible = true\l|x = 152\l|y = 619\l|width = 71\l|height = 48\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/304.0_1238.0_446.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeButton\l|name = My Topics tab\l|label = My Topics tab\l|enabled = true\l|visible = true\l|x = 227\l|y = 619\l|width = 71\l|height = 48\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/453.99999999999994_1238.0_596.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeButton\l|name = Saved tab\l|label = Saved tab\l|enabled = true\l|visible = true\l|x = 302\l|y = 619\l|width = 71\l|height = 48\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/604.0_1238.0_746.0_1334.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	16	[label="{type = XCUIElementTypeNavigationBar\l|name = Sections\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	18	[label="{type = XCUIElementTypeStaticText\l|value = back\l|name = back\l|label = back\l|enabled = true\l|visible = true\l|x = 154\l|y = 31\l|width = 67\l|height = 21\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/308.0_62.0_442.0_104.0.png\l}"]
+	19	[label="{type = XCUIElementTypeButton\l|name = Settings\l|label = Settings\l|enabled = true\l|visible = true\l|x = 271\l|y = 20\l|width = 45\l|height = 44\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/542.0_40.0_632.0_128.0.png\l}"]
+	20	[label="{type = XCUIElementTypeButton\l|name = frontSearchBarButton\l|label = Search\l|enabled = true\l|visible = true\l|x = 323\l|y = 20\l|width = 44\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/646.0_40.0_734.0_128.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 618\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_0.0_750.0_1236.0.png\l}"]
+	23	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 618\l|index = 0\l|numberOfChildren = 9\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_0.0_750.0_1236.0.png\l}"]
+	24	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 67\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_128.0_750.0_262.0.png\l}"]
+	25	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 131\l|width = 375\l|height = 10\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_262.0_750.0_282.0.png\l}"]
+	26	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 141\l|width = 375\l|height = 144\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_282.0_750.0_570.0.png\l}"]
+	27	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 285\l|width = 375\l|height = 144\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_570.0_750.0_858.0.png\l}"]
+	28	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 429\l|width = 375\l|height = 144\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_858.0_750.0_1146.0.png\l}"]
+	29	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 573\l|width = 375\l|height = 144\l|index = 6\l|numberOfChildren = 1\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_1146.0_750.0_1434.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 3 pages\l|label = Vertical scroll bar, 3 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 64\l|width = 30\l|height = 554\l|index = 7\l|numberOfChildren = 0\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/684.0_128.0_744.0_1236.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 585\l|width = 375\l|height = 30\l|index = 8\l|numberOfChildren = 0\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_1170.0_750.0_1230.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 67\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_128.0_750.0_262.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 141\l|width = 375\l|height = 144\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_282.0_750.0_570.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 285\l|width = 375\l|height = 144\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_570.0_750.0_858.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 429\l|width = 375\l|height = 144\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_858.0_750.0_1146.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 573\l|width = 375\l|height = 144\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_1146.0_750.0_1434.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 67\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_128.0_750.0_262.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 141\l|width = 375\l|height = 144\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_282.0_750.0_570.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 285\l|width = 375\l|height = 144\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_570.0_750.0_858.0.png\l}"]
+	40	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 429\l|width = 375\l|height = 144\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_858.0_750.0_1146.0.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 573\l|width = 375\l|height = 144\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_1146.0_750.0_1434.0.png\l}"]
+	42	[label="{type = XCUIElementTypeStaticText\l|value = RECENT SECTIONS\l|name = RECENT SECTIONS\l|label = RECENT SECTIONS\l|enabled = true\l|visible = true\l|x = 29\l|y = 76\l|width = 317\l|height = 14\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_152.0_692.0_180.0.png\l}"]
+	43	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 95\l|width = 375\l|height = 30\l|index = 1\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_190.0_750.0_250.0.png\l}"]
+	44	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 141\l|width = 375\l|height = 144\l|index = 0\l|numberOfChildren = 7\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_282.0_750.0_570.0.png\l}"]
+	45	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 285\l|width = 375\l|height = 144\l|index = 0\l|numberOfChildren = 7\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_570.0_750.0_858.0.png\l}"]
+	46	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 429\l|width = 375\l|height = 144\l|index = 0\l|numberOfChildren = 7\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_858.0_750.0_1146.0.png\l}"]
+	47	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 573\l|width = 375\l|height = 144\l|index = 0\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/0.0_1146.0_750.0_1434.0.png\l}"]
+	48	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 29\l|y = 95\l|width = 103\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_190.0_264.0_250.0.png\l}"]
+	49	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 152\l|y = 95\l|width = 52\l|height = 30\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/304.0_190.0_408.0_250.0.png\l}"]
+	50	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 224\l|y = 95\l|width = 118\l|height = 30\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/448.00000000000006_190.0_684.0_250.0.png\l}"]
+	51	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 29\l|y = 153\l|width = 334\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_306.0_726.0_366.0.png\l}"]
+	52	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 29\l|y = 183\l|width = 147\l|height = 30\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_366.0_352.0_426.0.png\l}"]
+	53	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 216\l|y = 183\l|width = 147\l|height = 30\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_366.0_726.0_426.0.png\l}"]
+	54	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 29\l|y = 213\l|width = 147\l|height = 30\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_426.00000000000006_352.0_486.00000000000006.png\l}"]
+	55	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 216\l|y = 213\l|width = 147\l|height = 30\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_426.00000000000006_726.0_486.00000000000006.png\l}"]
+	56	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 29\l|y = 243\l|width = 147\l|height = 30\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_485.99999999999994_352.0_546.0.png\l}"]
+	57	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 216\l|y = 243\l|width = 147\l|height = 30\l|index = 6\l|numberOfChildren = 1\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_485.99999999999994_726.0_546.0.png\l}"]
+	58	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 29\l|y = 297\l|width = 334\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_594.0_726.0_654.0.png\l}"]
+	59	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 29\l|y = 327\l|width = 147\l|height = 30\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_654.0_352.0_714.0.png\l}"]
+	60	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 216\l|y = 327\l|width = 147\l|height = 30\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_654.0_726.0_714.0.png\l}"]
+	61	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 29\l|y = 357\l|width = 147\l|height = 30\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_713.9999999999999_352.0_773.9999999999999.png\l}"]
+	62	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 216\l|y = 357\l|width = 147\l|height = 30\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_713.9999999999999_726.0_773.9999999999999.png\l}"]
+	63	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 29\l|y = 387\l|width = 147\l|height = 30\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_774.0_352.0_834.0.png\l}"]
+	64	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 216\l|y = 387\l|width = 147\l|height = 30\l|index = 6\l|numberOfChildren = 1\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_774.0_726.0_834.0.png\l}"]
+	65	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 29\l|y = 441\l|width = 334\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_882.0_726.0_942.0.png\l}"]
+	66	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 29\l|y = 471\l|width = 147\l|height = 30\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_942.0_352.0_1002.0.png\l}"]
+	67	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 216\l|y = 471\l|width = 147\l|height = 30\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_942.0_726.0_1002.0.png\l}"]
+	68	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 29\l|y = 501\l|width = 147\l|height = 30\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_1002.0000000000001_352.0_1062.0000000000002.png\l}"]
+	69	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 216\l|y = 501\l|width = 147\l|height = 30\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_1002.0000000000001_726.0_1062.0000000000002.png\l}"]
+	70	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 29\l|y = 531\l|width = 147\l|height = 30\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_1062.0_352.0_1122.0.png\l}"]
+	71	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 216\l|y = 531\l|width = 147\l|height = 30\l|index = 6\l|numberOfChildren = 1\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_1062.0_726.0_1122.0.png\l}"]
+	72	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 29\l|y = 585\l|width = 334\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_1170.0_726.0_1230.0.png\l}"]
+	73	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 29\l|y = 615\l|width = 147\l|height = 30\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_1230.0_352.0_1290.0.png\l}"]
+	74	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 216\l|y = 615\l|width = 147\l|height = 30\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_1230.0_726.0_1290.0.png\l}"]
+	75	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 95\l|width = 103\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_190.0_264.0_250.0.png\l}"]
+	76	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 152\l|y = 95\l|width = 52\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/304.0_190.0_408.0_250.0.png\l}"]
+	77	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 224\l|y = 95\l|width = 118\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/448.00000000000006_190.0_684.0_250.0.png\l}"]
+	78	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 153\l|width = 334\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_306.0_726.0_366.0.png\l}"]
+	79	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 183\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_366.0_352.0_426.0.png\l}"]
+	80	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 216\l|y = 183\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_366.0_726.0_426.0.png\l}"]
+	81	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 213\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_426.00000000000006_352.0_486.00000000000006.png\l}"]
+	82	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 216\l|y = 213\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_426.00000000000006_726.0_486.00000000000006.png\l}"]
+	83	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 243\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_485.99999999999994_352.0_546.0.png\l}"]
+	84	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 216\l|y = 243\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_485.99999999999994_726.0_546.0.png\l}"]
+	85	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 297\l|width = 334\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_594.0_726.0_654.0.png\l}"]
+	86	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 327\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_654.0_352.0_714.0.png\l}"]
+	87	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 216\l|y = 327\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_654.0_726.0_714.0.png\l}"]
+	88	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 357\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_713.9999999999999_352.0_773.9999999999999.png\l}"]
+	89	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 216\l|y = 357\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_713.9999999999999_726.0_773.9999999999999.png\l}"]
+	90	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 387\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_774.0_352.0_834.0.png\l}"]
+	91	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 216\l|y = 387\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_774.0_726.0_834.0.png\l}"]
+	92	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 441\l|width = 334\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_882.0_726.0_942.0.png\l}"]
+	93	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 471\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_942.0_352.0_1002.0.png\l}"]
+	94	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 216\l|y = 471\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_942.0_726.0_1002.0.png\l}"]
+	95	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 501\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_1002.0000000000001_352.0_1062.0000000000002.png\l}"]
+	96	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 216\l|y = 501\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_1002.0000000000001_726.0_1062.0000000000002.png\l}"]
+	97	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 531\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_1062.0_352.0_1122.0.png\l}"]
+	98	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 216\l|y = 531\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_1062.0_726.0_1122.0.png\l}"]
+	99	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 585\l|width = 334\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_1170.0_726.0_1230.0.png\l}"]
+	100	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 615\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_1230.0_352.0_1290.0.png\l}"]
+	101	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 216\l|y = 615\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_1230.0_726.0_1290.0.png\l}"]
+	102	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 95\l|width = 103\l|height = 30\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_190.0_264.0_250.0.png\l}"]
+	103	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 152\l|y = 95\l|width = 52\l|height = 30\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/304.0_190.0_408.0_250.0.png\l}"]
+	104	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 224\l|y = 95\l|width = 118\l|height = 30\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/448.00000000000006_190.0_684.0_250.0.png\l}"]
+	105	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 153\l|width = 334\l|height = 30\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_306.0_726.0_366.0.png\l}"]
+	106	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 183\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_366.0_352.0_426.0.png\l}"]
+	107	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 216\l|y = 183\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_366.0_726.0_426.0.png\l}"]
+	108	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 213\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_426.00000000000006_352.0_486.00000000000006.png\l}"]
+	109	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 216\l|y = 213\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_426.00000000000006_726.0_486.00000000000006.png\l}"]
+	110	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 243\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_485.99999999999994_352.0_546.0.png\l}"]
+	111	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 216\l|y = 243\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_485.99999999999994_726.0_546.0.png\l}"]
+	112	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 297\l|width = 334\l|height = 30\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_594.0_726.0_654.0.png\l}"]
+	113	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 327\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_654.0_352.0_714.0.png\l}"]
+	114	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 216\l|y = 327\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_654.0_726.0_714.0.png\l}"]
+	115	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 357\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_713.9999999999999_352.0_773.9999999999999.png\l}"]
+	116	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 216\l|y = 357\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_713.9999999999999_726.0_773.9999999999999.png\l}"]
+	117	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 387\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_774.0_352.0_834.0.png\l}"]
+	118	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 216\l|y = 387\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_774.0_726.0_834.0.png\l}"]
+	119	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 441\l|width = 334\l|height = 30\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_882.0_726.0_942.0.png\l}"]
+	120	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 471\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_942.0_352.0_1002.0.png\l}"]
+	121	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 216\l|y = 471\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_942.0_726.0_1002.0.png\l}"]
+	122	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 501\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_1002.0000000000001_352.0_1062.0000000000002.png\l}"]
+	123	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 216\l|y = 501\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_1002.0000000000001_726.0_1062.0000000000002.png\l}"]
+	124	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 531\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_1062.0_352.0_1122.0.png\l}"]
+	125	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 216\l|y = 531\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_1062.0_726.0_1122.0.png\l}"]
+	126	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 585\l|width = 334\l|height = 30\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_1170.0_726.0_1230.0.png\l}"]
+	127	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 615\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_1230.0_352.0_1290.0.png\l}"]
+	128	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 216\l|y = 615\l|width = 147\l|height = 30\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_1230.0_726.0_1290.0.png\l}"]
+	129	[label="{type = XCUIElementTypeStaticText\l|value = RECENT SECTION CORONAVIRUS\l|name = RECENT SECTION CORONAVIRUS\l|label = RECENT SECTION CORONAVIRUS\l|enabled = true\l|visible = true\l|x = 29\l|y = 101\l|width = 103\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_202.0_264.0_238.0.png\l}"]
+	130	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 120\l|width = 103\l|height = 2\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_240.00000000000003_264.0_244.00000000000003.png\l}"]
+	131	[label="{type = XCUIElementTypeStaticText\l|value = RECENT SECTION WORLD\l|name = RECENT SECTION WORLD\l|label = RECENT SECTION WORLD\l|enabled = true\l|visible = true\l|x = 152\l|y = 101\l|width = 52\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/304.0_202.0_408.0_238.0.png\l}"]
+	132	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 152\l|y = 120\l|width = 52\l|height = 2\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/304.0_240.00000000000003_408.0_244.00000000000003.png\l}"]
+	133	[label="{type = XCUIElementTypeStaticText\l|value = RECENT SECTION INVESTIGATIONS\l|name = RECENT SECTION INVESTIGATIONS\l|label = RECENT SECTION INVESTIGATIONS\l|enabled = true\l|visible = true\l|x = 224\l|y = 101\l|width = 118\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/448.00000000000006_202.0_684.0_238.0.png\l}"]
+	134	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 224\l|y = 120\l|width = 118\l|height = 2\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/448.00000000000006_240.00000000000003_684.0_244.00000000000003.png\l}"]
+	135	[label="{type = XCUIElementTypeStaticText\l|value = NEWS SECTION\l|name = NEWS SECTION\l|label = NEWS SECTION\l|enabled = true\l|visible = true\l|x = 29\l|y = 159\l|width = 41\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_318.0_140.0_354.0.png\l}"]
+	136	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 178\l|width = 41\l|height = 2\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_356.0_140.0_360.0.png\l}"]
+	137	[label="{type = XCUIElementTypeStaticText\l|value = CORONAVIRUS SUBSECTION\l|name = CORONAVIRUS SUBSECTION\l|label = CORONAVIRUS SUBSECTION\l|enabled = true\l|visible = true\l|x = 29\l|y = 189\l|width = 80\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = usa-category/S1/pngs/58.0_378.00000000000006_218.0_414.00000000000006.png\l}"]
+	138	[label="{type = XCUIElementTypeStaticText\l|value = POLITICS SUBSECTION\l|name = POLITICS SUBSECTION\l|label = POLITICS SUBSECTION\l|enabled = true\l|visible = true\l|x = 216\l|y = 189\l|width = 48\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_378.00000000000006_528.0_414.00000000000006.png\l}"]
+	139	[label="{type = XCUIElementTypeStaticText\l|value = WORLD SUBSECTION\l|name = WORLD SUBSECTION\l|label = WORLD SUBSECTION\l|enabled = true\l|visible = true\l|x = 29\l|y = 219\l|width = 40\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_438.0_138.0_474.0.png\l}"]
+	140	[label="{type = XCUIElementTypeStaticText\l|value = IMPEACHMENT INQUIRY SUBSECTION\l|name = IMPEACHMENT INQUIRY SUBSECTION\l|label = IMPEACHMENT INQUIRY SUBSECTION\l|enabled = true\l|visible = true\l|x = 216\l|y = 219\l|width = 142\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_438.0_716.0_474.0.png\l}"]
+	141	[label="{type = XCUIElementTypeStaticText\l|value = INVESTIGATIONS SUBSECTION\l|name = INVESTIGATIONS SUBSECTION\l|label = INVESTIGATIONS SUBSECTION\l|enabled = true\l|visible = true\l|x = 29\l|y = 249\l|width = 94\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_498.0_246.0_534.0.png\l}"]
+	142	[label="{type = XCUIElementTypeStaticText\l|value = VIEW MORE NEWS\l|name = VIEW MORE NEWS\l|label = VIEW MORE NEWS\l|enabled = true\l|visible = true\l|x = 216\l|y = 249\l|width = 73\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_498.0_578.0_534.0.png\l}"]
+	143	[label="{type = XCUIElementTypeStaticText\l|value = SPORTS SECTION\l|name = SPORTS SECTION\l|label = SPORTS SECTION\l|enabled = true\l|visible = true\l|x = 29\l|y = 303\l|width = 55\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_606.0_168.0_642.0.png\l}"]
+	144	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 322\l|width = 55\l|height = 2\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_644.0_168.0_648.0.png\l}"]
+	145	[label="{type = XCUIElementTypeStaticText\l|value = SCORES SUBSECTION\l|name = SCORES SUBSECTION\l|label = SCORES SUBSECTION\l|enabled = true\l|visible = true\l|x = 29\l|y = 333\l|width = 45\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_666.0_148.0_702.0.png\l}"]
+	146	[label="{type = XCUIElementTypeStaticText\l|value = ODDS SUBSECTION\l|name = ODDS SUBSECTION\l|label = ODDS SUBSECTION\l|enabled = true\l|visible = true\l|x = 216\l|y = 333\l|width = 36\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_666.0_503.99999999999994_702.0.png\l}"]
+	147	[label="{type = XCUIElementTypeStaticText\l|value = NFL SUBSECTION\l|name = NFL SUBSECTION\l|label = NFL SUBSECTION\l|enabled = true\l|visible = true\l|x = 29\l|y = 363\l|width = 26\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_726.0_110.0_762.0.png\l}"]
+	148	[label="{type = XCUIElementTypeStaticText\l|value = MLB SUBSECTION\l|name = MLB SUBSECTION\l|label = MLB SUBSECTION\l|enabled = true\l|visible = true\l|x = 216\l|y = 363\l|width = 30\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_726.0_491.99999999999994_762.0.png\l}"]
+	149	[label="{type = XCUIElementTypeStaticText\l|value = NBA SUBSECTION\l|name = NBA SUBSECTION\l|label = NBA SUBSECTION\l|enabled = true\l|visible = true\l|x = 29\l|y = 393\l|width = 29\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_786.0_116.0_822.0.png\l}"]
+	150	[label="{type = XCUIElementTypeStaticText\l|value = VIEW MORE SPORTS\l|name = VIEW MORE SPORTS\l|label = VIEW MORE SPORTS\l|enabled = true\l|visible = true\l|x = 216\l|y = 393\l|width = 73\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_786.0_578.0_822.0.png\l}"]
+	151	[label="{type = XCUIElementTypeStaticText\l|value = ENTERTAINMENT SECTION\l|name = ENTERTAINMENT SECTION\l|label = ENTERTAINMENT SECTION\l|enabled = true\l|visible = true\l|x = 29\l|y = 447\l|width = 119\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_894.0_296.0_930.0.png\l}"]
+	152	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 466\l|width = 119\l|height = 2\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_931.9999999999999_296.0_935.9999999999999.png\l}"]
+	153	[label="{type = XCUIElementTypeStaticText\l|value = CELEBRITIES SUBSECTION\l|name = CELEBRITIES SUBSECTION\l|label = CELEBRITIES SUBSECTION\l|enabled = true\l|visible = true\l|x = 29\l|y = 477\l|width = 72\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_954.0_202.0_990.0.png\l}"]
+	154	[label="{type = XCUIElementTypeStaticText\l|value = TV SUBSECTION\l|name = TV SUBSECTION\l|label = TV SUBSECTION\l|enabled = true\l|visible = true\l|x = 216\l|y = 477\l|width = 19\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_954.0_469.99999999999994_990.0.png\l}"]
+	155	[label="{type = XCUIElementTypeStaticText\l|value = MOVIES SUBSECTION\l|name = MOVIES SUBSECTION\l|label = MOVIES SUBSECTION\l|enabled = true\l|visible = true\l|x = 29\l|y = 507\l|width = 48\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_1013.9999999999999_154.0_1050.0.png\l}"]
+	156	[label="{type = XCUIElementTypeStaticText\l|value = MUSIC SUBSECTION\l|name = MUSIC SUBSECTION\l|label = MUSIC SUBSECTION\l|enabled = true\l|visible = true\l|x = 216\l|y = 507\l|width = 40\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_1013.9999999999999_511.99999999999994_1050.0.png\l}"]
+	157	[label="{type = XCUIElementTypeStaticText\l|value = BOOKS SUBSECTION\l|name = BOOKS SUBSECTION\l|label = BOOKS SUBSECTION\l|enabled = true\l|visible = true\l|x = 29\l|y = 537\l|width = 41\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_1074.0_140.0_1110.0.png\l}"]
+	158	[label="{type = XCUIElementTypeStaticText\l|value = VIEW MORE ENTERTAINMENT\l|name = VIEW MORE ENTERTAINMENT\l|label = VIEW MORE ENTERTAINMENT\l|enabled = true\l|visible = true\l|x = 216\l|y = 537\l|width = 73\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/431.99999999999994_1074.0_578.0_1110.0.png\l}"]
+	159	[label="{type = XCUIElementTypeStaticText\l|value = LIFE SECTION\l|name = LIFE SECTION\l|label = LIFE SECTION\l|enabled = true\l|visible = true\l|x = 29\l|y = 591\l|width = 29\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_1182.0_116.0_1218.0.png\l}"]
+	160	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 29\l|y = 610\l|width = 29\l|height = 2\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = usa-category/S1/pngs/58.0_1220.0_116.0_1224.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	6 -> 8
+	7 -> 9
+	8 -> 10
+	8 -> 11
+	8 -> 12
+	8 -> 13
+	8 -> 14
+	9 -> 15
+	15 -> 16
+	15 -> 17
+	16 -> 18
+	16 -> 19
+	16 -> 20
+	17 -> 21
+	21 -> 22
+	22 -> 23
+	23 -> 24
+	23 -> 25
+	23 -> 26
+	23 -> 27
+	23 -> 28
+	23 -> 29
+	23 -> 30
+	23 -> 31
+	24 -> 32
+	26 -> 33
+	27 -> 34
+	28 -> 35
+	29 -> 36
+	32 -> 37
+	33 -> 38
+	34 -> 39
+	35 -> 40
+	36 -> 41
+	37 -> 42
+	37 -> 43
+	38 -> 44
+	39 -> 45
+	40 -> 46
+	41 -> 47
+	43 -> 48
+	43 -> 49
+	43 -> 50
+	44 -> 51
+	44 -> 52
+	44 -> 53
+	44 -> 54
+	44 -> 55
+	44 -> 56
+	44 -> 57
+	45 -> 58
+	45 -> 59
+	45 -> 60
+	45 -> 61
+	45 -> 62
+	45 -> 63
+	45 -> 64
+	46 -> 65
+	46 -> 66
+	46 -> 67
+	46 -> 68
+	46 -> 69
+	46 -> 70
+	46 -> 71
+	47 -> 72
+	47 -> 73
+	47 -> 74
+	48 -> 75
+	49 -> 76
+	50 -> 77
+	51 -> 78
+	52 -> 79
+	53 -> 80
+	54 -> 81
+	55 -> 82
+	56 -> 83
+	57 -> 84
+	58 -> 85
+	59 -> 86
+	60 -> 87
+	61 -> 88
+	62 -> 89
+	63 -> 90
+	64 -> 91
+	65 -> 92
+	66 -> 93
+	67 -> 94
+	68 -> 95
+	69 -> 96
+	70 -> 97
+	71 -> 98
+	72 -> 99
+	73 -> 100
+	74 -> 101
+	75 -> 102
+	76 -> 103
+	77 -> 104
+	78 -> 105
+	79 -> 106
+	80 -> 107
+	81 -> 108
+	82 -> 109
+	83 -> 110
+	84 -> 111
+	85 -> 112
+	86 -> 113
+	87 -> 114
+	88 -> 115
+	89 -> 116
+	90 -> 117
+	91 -> 118
+	92 -> 119
+	93 -> 120
+	94 -> 121
+	95 -> 122
+	96 -> 123
+	97 -> 124
+	98 -> 125
+	99 -> 126
+	100 -> 127
+	101 -> 128
+	102 -> 129
+	102 -> 130
+	103 -> 131
+	103 -> 132
+	104 -> 133
+	104 -> 134
+	105 -> 135
+	105 -> 136
+	106 -> 137
+	107 -> 138
+	108 -> 139
+	109 -> 140
+	110 -> 141
+	111 -> 142
+	112 -> 143
+	112 -> 144
+	113 -> 145
+	114 -> 146
+	115 -> 147
+	116 -> 148
+	117 -> 149
+	118 -> 150
+	119 -> 151
+	119 -> 152
+	120 -> 153
+	121 -> 154
+	122 -> 155
+	123 -> 156
+	124 -> 157
+	125 -> 158
+	126 -> 159
+	126 -> 160
+
+
+}

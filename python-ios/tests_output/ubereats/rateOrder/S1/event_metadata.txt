@@ -1,0 +1,4 @@
+pathToElementImageCrop: rateOrder/S1/pngs/906.0_1065.0_1194.0_1176.0.png;
+coords: {'x1': 906.0, 'y1': 1065.0, 'x2': 1194.0, 'y2': 1176.0};
+text_identifier: { "name" : "Rate food" };
+event: click;

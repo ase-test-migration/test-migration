@@ -1,0 +1,4 @@
+pathToElementImageCrop: bbc-personalize/S5/pngs/586_361_768_420.png;
+coords: {'x1': 586, 'y1': 361, 'x2': 768, 'y2': 420};
+text_identifier: {  };
+event: click;

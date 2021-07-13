@@ -1,0 +1,18 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "poshmark-delCart",
+        "events": [
+            {
+                "type": "name",
+                "tag": "removeListing",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Add items to your Bundle and save!"
+            }
+        ]
+    }
+}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: brave-bookmark/S7/pngs/0.0_80.0_750.0_192.0.png;
+coords: {'x1': 0.0, 'y1': 80.0, 'x2': 750.0, 'y2': 192.0};
+text_identifier: { "name" : "Mobile Bookmarks" };
+event: click;

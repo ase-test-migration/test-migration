@@ -1,0 +1,106 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Wish\l|label = Wish\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 714\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/0.0_0.0_750.0_1427.9999999999998.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 136\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/0.0_0.0_750.0_272.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 136\l|width = 375\l|height = 502\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/0.0_272.0_750.0_1276.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 638\l|width = 375\l|height = 76\l|index = 2\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/0.0_1276.0_750.0_1428.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 136\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/0.0_0.0_750.0_272.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 136\l|width = 375\l|height = 502\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/0.0_272.0_750.0_1276.0.png\l}"]
+	15	[label="{type = XCUIElementTypeTextView\l|value = By clicking ‘Create an Account’ or Facebook or Google or Apple you agree to the Wish Terms of Use and Privacy Policy\l|enabled = true\l|visible = true\l|x = 24\l|y = 638\l|width = 327\l|height = 42\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/48.0_1276.0_702.0_1360.0.png\l}"]
+	16	[label="{type = XCUIElementTypeStaticText\l|value = Shopping Made Fun\l|name = Shopping Made Fun\l|label = Shopping Made Fun\l|enabled = true\l|visible = true\l|x = 130\l|y = 98\l|width = 116\l|height = 16\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/260.0_196.00000000000003_492.0_228.00000000000003.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 136\l|width = 375\l|height = 502\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/0.0_272.0_750.0_1276.0.png\l}"]
+	18	[label="{type = XCUIElementTypeTextView\l|name = By clicking ‘Create an Account’ or Facebook or Google or Apple you agree to the Wish Terms of Use and Privacy Policy\l|label = By clicking ‘Create an Account’ or Facebook or Google or Apple you agree to the Wish Terms of Use and Privacy Policy\l|enabled = true\l|visible = true\l|x = 29\l|y = 638\l|width = 317\l|height = 27\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/58.0_1276.0_692.0_1330.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 136\l|width = 375\l|height = 502\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/0.0_272.0_750.0_1276.0.png\l}"]
+	20	[label="{type = XCUIElementTypeLink\l|name = Terms of Use\l|label = Terms of Use\l|enabled = true\l|visible = true\l|x = 165\l|y = 651\l|width = 64\l|height = 14\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/330.0_1302.0_458.0_1330.0.png\l}"]
+	21	[label="{type = XCUIElementTypeLink\l|name = Privacy Policy\l|label = Privacy Policy\l|enabled = true\l|visible = true\l|x = 252\l|y = 651\l|width = 67\l|height = 14\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/504.00000000000006_1302.0_638.0_1330.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 136\l|width = 375\l|height = 502\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/0.0_272.0_750.0_1276.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 136\l|width = 375\l|height = 502\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/0.0_272.0_750.0_1276.0.png\l}"]
+	24	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 136\l|width = 375\l|height = 398\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/0.0_272.0_750.0_1068.0.png\l}"]
+	25	[label="{type = XCUIElementTypeStaticText\l|value = Sign Up\l|name = Sign Up\l|label = Sign Up\l|enabled = true\l|visible = true\l|x = 153\l|y = 160\l|width = 69\l|height = 24\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/306.0_320.0_444.0_368.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 24\l|y = 207\l|width = 327\l|height = 327\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/48.0_414.0_702.0_1068.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 24\l|y = 207\l|width = 327\l|height = 277\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/48.0_414.0_702.0_968.0.png\l}"]
+	28	[label="{type = XCUIElementTypeButton\l|name = signInPageButton\l|label = Have an account? Sign in\l|enabled = true\l|visible = true\l|x = 24\l|y = 493\l|width = 327\l|height = 41\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = true \l|screenshotPath = wish-Login/S0/pngs/48.0_985.9999999999999_702.0_1068.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 24\l|y = 207\l|width = 327\l|height = 277\l|index = 0\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/48.0_414.0_702.0_968.0.png\l}"]
+	30	[label="{type = XCUIElementTypeStaticText\l|value = Have an account? Sign in\l|name = Have an account? Sign in\l|label = Have an account? Sign in\l|enabled = true\l|visible = true\l|x = 101\l|y = 504\l|width = 173\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/201.99999999999997_1008.0_548.0_1046.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 24\l|y = 215\l|width = 327\l|height = 41\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/48.0_430.0_702.0_512.0.png\l}"]
+	32	[label="{type = XCUIElementTypeTextField\l|value = Email Address\l|name = email\l|label = \l|enabled = true\l|visible = true\l|x = 24\l|y = 263\l|width = 327\l|height = 41\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/48.0_526.0_702.0_608.0.png\l}"]
+	33	[label="{type = XCUIElementTypeSecureTextField\l|value = Password\l|name = password\l|label = \l|enabled = true\l|visible = true\l|x = 24\l|y = 311\l|width = 327\l|height = 41\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/48.0_622.0_702.0_704.0.png\l}"]
+	34	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 24\l|y = 359\l|width = 327\l|height = 49\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/48.0_718.0_702.0_816.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 24\l|y = 415\l|width = 327\l|height = 17\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/48.0_830.0_702.0_864.0.png\l}"]
+	36	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 24\l|y = 439\l|width = 327\l|height = 45\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/48.0_878.0000000000001_702.0_968.0000000000001.png\l}"]
+	37	[label="{type = XCUIElementTypeTextField\l|value = First Name*\l|name = firstName\l|label = \l|enabled = true\l|visible = true\l|x = 24\l|y = 215\l|width = 160\l|height = 41\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/48.0_430.0_368.0_512.0.png\l}"]
+	38	[label="{type = XCUIElementTypeTextField\l|value = Last Name*\l|name = lastName\l|label = \l|enabled = true\l|visible = true\l|x = 191\l|y = 215\l|width = 160\l|height = 41\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/382.0_430.0_702.0_512.0.png\l}"]
+	39	[label="{type = XCUIElementTypeButton\l|name = createAccountActionButton\l|label = Create an Account\l|enabled = true\l|visible = true\l|x = 24\l|y = 367\l|width = 327\l|height = 41\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/48.0_734.0_702.0_816.0.png\l}"]
+	40	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 24\l|y = 415\l|width = 327\l|height = 17\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/48.0_830.0_702.0_864.0.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 24\l|y = 443\l|width = 327\l|height = 41\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/48.0_886.0_702.0_968.0.png\l}"]
+	42	[label="{type = XCUIElementTypeStaticText\l|value = Create an Account\l|name = Create an Account\l|label = Create an Account\l|enabled = true\l|visible = true\l|x = 124\l|y = 378\l|width = 127\l|height = 19\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/248.0_756.0000000000001_502.0_794.0000000000001.png\l}"]
+	43	[label="{type = XCUIElementTypeStaticText\l|value = or\l|name = or\l|label = or\l|enabled = true\l|visible = true\l|x = 163\l|y = 415\l|width = 49\l|height = 17\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/326.0_830.0_424.0_864.0.png\l}"]
+	44	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 24\l|y = 423\l|width = 140\l|height = 1\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/48.0_846.0_328.0_848.0.png\l}"]
+	45	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 211\l|y = 423\l|width = 140\l|height = 1\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/422.0_846.0_702.0_848.0.png\l}"]
+	46	[label="{type = XCUIElementTypeButton\l|name = facebookButton\l|enabled = true\l|visible = true\l|x = 24\l|y = 443\l|width = 104\l|height = 41\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/48.0_886.0_256.0_968.0.png\l}"]
+	47	[label="{type = XCUIElementTypeButton\l|name = googleButton\l|enabled = true\l|visible = true\l|x = 135\l|y = 443\l|width = 105\l|height = 41\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/270.0_886.0_480.0_968.0.png\l}"]
+	48	[label="{type = XCUIElementTypeButton\l|name = appleButton\l|enabled = true\l|visible = true\l|x = 247\l|y = 443\l|width = 104\l|height = 41\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = wish-Login/S0/pngs/493.99999999999994_886.0_702.0_968.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	8 -> 9
+	9 -> 10
+	9 -> 11
+	9 -> 12
+	10 -> 13
+	11 -> 14
+	12 -> 15
+	13 -> 16
+	14 -> 17
+	15 -> 18
+	17 -> 19
+	18 -> 20
+	18 -> 21
+	19 -> 22
+	22 -> 23
+	23 -> 24
+	24 -> 25
+	24 -> 26
+	26 -> 27
+	26 -> 28
+	27 -> 29
+	28 -> 30
+	29 -> 31
+	29 -> 32
+	29 -> 33
+	29 -> 34
+	29 -> 35
+	29 -> 36
+	31 -> 37
+	31 -> 38
+	34 -> 39
+	35 -> 40
+	36 -> 41
+	39 -> 42
+	40 -> 43
+	40 -> 44
+	40 -> 45
+	41 -> 46
+	41 -> 47
+	41 -> 48
+
+
+}

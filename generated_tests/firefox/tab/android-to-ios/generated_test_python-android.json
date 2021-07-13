@@ -1,0 +1,23 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "python-android",
+        "events": [
+            {
+                "type": "name",
+                "tag": "TabToolbar.menuButton",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "disabled",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Search or enter address"
+            }
+        ]
+    }
+}

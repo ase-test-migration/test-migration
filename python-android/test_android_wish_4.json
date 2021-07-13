@@ -1,0 +1,45 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "wish-wishlist",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Open Menu"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.contextlogic.wish:id/menu_profile_subtitle"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.contextlogic.wish:id/redesign_profile_create_new_wishlist_button"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys",
+                    "tag": "com.contextlogic.wish:id/create_wishlist_name_text",
+                    "input": "Favorites"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.contextlogic.wish:id/create_wishlist_modal_done_button"
+                },
+                {
+                    "event": "oracle",
+                    "oracle-type": "text_invisible",
+                    "input": "Create New Wishlist"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+pathToElementImageCrop: firefox-bookmark/S2/pngs/981_2005_1080_2137.png;
+coords: {'x1': 981, 'y1': 2005, 'x2': 1080, 'y2': 2137};
+text_identifier: { "resource-id" : "org.mozilla.firefox:id/mozac_browser_toolbar_menu" , "content-desc" : "Menu" , "resource-id" : "org.mozilla.firefox:id/icon" };
+event: click;

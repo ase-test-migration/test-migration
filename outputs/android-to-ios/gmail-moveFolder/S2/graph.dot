@@ -1,0 +1,64 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Gmail\l|label = Gmail\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeButton\l|name = Dismiss\l|label = Dismiss\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 235\l|width = 375\l|height = 432\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S2/pngs/0.0_470.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 235\l|width = 375\l|height = 432\l|index = 1\l|numberOfChildren = 11\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S2/pngs/0.0_470.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeButton\l|name = Snooze\l|label = Snooze\l|enabled = true\l|visible = true\l|x = 0\l|y = 235\l|width = 375\l|height = 48\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S2/pngs/0.0_470.0_750.0_566.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|name = Move to\l|label = Move to\l|enabled = true\l|visible = true\l|x = 0\l|y = 283\l|width = 375\l|height = 48\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S2/pngs/0.0_566.0_750.0_662.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|name = Change labels\l|label = Change labels\l|enabled = true\l|visible = true\l|x = 0\l|y = 331\l|width = 375\l|height = 48\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S2/pngs/0.0_662.0_750.0_758.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|name = Mark as important\l|label = Mark as important\l|enabled = true\l|visible = true\l|x = 0\l|y = 379\l|width = 375\l|height = 48\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S2/pngs/0.0_758.0_750.0_854.0.png\l}"]
+	13	[label="{type = XCUIElementTypeButton\l|name = Mute\l|label = Mute\l|enabled = true\l|visible = true\l|x = 0\l|y = 427\l|width = 375\l|height = 48\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S2/pngs/0.0_854.0_750.0_950.0.png\l}"]
+	14	[label="{type = XCUIElementTypeButton\l|name = Report spam\l|label = Report spam\l|enabled = true\l|visible = true\l|x = 0\l|y = 475\l|width = 375\l|height = 48\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S2/pngs/0.0_950.0_750.0_1046.0.png\l}"]
+	15	[label="{type = XCUIElementTypeButton\l|name = Print all\l|label = Print all\l|enabled = true\l|visible = true\l|x = 0\l|y = 523\l|width = 375\l|height = 48\l|index = 6\l|numberOfChildren = 1\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S2/pngs/0.0_1046.0_750.0_1142.0.png\l}"]
+	16	[label="{type = XCUIElementTypeButton\l|name = Add to Tasks\l|label = Add to Tasks\l|enabled = true\l|visible = true\l|x = 0\l|y = 571\l|width = 375\l|height = 48\l|index = 7\l|numberOfChildren = 1\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S2/pngs/0.0_1142.0_750.0_1238.0.png\l}"]
+	17	[label="{type = XCUIElementTypeButton\l|name = GOODialogViewCancelButtonAutomationIdentifier\l|label = Cancel\l|enabled = true\l|visible = true\l|x = 0\l|y = 619\l|width = 375\l|height = 48\l|index = 8\l|numberOfChildren = 1\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S2/pngs/0.0_1238.0_750.0_1334.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 634\l|width = 375\l|height = 30\l|index = 10\l|numberOfChildren = 0\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S2/pngs/0.0_1268.0_750.0_1328.0.png\l}"]
+	19	[label="{type = XCUIElementTypeStaticText\l|value = Snooze\l|name = Snooze\l|label = Snooze\l|enabled = true\l|visible = true\l|x = 16\l|y = 249\l|width = 54\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S2/pngs/32.0_498.0_140.0_538.0.png\l}"]
+	20	[label="{type = XCUIElementTypeStaticText\l|value = Move to\l|name = Move to\l|label = Move to\l|enabled = true\l|visible = true\l|x = 16\l|y = 297\l|width = 59\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S2/pngs/32.0_594.0_150.0_634.0.png\l}"]
+	21	[label="{type = XCUIElementTypeStaticText\l|value = Change labels\l|name = Change labels\l|label = Change labels\l|enabled = true\l|visible = true\l|x = 16\l|y = 345\l|width = 103\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S2/pngs/32.0_690.0_238.0_730.0.png\l}"]
+	22	[label="{type = XCUIElementTypeStaticText\l|value = Mark as important\l|name = Mark as important\l|label = Mark as important\l|enabled = true\l|visible = true\l|x = 16\l|y = 393\l|width = 132\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S2/pngs/32.0_786.0_296.0_826.0.png\l}"]
+	23	[label="{type = XCUIElementTypeStaticText\l|value = Mute\l|name = Mute\l|label = Mute\l|enabled = true\l|visible = true\l|x = 16\l|y = 441\l|width = 37\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S2/pngs/32.0_882.0_106.0_922.0.png\l}"]
+	24	[label="{type = XCUIElementTypeStaticText\l|value = Report spam\l|name = Report spam\l|label = Report spam\l|enabled = true\l|visible = true\l|x = 16\l|y = 489\l|width = 93\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S2/pngs/32.0_978.0_218.0_1018.0.png\l}"]
+	25	[label="{type = XCUIElementTypeStaticText\l|value = Print all\l|name = Print all\l|label = Print all\l|enabled = true\l|visible = true\l|x = 16\l|y = 537\l|width = 54\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S2/pngs/32.0_1074.0_140.0_1114.0.png\l}"]
+	26	[label="{type = XCUIElementTypeStaticText\l|value = Add to Tasks\l|name = Add to Tasks\l|label = Add to Tasks\l|enabled = true\l|visible = true\l|x = 16\l|y = 585\l|width = 93\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S2/pngs/32.0_1170.0_218.0_1210.0.png\l}"]
+	27	[label="{type = XCUIElementTypeStaticText\l|value = Cancel\l|name = Cancel\l|label = Cancel\l|enabled = true\l|visible = true\l|x = 16\l|y = 633\l|width = 50\l|height = 20\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/gmail-moveFolder/S2/pngs/32.0_1266.0_132.0_1306.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	5 -> 7
+	7 -> 8
+	8 -> 9
+	8 -> 10
+	8 -> 11
+	8 -> 12
+	8 -> 13
+	8 -> 14
+	8 -> 15
+	8 -> 16
+	8 -> 17
+	8 -> 18
+	9 -> 19
+	10 -> 20
+	11 -> 21
+	12 -> 22
+	13 -> 23
+	14 -> 24
+	15 -> 25
+	16 -> 26
+	17 -> 27
+
+
+}

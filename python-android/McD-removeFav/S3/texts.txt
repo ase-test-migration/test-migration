@@ -1,0 +1,29 @@
+{ "resource-id" : "com.mcdonalds.app:id/content_view" , "screenshotPath" : "McD-removeFav/S3/pngs/0_74_1080_2287.png"}
+{ "resource-id" : "com.mcdonalds.app:id/toolbar" , "screenshotPath" : "McD-removeFav/S3/pngs/0_74_1080_200.png"}
+{ "resource-id" : "com.mcdonalds.app:id/page_root" , "screenshotPath" : "McD-removeFav/S3/pngs/0_200_1080_2287.png"}
+{ "resource-id" : "com.mcdonalds.app:id/toolbar" , "screenshotPath" : "McD-removeFav/S3/pngs/0_74_1080_200.png"}
+{ "resource-id" : "com.mcdonalds.app:id/page_content_holder" , "screenshotPath" : "McD-removeFav/S3/pngs/0_200_1080_2287.png"}
+{ "content-desc" : "Close" , "resource-id" : "com.mcdonalds.app:id/slide_back" , "screenshotPath" : "McD-removeFav/S3/pngs/0_74_126_200.png"}
+{ "resource-id" : "com.mcdonalds.app:id/archus_header_container" , "screenshotPath" : "McD-removeFav/S3/pngs/352_111_728_162.png"}
+{ "content-desc" : "Search icon" , "resource-id" : "com.mcdonalds.app:id/toolbar_search" , "screenshotPath" : "McD-removeFav/S3/pngs/838_87_940_186.png"}
+{ "content-desc" : "Store Selection Screen" , "resource-id" : "com.mcdonalds.app:id/slide_handler_title" , "screenshotPath" : "McD-removeFav/S3/pngs/352_111_728_162.png"}
+{ "content-desc" : "List view    Double tap to Activate" , "resource-id" : "com.mcdonalds.app:id/toolbar_right_icon" , "screenshotPath" : "McD-removeFav/S3/pngs/956_95_1050_179.png"}
+{ "resource-id" : "com.mcdonalds.app:id/location_layout" , "screenshotPath" : "McD-removeFav/S3/pngs/0_200_1080_2287.png"}
+{ "resource-id" : "com.mcdonalds.app:id/nestedScrollView" , "screenshotPath" : "McD-removeFav/S3/pngs/0_1829_1080_2287.png"}
+{ "content-desc" : "Current location" , "resource-id" : "com.mcdonalds.app:id/current_location" , "screenshotPath" : "McD-removeFav/S3/pngs/965_1714_1054_1803.png"}
+{ "content-desc" : "View expanded store list" , "resource-id" : "com.mcdonalds.app:id/drag_chevron_layout" , "screenshotPath" : "McD-removeFav/S3/pngs/0_1829_1080_1876.png"}
+{ "content-desc" : "Google Map" , "screenshotPath" : "McD-removeFav/S3/pngs/0_200_1080_1829.png"}
+{ "resource-id" : "com.mcdonalds.app:id/barLayout" , "screenshotPath" : "McD-removeFav/S3/pngs/0_1876_1080_2002.png"}
+{ "resource-id" : "com.mcdonalds.app:id/viewpager" , "screenshotPath" : "McD-removeFav/S3/pngs/0_2002_1080_2287.png"}
+{ "content-desc" : "Current Location. " , "screenshotPath" : "McD-removeFav/S3/pngs/258_382_465_592.png"}
+{ "content-desc" : "1071 Martin Luther King Jr Blvd. 1071 Martin Luther King Jr Blvd05:30 AM - 12:00 AM    1 miles away." , "screenshotPath" : "McD-removeFav/S3/pngs/487_863_592_1015.png"}
+{ "resource-id" : "com.mcdonalds.app:id/tabs" , "screenshotPath" : "McD-removeFav/S3/pngs/0_1876_1080_2002.png"}
+{ "resource-id" : "com.mcdonalds.app:id/restaurant_list" , "screenshotPath" : "McD-removeFav/S3/pngs/0_2002_1080_2287.png"}
+{ "content-desc" : "Nearby
+Tab 1 of 2 not selected" , "screenshotPath" : "McD-removeFav/S3/pngs/0_1876_540_2002.png"}
+{ "content-desc" : "Favorites
+Tab 2 of 2" , "screenshotPath" : "McD-removeFav/S3/pngs/540_1876_1080_2002.png"}
+{ "content-desc" : "1071 Martin Luther King Jr Blvd, Los Angeles, 1 miles away, Hours: 05:30am-12:00am" , "resource-id" : "com.mcdonalds.app:id/store_layout" , "screenshotPath" : "McD-removeFav/S3/pngs/0_2002_1080_2287.png"}
+{ "content-desc" : "1071 Martin Luther King Jr Blvd  favorited store" , "resource-id" : "com.mcdonalds.app:id/fav_icon" , "screenshotPath" : "McD-removeFav/S3/pngs/32_2049_111_2128.png"}
+{ "content-desc" : "Order Here, 1071 Martin Luther King Jr Blvd, button" , "resource-id" : "com.mcdonalds.app:id/store_order_here" , "screenshotPath" : "McD-removeFav/S3/pngs/744_2065_1017_2165.png"}
+{ "content-desc" : "View details, 1071 Martin Luther King Jr Blvd, button" , "resource-id" : "com.mcdonalds.app:id/store_view_details" , "screenshotPath" : "McD-removeFav/S3/pngs/116_2255_313_2287.png"}

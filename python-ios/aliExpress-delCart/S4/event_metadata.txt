@@ -1,0 +1,5 @@
+pathToElementImageCrop: aliExpress-delCart/S4/pngs/201.99999999999997_474.0_548.0_514.0.png;
+coords: {'x1': 201.99999999999997, 'y1': 474.0, 'x2': 548.0, 'y2': 514.0};
+text_identifier: { "label" : "No items added to cart yet" };
+event: oracle;
+oracle-type: widget_exists;

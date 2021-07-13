@@ -1,0 +1,4 @@
+pathToElementImageCrop: bbc_bookmark/S0/pngs/0.0_128.0_750.0_742.0.png;
+coords: {'x1': 0.0, 'y1': 128.0, 'x2': 750.0, 'y2': 742.0};
+text_identifier: { "name" : "bn-cell-view" };
+event: click;

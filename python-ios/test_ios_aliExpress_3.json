@@ -1,0 +1,45 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "aliExpress-delCart",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Cart"
+                },
+                {
+                    "type": "xPath",
+                    "event": "click",
+                    "tag": "(//XCUIElementTypeButton[@name=\"cart check unchecked\"])[2]"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "cart_delete"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Remove"
+                },
+                {
+                    "tag": "No items added to cart yet", 
+                    "type": "accessibilityId", 
+                    "event": "oracle",
+                    "oracle-type": "widget_exists"
+                }
+
+            ]
+        }
+    ]
+}

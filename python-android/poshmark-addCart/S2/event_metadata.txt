@@ -1,0 +1,4 @@
+pathToElementImageCrop: poshmark-addCart/S2/pngs/423_126_1017_252.png;
+coords: {'x1': 423, 'y1': 126, 'x2': 1017, 'y2': 252};
+text_identifier: { "resource-id" : "com.poshmark.app:id/addToBundleButton" };
+event: click;

@@ -1,0 +1,5 @@
+pathToElementImageCrop: msToDo-duedate/S8/pngs/24.0_489.0_1218.0_681.0.png;
+coords: {'x1': 24.0, 'y1': 489.0, 'x2': 1218.0, 'y2': 681.0};
+text_identifier: { "label" : "Saturday, March 27" };
+event: oracle;
+oracle-type: widget_exists;

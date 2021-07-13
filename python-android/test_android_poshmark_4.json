@@ -1,0 +1,39 @@
+{
+    "tests": [
+        {
+            "name": "poshmark-naviCat", 
+            "events": [
+                {
+                    "tag": "//android.widget.LinearLayout[@content-desc=\"Women\"]/android.widget.TextView", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "//android.widget.LinearLayout[@content-desc=\"Men\"]/android.widget.TextView", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "(//android.widget.RelativeLayout[@content-desc=\"adidas\"])[2]/android.widget.TextView", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "com.poshmark.app:id/followFollowingButton", 
+                    "type": "id", 
+                    "event": "click"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Following"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "emulator-5554", 
+        "platformName": "Android", 
+        "newCommandTimeout": 0
+    }
+}

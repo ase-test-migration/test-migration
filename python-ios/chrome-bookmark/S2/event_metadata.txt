@@ -1,0 +1,4 @@
+pathToElementImageCrop: chrome-bookmark/S2/pngs/628.0_1246.0_716.0_1334.0.png;
+coords: {'x1': 628.0, 'y1': 1246.0, 'x2': 716.0, 'y2': 1334.0};
+text_identifier: { "label" : "Menu" };
+event: click;

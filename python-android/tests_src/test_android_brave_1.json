@@ -1,0 +1,30 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "brave-search",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.brave.browser:id/url_bar"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys",
+                    "tag": "com.brave.browser:id/url_bar",
+                    "input": "chess.com"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Solve Chess Puzzles"
+                }
+            ]
+        }
+    ]
+}

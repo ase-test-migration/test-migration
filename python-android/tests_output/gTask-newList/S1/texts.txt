@@ -1,0 +1,10 @@
+{ "resource-id" : "com.google.android.apps.tasks:id/og_botom_drawer_scrim" , "screenshotPath" : "gTask-newList/S1/pngs/0_0_1080_2287.png"}
+{ "resource-id" : "com.google.android.apps.tasks:id/bottom_drawer" , "screenshotPath" : "gTask-newList/S1/pngs/0_1285_1080_2287.png"}
+{ "content-desc" : "Signed in as Some person email@example.com. Expand account menu." , "resource-id" : "com.google.android.apps.tasks:id/selected_account_header" , "screenshotPath" : "gTask-newList/S1/pngs/0_1359_1080_1537.png"}
+{ "resource-id" : "com.google.android.apps.tasks:id/scroll_view" , "screenshotPath" : "gTask-newList/S1/pngs/0_1537_1080_2287.png"}
+{ "resource-id" : "com.google.android.apps.tasks:id/og_privacy_policy_button" , "screenshotPath" : "gTask-newList/S1/pngs/247_2235_496_2287.png"}
+{ "resource-id" : "com.google.android.apps.tasks:id/og_tos_button" , "screenshotPath" : "gTask-newList/S1/pngs/546_2235_832_2287.png"}
+{ "content-desc" : "Switch to Some person email@example.com account. Google One account." , "resource-id" : "com.google.android.apps.tasks:id/avatar_recents_one" , "screenshotPath" : "gTask-newList/S1/pngs/809_1359_934_1484.png"}
+{ "content-desc" : "Switch to Test User email@example.com account" , "resource-id" : "com.google.android.apps.tasks:id/avatar_recents_two" , "screenshotPath" : "gTask-newList/S1/pngs/934_1359_1059_1484.png"}
+{ "resource-id" : "com.google.android.apps.tasks:id/design_navigation_view" , "screenshotPath" : "gTask-newList/S1/pngs/0_1551_1080_2232.png"}
+{ "resource-id" : "com.google.android.apps.tasks:id/design_menu_item_text" , "screenshotPath" : "gTask-newList/S1/pngs/63_1572_1017_1698.png"}

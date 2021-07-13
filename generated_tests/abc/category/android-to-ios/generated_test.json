@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "abc-category",
+        "events": [
+            {
+                "type": "name",
+                "tag": "+",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "WATCH | 160 CEOs write to lawmakers urging them to pass Biden\u2019s COVID relief plan",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "oracle-type": "widget_exists",
+                "type": "name",
+                "tag": "ABC News"
+            }
+        ]
+    }
+}

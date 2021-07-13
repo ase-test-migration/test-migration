@@ -1,0 +1,4 @@
+pathToElementImageCrop: removefavorite/S2/pngs/360_444_675_495.png;
+coords: {'x1': 360, 'y1': 444, 'x2': 675, 'y2': 495};
+text_identifier: { "resource-id" : "com.ubercab.eats:id/ub__favorites_view_title" };
+event: click;

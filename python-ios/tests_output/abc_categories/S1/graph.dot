@@ -1,0 +1,136 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = ABC News\l|label = ABC News\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeNavigationBar\l|name = ABCNewsMenuView\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 8\l|y = 20\l|width = 27\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/16.0_40.0_70.0_128.0.png\l}"]
+	15	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 329\l|y = 20\l|width = 38\l|height = 44\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/658.0_40.0_734.0_128.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 647\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/0.0_40.0_750.0_1334.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 603\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/0.0_128.0_750.0_1334.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 74\l|width = 355\l|height = 46\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/20.0_148.0_730.0_240.0.png\l}"]
+	19	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 10\l|y = 120\l|width = 355\l|height = 547\l|index = 1\l|numberOfChildren = 17\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/20.0_240.00000000000003_730.0_1334.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 78\l|width = 335\l|height = 34\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/40.0_156.0_710.0_224.0.png\l}"]
+	21	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 10\l|y = 120\l|width = 355\l|height = 50\l|index = 1\l|numberOfChildren = 3\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/20.0_240.00000000000003_730.0_340.0.png\l}"]
+	22	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 10\l|y = 170\l|width = 355\l|height = 50\l|index = 2\l|numberOfChildren = 4\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/20.0_340.0_730.0_440.0.png\l}"]
+	23	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 10\l|y = 220\l|width = 355\l|height = 50\l|index = 3\l|numberOfChildren = 4\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/20.0_440.0_730.0_540.0.png\l}"]
+	24	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 10\l|y = 270\l|width = 355\l|height = 50\l|index = 4\l|numberOfChildren = 4\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/20.0_540.0_730.0_640.0.png\l}"]
+	25	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 10\l|y = 320\l|width = 355\l|height = 50\l|index = 5\l|numberOfChildren = 4\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/20.0_640.0_730.0_740.0.png\l}"]
+	26	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 10\l|y = 370\l|width = 355\l|height = 50\l|index = 6\l|numberOfChildren = 4\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/20.0_740.0_730.0_840.0.png\l}"]
+	27	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 10\l|y = 420\l|width = 355\l|height = 50\l|index = 7\l|numberOfChildren = 4\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/20.0_840.0_730.0_940.0.png\l}"]
+	28	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 10\l|y = 470\l|width = 355\l|height = 50\l|index = 8\l|numberOfChildren = 4\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/20.0_940.0_730.0_1040.0.png\l}"]
+	29	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 10\l|y = 520\l|width = 355\l|height = 50\l|index = 9\l|numberOfChildren = 4\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/20.0_1040.0_730.0_1140.0.png\l}"]
+	30	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 10\l|y = 570\l|width = 355\l|height = 50\l|index = 10\l|numberOfChildren = 4\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/20.0_1140.0_730.0_1240.0.png\l}"]
+	31	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 10\l|y = 620\l|width = 355\l|height = 50\l|index = 11\l|numberOfChildren = 4\l|numInParentLayout = 11\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/20.0_1240.0_730.0_1340.0.png\l}"]
+	32	[label="{type = XCUIElementTypeStaticText\l|value = Search Articles\l|name = Search Articles\l|label = Search Articles\l|enabled = false\l|visible = true\l|x = 57\l|y = 88\l|width = 290\l|height = 14\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/114.0_176.0_694.0_204.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 169\l|width = 320\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/20.0_338.0_660.0_340.0.png\l}"]
+	34	[label="{type = XCUIElementTypeStaticText\l|value = TOP STORIES\l|name = TOP STORIES\l|label = TOP STORIES\l|enabled = true\l|visible = true\l|x = 70\l|y = 131\l|width = 200\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/140.0_262.0_540.0_322.0.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 219\l|width = 320\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/20.0_438.0_660.0_440.0.png\l}"]
+	36	[label="{type = XCUIElementTypeStaticText\l|value = SAVED ITEMS\l|name = SAVED ITEMS\l|label = SAVED ITEMS\l|enabled = true\l|visible = true\l|x = 70\l|y = 181\l|width = 200\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/140.0_362.0_540.0_422.0.png\l}"]
+	37	[label="{type = XCUIElementTypeButton\l|name = Reorder SAVED ITEMS\l|label = Reorder SAVED ITEMS\l|enabled = true\l|visible = true\l|x = 324\l|y = 170\l|width = 26\l|height = 50\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/648.0_340.0_700.0_440.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 269\l|width = 320\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/20.0_538.0_660.0_540.0.png\l}"]
+	39	[label="{type = XCUIElementTypeStaticText\l|value = TRENDING\l|name = TRENDING\l|label = TRENDING\l|enabled = true\l|visible = true\l|x = 70\l|y = 231\l|width = 200\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/140.0_462.0_540.0_522.0.png\l}"]
+	40	[label="{type = XCUIElementTypeButton\l|name = Reorder TRENDING\l|label = Reorder TRENDING\l|enabled = true\l|visible = true\l|x = 324\l|y = 220\l|width = 26\l|height = 50\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/648.0_440.0_700.0_540.0.png\l}"]
+	41	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 319\l|width = 320\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/20.0_638.0_660.0_640.0.png\l}"]
+	42	[label="{type = XCUIElementTypeStaticText\l|value = VIDEO\l|name = VIDEO\l|label = VIDEO\l|enabled = true\l|visible = true\l|x = 70\l|y = 281\l|width = 200\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/140.0_562.0_540.0_622.0.png\l}"]
+	43	[label="{type = XCUIElementTypeButton\l|name = Reorder VIDEO\l|label = Reorder VIDEO\l|enabled = true\l|visible = true\l|x = 324\l|y = 270\l|width = 26\l|height = 50\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/648.0_540.0_700.0_640.0.png\l}"]
+	44	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 369\l|width = 320\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/20.0_738.0_660.0_740.0.png\l}"]
+	45	[label="{type = XCUIElementTypeStaticText\l|value = ELECTION 2020\l|name = ELECTION 2020\l|label = ELECTION 2020\l|enabled = true\l|visible = true\l|x = 70\l|y = 331\l|width = 200\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/140.0_662.0_540.0_722.0.png\l}"]
+	46	[label="{type = XCUIElementTypeButton\l|name = Reorder ELECTION 2020\l|label = Reorder ELECTION 2020\l|enabled = true\l|visible = true\l|x = 324\l|y = 320\l|width = 26\l|height = 50\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/648.0_640.0_700.0_740.0.png\l}"]
+	47	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 419\l|width = 320\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/20.0_838.0000000000001_660.0_840.0000000000001.png\l}"]
+	48	[label="{type = XCUIElementTypeStaticText\l|value = POLITICS\l|name = POLITICS\l|label = POLITICS\l|enabled = true\l|visible = true\l|x = 70\l|y = 381\l|width = 200\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = true \l|screenshotPath = abc_categories/S1/pngs/140.0_762.0_540.0_822.0.png\l}"]
+	49	[label="{type = XCUIElementTypeButton\l|name = Reorder POLITICS\l|label = Reorder POLITICS\l|enabled = true\l|visible = true\l|x = 324\l|y = 370\l|width = 26\l|height = 50\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/648.0_740.0_700.0_840.0.png\l}"]
+	50	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 469\l|width = 320\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/20.0_938.0_660.0_940.0.png\l}"]
+	51	[label="{type = XCUIElementTypeStaticText\l|value = U.S.\l|name = U.S.\l|label = U.S.\l|enabled = true\l|visible = true\l|x = 70\l|y = 431\l|width = 200\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/140.0_862.0_540.0_922.0.png\l}"]
+	52	[label="{type = XCUIElementTypeButton\l|name = Reorder U.S.\l|label = Reorder U.S.\l|enabled = true\l|visible = true\l|x = 324\l|y = 420\l|width = 26\l|height = 50\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/648.0_840.0_700.0_940.0.png\l}"]
+	53	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 519\l|width = 320\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/20.0_1038.0_660.0_1040.0.png\l}"]
+	54	[label="{type = XCUIElementTypeStaticText\l|value = WORLD\l|name = WORLD\l|label = WORLD\l|enabled = true\l|visible = true\l|x = 70\l|y = 481\l|width = 200\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/140.0_962.0_540.0_1022.0.png\l}"]
+	55	[label="{type = XCUIElementTypeButton\l|name = Reorder WORLD\l|label = Reorder WORLD\l|enabled = true\l|visible = true\l|x = 324\l|y = 470\l|width = 26\l|height = 50\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/648.0_940.0_700.0_1040.0.png\l}"]
+	56	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 569\l|width = 320\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/20.0_1138.0_660.0_1140.0.png\l}"]
+	57	[label="{type = XCUIElementTypeStaticText\l|value = ENTERTAINMENT\l|name = ENTERTAINMENT\l|label = ENTERTAINMENT\l|enabled = true\l|visible = true\l|x = 70\l|y = 531\l|width = 200\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/140.0_1062.0_540.0_1122.0.png\l}"]
+	58	[label="{type = XCUIElementTypeButton\l|name = Reorder ENTERTAINMENT\l|label = Reorder ENTERTAINMENT\l|enabled = true\l|visible = true\l|x = 324\l|y = 520\l|width = 26\l|height = 50\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/648.0_1040.0_700.0_1140.0.png\l}"]
+	59	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 619\l|width = 320\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/20.0_1238.0_660.0_1240.0.png\l}"]
+	60	[label="{type = XCUIElementTypeStaticText\l|value = HEALTH\l|name = HEALTH\l|label = HEALTH\l|enabled = true\l|visible = true\l|x = 70\l|y = 581\l|width = 200\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/140.0_1162.0_540.0_1222.0.png\l}"]
+	61	[label="{type = XCUIElementTypeButton\l|name = Reorder HEALTH\l|label = Reorder HEALTH\l|enabled = true\l|visible = true\l|x = 324\l|y = 570\l|width = 26\l|height = 50\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/648.0_1140.0_700.0_1240.0.png\l}"]
+	62	[label="{type = XCUIElementTypeStaticText\l|value = TECHNOLOGY\l|name = TECHNOLOGY\l|label = TECHNOLOGY\l|enabled = true\l|visible = true\l|x = 70\l|y = 631\l|width = 200\l|height = 30\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/140.0_1262.0_540.0_1322.0.png\l}"]
+	63	[label="{type = XCUIElementTypeButton\l|name = Reorder TECHNOLOGY\l|label = Reorder TECHNOLOGY\l|enabled = true\l|visible = true\l|x = 324\l|y = 620\l|width = 26\l|height = 50\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = abc_categories/S1/pngs/648.0_1240.0_700.0_1340.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	8 -> 9
+	9 -> 10
+	10 -> 11
+	11 -> 12
+	11 -> 13
+	12 -> 14
+	12 -> 15
+	13 -> 16
+	16 -> 17
+	17 -> 18
+	17 -> 19
+	18 -> 20
+	19 -> 21
+	19 -> 22
+	19 -> 23
+	19 -> 24
+	19 -> 25
+	19 -> 26
+	19 -> 27
+	19 -> 28
+	19 -> 29
+	19 -> 30
+	19 -> 31
+	20 -> 32
+	21 -> 33
+	21 -> 34
+	22 -> 35
+	22 -> 36
+	22 -> 37
+	23 -> 38
+	23 -> 39
+	23 -> 40
+	24 -> 41
+	24 -> 42
+	24 -> 43
+	25 -> 44
+	25 -> 45
+	25 -> 46
+	26 -> 47
+	26 -> 48
+	26 -> 49
+	27 -> 50
+	27 -> 51
+	27 -> 52
+	28 -> 53
+	28 -> 54
+	28 -> 55
+	29 -> 56
+	29 -> 57
+	29 -> 58
+	30 -> 59
+	30 -> 60
+	30 -> 61
+	31 -> 62
+	31 -> 63
+
+
+}

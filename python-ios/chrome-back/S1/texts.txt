@@ -1,0 +1,55 @@
+{"name" : "Chrome", "label" : "Chrome", "screenshotPath" : "chrome-back/S1/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "kToolbarCancelOmniboxEditButtonIdentifier", "label" : "Cancel", "screenshotPath" : "chrome-back/S1/pngs/602.0_40.0_730.0_128.0.png"}
+{"name" : "q", "label" : "q", "screenshotPath" : "chrome-back/S1/pngs/0.0_916.0_76.0_1008.0.png"}
+{"name" : "w", "label" : "w", "screenshotPath" : "chrome-back/S1/pngs/74.0_916.0_150.0_1008.0.png"}
+{"name" : "e", "label" : "e", "screenshotPath" : "chrome-back/S1/pngs/150.0_916.0_226.0_1008.0.png"}
+{"name" : "r", "label" : "r", "screenshotPath" : "chrome-back/S1/pngs/224.00000000000003_916.0_300.0_1008.0.png"}
+{"name" : "t", "label" : "t", "screenshotPath" : "chrome-back/S1/pngs/300.0_916.0_376.0_1008.0.png"}
+{"name" : "y", "label" : "y", "screenshotPath" : "chrome-back/S1/pngs/374.0_916.0_450.0_1008.0.png"}
+{"name" : "u", "label" : "u", "screenshotPath" : "chrome-back/S1/pngs/450.0_916.0_526.0_1008.0.png"}
+{"name" : "i", "label" : "i", "screenshotPath" : "chrome-back/S1/pngs/524.0_916.0_600.0_1008.0.png"}
+{"name" : "o", "label" : "o", "screenshotPath" : "chrome-back/S1/pngs/600.0_916.0_676.0_1008.0.png"}
+{"name" : "p", "label" : "p", "screenshotPath" : "chrome-back/S1/pngs/674.0_916.0_750.0_1008.0.png"}
+{"name" : "a", "label" : "a", "screenshotPath" : "chrome-back/S1/pngs/36.0_1024.0_112.0_1116.0.png"}
+{"name" : "s", "label" : "s", "screenshotPath" : "chrome-back/S1/pngs/112.00000000000001_1024.0_188.0_1116.0.png"}
+{"name" : "d", "label" : "d", "screenshotPath" : "chrome-back/S1/pngs/186.0_1024.0_262.0_1116.0.png"}
+{"name" : "f", "label" : "f", "screenshotPath" : "chrome-back/S1/pngs/262.0_1024.0_338.0_1116.0.png"}
+{"name" : "g", "label" : "g", "screenshotPath" : "chrome-back/S1/pngs/338.0_1024.0_414.0_1116.0.png"}
+{"name" : "h", "label" : "h", "screenshotPath" : "chrome-back/S1/pngs/412.0_1024.0_488.0_1116.0.png"}
+{"name" : "j", "label" : "j", "screenshotPath" : "chrome-back/S1/pngs/487.99999999999994_1024.0_564.0_1116.0.png"}
+{"name" : "k", "label" : "k", "screenshotPath" : "chrome-back/S1/pngs/562.0_1024.0_638.0_1116.0.png"}
+{"name" : "l", "label" : "l", "screenshotPath" : "chrome-back/S1/pngs/638.0_1024.0_714.0_1116.0.png"}
+{"name" : "shift", "label" : "shift", "screenshotPath" : "chrome-back/S1/pngs/0.0_1132.0_96.0_1224.0.png"}
+{"name" : "z", "label" : "z", "screenshotPath" : "chrome-back/S1/pngs/112.00000000000001_1132.0_188.0_1224.0.png"}
+{"name" : "x", "label" : "x", "screenshotPath" : "chrome-back/S1/pngs/186.0_1132.0_262.0_1224.0.png"}
+{"name" : "c", "label" : "c", "screenshotPath" : "chrome-back/S1/pngs/262.0_1132.0_338.0_1224.0.png"}
+{"name" : "v", "label" : "v", "screenshotPath" : "chrome-back/S1/pngs/338.0_1132.0_414.0_1224.0.png"}
+{"name" : "b", "label" : "b", "screenshotPath" : "chrome-back/S1/pngs/412.0_1132.0_488.0_1224.0.png"}
+{"name" : "n", "label" : "n", "screenshotPath" : "chrome-back/S1/pngs/487.99999999999994_1132.0_564.0_1224.0.png"}
+{"name" : "m", "label" : "m", "screenshotPath" : "chrome-back/S1/pngs/562.0_1132.0_638.0_1224.0.png"}
+{"name" : "delete", "label" : "delete", "screenshotPath" : "chrome-back/S1/pngs/654.0_1132.0_750.0_1224.0.png"}
+{"name" : "more", "label" : "numbers", "screenshotPath" : "chrome-back/S1/pngs/0.0_1240.0_94.0_1332.0.png"}
+{"name" : "Emoji", "label" : "Emoji", "screenshotPath" : "chrome-back/S1/pngs/92.0_1240.0_188.0_1332.0.png"}
+{"name" : "dictation", "label" : "Dictate", "screenshotPath" : "chrome-back/S1/pngs/186.0_1240.0_262.0_1332.0.png"}
+{"name" : "space", "label" : "space", "screenshotPath" : "chrome-back/S1/pngs/262.0_1240.0_536.0_1332.0.png"}
+{"name" : ".", "label" : ".", "screenshotPath" : "chrome-back/S1/pngs/534.0_1240.0_610.0_1332.0.png"}
+{"name" : "Go", "label" : "go", "screenshotPath" : "chrome-back/S1/pngs/610.0_1240.0_750.0_1332.0.png"}
+{"value" : "Cancel", "name" : "Cancel", "label" : "Cancel", "screenshotPath" : "chrome-back/S1/pngs/618.0_66.0_714.0_102.0.png"}
+{"name" : "ContentSuggestionsCollectionIdentifier", "screenshotPath" : "chrome-back/S1/pngs/0.0_0.0_750.0_1246.0.png"}
+{"name" : "CSHeaderIdentifier", "screenshotPath" : "chrome-back/S1/pngs/0.0_-428.0_750.0_168.0.png"}
+{"name" : "contentSuggestionsMostVisitedAccessibilityIdentifierPrefix0", "label" : "Google", "screenshotPath" : "chrome-back/S1/pngs/68.0_164.0_214.0_364.0.png"}
+{"name" : "contentSuggestionsMostVisitedAccessibilityIdentifierPrefix1", "label" : "Facebook - Log In or Sign Up", "screenshotPath" : "chrome-back/S1/pngs/224.00000000000003_164.0_370.0_364.0.png"}
+{"name" : "contentSuggestionsMostVisitedAccessibilityIdentifierPrefix2", "label" : "Chess.com - Play Chess Online - Free Games", "screenshotPath" : "chrome-back/S1/pngs/380.00000000000006_164.0_526.0_364.0.png"}
+{"name" : "contentSuggestionsMostVisitedAccessibilityIdentifierPrefix3", "label" : "Wikipedia", "screenshotPath" : "chrome-back/S1/pngs/536.0_164.0_682.0_364.0.png"}
+{"name" : "contentSuggestionsMostVisitedAccessibilityIdentifierPrefix4", "label" : "Bookmarks", "screenshotPath" : "chrome-back/S1/pngs/68.0_396.0_214.0_596.0.png"}
+{"name" : "contentSuggestionsMostVisitedAccessibilityIdentifierPrefix5", "label" : "Reading List", "screenshotPath" : "chrome-back/S1/pngs/224.00000000000003_396.0_370.0_596.0.png"}
+{"name" : "contentSuggestionsMostVisitedAccessibilityIdentifierPrefix6", "label" : "Recent Tabs", "screenshotPath" : "chrome-back/S1/pngs/380.00000000000006_396.0_526.0_596.0.png"}
+{"name" : "contentSuggestionsMostVisitedAccessibilityIdentifierPrefix7", "label" : "History", "screenshotPath" : "chrome-back/S1/pngs/536.0_396.0_682.0_596.0.png"}
+{"name" : "Learn more", "screenshotPath" : "chrome-back/S1/pngs/32.0_742.0000000000001_718.0_838.0000000000001.png"}
+{"value" : "100%", "name" : "Vertical scroll bar, 2 pages", "label" : "Vertical scroll bar, 2 pages", "screenshotPath" : "chrome-back/S1/pngs/684.0_40.0_744.0_814.0.png"}
+{"value" : "0%", "name" : "Horizontal scroll bar, 1 page", "label" : "Horizontal scroll bar, 1 page", "screenshotPath" : "chrome-back/S1/pngs/0.0_748.0_750.0_808.0.png"}
+{"value" : "Search or type URL", "name" : "Address", "label" : "Address and search bar", "screenshotPath" : "chrome-back/S1/pngs/121.99999999999999_47.99999999999999_594.0_120.0.png"}
+{"value" : "ARTICLES FOR YOU", "name" : "ARTICLES FOR YOU", "label" : "ARTICLES FOR YOU", "screenshotPath" : "chrome-back/S1/pngs/58.0_630.0_302.0_726.0.png"}
+{"name" : "Show", "label" : "Show", "screenshotPath" : "chrome-back/S1/pngs/624.0_630.0_692.0_726.0.png"}
+{"name" : "Learn more about suggested content", "label" : "Learn more about suggested content", "screenshotPath" : "chrome-back/S1/pngs/150.0_790.0_600.0_822.0.png"}
+{"value" : "Show", "name" : "Show", "label" : "Show", "screenshotPath" : "chrome-back/S1/pngs/624.0_662.0_692.0_694.0.png"}

@@ -1,0 +1,21 @@
+{"name" : "Gmail", "label" : "Gmail", "screenshotPath" : "gmail-move/S2/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "Dismiss", "label" : "Dismiss", "screenshotPath" : "gmail-move/S2/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "Snooze", "label" : "Snooze", "screenshotPath" : "gmail-move/S2/pngs/0.0_470.0_750.0_566.0.png"}
+{"name" : "Move to", "label" : "Move to", "screenshotPath" : "gmail-move/S2/pngs/0.0_566.0_750.0_662.0.png"}
+{"name" : "Change labels", "label" : "Change labels", "screenshotPath" : "gmail-move/S2/pngs/0.0_662.0_750.0_758.0.png"}
+{"name" : "Mark as important", "label" : "Mark as important", "screenshotPath" : "gmail-move/S2/pngs/0.0_758.0_750.0_854.0.png"}
+{"name" : "Mute", "label" : "Mute", "screenshotPath" : "gmail-move/S2/pngs/0.0_854.0_750.0_950.0.png"}
+{"name" : "Report spam", "label" : "Report spam", "screenshotPath" : "gmail-move/S2/pngs/0.0_950.0_750.0_1046.0.png"}
+{"name" : "Print all", "label" : "Print all", "screenshotPath" : "gmail-move/S2/pngs/0.0_1046.0_750.0_1142.0.png"}
+{"name" : "Add to Tasks", "label" : "Add to Tasks", "screenshotPath" : "gmail-move/S2/pngs/0.0_1142.0_750.0_1238.0.png"}
+{"name" : "GOODialogViewCancelButtonAutomationIdentifier", "label" : "Cancel", "screenshotPath" : "gmail-move/S2/pngs/0.0_1238.0_750.0_1334.0.png"}
+{"value" : "0%", "name" : "Horizontal scroll bar, 1 page", "label" : "Horizontal scroll bar, 1 page", "screenshotPath" : "gmail-move/S2/pngs/0.0_1268.0_750.0_1328.0.png"}
+{"value" : "Snooze", "name" : "Snooze", "label" : "Snooze", "screenshotPath" : "gmail-move/S2/pngs/32.0_498.0_140.0_538.0.png"}
+{"value" : "Move to", "name" : "Move to", "label" : "Move to", "screenshotPath" : "gmail-move/S2/pngs/32.0_594.0_150.0_634.0.png"}
+{"value" : "Change labels", "name" : "Change labels", "label" : "Change labels", "screenshotPath" : "gmail-move/S2/pngs/32.0_690.0_238.0_730.0.png"}
+{"value" : "Mark as important", "name" : "Mark as important", "label" : "Mark as important", "screenshotPath" : "gmail-move/S2/pngs/32.0_786.0_296.0_826.0.png"}
+{"value" : "Mute", "name" : "Mute", "label" : "Mute", "screenshotPath" : "gmail-move/S2/pngs/32.0_882.0_106.0_922.0.png"}
+{"value" : "Report spam", "name" : "Report spam", "label" : "Report spam", "screenshotPath" : "gmail-move/S2/pngs/32.0_978.0_218.0_1018.0.png"}
+{"value" : "Print all", "name" : "Print all", "label" : "Print all", "screenshotPath" : "gmail-move/S2/pngs/32.0_1074.0_140.0_1114.0.png"}
+{"value" : "Add to Tasks", "name" : "Add to Tasks", "label" : "Add to Tasks", "screenshotPath" : "gmail-move/S2/pngs/32.0_1170.0_218.0_1210.0.png"}
+{"value" : "Cancel", "name" : "Cancel", "label" : "Cancel", "screenshotPath" : "gmail-move/S2/pngs/32.0_1266.0_132.0_1306.0.png"}

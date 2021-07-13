@@ -1,0 +1,43 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "gmail-moveFolder",
+        "events": [
+            {
+                "type": "name",
+                "tag": "TestUser, finish setting up your new Google Account",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "MoreActions",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Move to",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Social",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Navigation menu",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Important",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "TestUser"
+            }
+        ]
+    }
+}

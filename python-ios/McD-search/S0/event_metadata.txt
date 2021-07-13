@@ -1,0 +1,4 @@
+pathToElementImageCrop: McD-search/S0/pngs/154.0_1224.0_296.0_1334.0.png;
+coords: {'x1': 154.0, 'y1': 1224.0, 'x2': 296.0, 'y2': 1334.0};
+text_identifier: { "label" : "Order" };
+event: click;

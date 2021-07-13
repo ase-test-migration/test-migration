@@ -1,0 +1,34 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "poshmark-addCart",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "shop_likes0:Nike Dri Fit OU Oklahoma University Polo Sz L"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "rightNavButton1"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.poshmark.app:id/addToBundleButton"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Nike"
+                }
+            ]
+        }
+    ]
+}

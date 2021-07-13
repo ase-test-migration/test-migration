@@ -1,0 +1,150 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Newton\l|label = Newton\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeNavigationBar\l|name = Newton.CMMailDetailManagerView\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	12	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 8\l|y = 20\l|width = 35\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/16.0_40.0_86.0_128.0.png\l}"]
+	14	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	17	[label="{type = XCUIElementTypeScrollView\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	22	[label="{type = XCUIElementTypeTable\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 6\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 617\l|width = 375\l|height = 50\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_1234.0_750.0_1334.0.png\l}"]
+	24	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = -19\l|width = 375\l|height = 265\l|index = 4\l|numberOfChildren = 11\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_-38.0_750.0_492.0.png\l}"]
+	25	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 0\l|y = 245\l|width = 375\l|height = 373\l|index = 5\l|numberOfChildren = 14\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_490.0_750.0_1236.0.png\l}"]
+	26	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 617\l|width = 375\l|height = 50\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_1234.0_750.0_1334.0.png\l}"]
+	27	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = -19\l|width = 375\l|height = 265\l|index = 10\l|numberOfChildren = 1\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_-38.0_750.0_492.0.png\l}"]
+	28	[label="{type = XCUIElementTypeButton\l|name = conversation reply all\l|label = conversation reply all\l|enabled = true\l|visible = true\l|x = 125\l|y = 548\l|width = 125\l|height = 69\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/250.0_1096.0_500.0_1234.0.png\l}"]
+	29	[label="{type = XCUIElementTypeButton\l|name = conversation forward\l|label = conversation forward\l|enabled = true\l|visible = true\l|x = 250\l|y = 548\l|width = 125\l|height = 69\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/500.0_1096.0_750.0_1234.0.png\l}"]
+	30	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 245\l|width = 375\l|height = 5\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_490.0_750.0_500.0.png\l}"]
+	31	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 64\l|y = 249\l|width = 220\l|height = 61\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/128.0_498.0_568.0_620.0.png\l}"]
+	32	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 16\l|y = 261\l|width = 40\l|height = 41\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/32.0_522.0_112.0_604.0.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 18\l|y = 313\l|width = 357\l|height = 2\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/36.0_626.0_750.0_630.0.png\l}"]
+	34	[label="{type = XCUIElementTypeButton\l|name = me \l|label = me \l|enabled = true\l|visible = true\l|x = 65\l|y = 261\l|width = 27\l|height = 19\l|index = 7\l|numberOfChildren = 1\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/130.0_522.0_184.0_560.0.png\l}"]
+	35	[label="{type = XCUIElementTypeButton\l|name = 4:50pm\l|label = 4:50pm\l|enabled = true\l|visible = true\l|x = 65\l|y = 283\l|width = 68\l|height = 18\l|index = 8\l|numberOfChildren = 1\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/130.0_566.0_266.0_602.0.png\l}"]
+	36	[label="{type = XCUIElementTypeButton\l|name = conversation reply\l|label = conversation reply\l|enabled = true\l|visible = true\l|x = 287\l|y = 249\l|width = 44\l|height = 61\l|index = 9\l|numberOfChildren = 0\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/574.0_498.0_662.0_620.0.png\l}"]
+	37	[label="{type = XCUIElementTypeButton\l|name = cm overflow menu\l|label = cm overflow menu\l|enabled = true\l|visible = true\l|x = 331\l|y = 249\l|width = 44\l|height = 61\l|index = 10\l|numberOfChildren = 0\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/662.0_498.0_750.0_620.0.png\l}"]
+	38	[label="{type = XCUIElementTypeWebView\l|enabled = true\l|visible = true\l|x = 0\l|y = 245\l|width = 375\l|height = 373\l|index = 11\l|numberOfChildren = 1\l|numInParentLayout = 11\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_490.0_750.0_1236.0.png\l}"]
+	39	[label="{type = XCUIElementTypeButton\l|name = conversation reply\l|label = conversation reply\l|enabled = true\l|visible = true\l|x = 0\l|y = 548\l|width = 125\l|height = 69\l|index = 12\l|numberOfChildren = 0\l|numInParentLayout = 12\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_1096.0_250.0_1234.0.png\l}"]
+	40	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 10\l|y = 617\l|width = 71\l|height = 50\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/20.0_1234.0_162.0_1334.0.png\l}"]
+	41	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 81\l|y = 617\l|width = 71\l|height = 50\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/162.0_1234.0_304.0_1334.0.png\l}"]
+	42	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 152\l|y = 617\l|width = 71\l|height = 50\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/304.0_1234.0_446.0_1334.0.png\l}"]
+	43	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 223\l|y = 617\l|width = 71\l|height = 50\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/446.0_1234.0_588.0_1334.0.png\l}"]
+	44	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 294\l|y = 617\l|width = 71\l|height = 50\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/588.0_1234.0_730.0_1334.0.png\l}"]
+	45	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	46	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 245\l|width = 375\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_490.0_750.0_492.0.png\l}"]
+	47	[label="{type = XCUIElementTypeStaticText\l|value = me \l|name = me \l|label = me \l|enabled = true\l|visible = true\l|x = 65\l|y = 260\l|width = 27\l|height = 21\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/130.0_520.0_184.0_562.0.png\l}"]
+	48	[label="{type = XCUIElementTypeStaticText\l|value = 4:50pm\l|name = 4:50pm\l|label = 4:50pm\l|enabled = true\l|visible = true\l|x = 65\l|y = 283\l|width = 48\l|height = 17\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/130.0_566.0_226.0_600.0.png\l}"]
+	49	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	50	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 10\l|y = 617\l|width = 71\l|height = 50\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/20.0_1234.0_162.0_1334.0.png\l}"]
+	51	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 81\l|y = 617\l|width = 71\l|height = 50\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/162.0_1234.0_304.0_1334.0.png\l}"]
+	52	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 152\l|y = 617\l|width = 71\l|height = 50\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/304.0_1234.0_446.0_1334.0.png\l}"]
+	53	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 223\l|y = 617\l|width = 71\l|height = 50\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/446.0_1234.0_588.0_1334.0.png\l}"]
+	54	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 294\l|y = 617\l|width = 71\l|height = 50\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/588.0_1234.0_730.0_1334.0.png\l}"]
+	55	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	56	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	57	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 18\l|y = 50\l|width = 341\l|height = 168\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/36.0_100.0_718.0_436.0.png\l}"]
+	58	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 18\l|y = 314\l|width = 341\l|height = 208\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/36.0_628.0_718.0_1044.0.png\l}"]
+	59	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 18\l|y = 50\l|width = 341\l|height = 168\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/36.0_100.0_718.0_436.0.png\l}"]
+	60	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 18\l|y = 314\l|width = 341\l|height = 208\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/36.0_628.0_718.0_1044.0.png\l}"]
+	61	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 18\l|y = 117\l|width = 341\l|height = 28\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/36.0_234.0_718.0_290.0.png\l}"]
+	62	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 18\l|y = 381\l|width = 341\l|height = 28\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/36.0_762.0_718.0_818.0.png\l}"]
+	63	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 18\l|y = 435\l|width = 341\l|height = 42\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/36.0_870.0_718.0_954.0.png\l}"]
+	64	[label="{type = XCUIElementTypeStaticText\l|value = via \l|name = via\l|label = via\l|enabled = true\l|visible = true\l|x = 18\l|y = 120\l|width = 25\l|height = 21\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/36.0_240.00000000000003_86.0_282.0.png\l}"]
+	65	[label="{type = XCUIElementTypeLink\l|name = Newton Mail\l|label = Newton Mail\l|enabled = true\l|visible = true\l|x = 42\l|y = 120\l|width = 91\l|height = 21\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/84.0_240.00000000000003_266.0_282.0.png\l}"]
+	66	[label="{type = XCUIElementTypeStaticText\l|value = via Testing 2\l|name = via Testing 2\l|label = via Testing 2\l|enabled = true\l|visible = true\l|x = 18\l|y = 384\l|width = 91\l|height = 21\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/36.0_767.9999999999999_218.0_809.9999999999999.png\l}"]
+	67	[label="{type = XCUIElementTypeLink\l|name = Newton Mail\l|label = Newton Mail\l|enabled = true\l|visible = true\l|x = 108\l|y = 384\l|width = 91\l|height = 21\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/215.99999999999997_767.9999999999999_398.0_809.9999999999999.png\l}"]
+	68	[label="{type = XCUIElementTypeImage\l|enabled = true\l|visible = true\l|x = 18\l|y = 435\l|width = 37\l|height = 34\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/36.0_870.0_110.0_938.0.png\l}"]
+	69	[label="{type = XCUIElementTypeStaticText\l|value = on Mail\l|name = Newton Mail\l|label = Newton Mail\l|enabled = true\l|visible = true\l|x = 42\l|y = 120\l|width = 91\l|height = 21\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/84.0_240.00000000000003_266.0_282.0.png\l}"]
+	70	[label="{type = XCUIElementTypeStaticText\l|value = Newton Mail\l|name = Newton Mail\l|label = Newton Mail\l|enabled = true\l|visible = true\l|x = 108\l|y = 384\l|width = 91\l|height = 21\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = outputs/android-to-ios/newton-reply/S4/pngs/215.99999999999997_767.9999999999999_398.0_809.9999999999999.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	8 -> 9
+	9 -> 10
+	10 -> 11
+	10 -> 12
+	11 -> 13
+	12 -> 14
+	14 -> 15
+	15 -> 16
+	16 -> 17
+	17 -> 18
+	18 -> 19
+	19 -> 20
+	20 -> 21
+	21 -> 22
+	21 -> 23
+	22 -> 24
+	22 -> 25
+	23 -> 26
+	24 -> 27
+	25 -> 28
+	25 -> 29
+	25 -> 30
+	25 -> 31
+	25 -> 32
+	25 -> 33
+	25 -> 34
+	25 -> 35
+	25 -> 36
+	25 -> 37
+	25 -> 38
+	25 -> 39
+	26 -> 40
+	26 -> 41
+	26 -> 42
+	26 -> 43
+	26 -> 44
+	27 -> 45
+	30 -> 46
+	34 -> 47
+	35 -> 48
+	38 -> 49
+	40 -> 50
+	41 -> 51
+	42 -> 52
+	43 -> 53
+	44 -> 54
+	45 -> 55
+	49 -> 56
+	55 -> 57
+	56 -> 58
+	57 -> 59
+	58 -> 60
+	59 -> 61
+	60 -> 62
+	60 -> 63
+	61 -> 64
+	61 -> 65
+	62 -> 66
+	62 -> 67
+	63 -> 68
+	65 -> 69
+	67 -> 70
+
+
+}

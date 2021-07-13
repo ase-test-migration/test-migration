@@ -1,0 +1,21 @@
+{ "resource-id" : "com.microsoft.emmx:id/emmx_bottom_bar" , "screenshotPath" : "edge-search/S0/pngs/0_2005_1080_2148.png"}
+{ "content-desc" : "New tab" , "resource-id" : "com.microsoft.emmx:id/ntp_scrollview" , "screenshotPath" : "edge-search/S0/pngs/0_171_1080_1977.png"}
+{ "content-desc" : "Go back" , "resource-id" : "com.microsoft.emmx:id/back_button" , "screenshotPath" : "edge-search/S0/pngs/33_2005_204_2148.png"}
+{ "content-desc" : "Go forward" , "resource-id" : "com.microsoft.emmx:id/forward_button" , "screenshotPath" : "edge-search/S0/pngs/234_2005_405_2148.png"}
+{ "content-desc" : "Browser menu" , "resource-id" : "com.microsoft.emmx:id/overflow_button_bottom" , "screenshotPath" : "edge-search/S0/pngs/472_2038_607_2115.png"}
+{ "content-desc" : "1 open tab" , "resource-id" : "com.microsoft.emmx:id/tab_center_button" , "screenshotPath" : "edge-search/S0/pngs/674_2005_845_2148.png"}
+{ "content-desc" : "Share" , "resource-id" : "com.microsoft.emmx:id/tab_share_button" , "screenshotPath" : "edge-search/S0/pngs/876_2005_1047_2148.png"}
+{ "resource-id" : "com.microsoft.emmx:id/account_image_layout" , "screenshotPath" : "edge-search/S0/pngs/0_176_132_308.png"}
+{ "content-desc" : "New tab page layout settings" , "resource-id" : "com.microsoft.emmx:id/ntp_change_btn" , "screenshotPath" : "edge-search/S0/pngs/948_176_1080_308.png"}
+{ "resource-id" : "com.microsoft.emmx:id/search_box_text" , "screenshotPath" : "edge-search/S0/pngs/115_635_772_776.png"}
+{ "content-desc" : "Start camera search" , "resource-id" : "com.microsoft.emmx:id/camera_search_button" , "screenshotPath" : "edge-search/S0/pngs/772_635_893_776.png"}
+{ "content-desc" : "Start voice search" , "resource-id" : "com.microsoft.emmx:id/voice_search_button" , "screenshotPath" : "edge-search/S0/pngs/893_635_1014_776.png"}
+{ "content-desc" : "Shopping link" , "screenshotPath" : "edge-search/S0/pngs/34_855_254_1059.png"}
+{ "content-desc" : "Facebook link" , "screenshotPath" : "edge-search/S0/pngs/298_855_518_1059.png"}
+{ "content-desc" : "Netflix link" , "screenshotPath" : "edge-search/S0/pngs/562_855_782_1059.png"}
+{ "content-desc" : "Linkedin link" , "screenshotPath" : "edge-search/S0/pngs/826_855_1046_1059.png"}
+{ "content-desc" : "The Weather Channel link" , "screenshotPath" : "edge-search/S0/pngs/34_1075_254_1279.png"}
+{ "content-desc" : "Instagram link" , "screenshotPath" : "edge-search/S0/pngs/298_1075_518_1279.png"}
+{ "content-desc" : "Pandora link" , "screenshotPath" : "edge-search/S0/pngs/562_1075_782_1279.png"}
+{ "content-desc" : "MSN link" , "resource-id" : "com.microsoft.emmx:id/tile_grid_layout_last_item" , "screenshotPath" : "edge-search/S0/pngs/826_1075_1046_1279.png"}
+{ "content-desc" : "Web view" , "resource-id" : "com.microsoft.emmx:id/new_tab_page_content_view" , "screenshotPath" : "edge-search/S0/pngs/0_1400_1080_1977.png"}

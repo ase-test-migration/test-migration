@@ -1,0 +1,17 @@
+{ "content-desc" : "Main navigation, open" , "resource-id" : "com.ebay.mobile:id/home" , "screenshotPath" : "ebay-bid/S2/pngs/0_74_147_221.png"}
+{ "content-desc" : "Search" , "resource-id" : "com.ebay.mobile:id/menu_search" , "screenshotPath" : "ebay-bid/S2/pngs/828_84_954_210.png"}
+{ "content-desc" : "Cart, 1 item, button." , "resource-id" : "com.ebay.mobile:id/menu_cart" , "screenshotPath" : "ebay-bid/S2/pngs/954_84_1080_210.png"}
+{ "resource-id" : "com.ebay.mobile:id/category_list" , "screenshotPath" : "ebay-bid/S2/pngs/0_221_1080_2287.png"}
+{ "content-desc" : "Expanded Antiques" , "resource-id" : "com.ebay.mobile:id/parent" , "screenshotPath" : "ebay-bid/S2/pngs/53_510_1027_657.png"}
+{ "content-desc" : "Collapsed Antiquities" , "resource-id" : "com.ebay.mobile:id/parent" , "screenshotPath" : "ebay-bid/S2/pngs/53_657_1027_804.png"}
+{ "content-desc" : "Collapsed Architectural & Garden" , "resource-id" : "com.ebay.mobile:id/parent" , "screenshotPath" : "ebay-bid/S2/pngs/53_804_1027_951.png"}
+{ "content-desc" : "Collapsed Asian Antiques" , "resource-id" : "com.ebay.mobile:id/parent" , "screenshotPath" : "ebay-bid/S2/pngs/53_951_1027_1098.png"}
+{ "content-desc" : "Collapsed Decorative Arts" , "resource-id" : "com.ebay.mobile:id/parent" , "screenshotPath" : "ebay-bid/S2/pngs/53_1098_1027_1245.png"}
+{ "content-desc" : "Collapsed Ethnographic" , "resource-id" : "com.ebay.mobile:id/parent" , "screenshotPath" : "ebay-bid/S2/pngs/53_1245_1027_1392.png"}
+{ "content-desc" : "Collapsed Furniture" , "resource-id" : "com.ebay.mobile:id/parent" , "screenshotPath" : "ebay-bid/S2/pngs/53_1392_1027_1539.png"}
+{ "content-desc" : "Collapsed Home & Hearth" , "resource-id" : "com.ebay.mobile:id/parent" , "screenshotPath" : "ebay-bid/S2/pngs/53_1539_1027_1686.png"}
+{ "resource-id" : "com.ebay.mobile:id/parent" , "screenshotPath" : "ebay-bid/S2/pngs/53_1686_1027_1833.png"}
+{ "content-desc" : "Collapsed Linens & Textiles (Pre-1930)" , "resource-id" : "com.ebay.mobile:id/parent" , "screenshotPath" : "ebay-bid/S2/pngs/53_1833_1027_1980.png"}
+{ "resource-id" : "com.ebay.mobile:id/parent" , "screenshotPath" : "ebay-bid/S2/pngs/53_1980_1027_2127.png"}
+{ "content-desc" : "Collapsed Maps, Atlases & Globes" , "resource-id" : "com.ebay.mobile:id/parent" , "screenshotPath" : "ebay-bid/S2/pngs/53_2127_1027_2274.png"}
+{ "content-desc" : "Collapsed Maritime" , "resource-id" : "com.ebay.mobile:id/parent" , "screenshotPath" : "ebay-bid/S2/pngs/53_2274_1027_2287.png"}

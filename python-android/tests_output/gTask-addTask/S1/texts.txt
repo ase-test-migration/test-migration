@@ -1,0 +1,5 @@
+{ "resource-id" : "com.google.android.apps.tasks:id/touch_outside" , "screenshotPath" : "gTask-addTask/S1/pngs/0_74_1080_1533.png"}
+{ "resource-id" : "com.google.android.apps.tasks:id/add_task_title" , "screenshotPath" : "gTask-addTask/S1/pngs/63_1229_1017_1355.png"}
+{ "content-desc" : "Add details" , "resource-id" : "com.google.android.apps.tasks:id/add_task_change_details" , "screenshotPath" : "gTask-addTask/S1/pngs/26_1355_153_1512.png"}
+{ "content-desc" : "Set date/time" , "resource-id" : "com.google.android.apps.tasks:id/add_task_pick_due_date" , "screenshotPath" : "gTask-addTask/S1/pngs/153_1355_280_1512.png"}
+{ "resource-id" : "com.google.android.apps.tasks:id/add_task_done" , "screenshotPath" : "gTask-addTask/S1/pngs/876_1360_1038_1507.png"}

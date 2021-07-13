@@ -1,0 +1,23 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "python-ios",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.weekly.app:id/text_view_tasks_title",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.weekly.app:id/view_week_remove",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.weekly.app:id/button_confirm_dialog_positive",
+                "event": "click"
+            }
+        ]
+    }
+}

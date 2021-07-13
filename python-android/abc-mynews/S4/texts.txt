@@ -1,0 +1,11 @@
+{ "resource-id" : "android:id/content" , "screenshotPath" : "abc-mynews/S4/pngs/0_0_1080_1776.png"}
+{ "content-desc" : "Open the menu" , "screenshotPath" : "abc-mynews/S4/pngs/0_72_168_240.png"}
+{ "resource-id" : "com.abc.abcnews:id/button_container" , "screenshotPath" : "abc-mynews/S4/pngs/865_72_1080_240.png"}
+{ "resource-id" : "com.abc.abcnews:id/section_view_pager_tabs" , "screenshotPath" : "abc-mynews/S4/pngs/0_1608_1080_1776.png"}
+{ "resource-id" : "com.abc.abcnews:id/login_banner" , "screenshotPath" : "abc-mynews/S4/pngs/0_240_1080_375.png"}
+{ "resource-id" : "com.abc.abcnews:id/suggested_interests_scroll_view" , "screenshotPath" : "abc-mynews/S4/pngs/0_375_1080_1776.png"}
+{ "resource-id" : "com.abc.abcnews:id/interest_module_content_container" , "screenshotPath" : "abc-mynews/S4/pngs/0_1705_1080_1776.png"}
+{ "resource-id" : "com.abc.abcnews:id/elections_story_widget_more_options" , "screenshotPath" : "abc-mynews/S4/pngs/248_1236_833_1341.png"}
+{ "resource-id" : "com.abc.abcnews:id/interests_suggested_follow_button" , "screenshotPath" : "abc-mynews/S4/pngs/639_1765_1080_1776.png"}
+{ "resource-id" : "com.abc.abcnews:id/btnFollow" , "screenshotPath" : "abc-mynews/S4/pngs/756_852_1020_921.png"}
+{ "resource-id" : "com.abc.abcnews:id/btnFollow" , "screenshotPath" : "abc-mynews/S4/pngs/756_1044_1020_1113.png"}

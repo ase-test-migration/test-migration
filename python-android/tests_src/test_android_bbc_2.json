@@ -1,0 +1,34 @@
+{
+    "desiredCapabilities": {
+      "platformName": "Android",
+      "platformVersion": "9",
+      "deviceName": "Nexus_5_API_28",
+      "newCommandTimeout":100000
+
+    },
+    "tests" :[
+                {
+
+                    "name" : "testBBCVideo",
+                    "events" : [
+            {
+                "event": "click",
+                "tag": "Video",
+                "type": "accessibilityId"
+            },
+            {
+                "event": "click",
+                "tag": "bbc.mobile.news.ww:id/content_card_image",
+                "type": "id"
+            },
+            {
+                "event": "click",
+                "tag": "Play",
+                "type": "accessibilityId"
+            }
+        ]
+
+
+    }
+]
+}

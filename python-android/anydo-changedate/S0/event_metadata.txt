@@ -1,0 +1,4 @@
+pathToElementImageCrop: anydo-changedate/S0/pngs/969_1506_1017_1554.png;
+coords: {'x1': 969, 'y1': 1506, 'x2': 1017, 'y2': 1554};
+text_identifier: { "content-desc" : "Add a task" , "resource-id" : "com.anydo:id/quick_add_button" };
+event: click;

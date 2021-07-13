@@ -1,0 +1,6 @@
+pathToElementImageCrop: ;
+coords: ;
+text_identifier: Testing 2;
+event: oracle;
+oracle-type: text_exists;
+input: Testing 2;

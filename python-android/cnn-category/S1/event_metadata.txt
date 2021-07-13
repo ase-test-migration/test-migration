@@ -1,0 +1,5 @@
+pathToElementImageCrop: cnn-category/S1/pngs/22_1192_1058_1510.png;
+coords: {'x1': 22, 'y1': 1192, 'x2': 1058, 'y2': 1510};
+text_identifier: { "resource-id" : "com.cnn.mobile.android.phone:id/item_feed_article_headline" };
+event: oracle;
+oracle-type: widget_exists;

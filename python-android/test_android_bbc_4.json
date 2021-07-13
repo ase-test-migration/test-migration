@@ -1,0 +1,73 @@
+{
+    "tests": [
+        {
+            "name": "bbc-my-news",
+            "events": [
+                {
+                    "tag": "My News", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "OK, let's get started Button:", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "//android.widget.FrameLayout[@content-desc=\"Button: Add Coronavirus pandemic to My News\"]/android.widget.LinearLayout/android.widget.TextView", 
+                    "type": "xPath", 
+                    "event": "click"
+                },
+                {
+                    "tag": "//android.widget.FrameLayout[@content-desc=\"Button: Add Sarah Everard case to My News\"]/android.widget.LinearLayout/android.widget.TextView",
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "My Topics", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.LinearLayout/androidx.viewpager.widget.ViewPager/android.widget.RelativeLayout/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.widget.RelativeLayout[1]/android.widget.TextView", 
+                    "type": "xPath", 
+                    "event": "oracle",
+                    "oracle-type": "widget_exists"
+                }, 
+                {
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.LinearLayout/androidx.viewpager.widget.ViewPager/android.widget.RelativeLayout/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.widget.RelativeLayout[1]/android.widget.TextView", 
+                    "type": "xPath", 
+                    "event": "oracle",
+                    "oracle-type": "widget_exists"
+                }, 
+                {
+                    "tag": "(//android.widget.ImageView[@content-desc=\"Remove topic\"])[1]", 
+                    "type": "xPath", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "(//android.widget.ImageView[@content-desc=\"Remove topic\"])[1]", 
+                    "type": "xPath", 
+                    "event": "click"
+                },
+                {
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.LinearLayout/androidx.viewpager.widget.ViewPager/android.widget.RelativeLayout/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.widget.RelativeLayout[1]/android.widget.TextView",
+                    "type": "xPath",
+                    "event": "oracle",
+                    "oracle-type": "element_invisible"
+                },
+                {
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.view.ViewGroup/android.widget.FrameLayout/android.widget.LinearLayout/androidx.viewpager.widget.ViewPager/android.widget.RelativeLayout/android.widget.LinearLayout/androidx.recyclerview.widget.RecyclerView/android.widget.RelativeLayout[1]/android.widget.TextView",
+                    "type": "xPath",
+                    "event": "oracle",
+                    "oracle-type": "element_invisible"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "emulator-5554", 
+        "platformName": "Android", 
+        "newCommandTimeout": 0
+    }
+}

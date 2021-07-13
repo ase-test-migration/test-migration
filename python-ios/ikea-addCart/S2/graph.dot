@@ -1,0 +1,154 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = IKEA\l|label = IKEA\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeTabBar\l|name = Tab Bar\l|label = Tab Bar\l|enabled = true\l|visible = true\l|x = 0\l|y = 618\l|width = 375\l|height = 49\l|index = 1\l|numberOfChildren = 5\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/0.0_1236.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = welcome\l|label = Inspire\l|enabled = true\l|visible = true\l|x = 2\l|y = 619\l|width = 71\l|height = 48\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/4.0_1238.0_146.0_1334.0.png\l}"]
+	9	[label="{type = XCUIElementTypeButton\l|name = browse_products\l|label = Search and browse\l|enabled = true\l|visible = true\l|x = 77\l|y = 619\l|width = 71\l|height = 48\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/154.0_1238.0_296.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeButton\l|name = profile\l|label = Profile\l|enabled = true\l|visible = true\l|x = 152\l|y = 619\l|width = 71\l|height = 48\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/304.0_1238.0_446.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeButton\l|name = shoppinglist\l|label = shopping lists\l|enabled = true\l|visible = true\l|x = 227\l|y = 619\l|width = 71\l|height = 48\l|index = 3\l|numberOfChildren = 0\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/453.99999999999994_1238.0_596.0_1334.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|name = shoppingbag\l|label = Cart\l|enabled = true\l|visible = true\l|x = 302\l|y = 619\l|width = 71\l|height = 48\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/604.0_1238.0_746.0_1334.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeNavigationBar\l|name = "table"\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 44\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/0.0_40.0_750.0_128.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	16	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 8\l|y = 20\l|width = 59\l|height = 44\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/16.0_40.0_134.0_128.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	18	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 618\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/0.0_0.0_750.0_1236.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 64\l|width = 375\l|height = 554\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/0.0_128.0_750.0_1236.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 65\l|width = 375\l|height = 553\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/0.0_130.0_750.0_1236.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 65\l|width = 375\l|height = 553\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/0.0_130.0_750.0_1236.0.png\l}"]
+	22	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 65\l|width = 375\l|height = 553\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/0.0_130.0_750.0_1236.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 65\l|width = 375\l|height = 181\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/0.0_130.0_750.0_492.0.png\l}"]
+	24	[label="{type = XCUIElementTypeCell\l|value = $24.99\l|name = productListCollectionViewCell\l|label = Product LINNMON / ADILS\l|enabled = true\l|visible = true\l|x = 0\l|y = 245\l|width = 188\l|height = 461\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = true \l|screenshotPath = ikea-addCart/S2/pngs/0.0_490.0_376.0_1412.0.png\l}"]
+	25	[label="{type = XCUIElementTypeCell\l|value = $38.99\l|name = productListCollectionViewCell\l|label = Product LINNMON / ADILS\l|enabled = true\l|visible = true\l|x = 187\l|y = 245\l|width = 188\l|height = 461\l|index = 2\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/374.0_490.0_750.0_1412.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 585\l|width = 375\l|height = 30\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/0.0_1170.0_750.0_1230.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 89\l|width = 375\l|height = 157\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/0.0_178.0_750.0_492.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 245\l|width = 188\l|height = 461\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = ikea-addCart/S2/pngs/0.0_490.0_376.0_1412.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 187\l|y = 245\l|width = 188\l|height = 461\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/374.0_490.0_750.0_1412.0.png\l}"]
+	30	[label="{type = XCUIElementTypeStaticText\l|value = "table"\l|name = "table"\l|label = "table"\l|enabled = true\l|visible = true\l|x = 0\l|y = 89\l|width = 375\l|height = 33\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/0.0_178.0_750.0_244.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 130\l|width = 375\l|height = 116\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/0.0_260.0_750.0_492.0.png\l}"]
+	32	[label="{type = XCUIElementTypeButton\l|name = Add to shopping list\l|label = Add to shopping list\l|enabled = true\l|visible = true\l|x = 136\l|y = 247\l|width = 49\l|height = 49\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/272.0_494.00000000000006_370.0_592.0000000000001.png\l}"]
+	33	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 453\l|width = 148\l|height = 90\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/40.0_906.0000000000001_336.0_1086.0.png\l}"]
+	34	[label="{type = XCUIElementTypeButton\l|name = Add to shopping list\l|label = Add to shopping list\l|enabled = true\l|visible = true\l|x = 324\l|y = 247\l|width = 48\l|height = 49\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/648.0_494.00000000000006_744.0_592.0000000000001.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 207\l|y = 453\l|width = 148\l|height = 90\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/414.00000000000006_906.0000000000001_710.0_1086.0.png\l}"]
+	36	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 146\l|width = 375\l|height = 60\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/0.0_292.0_750.0_412.0.png\l}"]
+	37	[label="{type = XCUIElementTypeOther\l|value = table, 39 3/8x23 5/8 ", $24.99\l|name = LINNMON / ADILS\l|label = LINNMON / ADILS\l|enabled = true\l|visible = true\l|x = 20\l|y = 453\l|width = 120\l|height = 90\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/40.0_906.0000000000001_280.0_1086.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|value = table, 47 1/4x23 5/8 ", $38.99\l|name = LINNMON / ADILS\l|label = LINNMON / ADILS\l|enabled = true\l|visible = true\l|x = 207\l|y = 453\l|width = 118\l|height = 90\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/414.00000000000006_906.0000000000001_650.0_1086.0.png\l}"]
+	39	[label="{type = XCUIElementTypeCell\l|name = Sort\l|label = Sort\l|enabled = true\l|visible = true\l|x = 19\l|y = 146\l|width = 73\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/38.0_292.0_184.0_372.0.png\l}"]
+	40	[label="{type = XCUIElementTypeCell\l|name = Color\l|label = Color\l|enabled = true\l|visible = true\l|x = 101\l|y = 146\l|width = 81\l|height = 40\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/201.99999999999997_292.0_364.0_372.0.png\l}"]
+	41	[label="{type = XCUIElementTypeCell\l|name = Price\l|label = Price\l|enabled = true\l|visible = true\l|x = 191\l|y = 146\l|width = 79\l|height = 40\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/382.0_292.0_540.0_372.0.png\l}"]
+	42	[label="{type = XCUIElementTypeCell\l|name = Materials\l|label = Materials\l|enabled = true\l|visible = true\l|x = 279\l|y = 146\l|width = 105\l|height = 40\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/558.0_292.0_768.0_372.0.png\l}"]
+	43	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 453\l|width = 120\l|height = 90\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/40.0_906.0000000000001_280.0_1086.0.png\l}"]
+	44	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 207\l|y = 453\l|width = 118\l|height = 90\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/414.00000000000006_906.0000000000001_650.0_1086.0.png\l}"]
+	45	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 19\l|y = 146\l|width = 73\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/38.0_292.0_184.0_372.0.png\l}"]
+	46	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 101\l|y = 146\l|width = 80\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/201.99999999999997_292.0_362.0_372.0.png\l}"]
+	47	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 191\l|y = 146\l|width = 79\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/382.0_292.0_540.0_372.0.png\l}"]
+	48	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 279\l|y = 146\l|width = 105\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/558.0_292.0_768.0_372.0.png\l}"]
+	49	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 470\l|width = 120\l|height = 73\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/40.0_940.0_280.0_1086.0.png\l}"]
+	50	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 207\l|y = 470\l|width = 118\l|height = 73\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/414.00000000000006_940.0_650.0_1086.0.png\l}"]
+	51	[label="{type = XCUIElementTypeButton\l|name = Sort\l|label = Sort\l|enabled = false\l|visible = true\l|x = 19\l|y = 146\l|width = 73\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/38.0_292.0_184.0_372.0.png\l}"]
+	52	[label="{type = XCUIElementTypeButton\l|name = Color\l|label = Color\l|enabled = false\l|visible = true\l|x = 101\l|y = 146\l|width = 80\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/201.99999999999997_292.0_362.0_372.0.png\l}"]
+	53	[label="{type = XCUIElementTypeButton\l|name = Price\l|label = Price\l|enabled = false\l|visible = true\l|x = 191\l|y = 146\l|width = 79\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/382.0_292.0_540.0_372.0.png\l}"]
+	54	[label="{type = XCUIElementTypeButton\l|name = Materials\l|label = Materials\l|enabled = false\l|visible = true\l|x = 279\l|y = 146\l|width = 105\l|height = 40\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/558.0_292.0_768.0_372.0.png\l}"]
+	55	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 470\l|width = 120\l|height = 34\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/40.0_940.0_280.0_1008.0.png\l}"]
+	56	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 509\l|width = 77\l|height = 34\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/40.0_1018.0_194.0_1086.0.png\l}"]
+	57	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 207\l|y = 470\l|width = 118\l|height = 34\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/414.00000000000006_940.0_650.0_1008.0.png\l}"]
+	58	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 207\l|y = 509\l|width = 79\l|height = 34\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/414.00000000000006_1018.0_572.0_1086.0.png\l}"]
+	59	[label="{type = XCUIElementTypeStaticText\l|value = Sort\l|name = Sort\l|label = Sort\l|enabled = true\l|visible = true\l|x = 43\l|y = 157\l|width = 25\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/86.0_314.0_136.0_350.0.png\l}"]
+	60	[label="{type = XCUIElementTypeStaticText\l|value = Color\l|name = Color\l|label = Color\l|enabled = true\l|visible = true\l|x = 125\l|y = 157\l|width = 33\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/250.0_314.0_316.0_350.0.png\l}"]
+	61	[label="{type = XCUIElementTypeStaticText\l|value = Price\l|name = Price\l|label = Price\l|enabled = true\l|visible = true\l|x = 215\l|y = 157\l|width = 31\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/430.0_314.0_492.0_350.0.png\l}"]
+	62	[label="{type = XCUIElementTypeStaticText\l|value = Materials\l|name = Materials\l|label = Materials\l|enabled = true\l|visible = true\l|x = 303\l|y = 157\l|width = 57\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/606.0_314.0_720.0_350.0.png\l}"]
+	63	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 470\l|width = 120\l|height = 34\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/40.0_940.0_280.0_1008.0.png\l}"]
+	64	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 509\l|width = 77\l|height = 34\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/40.0_1018.0_194.0_1086.0.png\l}"]
+	65	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 207\l|y = 470\l|width = 118\l|height = 34\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/414.00000000000006_940.0_650.0_1008.0.png\l}"]
+	66	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 207\l|y = 509\l|width = 79\l|height = 34\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/414.00000000000006_1018.0_572.0_1086.0.png\l}"]
+	67	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 509\l|width = 77\l|height = 34\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/40.0_1018.0_194.0_1086.0.png\l}"]
+	68	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 207\l|y = 509\l|width = 79\l|height = 34\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/414.00000000000006_1018.0_572.0_1086.0.png\l}"]
+	69	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 509\l|width = 77\l|height = 34\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/40.0_1018.0_194.0_1086.0.png\l}"]
+	70	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 207\l|y = 509\l|width = 79\l|height = 34\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/414.00000000000006_1018.0_572.0_1086.0.png\l}"]
+	71	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 509\l|width = 77\l|height = 34\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/40.0_1018.0_194.0_1086.0.png\l}"]
+	72	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 207\l|y = 509\l|width = 79\l|height = 34\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ikea-addCart/S2/pngs/414.00000000000006_1018.0_572.0_1086.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	5 -> 7
+	6 -> 8
+	6 -> 9
+	6 -> 10
+	6 -> 11
+	6 -> 12
+	7 -> 13
+	13 -> 14
+	13 -> 15
+	14 -> 16
+	15 -> 17
+	17 -> 18
+	18 -> 19
+	19 -> 20
+	20 -> 21
+	21 -> 22
+	22 -> 23
+	22 -> 24
+	22 -> 25
+	22 -> 26
+	23 -> 27
+	24 -> 28
+	25 -> 29
+	27 -> 30
+	27 -> 31
+	28 -> 32
+	28 -> 33
+	29 -> 34
+	29 -> 35
+	31 -> 36
+	33 -> 37
+	35 -> 38
+	36 -> 39
+	36 -> 40
+	36 -> 41
+	36 -> 42
+	37 -> 43
+	38 -> 44
+	39 -> 45
+	40 -> 46
+	41 -> 47
+	42 -> 48
+	43 -> 49
+	44 -> 50
+	45 -> 51
+	46 -> 52
+	47 -> 53
+	48 -> 54
+	49 -> 55
+	49 -> 56
+	50 -> 57
+	50 -> 58
+	51 -> 59
+	52 -> 60
+	53 -> 61
+	54 -> 62
+	55 -> 63
+	56 -> 64
+	57 -> 65
+	58 -> 66
+	64 -> 67
+	66 -> 68
+	67 -> 69
+	68 -> 70
+	69 -> 71
+	70 -> 72
+
+
+}

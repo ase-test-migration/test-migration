@@ -1,0 +1,4 @@
+pathToElementImageCrop: etsy-login/S1/pngs/321.0_639.0_921.0_786.0.png;
+coords: {'x1': 321.0, 'y1': 639.0, 'x2': 921.0, 'y2': 786.0};
+text_identifier: { "name" : "Sign In" };
+event: click;

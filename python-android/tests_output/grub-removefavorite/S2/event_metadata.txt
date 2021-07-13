@@ -1,0 +1,4 @@
+pathToElementImageCrop: grub-removefavorite/S2/pngs/333_367_640_416.png;
+coords: {'x1': 333, 'y1': 367, 'x2': 640, 'y2': 416};
+text_identifier: { "resource-id" : "com.grubhub.android:id/diner_favorites" };
+event: click;

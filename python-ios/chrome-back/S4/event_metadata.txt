@@ -1,0 +1,4 @@
+pathToElementImageCrop: chrome-back/S4/pngs/20.0_1246.0_108.0_1334.0.png;
+coords: {'x1': 20.0, 'y1': 1246.0, 'x2': 108.0, 'y2': 1334.0};
+text_identifier: { "label" : "Back" };
+event: back;

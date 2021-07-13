@@ -1,0 +1,4 @@
+pathToElementImageCrop: remove-from-cart/S0/pngs/864_1608_1080_1776.png;
+coords: {'x1': 864, 'y1': 1608, 'x2': 1080, 'y2': 1848};
+text_identifier: { "content-desc" : "Cart tab, 5 of 5, 1 new notification" , "resource-id" : "com.etsy.android:id/menu_bottom_nav_cart" };
+event: click;

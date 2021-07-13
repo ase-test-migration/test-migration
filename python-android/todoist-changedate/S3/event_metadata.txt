@@ -1,0 +1,4 @@
+pathToElementImageCrop: todoist-changedate/S3/pngs/48_470_466_542.png;
+coords: {'x1': 48, 'y1': 470, 'x2': 466, 'y2': 542};
+text_identifier: { "text" : "This weekend" , "resource-id" : "android:id/text1" };
+event: click;

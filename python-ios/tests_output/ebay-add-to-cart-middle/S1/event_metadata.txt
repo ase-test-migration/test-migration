@@ -1,0 +1,5 @@
+pathToElementImageCrop: ebay-add-to-cart-middle/S1/pngs/48.0_1176.0_1194.0_1323.0.png;
+coords: {'x1': 48.0, 'y1': 1176.0, 'x2': 1194.0, 'y2': 1323.0};
+text_identifier: { "name" : "Go_to_cart" };
+event: oracle;
+type: accessibilityId;

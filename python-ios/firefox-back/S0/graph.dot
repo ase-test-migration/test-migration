@@ -1,0 +1,172 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Firefox\l|label = Firefox\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	7	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 75\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/0.0_40.0_750.0_190.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 95\l|width = 375\l|height = 526\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/0.0_190.0_750.0_1242.0.png\l}"]
+	10	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 621\l|width = 375\l|height = 46\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/0.0_1242.0_750.0_1334.0.png\l}"]
+	11	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 20\l|width = 375\l|height = 75\l|index = 0\l|numberOfChildren = 3\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/0.0_40.0_750.0_190.0.png\l}"]
+	12	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 0\l|y = 95\l|width = 375\l|height = 526\l|index = 0\l|numberOfChildren = 11\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/0.0_190.0_750.0_1242.0.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|name = Navigation Toolbar\l|label = Navigation Toolbar\l|enabled = true\l|visible = true\l|x = 0\l|y = 621\l|width = 375\l|height = 46\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/0.0_1242.0_750.0_1334.0.png\l}"]
+	14	[label="{type = XCUIElementTypeButton\l|enabled = true\l|visible = true\l|x = 7\l|y = 20\l|width = 361\l|height = 34\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/14.000000000000002_40.0_736.0_108.0.png\l}"]
+	15	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 7\l|y = 36\l|width = 361\l|height = 43\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/14.000000000000002_72.0_736.0_158.0.png\l}"]
+	16	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 94\l|width = 375\l|height = 1\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/0.0_188.0_750.0_190.0.png\l}"]
+	17	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 95\l|width = 375\l|height = 40\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/0.0_190.0_750.0_270.0.png\l}"]
+	18	[label="{type = XCUIElementTypeCell\l|name = TopSitesCell\l|enabled = true\l|visible = true\l|x = 6\l|y = 135\l|width = 363\l|height = 214\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/12.0_270.0_738.0_698.0.png\l}"]
+	19	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 349\l|width = 375\l|height = 5\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/0.0_698.0_750.0_708.0.png\l}"]
+	20	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 354\l|width = 375\l|height = 40\l|index = 3\l|numberOfChildren = 3\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/0.0_708.0_750.0_788.0.png\l}"]
+	21	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 20\l|y = 394\l|width = 335\l|height = 94\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/40.0_788.0_710.0_976.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 488\l|width = 375\l|height = 5\l|index = 5\l|numberOfChildren = 0\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/0.0_976.0_750.0_986.0.png\l}"]
+	23	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 493\l|width = 375\l|height = 40\l|index = 6\l|numberOfChildren = 3\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/0.0_985.9999999999999_750.0_1066.0.png\l}"]
+	24	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 20\l|y = 533\l|width = 157\l|height = 200\l|index = 7\l|numberOfChildren = 1\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/40.0_1066.0_354.0_1466.0.png\l}"]
+	25	[label="{type = XCUIElementTypeCell\l|enabled = true\l|visible = true\l|x = 198\l|y = 533\l|width = 157\l|height = 200\l|index = 8\l|numberOfChildren = 1\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/396.0_1066.0_710.0_1466.0.png\l}"]
+	26	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Vertical scroll bar, 3 pages\l|label = Vertical scroll bar, 3 pages\l|enabled = true\l|visible = true\l|x = 342\l|y = 95\l|width = 30\l|height = 526\l|index = 9\l|numberOfChildren = 0\l|numInParentLayout = 9\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/684.0_190.0_744.0_1242.0.png\l}"]
+	27	[label="{type = XCUIElementTypeOther\l|value = 0%\l|name = Horizontal scroll bar, 1 page\l|label = Horizontal scroll bar, 1 page\l|enabled = true\l|visible = true\l|x = 0\l|y = 588\l|width = 375\l|height = 30\l|index = 10\l|numberOfChildren = 0\l|numInParentLayout = 10\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/0.0_1176.0_750.0_1236.0.png\l}"]
+	28	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 621\l|width = 375\l|height = 46\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/0.0_1242.0_750.0_1334.0.png\l}"]
+	29	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 7\l|y = 36\l|width = 361\l|height = 43\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/14.000000000000002_72.0_736.0_158.0.png\l}"]
+	30	[label="{type = XCUIElementTypeStaticText\l|value = Top Sites\l|name = topSitesTitle\l|label = Top Sites\l|enabled = true\l|visible = true\l|x = 41\l|y = 99\l|width = 70\l|height = 32\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/82.0_198.0_222.0_262.0.png\l}"]
+	31	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 6\l|y = 135\l|width = 363\l|height = 214\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/12.0_270.0_738.0_698.0.png\l}"]
+	32	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 349\l|width = 335\l|height = 1\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/40.0_698.0_710.0_700.0.png\l}"]
+	33	[label="{type = XCUIElementTypeStaticText\l|value = Your Library\l|name = libraryTitle\l|label = Your Library\l|enabled = true\l|visible = true\l|x = 41\l|y = 358\l|width = 93\l|height = 32\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/82.0_716.0000000000001_268.0_780.0000000000001.png\l}"]
+	34	[label="{type = XCUIElementTypeButton\l|name = libraryMoreButton\l|label = See All\l|enabled = true\l|visible = true\l|x = 139\l|y = 358\l|width = 216\l|height = 32\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/278.0_716.0000000000001_710.0_780.0000000000001.png\l}"]
+	35	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 394\l|width = 335\l|height = 94\l|index = 0\l|numberOfChildren = 4\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/40.0_788.0_710.0_976.0.png\l}"]
+	36	[label="{type = XCUIElementTypeStaticText\l|value = Trending on Pocket\l|name = pocketTitle\l|label = Trending on Pocket\l|enabled = true\l|visible = true\l|x = 41\l|y = 497\l|width = 146\l|height = 32\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/82.0_994.0_374.0_1058.0.png\l}"]
+	37	[label="{type = XCUIElementTypeButton\l|name = More\l|label = More\l|enabled = true\l|visible = true\l|x = 191\l|y = 497\l|width = 164\l|height = 32\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/382.0_994.0_710.0_1058.0.png\l}"]
+	38	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 533\l|width = 157\l|height = 200\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/40.0_1066.0_354.0_1466.0.png\l}"]
+	39	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 198\l|y = 533\l|width = 157\l|height = 200\l|index = 0\l|numberOfChildren = 5\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/396.0_1066.0_710.0_1466.0.png\l}"]
+	40	[label="{type = XCUIElementTypeButton\l|name = TabToolbar.backButton\l|label = Back\l|enabled = false\l|visible = true\l|x = 0\l|y = 621\l|width = 75\l|height = 46\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/0.0_1242.0_150.0_1334.0.png\l}"]
+	41	[label="{type = XCUIElementTypeButton\l|name = TabToolbar.forwardButton\l|label = Forward\l|enabled = true\l|visible = true\l|x = 75\l|y = 621\l|width = 75\l|height = 46\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/150.0_1242.0_300.0_1334.0.png\l}"]
+	42	[label="{type = XCUIElementTypeButton\l|name = TabToolbar.multiStateButton\l|label = Search\l|enabled = true\l|visible = true\l|x = 150\l|y = 621\l|width = 75\l|height = 46\l|index = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/300.0_1242.0_450.0_1334.0.png\l}"]
+	43	[label="{type = XCUIElementTypeButton\l|value = 1\l|name = TabToolbar.tabsButton\l|label = Show Tabs\l|enabled = true\l|visible = true\l|x = 225\l|y = 621\l|width = 75\l|height = 46\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/450.0_1242.0_600.0_1334.0.png\l}"]
+	44	[label="{type = XCUIElementTypeButton\l|name = TabToolbar.menuButton\l|label = Menu\l|enabled = true\l|visible = true\l|x = 300\l|y = 621\l|width = 75\l|height = 46\l|index = 4\l|numberOfChildren = 0\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/600.0_1242.0_750.0_1334.0.png\l}"]
+	45	[label="{type = XCUIElementTypeTextField\l|value = Search or enter address\l|name = url\l|label = Address Bar\l|enabled = true\l|visible = true\l|x = 17\l|y = 46\l|width = 351\l|height = 23\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = true \l|screenshotPath = firefox-back/S0/pngs/34.0_92.0_736.0_138.0.png\l}"]
+	46	[label="{type = XCUIElementTypeCollectionView\l|enabled = true\l|visible = true\l|x = 6\l|y = 135\l|width = 363\l|height = 214\l|index = 0\l|numberOfChildren = 8\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/12.0_270.0_738.0_698.0.png\l}"]
+	47	[label="{type = XCUIElementTypeStaticText\l|value = See All\l|name = See All\l|label = See All\l|enabled = true\l|visible = true\l|x = 306\l|y = 365\l|width = 49\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/612.0_730.0_710.0_766.0.png\l}"]
+	48	[label="{type = XCUIElementTypeOther\l|name = Bookmarks\l|label = Bookmarks\l|enabled = true\l|visible = true\l|x = 20\l|y = 394\l|width = 77\l|height = 94\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/40.0_788.0_194.0_976.0.png\l}"]
+	49	[label="{type = XCUIElementTypeOther\l|name = Reading List\l|label = Reading List\l|enabled = true\l|visible = true\l|x = 106\l|y = 394\l|width = 77\l|height = 94\l|index = 1\l|numberOfChildren = 2\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/212.0_788.0_366.0_976.0.png\l}"]
+	50	[label="{type = XCUIElementTypeOther\l|name = Downloads\l|label = Downloads\l|enabled = true\l|visible = true\l|x = 192\l|y = 394\l|width = 77\l|height = 94\l|index = 2\l|numberOfChildren = 2\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/384.0_788.0_538.0_976.0.png\l}"]
+	51	[label="{type = XCUIElementTypeOther\l|name = Synced Tabs\l|label = Synced Tabs\l|enabled = true\l|visible = true\l|x = 279\l|y = 394\l|width = 76\l|height = 94\l|index = 3\l|numberOfChildren = 2\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/558.0_788.0_710.0_976.0.png\l}"]
+	52	[label="{type = XCUIElementTypeStaticText\l|value = More\l|name = More\l|label = More\l|enabled = true\l|visible = true\l|x = 318\l|y = 504\l|width = 37\l|height = 18\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/636.0_1008.0_710.0_1044.0.png\l}"]
+	53	[label="{type = XCUIElementTypeStaticText\l|value = 1\l|name = 1\l|label = 1\l|enabled = true\l|visible = true\l|x = 250\l|y = 632\l|width = 25\l|height = 24\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/500.0_1264.0_550.0_1312.0.png\l}"]
+	54	[label="{type = XCUIElementTypeCell\l|name = TopSite\l|label = wikipedia\l|enabled = true\l|visible = true\l|x = 20\l|y = 135\l|width = 73\l|height = 93\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/40.0_270.0_186.0_456.0.png\l}"]
+	55	[label="{type = XCUIElementTypeCell\l|name = TopSite\l|label = chess.com\l|enabled = true\l|visible = true\l|x = 107\l|y = 135\l|width = 73\l|height = 93\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/214.0_270.0_360.0_456.0.png\l}"]
+	56	[label="{type = XCUIElementTypeCell\l|name = TopSite\l|label = facebook\l|enabled = true\l|visible = true\l|x = 194\l|y = 135\l|width = 73\l|height = 93\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/388.0_270.0_534.0_456.0.png\l}"]
+	57	[label="{type = XCUIElementTypeCell\l|name = TopSite\l|label = youtube\l|enabled = true\l|visible = true\l|x = 281\l|y = 135\l|width = 73\l|height = 93\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/562.0_270.0_708.0_456.0.png\l}"]
+	58	[label="{type = XCUIElementTypeCell\l|name = TopSite\l|label = amazon\l|enabled = true\l|visible = true\l|x = 20\l|y = 242\l|width = 73\l|height = 93\l|index = 4\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/40.0_484.0_186.0_670.0.png\l}"]
+	59	[label="{type = XCUIElementTypeCell\l|name = TopSite\l|label = twitter\l|enabled = true\l|visible = true\l|x = 107\l|y = 242\l|width = 73\l|height = 93\l|index = 5\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/214.0_484.0_360.0_670.0.png\l}"]
+	60	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 194\l|y = 242\l|width = 73\l|height = 73\l|index = 6\l|numberOfChildren = 0\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/388.0_484.0_534.0_630.0.png\l}"]
+	61	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 281\l|y = 242\l|width = 73\l|height = 73\l|index = 7\l|numberOfChildren = 0\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/562.0_484.0_708.0_630.0.png\l}"]
+	62	[label="{type = XCUIElementTypeButton\l|name = menu Bookmark\l|label = menu Bookmark\l|enabled = true\l|visible = true\l|x = 27\l|y = 394\l|width = 62\l|height = 62\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/53.99999999999999_788.0_178.0_912.0.png\l}"]
+	63	[label="{type = XCUIElementTypeStaticText\l|value = Bookmarks\l|name = Bookmarks\l|label = Bookmarks\l|enabled = true\l|visible = true\l|x = 20\l|y = 460\l|width = 77\l|height = 15\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/40.0_920.0000000000001_194.0_950.0000000000001.png\l}"]
+	64	[label="{type = XCUIElementTypeButton\l|name = menu panel ReadingList\l|label = menu panel ReadingList\l|enabled = true\l|visible = true\l|x = 114\l|y = 394\l|width = 61\l|height = 62\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/228.0_788.0_350.0_912.0.png\l}"]
+	65	[label="{type = XCUIElementTypeStaticText\l|value = Reading List\l|name = Reading List\l|label = Reading List\l|enabled = true\l|visible = true\l|x = 106\l|y = 460\l|width = 77\l|height = 15\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/212.0_920.0000000000001_366.0_950.0000000000001.png\l}"]
+	66	[label="{type = XCUIElementTypeButton\l|name = menu panel Downloads\l|label = menu panel Downloads\l|enabled = true\l|visible = true\l|x = 200\l|y = 394\l|width = 62\l|height = 62\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/400.0_788.0_524.0_912.0.png\l}"]
+	67	[label="{type = XCUIElementTypeStaticText\l|value = Downloads\l|name = Downloads\l|label = Downloads\l|enabled = true\l|visible = true\l|x = 192\l|y = 460\l|width = 77\l|height = 15\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/384.0_920.0000000000001_538.0_950.0000000000001.png\l}"]
+	68	[label="{type = XCUIElementTypeButton\l|name = menu sync\l|label = menu sync\l|enabled = true\l|visible = true\l|x = 286\l|y = 394\l|width = 62\l|height = 62\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/572.0_788.0_696.0_912.0.png\l}"]
+	69	[label="{type = XCUIElementTypeStaticText\l|value = Synced Tabs\l|name = Synced Tabs\l|label = Synced Tabs\l|enabled = true\l|visible = true\l|x = 279\l|y = 460\l|width = 76\l|height = 15\l|index = 1\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/558.0_920.0000000000001_710.0_950.0000000000001.png\l}"]
+	70	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 135\l|width = 73\l|height = 93\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/40.0_270.0_186.0_456.0.png\l}"]
+	71	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 107\l|y = 135\l|width = 73\l|height = 93\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/214.0_270.0_360.0_456.0.png\l}"]
+	72	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 194\l|y = 135\l|width = 73\l|height = 93\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/388.0_270.0_534.0_456.0.png\l}"]
+	73	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 281\l|y = 135\l|width = 73\l|height = 93\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/562.0_270.0_708.0_456.0.png\l}"]
+	74	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 242\l|width = 73\l|height = 93\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/40.0_484.0_186.0_670.0.png\l}"]
+	75	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 107\l|y = 242\l|width = 73\l|height = 93\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/214.0_484.0_360.0_670.0.png\l}"]
+	76	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 135\l|width = 73\l|height = 73\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/40.0_270.0_186.0_416.0.png\l}"]
+	77	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 107\l|y = 135\l|width = 73\l|height = 73\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/214.0_270.0_360.0_416.0.png\l}"]
+	78	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 194\l|y = 135\l|width = 73\l|height = 73\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/388.0_270.0_534.0_416.0.png\l}"]
+	79	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 281\l|y = 135\l|width = 73\l|height = 73\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/562.0_270.0_708.0_416.0.png\l}"]
+	80	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 242\l|width = 73\l|height = 73\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/40.0_484.0_186.0_630.0.png\l}"]
+	81	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 107\l|y = 242\l|width = 73\l|height = 73\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = firefox-back/S0/pngs/214.0_484.0_360.0_630.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	5 -> 6
+	6 -> 7
+	7 -> 8
+	7 -> 9
+	7 -> 10
+	8 -> 11
+	9 -> 12
+	10 -> 13
+	11 -> 14
+	11 -> 15
+	11 -> 16
+	12 -> 17
+	12 -> 18
+	12 -> 19
+	12 -> 20
+	12 -> 21
+	12 -> 22
+	12 -> 23
+	12 -> 24
+	12 -> 25
+	12 -> 26
+	12 -> 27
+	13 -> 28
+	15 -> 29
+	17 -> 30
+	18 -> 31
+	19 -> 32
+	20 -> 33
+	20 -> 34
+	21 -> 35
+	23 -> 36
+	23 -> 37
+	24 -> 38
+	25 -> 39
+	28 -> 40
+	28 -> 41
+	28 -> 42
+	28 -> 43
+	28 -> 44
+	29 -> 45
+	31 -> 46
+	34 -> 47
+	35 -> 48
+	35 -> 49
+	35 -> 50
+	35 -> 51
+	37 -> 52
+	43 -> 53
+	46 -> 54
+	46 -> 55
+	46 -> 56
+	46 -> 57
+	46 -> 58
+	46 -> 59
+	46 -> 60
+	46 -> 61
+	48 -> 62
+	48 -> 63
+	49 -> 64
+	49 -> 65
+	50 -> 66
+	50 -> 67
+	51 -> 68
+	51 -> 69
+	54 -> 70
+	55 -> 71
+	56 -> 72
+	57 -> 73
+	58 -> 74
+	59 -> 75
+	70 -> 76
+	71 -> 77
+	72 -> 78
+	73 -> 79
+	74 -> 80
+	75 -> 81
+
+
+}

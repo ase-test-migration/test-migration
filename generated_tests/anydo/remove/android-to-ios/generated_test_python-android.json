@@ -1,0 +1,18 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "python-android",
+        "events": [
+            {
+                "type": "name",
+                "tag": "gridButton",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Tasks",
+                "event": "click"
+            }
+        ]
+    }
+}

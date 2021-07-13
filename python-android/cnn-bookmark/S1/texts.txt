@@ -1,0 +1,22 @@
+{ "content-desc" : "Back Button" , "resource-id" : "com.cnn.mobile.android.phone:id/toolbar_back_button_container" , "screenshotPath" : "cnn-bookmark/S1/pngs/0_171_165_320.png"}
+{ "content-desc" : "Share" , "resource-id" : "com.cnn.mobile.android.phone:id/toolbar_share" , "screenshotPath" : "cnn-bookmark/S1/pngs/860_207_937_284.png"}
+{ "content-desc" : "Bookmark" , "resource-id" : "com.cnn.mobile.android.phone:id/toolbar_save" , "screenshotPath" : "cnn-bookmark/S1/pngs/981_207_1058_284.png"}
+{ "content-desc" : "Home" , "resource-id" : "com.cnn.mobile.android.phone:id/home_item_menu" , "screenshotPath" : "cnn-bookmark/S1/pngs/0_1994_270_2148.png"}
+{ "content-desc" : "Search" , "resource-id" : "com.cnn.mobile.android.phone:id/search_item_menu" , "screenshotPath" : "cnn-bookmark/S1/pngs/270_1994_540_2148.png"}
+{ "content-desc" : "Saved Stories" , "resource-id" : "com.cnn.mobile.android.phone:id/saved_story_item_menu" , "screenshotPath" : "cnn-bookmark/S1/pngs/540_1994_810_2148.png"}
+{ "content-desc" : "Settings" , "resource-id" : "com.cnn.mobile.android.phone:id/settings_item_menu" , "screenshotPath" : "cnn-bookmark/S1/pngs/810_1994_1080_2148.png"}
+{ "resource-id" : "com.cnn.mobile.android.phone:id/content_view_pager" , "screenshotPath" : "cnn-bookmark/S1/pngs/0_320_1080_1977.png"}
+{ "resource-id" : "com.cnn.mobile.android.phone:id/content_view_pager" , "screenshotPath" : "cnn-bookmark/S1/pngs/0_1058_1080_1977.png"}
+{ "resource-id" : "com.cnn.mobile.android.phone:id/header_pager" , "screenshotPath" : "cnn-bookmark/S1/pngs/0_320_1080_926.png"}
+{ "resource-id" : "com.cnn.mobile.android.phone:id/article_labels" , "screenshotPath" : "cnn-bookmark/S1/pngs/0_926_1080_1058.png"}
+{ "resource-id" : "com.cnn.mobile.android.phone:id/fragment_recycler_recyclerView" , "screenshotPath" : "cnn-bookmark/S1/pngs/0_1058_1080_1977.png"}
+{ "content-desc" : "Close ally of Marjorie Taylor Greene among those in Capitol mob" , "screenshotPath" : "cnn-bookmark/S1/pngs/0_926_726_1058.png"}
+{ "content-desc" : "Rep. Greene on being stripped of committee post: I've been freed" , "screenshotPath" : "cnn-bookmark/S1/pngs/726_926_1080_1058.png"}
+{ "resource-id" : "com.cnn.mobile.android.phone:id/article_item_container" , "screenshotPath" : "cnn-bookmark/S1/pngs/0_1058_1080_1673.png"}
+{ "resource-id" : "com.cnn.mobile.android.phone:id/article_item_container" , "screenshotPath" : "cnn-bookmark/S1/pngs/0_1673_1080_1977.png"}
+{ "resource-id" : "com.cnn.mobile.android.phone:id/root" , "screenshotPath" : "cnn-bookmark/S1/pngs/0_320_1080_926.png"}
+{ "content-desc" : "Supporting Video" , "resource-id" : "com.cnn.mobile.android.phone:id/playBtn" , "screenshotPath" : "cnn-bookmark/S1/pngs/415_499_664_748.png"}
+{ "resource-id" : "com.cnn.mobile.android.phone:id/item_article_paragraph_text" , "screenshotPath" : "cnn-bookmark/S1/pngs/0_1673_1080_1977.png"}
+{ "resource-id" : "com.cnn.mobile.android.phone:id/item_feed_articlehead_headline" , "screenshotPath" : "cnn-bookmark/S1/pngs/44_1135_1058_1408.png"}
+{ "resource-id" : "com.cnn.mobile.android.phone:id/timestamp" , "screenshotPath" : "cnn-bookmark/S1/pngs/44_1523_553_1568.png"}
+{ "resource-id" : "com.cnn.mobile.android.phone:id/item_feed_articlehead_author_name" , "screenshotPath" : "cnn-bookmark/S1/pngs/44_1452_1058_1506.png"}

@@ -1,0 +1,62 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = eBay\l|label = eBay\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-login/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-login/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-login/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-login/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	4	[label="{type = XCUIElementTypeNavigationBar\l|name = Sign In\l|enabled = true\l|visible = true\l|x = 0\l|y = 44\l|width = 414\l|height = 44\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-login/S1/pngs/0.0_132.0_1242.0_264.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-login/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	6	[label="{type = XCUIElementTypeButton\l|name = button_dismiss\l|label = Dismiss\l|enabled = true\l|visible = true\l|x = 20\l|y = 44\l|width = 44\l|height = 44\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-login/S1/pngs/60.0_132.0_192.0_264.0.png\l}"]
+	7	[label="{type = XCUIElementTypeStaticText\l|value = Sign In\l|name = Sign In\l|label = Sign In\l|enabled = true\l|visible = true\l|x = 180\l|y = 56\l|width = 54\l|height = 20\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-login/S1/pngs/540.0_168.0_702.0_228.0.png\l}"]
+	8	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 414\l|height = 896\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-login/S1/pngs/0.0_0.0_1242.0_2688.0.png\l}"]
+	9	[label="{type = XCUIElementTypeOther\l|name = sign_in_landing_page_loaded\l|enabled = true\l|visible = true\l|x = 0\l|y = 88\l|width = 414\l|height = 808\l|numberOfChildren = 9\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-login/S1/pngs/0.0_264.0_1242.0_2688.0.png\l}"]
+	10	[label="{type = XCUIElementTypeStaticText\l|value = Hello\l|name = sign_in_header\l|label = Hello\l|enabled = true\l|visible = true\l|x = 20\l|y = 104\l|width = 78\l|height = 36\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-login/S1/pngs/60.0_312.0_294.0_420.0.png\l}"]
+	11	[label="{type = XCUIElementTypeStaticText\l|value = You can use your email or username, or continue with your social account.\l|name = sign_in_welcome_text\l|label = You can use your email or username, or continue with your social account.\l|enabled = true\l|visible = true\l|x = 20\l|y = 152\l|width = 374\l|height = 34\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-login/S1/pngs/60.0_456.0_1182.0_558.0.png\l}"]
+	12	[label="{type = XCUIElementTypeButton\l|name = sign_in_username_button\l|label = Use email or username\l|enabled = true\l|visible = true\l|x = 20\l|y = 481\l|width = 374\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = true \l|screenshotPath = ebay-login/S1/pngs/60.0_1442.9999999999998_1182.0_1586.9999999999998.png\l}"]
+	13	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 537\l|width = 374\l|height = 48\l|numberOfChildren = 3\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-login/S1/pngs/60.0_1610.9999999999998_1182.0_1754.9999999999998.png\l}"]
+	14	[label="{type = XCUIElementTypeButton\l|name = sign_in_with_apple_button\l|label = Sign in with Apple\l|enabled = true\l|visible = true\l|x = 20\l|y = 593\l|width = 374\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 4\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-login/S1/pngs/60.0_1778.9999999999998_1182.0_1922.9999999999998.png\l}"]
+	15	[label="{type = XCUIElementTypeButton\l|name = sign_in_facebook_button\l|label = Sign in with Facebook\l|enabled = true\l|visible = true\l|x = 20\l|y = 649\l|width = 374\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 5\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-login/S1/pngs/60.0_1946.9999999999998_1182.0_2091.0.png\l}"]
+	16	[label="{type = XCUIElementTypeButton\l|name = sign_in_google_button\l|label = Sign in with Google\l|enabled = true\l|visible = true\l|x = 20\l|y = 705\l|width = 374\l|height = 48\l|numberOfChildren = 1\l|numInParentLayout = 6\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-login/S1/pngs/60.0_2115.0_1182.0_2259.0.png\l}"]
+	17	[label="{type = XCUIElementTypeStaticText\l|value = Haven't signed up yet?\l|name = create_account_cta\l|label = Haven't signed up yet?\l|enabled = true\l|visible = true\l|x = 20\l|y = 793\l|width = 374\l|height = 17\l|numberOfChildren = 0\l|numInParentLayout = 7\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-login/S1/pngs/60.0_2379.0_1182.0_2430.0.png\l}"]
+	18	[label="{type = XCUIElementTypeButton\l|name = create_account_button\l|label = Create an account\l|enabled = true\l|visible = true\l|x = 20\l|y = 802\l|width = 374\l|height = 44\l|numberOfChildren = 1\l|numInParentLayout = 8\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-login/S1/pngs/60.0_2406.0_1182.0_2538.0.png\l}"]
+	19	[label="{type = XCUIElementTypeStaticText\l|value = Use email or username\l|name = Use email or username\l|label = Use email or username\l|enabled = true\l|visible = true\l|x = 105\l|y = 494\l|width = 204\l|height = 22\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-login/S1/pngs/315.0_1482.0_927.0_1548.0.png\l}"]
+	20	[label="{type = XCUIElementTypeStaticText\l|value = or\l|name = or\l|label = or\l|enabled = true\l|visible = true\l|x = 200\l|y = 552\l|width = 14\l|height = 18\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-login/S1/pngs/600.0_1656.0_642.0_1710.0.png\l}"]
+	21	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 20\l|y = 560\l|width = 169\l|height = 2\l|numberOfChildren = 0\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-login/S1/pngs/60.0_1680.0_567.0_1686.0.png\l}"]
+	22	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 225\l|y = 560\l|width = 169\l|height = 2\l|numberOfChildren = 0\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-login/S1/pngs/675.0_1680.0_1182.0_1686.0.png\l}"]
+	23	[label="{type = XCUIElementTypeStaticText\l|value = Sign in with Apple\l|name = Sign in with Apple\l|label = Sign in with Apple\l|enabled = true\l|visible = true\l|x = 128\l|y = 606\l|width = 158\l|height = 22\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-login/S1/pngs/384.0_1818.0_858.0_1884.0.png\l}"]
+	24	[label="{type = XCUIElementTypeStaticText\l|value = Sign in with Facebook\l|name = Sign in with Facebook\l|label = Sign in with Facebook\l|enabled = true\l|visible = true\l|x = 110\l|y = 662\l|width = 194\l|height = 22\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-login/S1/pngs/330.0_1986.0_912.0_2052.0.png\l}"]
+	25	[label="{type = XCUIElementTypeStaticText\l|value = Sign in with Google\l|name = Sign in with Google\l|label = Sign in with Google\l|enabled = true\l|visible = true\l|x = 121\l|y = 718\l|width = 172\l|height = 22\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-login/S1/pngs/363.0_2154.0_879.0_2220.0.png\l}"]
+	26	[label="{type = XCUIElementTypeStaticText\l|value = Create an account\l|name = Create an account\l|label = Create an account\l|enabled = true\l|visible = true\l|x = 147\l|y = 815\l|width = 120\l|height = 18\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = ebay-login/S1/pngs/441.0_2445.0_801.0_2499.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	3 -> 5
+	4 -> 6
+	4 -> 7
+	5 -> 8
+	8 -> 9
+	9 -> 10
+	9 -> 11
+	9 -> 12
+	9 -> 13
+	9 -> 14
+	9 -> 15
+	9 -> 16
+	9 -> 17
+	9 -> 18
+	12 -> 19
+	13 -> 20
+	13 -> 21
+	13 -> 22
+	14 -> 23
+	15 -> 24
+	16 -> 25
+	18 -> 26
+
+
+}

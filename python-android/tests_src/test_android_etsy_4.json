@@ -1,0 +1,29 @@
+{
+    "tests": [
+        {
+            "name": "etsy-add-midle", 
+            "events": [
+                {
+                    "tag": "com.etsy.android:id/redesigned_variation_selector_1", 
+                    "type": "id", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "com.etsy.android:id/button_express_checkout", 
+                    "type": "id", 
+                    "event": "click"
+                }, 
+                {
+                    "tag": "/hierarchy/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.ScrollView/android.widget.LinearLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.view.ViewGroup/android.widget.TextSwitcher/android.widget.TextView", 
+                    "type": "xPath", 
+                    "event": "click"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+        "deviceName": "emulator-5554", 
+        "platformName": "Android", 
+        "newCommandTimeout": 0
+    }
+}

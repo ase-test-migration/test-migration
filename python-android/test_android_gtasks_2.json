@@ -1,0 +1,45 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "gtasks-dueDate",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.google.android.apps.tasks:id/task_name"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.google.android.apps.tasks:id/edit_due_date_hint"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.google.android.apps.tasks:id/dtp_time_label"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "android:id/button1"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.google.android.apps.tasks:id/dtp_done"
+                },
+                {
+                    "tag": "com.google.android.apps.tasks:id/edit_scheduled_time_chip",
+                    "type": "id",
+                    "event": "oracle",
+                    "oracle-type": "widget_exists"
+                }
+            ]
+        }
+    ]
+}

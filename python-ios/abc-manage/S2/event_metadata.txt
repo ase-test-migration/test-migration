@@ -1,0 +1,4 @@
+pathToElementImageCrop: abc-manage/S2/pngs/972.0_537.0_1125.0_633.0.png;
+coords: {'x1': 972.0, 'y1': 537.0, 'x2': 1125.0, 'y2': 633.0};
+text_identifier: { "label" : "Coronavirus" };
+event: click;

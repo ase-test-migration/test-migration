@@ -1,0 +1,4 @@
+pathToElementImageCrop: aliExpress-Login/S0/pngs/854_2124_1038_2187.png;
+coords: {'x1': 854, 'y1': 2124, 'x2': 1038, 'y2': 2187};
+text_identifier: { "resource-id" : "com.alibaba.aliexpresshd:id/hint_action" };
+event: click;

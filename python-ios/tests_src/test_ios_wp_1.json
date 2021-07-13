@@ -1,0 +1,44 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout":0
+    },
+    "tests" : [
+        {
+            "name" : "test_WP_BottomMenu",
+            "events": [
+                {
+                    "event": "click",
+                    "tag": "Latest News",
+                    "type": "accessibilityId"
+                },
+                {
+                    "event": "click",
+                    "tag": "Discover",
+                    "type": "accessibilityId"
+                },
+                {
+                    "event": "click",
+                    "tag": "Alerts",
+                    "type": "accessibilityId"
+                },
+                {
+                    "event": "click",
+                    "tag": "My Post",
+                    "type": "accessibilityId"
+                },
+                {
+                    "event": "click",
+                    "tag": "Print Edition",
+                    "type": "accessibilityId"
+                }
+            ]
+            
+    }
+    ]
+}

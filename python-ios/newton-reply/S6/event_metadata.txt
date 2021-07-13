@@ -1,0 +1,5 @@
+pathToElementImageCrop: newton-reply/S6/pngs/36.0_550.0_216.0_590.0.png;
+coords: {'x1': 36.0, 'y1': 550.0, 'x2': 216.0, 'y2': 590.0};
+text_identifier: { "label" : "viaTesting 2" };
+event: oracle;
+oracle-type: widget_exists;

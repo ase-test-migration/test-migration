@@ -1,0 +1,4 @@
+pathToElementImageCrop: gTask-newList/S4/pngs/112.00000000000001_92.0_614.0_180.0.png;
+coords: {'x1': 112.00000000000001, 'y1': 92.0, 'x2': 614.0, 'y2': 180.0};
+text_identifier: { "name" : "Sample List" };
+event: assert;

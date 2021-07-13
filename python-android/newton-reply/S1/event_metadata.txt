@@ -1,0 +1,4 @@
+pathToElementImageCrop: newton-reply/S1/pngs/465_2002_614_2148.png;
+coords: {'x1': 465, 'y1': 2002, 'x2': 614, 'y2': 2148};
+text_identifier: { "resource-id" : "com.cloudmagic.mail:id/unread_filter" };
+event: click;

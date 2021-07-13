@@ -1,0 +1,36 @@
+digraph Layout {
+
+	node [shape=record fontname=Arial];
+
+	0	[label="{type = XCUIElementTypeApplication\l|name = Poshmark\l|label = Poshmark\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	1	[label="{type = XCUIElementTypeWindow\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	2	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	3	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 2\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	4	[label="{type = XCUIElementTypeOther\l|name = background\l|enabled = true\l|visible = true\l|x = 0\l|y = 0\l|width = 375\l|height = 667\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S2/pngs/0.0_0.0_750.0_1334.0.png\l}"]
+	5	[label="{type = XCUIElementTypeOther\l|enabled = true\l|visible = true\l|x = 0\l|y = 451\l|width = 375\l|height = 216\l|index = 1\l|numberOfChildren = 4\l|numInParentLayout = 1\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S2/pngs/0.0_902.0_750.0_1334.0.png\l}"]
+	6	[label="{type = XCUIElementTypeButton\l|name = ShareListing\l|enabled = true\l|visible = true\l|x = 0\l|y = 451\l|width = 375\l|height = 54\l|index = 0\l|numberOfChildren = 1\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S2/pngs/0.0_902.0_750.0_1010.0.png\l}"]
+	7	[label="{type = XCUIElementTypeButton\l|name = AddtoBundle\l|enabled = true\l|visible = true\l|x = 0\l|y = 505\l|width = 375\l|height = 54\l|index = 1\l|numberOfChildren = 1\l|numInParentLayout = 1\l|eventGeneratedOnElement = true \l|screenshotPath = poshmark-addCart/S2/pngs/0.0_1010.0_750.0_1118.0.png\l}"]
+	8	[label="{type = XCUIElementTypeButton\l|name = ReportthisListing\l|enabled = true\l|visible = true\l|x = 0\l|y = 559\l|width = 375\l|height = 54\l|index = 2\l|numberOfChildren = 1\l|numInParentLayout = 2\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S2/pngs/0.0_1118.0_750.0_1226.0.png\l}"]
+	9	[label="{type = XCUIElementTypeButton\l|name = Cancel\l|enabled = true\l|visible = true\l|x = 0\l|y = 613\l|width = 375\l|height = 54\l|index = 3\l|numberOfChildren = 1\l|numInParentLayout = 3\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S2/pngs/0.0_1226.0_750.0_1334.0.png\l}"]
+	10	[label="{type = XCUIElementTypeStaticText\l|value = Share Listing\l|name = Share Listing\l|label = Share Listing\l|enabled = true\l|visible = true\l|x = 15\l|y = 451\l|width = 321\l|height = 54\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S2/pngs/30.0_902.0_672.0_1010.0.png\l}"]
+	11	[label="{type = XCUIElementTypeStaticText\l|value = Add to Bundle\l|name = Add to Bundle\l|label = Add to Bundle\l|enabled = true\l|visible = true\l|x = 15\l|y = 505\l|width = 321\l|height = 54\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S2/pngs/30.0_1010.0_672.0_1118.0.png\l}"]
+	12	[label="{type = XCUIElementTypeStaticText\l|value = Report this Listing\l|name = Report this Listing\l|label = Report this Listing\l|enabled = true\l|visible = true\l|x = 15\l|y = 559\l|width = 321\l|height = 54\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S2/pngs/30.0_1118.0_672.0_1226.0.png\l}"]
+	13	[label="{type = XCUIElementTypeStaticText\l|value = Cancel\l|name = Cancel\l|label = Cancel\l|enabled = true\l|visible = true\l|x = 15\l|y = 613\l|width = 345\l|height = 54\l|index = 0\l|numberOfChildren = 0\l|numInParentLayout = 0\l|eventGeneratedOnElement = false \l|screenshotPath = poshmark-addCart/S2/pngs/30.0_1226.0_720.0_1334.0.png\l}"]
+
+
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	3 -> 5
+	5 -> 6
+	5 -> 7
+	5 -> 8
+	5 -> 9
+	6 -> 10
+	7 -> 11
+	8 -> 12
+	9 -> 13
+
+
+}

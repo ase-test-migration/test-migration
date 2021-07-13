@@ -1,0 +1,30 @@
+{"name" : "eBay", "label" : "eBay", "screenshotPath" : "ebay-filter/S3/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "Filter", "screenshotPath" : "ebay-filter/S3/pngs/90.0_40.0_750.0_128.0.png"}
+{"name" : "button_search_filter_footer", "label" : "Show 140 results", "screenshotPath" : "ebay-filter/S3/pngs/121.99999999999999_1218.0_718.0_1314.0.png"}
+{"name" : "button_dismiss", "label" : "Dismiss", "screenshotPath" : "ebay-filter/S3/pngs/121.99999999999999_40.0_214.0_128.0.png"}
+{"value" : "Filter", "name" : "Filter", "label" : "Filter", "screenshotPath" : "ebay-filter/S3/pngs/378.0_66.0_462.0_106.0.png"}
+{"name" : "button_reset", "label" : "Reset", "screenshotPath" : "ebay-filter/S3/pngs/630.0_40.0_718.0_128.0.png"}
+{"value" : "Show 140 results", "name" : "Show 140 results", "label" : "Show 140 results", "screenshotPath" : "ebay-filter/S3/pngs/288.0_1246.0_552.0_1286.0.png"}
+{"name" : "button_newlyListed", "label" : "Newly Listed, Off", "screenshotPath" : "ebay-filter/S3/pngs/90.0_128.0_750.0_240.0.png"}
+{"name" : "button_sort", "label" : "Sort, Best Match", "screenshotPath" : "ebay-filter/S3/pngs/90.0_240.00000000000003_750.0_352.0.png"}
+{"name" : "button_format", "label" : "Buying Format", "screenshotPath" : "ebay-filter/S3/pngs/90.0_352.0_750.0_464.0.png"}
+{"name" : "button_condition", "label" : "Condition", "screenshotPath" : "ebay-filter/S3/pngs/90.0_576.0_750.0_688.0.png"}
+{"name" : "button_price", "label" : "Price", "screenshotPath" : "ebay-filter/S3/pngs/90.0_688.0000000000001_750.0_800.0000000000001.png"}
+{"name" : "button_category", "label" : "Category, Weather Stations", "screenshotPath" : "ebay-filter/S3/pngs/90.0_800.0_750.0_912.0.png"}
+{"name" : "button_aspect-Brand", "label" : "Brand", "screenshotPath" : "ebay-filter/S3/pngs/90.0_912.0_750.0_1024.0.png"}
+{"name" : "button_aspect-Features", "label" : "Features", "screenshotPath" : "ebay-filter/S3/pngs/90.0_1024.0_750.0_1136.0.png"}
+{"name" : "button_aspect-Displayed%20Measurements", "label" : "Displayed Measurements", "screenshotPath" : "ebay-filter/S3/pngs/90.0_1136.0_750.0_1248.0.png"}
+{"name" : "Newly Listed, Off", "label" : "Newly Listed, Off", "screenshotPath" : "ebay-filter/S3/pngs/90.0_128.0_750.0_240.0.png"}
+{"name" : "Sort, Best Match", "label" : "Sort, Best Match", "screenshotPath" : "ebay-filter/S3/pngs/90.0_240.00000000000003_750.0_352.0.png"}
+{"name" : "Buying Format", "label" : "Buying Format", "screenshotPath" : "ebay-filter/S3/pngs/90.0_352.0_750.0_464.0.png"}
+{"name" : "container_items", "screenshotPath" : "ebay-filter/S3/pngs/90.0_464.0_750.0_544.0.png"}
+{"name" : "Condition", "label" : "Condition", "screenshotPath" : "ebay-filter/S3/pngs/90.0_576.0_750.0_688.0.png"}
+{"name" : "Price", "label" : "Price", "screenshotPath" : "ebay-filter/S3/pngs/90.0_688.0000000000001_750.0_800.0000000000001.png"}
+{"name" : "Category, Weather Stations", "label" : "Category, Weather Stations", "screenshotPath" : "ebay-filter/S3/pngs/90.0_800.0_750.0_912.0.png"}
+{"name" : "Brand", "label" : "Brand", "screenshotPath" : "ebay-filter/S3/pngs/90.0_912.0_750.0_1024.0.png"}
+{"name" : "Features", "label" : "Features", "screenshotPath" : "ebay-filter/S3/pngs/90.0_1024.0_750.0_1136.0.png"}
+{"name" : "Displayed Measurements", "label" : "Displayed Measurements", "screenshotPath" : "ebay-filter/S3/pngs/90.0_1136.0_750.0_1248.0.png"}
+{"value" : "1", "name" : "pill_Carousel-Pill-All", "label" : "Buying Format,All Listings", "screenshotPath" : "ebay-filter/S3/pngs/121.99999999999999_464.0_314.0_528.0.png"}
+{"name" : "pill_Carousel-Pill-Auction", "label" : "Buying Format,Auction", "screenshotPath" : "ebay-filter/S3/pngs/328.0_464.0_482.0_528.0.png"}
+{"name" : "pill_Carousel-Pill-FixedPrice", "label" : "Buying Format,Buy It Now", "screenshotPath" : "ebay-filter/S3/pngs/498.0_464.0_688.0_528.0.png"}
+{"name" : "pill_Carousel-Pill-BestOffer", "label" : "Buying Format,Best Offer", "screenshotPath" : "ebay-filter/S3/pngs/702.0_464.0_886.0_528.0.png"}

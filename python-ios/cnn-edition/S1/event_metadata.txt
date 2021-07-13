@@ -1,0 +1,7 @@
+pathToElementImageCrop: cnn-edition/S1/pngs/1053.0_386.99999999999994_1143.0_455.99999999999994.png;
+coords: {'x1': 1053.0, 'y1': 386.99999999999994, 'x2': 1143.0, 'y2': 455.99999999999994};
+text_identifier: { "label" : "U.S." };
+event: oracle;
+oracle-type: assert_equal;
+attribute: label;
+value: U.S.;

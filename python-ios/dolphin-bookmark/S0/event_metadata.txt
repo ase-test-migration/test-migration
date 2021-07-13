@@ -1,0 +1,4 @@
+pathToElementImageCrop: dolphin-bookmark/S0/pngs/48.0_262.0_718.0_350.0.png;
+coords: {'x1': 48.0, 'y1': 262.0, 'x2': 718.0, 'y2': 350.0};
+text_identifier: { "label" : "Type a URL or Search" };
+event: click;

@@ -1,0 +1,5 @@
+pathToElementImageCrop: etsy-remove-from-cart/S2/pngs/277_1545_802_1671.png;
+coords: {'x1': 277, 'y1': 1545, 'x2': 802, 'y2': 1671};
+text_identifier: { "resource-id" : "com.etsy.android:id/btn_link" };
+event: oracle;
+oracle-type: widget_exists;

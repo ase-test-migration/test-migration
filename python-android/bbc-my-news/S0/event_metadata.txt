@@ -1,0 +1,4 @@
+pathToElementImageCrop: bbc-my-news/S0/pngs/349_240_655_384.png;
+coords: {'x1': 349, 'y1': 240, 'x2': 655, 'y2': 384};
+text_identifier: { "content-desc" : "My News" };
+event: click;

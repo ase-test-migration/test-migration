@@ -1,0 +1,19 @@
+{ "resource-id" : "com.todoist:id/quick_add_item_container" , "screenshotPath" : "todoist-edit/S3/pngs/0_72_1080_1029.png"}
+{ "resource-id" : "com.todoist:id/toolbar" , "screenshotPath" : "todoist-edit/S3/pngs/0_72_1080_240.png"}
+{ "resource-id" : "com.todoist:id/quick_add_item_content_wrapper" , "screenshotPath" : "todoist-edit/S3/pngs/0_632_1080_1029.png"}
+{ "content-desc" : "Change the current view" , "screenshotPath" : "todoist-edit/S3/pngs/0_72_168_240.png"}
+{ "resource-id" : "com.todoist:id/text_scroll_view" , "screenshotPath" : "todoist-edit/S3/pngs/0_632_1080_753.png"}
+{ "content-desc" : "Search" , "resource-id" : "com.todoist:id/menu_content_search" , "screenshotPath" : "todoist-edit/S3/pngs/672_84_816_228.png"}
+{ "content-desc" : "Project comments" , "resource-id" : "com.todoist:id/menu_content_comments" , "screenshotPath" : "todoist-edit/S3/pngs/816_84_960_228.png"}
+{ "content-desc" : "More options" , "screenshotPath" : "todoist-edit/S3/pngs/960_84_1080_228.png"}
+{ "resource-id" : "android:id/list" , "screenshotPath" : "todoist-edit/S3/pngs/0_72_1080_1029.png"}
+{ "resource-id" : "com.todoist:id/schedule" , "screenshotPath" : "todoist-edit/S3/pngs/48_777_270_885.png"}
+{ "resource-id" : "com.todoist:id/project" , "screenshotPath" : "todoist-edit/S3/pngs/294_777_511_885.png"}
+{ "content-desc" : "Label" , "resource-id" : "com.todoist:id/label" , "screenshotPath" : "todoist-edit/S3/pngs/12_885_156_1029.png"}
+{ "content-desc" : "Priority" , "resource-id" : "com.todoist:id/priority" , "screenshotPath" : "todoist-edit/S3/pngs/156_885_300_1029.png"}
+{ "content-desc" : "Reminders" , "resource-id" : "com.todoist:id/reminders" , "screenshotPath" : "todoist-edit/S3/pngs/300_885_444_1029.png"}
+{ "content-desc" : "Comment" , "resource-id" : "com.todoist:id/note" , "screenshotPath" : "todoist-edit/S3/pngs/444_885_588_1029.png"}
+{ "content-desc" : "Add" , "resource-id" : "android:id/button1" , "screenshotPath" : "todoist-edit/S3/pngs/936_885_1080_1029.png"}
+{ "resource-id" : "com.todoist:id/root" , "screenshotPath" : "todoist-edit/S3/pngs/0_264_1080_459.png"}
+{ "resource-id" : "android:id/message" , "screenshotPath" : "todoist-edit/S3/pngs/48_680_1032_753.png"}
+{ "content-desc" : "Complete" , "resource-id" : "com.todoist:id/checkmark" , "screenshotPath" : "todoist-edit/S3/pngs/42_293_126_377.png"}

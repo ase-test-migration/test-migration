@@ -1,0 +1,33 @@
+{
+    "tests": [
+        {
+            "name": "grubhub-search",
+            "events": [
+                {
+                    "tag": "Find Restaurants", 
+                    "type": "accessibilityId", 
+                    "event": "click"
+                },
+                {
+                    "input": "panda",
+                    "tag": "Autocomplete Search Bar Field",
+                    "type": "accessibilityId",
+                    "event": "send_keys"
+                },
+                {
+                    "input": "Panda Express",
+                    "type": "text_exists",
+                    "event": "oracle"
+                }
+            ]
+        }
+    ], 
+    "desiredCapabilities": {
+          "platformName": "iOS",
+          "platformVersion": "13.3.1",
+          "deviceName": "Someone's iPhone",
+          "udid": "auto",
+          "xcodeOrgId": "X9EN5J4J22",
+          "xcodeSigningId": "iPhone Developer"
+    }
+}

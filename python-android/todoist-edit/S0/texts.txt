@@ -1,0 +1,8 @@
+{ "resource-id" : "com.todoist:id/fab" , "screenshotPath" : "todoist-edit/S0/pngs/864_1560_1032_1728.png"}
+{ "resource-id" : "com.todoist:id/toolbar" , "screenshotPath" : "todoist-edit/S0/pngs/0_72_1080_240.png"}
+{ "resource-id" : "android:id/empty" , "screenshotPath" : "todoist-edit/S0/pngs/0_240_1080_1776.png"}
+{ "content-desc" : "Change the current view" , "screenshotPath" : "todoist-edit/S0/pngs/0_72_168_240.png"}
+{ "content-desc" : "Search" , "resource-id" : "com.todoist:id/menu_content_search" , "screenshotPath" : "todoist-edit/S0/pngs/672_84_816_228.png"}
+{ "content-desc" : "Project comments" , "resource-id" : "com.todoist:id/menu_content_comments" , "screenshotPath" : "todoist-edit/S0/pngs/816_84_960_228.png"}
+{ "content-desc" : "More options" , "screenshotPath" : "todoist-edit/S0/pngs/960_84_1080_228.png"}
+{ "resource-id" : "com.todoist:id/empty_help_link" , "screenshotPath" : "todoist-edit/S0/pngs/0_1584_583_1728.png"}

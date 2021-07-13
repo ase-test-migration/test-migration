@@ -1,0 +1,4 @@
+pathToElementImageCrop: cnn-edition/S4/pngs/75_1196_1005_1317.png;
+coords: {'x1': 75, 'y1': 1196, 'x2': 1005, 'y2': 1317};
+text_identifier: {  };
+event: click;

@@ -1,0 +1,41 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "gmail-send",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Compose"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys",
+                    "tag": "com.google.android.gm:id/to",
+                    "input": "email@example.com"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys",
+                    "tag": "com.google.android.gm:id/subject",
+                    "input": "Testing 2"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Send"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Testing 2"
+                }
+            ]
+        }
+    ]
+}

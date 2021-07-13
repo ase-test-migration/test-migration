@@ -1,0 +1,38 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "abc_categories",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "hamburger"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "POLITICS"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "hamburger"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "U.S."
+                }
+            ]
+        }
+    ]
+}

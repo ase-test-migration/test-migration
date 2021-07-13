@@ -1,0 +1,4 @@
+pathToElementImageCrop: brave-bookmark/S2/pngs/237_2016_391_2148.png;
+coords: {'x1': 237, 'y1': 2016, 'x2': 391, 'y2': 2148};
+text_identifier: { "content-desc" : "Bookmark this page" , "resource-id" : "com.brave.browser:id/bottom_bookmark_button" };
+event: click;

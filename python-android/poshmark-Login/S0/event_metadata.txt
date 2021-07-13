@@ -1,0 +1,4 @@
+pathToElementImageCrop: poshmark-Login/S0/pngs/557_2183_934_2287.png;
+coords: {'x1': 557, 'y1': 2183, 'x2': 934, 'y2': 2361};
+text_identifier: { "resource-id" : "com.poshmark.app:id/logInOption" };
+event: click;

@@ -1,0 +1,8 @@
+{ "resource-id" : "com.readdle.spark:id/toolbar" , "screenshotPath" : "spark-search/S1/pngs/0_0_1080_325.png"}
+{ "resource-id" : "com.readdle.spark:id/search_view_custom" , "screenshotPath" : "spark-search/S1/pngs/154_171_1080_325.png"}
+{ "resource-id" : "com.readdle.spark:id/search_fragment_tab_layout" , "screenshotPath" : "spark-search/S1/pngs/0_325_1080_457.png"}
+{ "resource-id" : "com.readdle.spark:id/search_fragment_viewpager" , "screenshotPath" : "spark-search/S1/pngs/0_457_1080_1977.png"}
+{ "content-desc" : "Recent" , "screenshotPath" : "spark-search/S1/pngs/0_325_540_457.png"}
+{ "content-desc" : "Saved" , "screenshotPath" : "spark-search/S1/pngs/540_325_1080_457.png"}
+{ "resource-id" : "com.readdle.spark:id/search_queries_recycler_view" , "screenshotPath" : "spark-search/S1/pngs/0_457_1080_1977.png"}
+{ "resource-id" : "com.readdle.spark:id/search_src_text" , "screenshotPath" : "spark-search/S1/pngs/176_197_1058_296.png"}

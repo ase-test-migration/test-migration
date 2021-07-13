@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "guardian-category",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Tab Bar",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "The Guardian",
+                "event": "click"
+            },
+            {
+                "event": "oracle-widget_exists",
+                "oracle-type": "widget_exists",
+                "type": "name",
+                "tag": "Get news and sport in real time. A faster way to catch up on every breaking story and all the latest developments as they unfold."
+            }
+        ]
+    }
+}

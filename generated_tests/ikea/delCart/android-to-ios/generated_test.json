@@ -1,0 +1,23 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "ikea-delCart",
+        "events": [
+            {
+                "type": "name",
+                "tag": "shoppingbag",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "cartRegularPriceCellOverflowButton",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Remove item",
+                "event": "click"
+            }
+        ]
+    }
+}

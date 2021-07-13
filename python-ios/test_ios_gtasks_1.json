@@ -1,0 +1,49 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "14.3",
+        "deviceName": "iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "gtasks-edit",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Edit, Not starred"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Task title"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "send_keys_enter",
+                    "tag": "Task title",
+                    "input": "test"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "back_bar_button"
+                },
+                {
+                    "input": "testEdit",
+                    "event": "oracle",
+                    "oracle-type": "text_exists"
+                },
+                {
+                    "input": "Edit",
+                    "event": "oracle",
+                    "oracle-type": "text_invisible"
+                }
+            ]
+        }
+    ]
+}

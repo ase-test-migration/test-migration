@@ -1,0 +1,47 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "etsy-login",
+            "events": [
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "You tab, 3 of 4"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.etsy.android:id/you_menu_sign_in_button"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys",
+                    "tag": "com.etsy.android:id/edit_username",
+                    "input": "email@example.com"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys_enter",
+                    "tag": "com.etsy.android:id/edit_password",
+                    "input": "test123test"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.etsy.android:id/button_signin"
+                },
+                {
+                    "tag": "com.etsy.android:id/menu_bottom_nav_home", 
+                    "type": "id",
+                    "event": "oracle",
+                    "oracle-type": "widget_exists"
+                }
+            ]
+        }
+    ]
+}

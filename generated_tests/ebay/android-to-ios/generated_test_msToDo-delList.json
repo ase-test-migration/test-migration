@@ -1,0 +1,28 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "msToDo-delList",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Sample List, Custom list, 0 uncompleted tasks",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "List options",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Delete List",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Delete List",
+                "event": "click"
+            }
+        ]
+    }
+}

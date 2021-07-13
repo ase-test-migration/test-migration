@@ -1,0 +1,38 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "myTask-duedate",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.weekly.app:id/day_main_layout",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.weekly.app:id/recycler_view",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.weekly.app:id/view_week_transfer",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.weekly.app:id/button_confirm_dialog_positive",
+                "event": "click"
+            },
+            {
+                "type": "xPath",
+                "tag": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/androidx.appcompat.widget.LinearLayoutCompat/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/com.prolificinteractive.materialcalendarview.MaterialCalendarView/androidx.viewpager.widget.ViewPager/com.prolificinteractive.materialcalendarview.CalendarPagerView/android.widget.CheckedTextView[14]",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "android:id/button1",
+                "event": "click"
+            }
+        ]
+    }
+}

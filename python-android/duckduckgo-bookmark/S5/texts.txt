@@ -1,0 +1,14 @@
+{ "content-desc" : "Back" , "resource-id" : "com.duckduckgo.mobile.android:id/backPopupMenuItem" , "screenshotPath" : "duckduckgo-bookmark/S5/pngs/405_220_620_320.png"}
+{ "content-desc" : "Forward" , "resource-id" : "com.duckduckgo.mobile.android:id/forwardPopupMenuItem" , "screenshotPath" : "duckduckgo-bookmark/S5/pngs/620_220_835_320.png"}
+{ "content-desc" : "Refresh" , "resource-id" : "com.duckduckgo.mobile.android:id/refreshPopupMenuItem" , "screenshotPath" : "duckduckgo-bookmark/S5/pngs/835_220_1050_320.png"}
+{ "resource-id" : "com.duckduckgo.mobile.android:id/newTabPopupMenuItem" , "screenshotPath" : "duckduckgo-bookmark/S5/pngs/405_375_1050_512.png"}
+{ "resource-id" : "com.duckduckgo.mobile.android:id/bookmarksPopupMenuItem" , "screenshotPath" : "duckduckgo-bookmark/S5/pngs/405_512_1050_649.png"}
+{ "resource-id" : "com.duckduckgo.mobile.android:id/addBookmarksPopupMenuItem" , "screenshotPath" : "duckduckgo-bookmark/S5/pngs/405_649_1050_786.png"}
+{ "resource-id" : "com.duckduckgo.mobile.android:id/fireproofWebsitePopupMenuItem" , "screenshotPath" : "duckduckgo-bookmark/S5/pngs/405_786_995_952.png"}
+{ "resource-id" : "com.duckduckgo.mobile.android:id/sharePageMenuItem" , "screenshotPath" : "duckduckgo-bookmark/S5/pngs/405_952_1050_1089.png"}
+{ "resource-id" : "com.duckduckgo.mobile.android:id/findInPageMenuItem" , "screenshotPath" : "duckduckgo-bookmark/S5/pngs/405_1089_1050_1226.png"}
+{ "resource-id" : "com.duckduckgo.mobile.android:id/addToHome" , "screenshotPath" : "duckduckgo-bookmark/S5/pngs/405_1226_1050_1363.png"}
+{ "resource-id" : "com.duckduckgo.mobile.android:id/requestDesktopSiteCheckMenuItem" , "screenshotPath" : "duckduckgo-bookmark/S5/pngs/405_1363_995_1529.png"}
+{ "resource-id" : "com.duckduckgo.mobile.android:id/whitelistPopupMenuItem" , "screenshotPath" : "duckduckgo-bookmark/S5/pngs/405_1529_1050_1666.png"}
+{ "resource-id" : "com.duckduckgo.mobile.android:id/brokenSitePopupMenuItem" , "screenshotPath" : "duckduckgo-bookmark/S5/pngs/405_1666_1050_1803.png"}
+{ "resource-id" : "com.duckduckgo.mobile.android:id/settingsPopupMenuItem" , "screenshotPath" : "duckduckgo-bookmark/S5/pngs/405_1803_1050_1940.png"}

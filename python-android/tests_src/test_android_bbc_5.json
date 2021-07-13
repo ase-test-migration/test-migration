@@ -1,0 +1,27 @@
+{
+    "desiredCapabilities": {
+      "platformName": "Android",
+      "platformVersion": "9",
+      "deviceName": "Nexus_5_API_28",
+      "newCommandTimeout": 1000
+
+    },
+    "tests" :[
+                {
+
+                    "name" : "testBBCMyNews",
+                    "events" : [
+                        {
+                            "event": "click",
+                            "tag": "Tab 3 of 5, AOL Videos is not selected",
+                            "type": "accessibilityId"
+                        },
+                        {
+                            "event": "click",
+                            "tag": "Videos",
+                            "type": "accessibilityId"
+                        }
+                    ]
+    }
+]
+}

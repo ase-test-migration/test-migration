@@ -1,0 +1,5 @@
+pathToElementImageCrop: edison-send/S2/pngs/32.0_342.0_146.0_378.0.png;
+coords: {'x1': 32.0, 'y1': 342.0, 'x2': 146.0, 'y2': 378.0};
+text_identifier: { "label" : "Subject:" };
+event: send_keys;
+input: Testing 2;

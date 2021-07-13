@@ -1,0 +1,49 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "myTask-edit",
+        "events": [
+            {
+                "type": "name",
+                "tag": "1 undone task",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "My Task",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "Edit",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "\u041c\u043e\u0438_\u0414\u0435\u043b\u0430.TaskEditView",
+                "event": "send_keys_enter",
+                "input": "Edited Task"
+            },
+            {
+                "type": "name",
+                "tag": "checkmark icon",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "My TaskEdited Task ",
+                "event": "oracle-assert_equal"
+            },
+            {
+                "event": "oracle",
+                "oracle-type": "text_exists",
+                "input": "Edited Task"
+            },
+            {
+                "event": "oracle",
+                "type": "text_invisible",
+                "input": "My Task"
+            }
+        ]
+    }
+}

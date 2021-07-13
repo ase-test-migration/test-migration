@@ -1,0 +1,55 @@
+{
+    "desiredCapabilities": {
+        "platformName": "Android",
+        "deviceName": "emulator-5554",
+        "newCommandTimeout": 0
+    },
+    "tests": [
+        {
+            "name": "chrome-bookmark",
+            "events": [
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.android.chrome:id/search_box_text"
+                },
+                {
+                    "type": "id",
+                    "event": "send_keys_enter",
+                    "tag": "com.android.chrome:id/url_bar",
+                    "input": "google.com"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "More options"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Bookmark"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "More options"
+                },
+                {
+                    "type": "accessibilityId",
+                    "event": "click",
+                    "tag": "Bookmarks"
+                },
+                {
+                    "type": "id",
+                    "event": "click",
+                    "tag": "com.android.chrome:id/title"
+                },
+                {
+                    "oracle-type": "text_exists",
+                    "event": "oracle",
+                    "input": "Google"
+                }
+            ]
+        }
+    ]
+}

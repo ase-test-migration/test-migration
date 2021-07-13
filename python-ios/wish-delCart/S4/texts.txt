@@ -1,0 +1,22 @@
+{"name" : "Wish", "label" : "Wish", "screenshotPath" : "wish-delCart/S4/pngs/0.0_0.0_750.0_1334.0.png"}
+{"name" : "Cart", "screenshotPath" : "wish-delCart/S4/pngs/0.0_40.0_750.0_128.0.png"}
+{"name" : "closeDialogButton", "label" : "closeDialogButton", "screenshotPath" : "wish-delCart/S4/pngs/32.0_53.99999999999999_92.0_114.0.png"}
+{"value" : "Cart", "name" : "pageTitle", "label" : "Cart", "screenshotPath" : "wish-delCart/S4/pngs/338.0_60.00000000000001_412.0_108.0.png"}
+{"name" : "productCell_5d233af72662411e96959610", "screenshotPath" : "wish-delCart/S4/pngs/0.0_1074.0_364.0_1552.0.png"}
+{"name" : "productCell_5aeae0b03b527c12c63440d5", "screenshotPath" : "wish-delCart/S4/pngs/386.00000000000006_1074.0_750.0_1552.0.png"}
+{"value" : "Your cart is empty!", "name" : "cartIsEmptyLabel", "label" : "Your cart is empty!", "screenshotPath" : "wish-delCart/S4/pngs/248.0_304.0_502.0_342.0.png"}
+{"name" : "Continue Shopping", "label" : "Continue Shopping", "screenshotPath" : "wish-delCart/S4/pngs/64.0_396.0_686.0_478.0.png"}
+{"value" : "You might like...", "name" : "You might like...", "label" : "You might like...", "screenshotPath" : "wish-delCart/S4/pngs/32.0_1012.0_276.0_1056.0.png"}
+{"value" : "Continue Shopping", "name" : "Continue Shopping", "label" : "Continue Shopping", "screenshotPath" : "wish-delCart/S4/pngs/242.0_417.99999999999994_508.0_455.99999999999994.png"}
+{"value" : "Recently Viewed", "name" : "Recently Viewed", "label" : "Recently Viewed", "screenshotPath" : "wish-delCart/S4/pngs/32.0_556.0_290.0_600.0.png"}
+{"name" : "View All", "label" : "View All", "screenshotPath" : "wish-delCart/S4/pngs/604.0_546.0_718.0_610.0.png"}
+{"value" : "View All", "name" : "View All", "label" : "View All", "screenshotPath" : "wish-delCart/S4/pngs/604.0_558.0_718.0_598.0.png"}
+{"name" : "simpleProductCell", "screenshotPath" : "wish-delCart/S4/pngs/32.0_630.0_282.0_982.0.png"}
+{"name" : "simpleProductCell", "screenshotPath" : "wish-delCart/S4/pngs/298.0_630.0_548.0_982.0.png"}
+{"name" : "simpleProductCell", "screenshotPath" : "wish-delCart/S4/pngs/564.0_630.0_814.0_982.0.png"}
+{"value" : "0%", "name" : "Vertical scroll bar, 4 pages", "label" : "Vertical scroll bar, 4 pages", "screenshotPath" : "wish-delCart/S4/pngs/684.0_630.0_744.0_982.0.png"}
+{"value" : "$184", "name" : "productFeedSubPrice", "label" : "$184", "screenshotPath" : "wish-delCart/S4/pngs/32.0_892.0000000000001_98.0_932.0000000000001.png"}
+{"value" : "$12", "name" : "productFeedViewPrice", "label" : "$12", "screenshotPath" : "wish-delCart/S4/pngs/100.0_892.0000000000001_150.0_932.0000000000001.png"}
+{"value" : "$11", "name" : "productFeedViewPrice", "label" : "$11", "screenshotPath" : "wish-delCart/S4/pngs/298.0_892.0000000000001_340.0_932.0000000000001.png"}
+{"value" : "$120", "name" : "productFeedSubPrice", "label" : "$120", "screenshotPath" : "wish-delCart/S4/pngs/564.0_892.0000000000001_630.0_932.0000000000001.png"}
+{"value" : "$9", "name" : "productFeedViewPrice", "label" : "$9", "screenshotPath" : "wish-delCart/S4/pngs/634.0_892.0000000000001_672.0_932.0000000000001.png"}

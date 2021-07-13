@@ -1,0 +1,32 @@
+{
+    "desiredCapabilities": {
+        "platformName": "iOS",
+        "platformVersion": "13.4.1",
+        "deviceName": "Someone's iPhone",
+        "udid": "auto",
+        "xcodeOrgId": "F9YGX7YPBF",
+        "xcodeSigningId": "iPhone Developer"
+    },
+    "tests" : [
+        {
+            "name" : "testSMNTopMenu",
+            "events": [
+            {
+                "event": "click",
+                "tag": "\u27a3Los Angeles",
+                "type": "accessibilityId"
+            },
+            {
+                "event": "click",
+                "tag": "Coronavirus",
+                "type": "accessibilityId"
+            },
+            {
+                "event": "click",
+                "tag": "Election 2020",
+                "type": "accessibilityId"
+            }
+        ]
+    }
+    ]
+}

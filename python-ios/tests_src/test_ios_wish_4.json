@@ -1,0 +1,40 @@
+
+{
+    "desiredCapabilities": {
+          "platformName": "iOS",
+          "platformVersion": "13.3.1",
+          "deviceName": "Someone's iPhone",
+          "udid": "auto",
+          "xcodeOrgId": "X9EN5J4J22",
+          "xcodeSigningId": "iPhone Developer"
+    },
+    "tests" : [
+        {
+            "name" : "testWishRemoveItem",
+            "events": [
+                {
+                    "event": "click",
+                    "tag": "1",
+                    "type": "accessibilityId"
+                },
+                {
+                    "event": "click",
+                    "tag": "0",
+                    "type": "accessibilityId"
+                },
+                {
+                    "event": "click",
+                    "tag": "//XCUIElementTypeButton[@name=\"Remove item\"]",
+                    "type": "xPath"
+                },
+                {
+                    "event": "click",
+                    "tag": "//XCUIElementTypeButton[@name=\"Continue Shopping\"]",
+                    "type": "xPath"
+                }
+            ]
+
+
+    }
+    ]
+}

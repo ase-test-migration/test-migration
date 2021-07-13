@@ -1,0 +1,4 @@
+pathToElementImageCrop: gTask-delList/S0/pngs/953_2224_1080_2287.png;
+coords: {'x1': 953, 'y1': 2224, 'x2': 1080, 'y2': 2361};
+text_identifier: { "content-desc" : "More options" , "resource-id" : "com.google.android.apps.tasks:id/action_more_options" };
+event: click;

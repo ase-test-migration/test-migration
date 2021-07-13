@@ -1,0 +1,4 @@
+pathToElementImageCrop: dolphin-bookmark/S4/pngs/636.0_142.0_718.0_210.0.png;
+coords: {'x1': 636.0, 'y1': 142.0, 'x2': 718.0, 'y2': 210.0};
+text_identifier: { "label" : "Save" };
+event: click;

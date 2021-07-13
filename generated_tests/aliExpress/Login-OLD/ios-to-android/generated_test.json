@@ -1,0 +1,24 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "aliExpress-Login",
+        "events": [
+            {
+                "type": "resource-id",
+                "tag": "com.alibaba.aliexpresshd:id/hint_action",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.alibaba.aliexpresshd:id/btn_sign_in",
+                "event": "click"
+            },
+            {
+                "type": "resource-id",
+                "tag": "com.alibaba.aliexpresshd:id/et_email",
+                "event": "send_keys",
+                "input": "email@example.com"
+            }
+        ]
+    }
+}

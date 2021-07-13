@@ -1,0 +1,4 @@
+pathToElementImageCrop: gTask-completeTask/S0/pngs/0_279_1080_414.png;
+coords: {'x1': 0, 'y1': 279, 'x2': 1080, 'y2': 414};
+text_identifier: { "content-desc" : "Test01" , "resource-id" : "com.google.android.apps.tasks:id/task_item_layout" };
+event: click;

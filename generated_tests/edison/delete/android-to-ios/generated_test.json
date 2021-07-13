@@ -1,0 +1,23 @@
+{
+    "desiredCapabilities": {},
+    "test": {
+        "name": "edison-delete",
+        "events": [
+            {
+                "type": "name",
+                "tag": "Testing",
+                "event": "click"
+            },
+            {
+                "type": "name",
+                "tag": "4:33 PM",
+                "event": "click"
+            },
+            {
+                "event": "oracle",
+                "type": "text_invisible",
+                "input": "Testing"
+            }
+        ]
+    }
+}

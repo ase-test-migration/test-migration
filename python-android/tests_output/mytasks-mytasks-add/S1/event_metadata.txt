@@ -1,0 +1,5 @@
+pathToElementImageCrop: mytasks-mytasks-add/S1/pngs/23_380_1057_586.png;
+coords: {'x1': 23, 'y1': 380, 'x2': 1057, 'y2': 586};
+text_identifier: { "resource-id" : "com.weekly.app:id/edit_text_task" };
+event: send_keys;
+input: testing;

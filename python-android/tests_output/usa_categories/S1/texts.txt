@@ -1,0 +1,30 @@
+{ "content-desc" : "settings" , "resource-id" : "com.usatoday.android.news:id/settings_gear" , "screenshotPath" : "usa_categories/S1/pngs/865_110_931_176.png"}
+{ "content-desc" : "Search for news and sections" , "resource-id" : "com.usatoday.android.news:id/search_the_app" , "screenshotPath" : "usa_categories/S1/pngs/948_77_1080_209.png"}
+{ "content-desc" : "Top Stories" , "resource-id" : "com.usatoday.android.news:id/top_stories_tab" , "screenshotPath" : "usa_categories/S1/pngs/0_1874_216_2028.png"}
+{ "content-desc" : "Popular" , "resource-id" : "com.usatoday.android.news:id/most_popular_tab" , "screenshotPath" : "usa_categories/S1/pngs/216_1874_432_2028.png"}
+{ "content-desc" : "Sections" , "resource-id" : "com.usatoday.android.news:id/sections_tab" , "screenshotPath" : "usa_categories/S1/pngs/432_1874_648_2028.png"}
+{ "content-desc" : "My Topics" , "resource-id" : "com.usatoday.android.news:id/alerts_tab" , "screenshotPath" : "usa_categories/S1/pngs/648_1874_864_2028.png"}
+{ "content-desc" : "Saved" , "resource-id" : "com.usatoday.android.news:id/saved_articles_tab" , "screenshotPath" : "usa_categories/S1/pngs/864_1874_1080_2028.png"}
+{ "resource-id" : "com.usatoday.android.news:id/sections_recycler_view" , "screenshotPath" : "usa_categories/S1/pngs/0_438_1080_1874.png"}
+{ "resource-id" : "com.usatoday.android.news:id/recent_sections_recycler_view" , "screenshotPath" : "usa_categories/S1/pngs/0_311_1080_405.png"}
+{ "resource-id" : "com.usatoday.android.news:id/section_recycler_view" , "screenshotPath" : "usa_categories/S1/pngs/0_466_1080_1036.png"}
+{ "resource-id" : "com.usatoday.android.news:id/section_recycler_view" , "screenshotPath" : "usa_categories/S1/pngs/0_1092_1080_1662.png"}
+{ "resource-id" : "com.usatoday.android.news:id/section_recycler_view" , "screenshotPath" : "usa_categories/S1/pngs/0_1718_1080_1874.png"}
+{ "resource-id" : "com.usatoday.android.news:id/nav_section_textview" , "screenshotPath" : "usa_categories/S1/pngs/0_580_540_681.png"}
+{ "resource-id" : "com.usatoday.android.news:id/nav_section_textview" , "screenshotPath" : "usa_categories/S1/pngs/540_580_1080_681.png"}
+{ "resource-id" : "com.usatoday.android.news:id/nav_section_textview" , "screenshotPath" : "usa_categories/S1/pngs/0_694_540_795.png"}
+{ "resource-id" : "com.usatoday.android.news:id/nav_section_textview" , "screenshotPath" : "usa_categories/S1/pngs/540_694_1080_795.png"}
+{ "resource-id" : "com.usatoday.android.news:id/nav_section_textview" , "screenshotPath" : "usa_categories/S1/pngs/0_808_540_909.png"}
+{ "resource-id" : "com.usatoday.android.news:id/nav_section_textview" , "screenshotPath" : "usa_categories/S1/pngs/540_808_1080_909.png"}
+{ "resource-id" : "com.usatoday.android.news:id/nav_section_textview" , "screenshotPath" : "usa_categories/S1/pngs/0_922_540_1023.png"}
+{ "resource-id" : "com.usatoday.android.news:id/nav_section_textview" , "screenshotPath" : "usa_categories/S1/pngs/540_922_1080_1023.png"}
+{ "resource-id" : "com.usatoday.android.news:id/nav_section_textview" , "screenshotPath" : "usa_categories/S1/pngs/0_1206_540_1307.png"}
+{ "resource-id" : "com.usatoday.android.news:id/nav_section_textview" , "screenshotPath" : "usa_categories/S1/pngs/540_1206_1080_1307.png"}
+{ "resource-id" : "com.usatoday.android.news:id/nav_section_textview" , "screenshotPath" : "usa_categories/S1/pngs/0_1320_540_1421.png"}
+{ "resource-id" : "com.usatoday.android.news:id/nav_section_textview" , "screenshotPath" : "usa_categories/S1/pngs/540_1320_1080_1421.png"}
+{ "resource-id" : "com.usatoday.android.news:id/nav_section_textview" , "screenshotPath" : "usa_categories/S1/pngs/0_1434_540_1535.png"}
+{ "resource-id" : "com.usatoday.android.news:id/nav_section_textview" , "screenshotPath" : "usa_categories/S1/pngs/540_1434_1080_1535.png"}
+{ "resource-id" : "com.usatoday.android.news:id/nav_section_textview" , "screenshotPath" : "usa_categories/S1/pngs/0_1548_540_1649.png"}
+{ "resource-id" : "com.usatoday.android.news:id/nav_section_textview" , "screenshotPath" : "usa_categories/S1/pngs/540_1548_1080_1649.png"}
+{ "resource-id" : "com.usatoday.android.news:id/nav_section_textview" , "screenshotPath" : "usa_categories/S1/pngs/0_1832_540_1874.png"}
+{ "resource-id" : "com.usatoday.android.news:id/nav_section_textview" , "screenshotPath" : "usa_categories/S1/pngs/540_1832_1080_1874.png"}
