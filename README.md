@@ -6,4 +6,4 @@ This is the source code and data for the ASE 2021 Submission "Cross Platform UI 
 
 This repository contains MAPIT's source code and data, including the translated input tests in MAPIT internal representation for both [iOS](https://github.com/ase-test-migration/test-migration/tree/master/python-ios) and [Android](https://github.com/ase-test-migration/test-migration/tree/master/python-android), and examples of [transferred tests](https://github.com/ase-test-migration/test-migration/tree/master/generated_tests). 
 
-The installation instructions can be found [here](https://github.com/ase-test-migration/test-migration/blob/master/INSTALL.md). 
+The installation and execution instructions can be found [here](https://github.com/ase-test-migration/test-migration/blob/master/INSTALL.md). 
