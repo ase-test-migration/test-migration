@@ -33,28 +33,28 @@ For a test recorded on iOS navigate to ``/python-ios`` and:
 >For generating its corresponding test on MAPIT's internal representation run: 
 > >``iosTestToJson.py “arg1: appname-abbreviation” “arg2: testname"``
 > ------------------------------
-> >The test in internal representation can be found on ``/python-ios/test_ios_app-aabrivation_test-index``. For instance, if a search test for firefox app is the second test recorded for this app, the internal test translation output for it would be on ``/python-ios/test_ios_firefox_2.json``
+> >The test in internal representation can be found on ``/python-ios/test_ios_app-aabrivation_test-index``. For instance, if a search test for chrome app is the second test recorded for this app, the internal test translation output for it would be on ``/python-ios/test_ios_chrome_2.json``
 >
 >For running source data extraction run:
 > >``main.py “arg:name of the test on MAPIT's internal format"``
 > -------------------------------------
-> >The output can be found in ``/python-ios/appname-abbreviation-testname`` as an example the output for a search test on firefox app can be found on ``/python-ios/firefox-search``.
+> >The output can be found in ``/python-ios/appname-abbreviation-testname`` as an example the output for a search test on chrome app can be found on ``/python-ios/chrome-search``.
 
 For a test recorded on Android navigate to ``/python-android`` and:
 >For generating its corresponding test on MAPIT's internal representation run: 
 >> ``andTestToJson.py “arg1: appname-abbreviation” “arg2: testname"``
 >------------------
-> > The test in internal representation can be found on ``/python-android/test_android_app-aabrivation_test-index``. For instance, if a search test for firefox app is the second test recorded for this app, the internal test translation output for it would be on ``/python-android/test_android_firefox_2.json``
+> > The test in internal representation can be found on ``/python-android/test_android_app-aabrivation_test-index``. For instance, if a search test for chrome app is the second test recorded for this app, the internal test translation output for it would be on ``/python-android/test_android_chrome_2.json``
 > 
 >For running source data extraction run :
 > >``main.py “arg:name of the test on MAPIT's internal format"``
 > The output can be found in ``/python-android/appname-abbreviation-testname``
->  as an example the output for a search test on firefox app can be found on ``/python-android/firefox-search``.
+>  as an example the output for a search test on chrome app can be found on ``/python-android/chrome-search``.
 
 For running the migration from one platform to another you should run its corresponding ``migrator.py`` file while the source data is extracted and the device on target platform is running. 
 For transferring a test from Android to iOS the migrator on ``/python-ios/migrator.py`` and for transferring the  a test from iOS to Android the migrator on ``/python-android/migrator.py`` should be used. The argument for running this phase would be the output of the previous phase.
- For instance, in order to transfer the firefox search test from Android to iOS the following command can be used in the root directory:
->``/python-ios/migrator.py /python-android/firefox-search``
+ For instance, in order to transfer the chrome search test from Android to iOS the following command can be used in the root directory:
+>``/python-ios/migrator.py /python-android/chrome-search``
 
 For transferring the same test on the other direction we can use:
->``/python-android/migrator.py /python-ios/firefox-search``
+>``/python-android/migrator.py /python-ios/chrome-search``
