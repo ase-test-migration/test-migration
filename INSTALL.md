@@ -27,15 +27,34 @@ You will need to download and extract the GoogleNews-vectors-negative300.bin to 
 
 You will also need to install appium on your computer and mobile device. Please refer to appium's website for instructions. The appium service should be running for the tool to work properly (The appium server on your machine should be listening on port 4723).
 
-In order for the migration and matching to work properly you will need to set the width of your device screen (Android & iOS) in image_matching/similarity_calculator.py file.
+In order for the migration and matching to work properly you will need to set the width of your device screen (Android & iOS) in ``image_matching/similarity_calculator.py`` file.
 
 For a test recorded on iOS navigate to ``/python-ios`` and:
->For generating its corresponding test on MAPIT's internal representation run ``iosTestToJson.py “arg1: appname-abbreviation” “arg2: testname"``
->For running source data extraction run  ``main.py “arg:name of the test on MAPIT's internal format"``
+>For generating its corresponding test on MAPIT's internal representation run: 
+> >``iosTestToJson.py “arg1: appname-abbreviation” “arg2: testname"``
+> ------------------------------
+> >The test in internal representation can be found on ``/python-ios/test_ios_app-aabrivation_test-index``. For instance, if a search test for firefox app is the second test recorded for this app, the internal test translation output for it would be on ``/python-ios/test_ios_firefox_2.json``
+>
+>For running source data extraction run:
+> >``main.py “arg:name of the test on MAPIT's internal format"``
+> -------------------------------------
+> >The output can be found in ``/python-ios/appname-abbreviation-testname`` as an example the output for a search test on firefox app can be found on ``/python-ios/firefox-search``.
 
 For a test recorded on Android navigate to ``/python-android`` and:
->For generating its corresponding test on MAPIT's internal representation run ``andTestToJson.py “arg1: appname-abbreviation” “arg2: testname"``
->For running source data extraction run  ``main.py “arg:name of the test on MAPIT's internal format"``
+>For generating its corresponding test on MAPIT's internal representation run: 
+>> ``andTestToJson.py “arg1: appname-abbreviation” “arg2: testname"``
+>------------------
+> > The test in internal representation can be found on ``/python-android/test_android_app-aabrivation_test-index``. For instance, if a search test for firefox app is the second test recorded for this app, the internal test translation output for it would be on ``/python-android/test_android_firefox_2.json``
+> 
+>For running source data extraction run :
+> >``main.py “arg:name of the test on MAPIT's internal format"``
+> The output can be found in ``/python-android/appname-abbreviation-testname``
+>  as an example the output for a search test on firefox app can be found on ``/python-android/firefox-search``.
 
-For running the migration from one platform to another you should run its corresponding ``migrator.py`` file while the source data is extracted and the device on target platform is running.
+For running the migration from one platform to another you should run its corresponding ``migrator.py`` file while the source data is extracted and the device on target platform is running. 
+For transferring a test from Android to iOS the migrator on ``/python-ios/migrator.py`` and for transferring the  a test from iOS to Android the migrator on ``/python-android/migrator.py`` should be used. The argument for running this phase would be the output of the previous phase.
+ For instance, in order to transfer the firefox search test from Android to iOS the following command can be used in the root directory:
+>``/python-ios/migrator.py /python-android/firefox-search``
 
+For transferring the same test on the other direction we can use:
+>``/python-android/migrator.py /python-ios/firefox-search``
