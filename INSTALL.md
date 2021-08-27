@@ -58,3 +58,11 @@ For transferring a test from Android to iOS the migrator on ``/python-ios/migrat
 
 For transferring the same test on the other direction we can use:
 >``/python-android/migrator.py /python-ios/chrome-search``
+
+In order to run the static matching for evaluating the event mapping accuracy we use the ``static_matching_runner``. the following command should be executed from the root directory:
+> static_matching_runner.py "arg1: extracted states from android" "arg2: extracted  states from iOS"
+
+For example the command to run static matching for firefox search test would be:
+> static_matching_runner.py /python-android/firefox-search /python-ios/firefox-search
+
+Since the ``static_matching_runner`` script map and compare each of the states separately, make sure to configure the under-test states on the script as instructed on the demo video. The results of the static matching can be found on ``/static-out`` directory under the directory with their corresponding test name. 
