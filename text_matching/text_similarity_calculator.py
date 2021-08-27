@@ -35,9 +35,7 @@ class SimilarityCalculator:
         nltk.download('stopwords')
         nltk.download('punkt')
         PATH_TO_WORD2VEC = os.path.expanduser("data/GoogleNews-vectors-negative300.bin")
-        print("beforeee")
         self.word2vec = gensim.models.KeyedVectors.load_word2vec_format(PATH_TO_WORD2VEC, binary=True)
-        print("afterrr")
         PATH_TO_FREQUENCIES_FILE = "data/frequencies.tsv"
         PATH_TO_DOC_FREQUENCIES_FILE = "data/doc_frequencies.tsv"
 
