@@ -66,3 +66,17 @@ For example the command to run static matching for firefox search test would be:
 > static_matching_runner.py /python-android/firefox-search /python-ios/firefox-search
 
 Since the ``static_matching_runner`` script map and compare each of the states separately, make sure to configure the under-test states on the script as instructed on the demo video. The results of the static matching can be found on ``/static-out`` directory under the directory with their corresponding test name. 
+
+## Requirements
+We ran the experiments on the following devices:
+- macOS laptop with 16GB RAM and 3.5GHz dual-core core i7 processor
+- iPhone7 iOS running 14
+- Android emulator running Android 11.0
+- ------------
+We tested the tool end-to-end with the following combination of Appium, Xcode, and iOS versions:
+- Xcode 12.3 
+- Appium 1.19.1
+- iOS 14.7.1
+- ---------------------
+The current repository takes 2.67GB of memory space.
+
